@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wcx_pnw_gsb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bericht des Zimmermeisters Wieszies über den Befund der Gebäude bei der </title><title>Baurevision in Steinort. Angerburg, 2. Dezember 1897</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            <note type="editorial">
+               <p>Neben dem Bericht verschiedene Anmerkungen und Zahlen mit Blei und Rotstift. Siehe
+                  auch den Bericht für 1903 in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941318">Nr. 179</ref>, hier u.a. zum Neubau der Schule in Groß Steinort.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 178</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_uby_ynx_gsb">Wieszies, (-)</persName>
+            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            <date when="1897-12-02" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941317"/>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wcx_pnw_gsb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <hi rendition="#u">Bericht</hi> über den <hi rendition="#u">Befund</hi> der
+                    Gebäude und der bei der Baurevision als erforderlich erachteten Reparaturen pro
+                    1897/98 auf der Begüterung der Grafschaft <placeName key="ed_pxt_cnh_1y">Gr.
+                        Steinort</placeName>
+            </p>
+            <p>
+               <hi rendition="#u">I. Das Hauptgut <placeName key="ed_pxt_cnh_1y">Gr.
+                            Steinort</placeName> mit den landwirtschaftlichen Vorwerken</hi>
+            </p>
+            <p>
+               <hi rendition="#u">A. <placeName key="ed_pxt_cnh_1y">Gr.
+                        Steinort</placeName>
+               </hi>
+            </p>
+            <p>1. Am Beamtenhaus sollen 18 Fenster von der Außenseite, gegen Eindruck der
+                    Witterung, mit Ölfarbe gestrichen werden. <lb/>In der Küche des Administrators
+                        <persName key="ed_pjz_zpw_h2b">Wolff</persName> fehlt eine Kochplatte mit 5
+                    Öffnungen: zu erneuern.</p>
+            <p>2. Am Ackerpferdestall fehlt über der Schlachtkammer die Decke von 4,3 m lang 5,0
+                    m breit als Stützbelag: neu herzustellen.</p>
+            <p>3. Am Fohlenstall 1 Türteil 3,6 m zu erneuern.</p>
+            <p>4. Am Deputanten-Schweinestall, 14,25 m lang 7,0 m breit 2,2 m hoch, ein
+                    Ziegelfachwerk, sind die Schwellen und Stiele schlecht. Hier ist angenommen, die
+                    Stiele bis zum Riegel abzuschneiden, auf 1 Stein mit Ziegel zu untermauern, und
+                    wenn bei späteren Jahren mehr Ziegel vorhanden, auch den oberen Teil ebenso zu
+                    vermauern. Die noch brauchbaren Schwellen sollen zu Abteilungswänden verwendet
+                    werden. </p>
+            <p>5. An der Wohnung des Schneidermeisters fehlen 5 Fenster mit Sohlbank,
+                    Fensterkranz und einige Rahmen: zu reparieren.</p>
+            <p>6. An dem Wohnhause, früher Brauerei, fehlen 2 Fenster mit Sohlbank, Fensterkranz
+                    und Rahmen: zu ergänzen.</p>
+            <p>7. Am Schloss fehlen 2 Fenster in der Jägerwohnung: zu reparieren. <lb/>Der
+                    Brunnen daselbst 1,9 □ muss auf 2,0 m tief neu ausgeschürzt werden. Unter der
+                    Gemüllgrube ist der Belag von gefederten 8 cm starken Bohlen, wie die dazu
+                    gehörigen Lager, schlecht, und muss dieses Ganze erneuert werden.</p>
+            <p>8. Am Krug-Grundstück. <lb/>a. An der Einfahrt mit Strohdach fehlt die massive
+                    Verfirstung 24,0 m lang: neu zu decken, wozu etwa die Hälfte der Biberschwänze
+                    und Dachlatten und sämtliche Übersparren zu erneuern sein werden. Ferner ist
+                    eine Schwelle 8,5 m lang und 2 Torstiele zu erneuern, 4 Wandteile auf 0,9 m
+                    anzustecken, 1 Tortür neu zu fertigen, eine neu zu arbeiten, einige Bretter,
+                    Leisten und Streben zu erneuern; ebenso 1 Winde und 1 Traufbrett 11 und 10,0 m
+                    zu erneuern. <lb/>b. Am Gasthaus fehlen die Windbretter und Pfannendeckel: zu
+                    reparieren, resp. zu erneuern. Die Gaststube 8,5 m lang 5,8 m breit erfordert
+                    eine Neudielung, am Kamin eine Ziegelpflasterung 1,25 x 2,7 m. 1 Fenster mit
+                    Sohlbank mit Fensterkranz, Rahmen und Glas: zu erneuern. <lb/>c. Der Brunnen
+                    fehlt in der Ausschürzung, wie im Belag: zu reparieren; etwa 50,0 lfdm. Bohlen
+                    erforderlich.</p>
+            <p>9. Am Insthause am Walde, sogenannte Brachstube, sind die Pfeiler am Giebel über
+                    das Dach schlecht, da dieselben aber gar nicht zur Verschönerung beitragen und
+                    nur der Dachdeckung nachteilig sind, sollen dieselben abgebrochen werden.
+                    <lb/>Das Dach, Biberschwanzdeckung, ist schlecht und muss umgedeckt werden. Das
+                    Dach des Schweinestalls 7,0 m lang 5,0 m breit, welches verschalt war, ist
+                    schlecht und muss neu verschalt und mit Pfannen eingedeckt werden; ebenso müssen
+                    die Wind- und Stirnbretter erneuert werden.</p>
+            <p>10. An der Brücke über den Kanal des Weges zur Kapelle sind die Hintersetzungen
+                    der Stirn- wie der Flügelwände (2 x 5,0 + 4 x 2,5) x 1,7 m schlecht, ebenso die
+                    Holme, Balken, 1/3 des Belages, Geländerholme mit Stiele und Riegel müssen
+                    erneuert werden. </p>
+            <p>11. An der Mühle fehlt in der Dachetage die Bekleidung 8 x (4,2 x 1,3 m) wie auch
+                    die Schwellen und Aufschieblinge und ein Teil Balkenbelag 3,0 x 1,1 + 2,0 x 2,0
+                    m von 8 cm starken Bohlen: zu erneuern. Ferner ist vom Vorjahr der erwähnte
+                    Laufstein noch nicht ergänzt, soll aber in diesem Jahr angeschafft werden, wie
+                    auch ein Zylinder für Feinmehl. Die hierzu erforderlichen Arbeiten werden von
+                    einem Mühlenbauer ausgeführt werden müssen. <lb/>Am Wohnhaus zur Mühle fehlt der
+                    Backofen 1,4 x 1,8 m groß: neu zu setzen, der Ofen in der Wohnstube: umzusetzen,
+                    die Decken neu zu fertigen, 1/2 der Kachel neu zu liefern. Am Herd das
+                    Ziegelpflaster 3,0 x 1,5m: zu erneuern. Die Hinterstube 4,2 x 7,25 m: neu zu
+                    dielen, incl. Dielen und Lager.</p>
+            <p>
+               <hi rendition="#u">B. Vorwerk <placeName key="ed_xpm_112_gy">Labab</placeName>
+               </hi>
+            </p>
+            <p>a. Die vorhandenen Roßgärten sollen verlegt werden, dazu kommen die 2 vorhandenen
+                    kleinen <seg type="comment">
+                  <orig>Paddocks</orig>
+                  <note xml:id="ntck_3px_gsb">
+                     <ref target="https://de.wikipedia.org/wiki/Paddock">Auslauf für
+                                Pferde</ref>
+                  </note>
+               </seg> zu einem, welcher 12,0 m lang 7,6 m wie
+                    die alten breit werden soll, verwendet. Das Dachholz wird der Konstruktion wegen
+                    erneuert werden müssen. <lb/>b. Am Fohlenstall fehlt die massive First 40,0 m
+                    lang: umzudecken, wozu etwa 1/3 des Materials ergänzt werden muss. Der
+                    Balkenbelag in einer Stelle 8,6m lang 10,0 m breit wie 2 innere Schwellen a 5 m,
+                    eine Türschwelle 3,8 m, ein Türstiel 2,6 und eine Tür 2,25 m hoch 2,7 m breit:
+                    müssen erneuert, 8 Wandstiele und Streben auf 0,7 m angesteckt werden. <lb/>c.
+                    Am Schafstall fehlt eine Lukenbekleidung von 4 Bretter a 6,6 m lang: zu
+                    erneuern. <lb/>d. An der langen Scheune fehlt 1 Zauntor 3,4 m hoch 3,6 m breit:
+                    zu erneuern, eins dsgl. neu zu arbeiten, wozu die Hälfte der Materialien zu
+                    verwenden ist. Ferner fehlen 2 Türschwellen, 8 Tennenstiele: auf 1,2m
+                    anzustecken und 16 Radabweiser zu erneuern. <lb/>e. An der kleinen Scheune fehlt
+                    die massive First 36,0 m: umzudecken, wozu etwa 1/3 der Materialien zu ergänzen
+                    fehlt. Ferner fehlt eine Tür neu und eine neu zu arbeiten, wie ad d. 8
+                    Tennstiele auf 1,2 m anzustecken, 8 Radabweiser zu erneuern; ebenso 4 x 29,0 + 4
+                    x 13,0 m Trauf- und Deckbretter. <lb/>f. Das Insthaus (Schäferwohnung) von
+                    Füllholz ist zwar reparaturbedürftig, soll aber noch 2-3 Jahre gehalten und dann
+                    massiv untermauert werden.</p>
+            <p>
+               <hi rendition="#u">C. Vorwerk <placeName key="ed_hyn_yzd_gy">Kl.
+                            Steinort</placeName>
+               </hi>
+            </p>
+            <p>a. An der Schirrkammer und Schweinestall fehlen 3 Balken a 8,0 m, welche
+                    durchgebrochen sind: anzustecken; ferner fehlt der Belag über den Balken 8,0 m
+                    lang 9,6 m breit: zu erneuern. Das Dach 20,0 m lang 9,6 m breit: Sparrenlänge,
+                    mit Pappe abgenommen, die Schalung aufgenommen, dicht zusammen geschoben, die
+                    fehlenden Bretter ergänzt und das Dach mit guter Steinpappe I Qualität gedeckt
+                    und mit heißem Dachlack gestrichen und mit feinem gesiebten Sand leicht
+                    nachgesandet werden. <lb/>b. Am Jungvieh- und Fohlenstall fehlen 4 Dunsatabzüge,
+                    welche von Unterkante Balken bis 45 cm über die First gehen, einzubringen;
+                    ferner fehlt der Belag über den Balken von 15,0 m lang und 12,0m breit: zu
+                    erneuern, welcher als Stützbelag hergestellt werden soll. <lb/>c. Am Stall der
+                    Instleute fehlt an der Tenne eine Tür 3,0m hoch 2,5 m breit: zu erneuern.</p>
+            <p>D. Das Vorwerk <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+            </p>
+            <p>a. Am Pferdestall sind die Balken an der Vorderfront schadhaft und sollen durch
+                    einen Unterzug unterstützt werden; hierzu fehlt 1 Unterzug 10,0 m lang 4
+                    Unterszugsstiele a 2,5 m lang und 4 Sockel von Eichenholz a 0,4 m lang. Am
+                    nördl. Giebel in Fachwerk ausgemauert ist der Balken stark angefault; hier soll
+                    das faule Holz abgehauen, eine Bohle daselbst angebracht und mit dem festen Teil
+                    des Balkens mit 18 bis 21 cm langen Drahtnägeln verbunden werden. Die
+                    Fachwerksausmauerung muss ausgebessert und der Putz erneuert werden. <lb/>b. Am
+                    Insthaus fehlt am nördl. Giebel ein Traufbrett 11,5 m: zu erneuern. An demselben
+                    Giebel sind in der Länge auf 2,0 m in der Breite auf 1,5 m die Schwellen, Stiele
+                    und Streben schlecht, dieselben sollen bis zum Riegel abgeschnitten und massiv
+                    auf 1 Stein stark untermauert werden. Am südl. Giebel ist der Balken stark
+                    angefault, und soll hier die Arbeit, wie am Balken ad a gesagt, ausgeführt
+                    werden. <lb/>c. Der Schweinestall der Instleute, 12,45 m lang 7,6 m breit 1,7 m
+                    in Füllholzwänden hoch, ist im Unterbau schlecht. Die äußeren Schwellen,
+                    Wandstiele und Füllhölzer sollen erneuert und die alten noch brauchbaren Hölzer
+                    sollen zur Ausbesserung der inneren Abteilungswände verwendet werden. Die
+                    Giebeldreiecksbekleidungen mit den Traufbrettern müssen umgearbeitet und 1/2 der
+                    Bretter verwendet werden.</p>
+            <p>E. Die Ziegel bei <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+            </p>
+            <p>a. Am Brennofen sind mehrere Sparren und Dachröhren gebrochen, außerdem die eine
+                    Außenwand über dem Brennofen so stark ausgebogen, dass ein völliges Ausweichen
+                    nicht ausgeschlossen war. Da noch Ziegel zum Brennen eingelegt waren, so war
+                    sehr zu fürchten, dass das Dach in dem früheren Verhältnis der Hitze nicht
+                    Widerstand leistet, so habe ich sogleich die erforderliche Absteifung angeordnet
+                    und dem Zimmermann die nötige Anweisung gegeben. <lb/>b. Die
+                    Ziegeltrockenschuppen sind alle reparaturbedürftig, da aber die Ziegeli im Jahr
+                    99 auf einer anderen Stelle hingebracht werden soll, so sollen die Schuppen noch
+                    bis Herbst 98 zu ihrem Zweck in dem jetzigen Verhältnis bleiben. Da welche
+                    Schuppen feste Balkenlage haben, so könnte an die Balken beim Umbau zu andere
+                    Zwecke verwenden und es würde nur etwas MIttel- und Kleinbauholz zu den
+                    Dachverbänden erforderlich werden. Für lange zeit wiederstehen die qu. Schuppen
+                    nicht.</p>
+            <p>
+               <note type="editorial">Es folgt der Reparaturbedarf auf den verpachteten Gütern:
+                        <lb/>1. Gut Rosengarten (Wohnhaus des Gutes, Wohnung des Kammrers, Insthaus)
+                        <lb/>2. Vorwerk, zu Rosengarten gehörend (Viehstall, Insthaus) <lb/>3. Gut
+                        Stawisken (herrschaftliches Wohnhaus mit Freitreppe, Viehstall, großer Stall
+                        in Ziegelfachwerk mit Speicher und Schweinebuchten) und Schule zu Stawisken
+                        (Schulhaus ohne Keller, Schulbrunnen, Wirtschaftsgebäude, Abort), <lb/>4.
+                        Gut Stobben (herrschaftliches Wohnhaus, Scheune, Speicher) und Schule zu
+                        Stobben (Schulhaus, Wirtschaftsgebäude, Schweinestall, Viehstall) <lb/>5.
+                        Gut Pristanien (Wohnhaus, Insthaus Nr. 3, Neubau für das abgebrannte
+                        Insthaus für sechs Familien) und Schule zu Pristanien (Schulgebäude,
+                        Brunnen) <lb/>6. Gut Stawken (herrschaftliches Wohnhaus, Stall mit
+                        Knechtkammer) <lb/>7. Gut Serwillen (Schafstall, Viehstall, Ochsenstall,
+                        Schweinestall der Instleute, Brunnen und Brunnen am Insthaus) <lb/>8. Gut
+                        Taberlack (Wohnhaus, Ausbau des Dachraums für einen Wuirtschafter, Viehstall
+                        der Instleute, projektiertes neues Insthaus) <p>Es folgen Ausführungen zum
+                            Zustand des Gutes Rehsau, auf dem im Vorjahr einige Reparaturen
+                            ausgeführt worden waren (Wohnhaus mit Veranda, Speicher, Viehstall) mit
+                            den dazu gehörenden Vorwerken Carlswalde und Sandhof. <lb/>Der letzte
+                            Abschnitt des Berichtes stellt die Situation der „Forstetablissements
+                            mit den Forstarbeiterhäusern‟ Mittenort (Wohnung des Hegemeisters),
+                            Stein, Stawken, Südenort, Stobben, Mauerwald dar.</p>
+               </note>
+            </p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

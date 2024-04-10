@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_sl2_smr_swb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Antwort auf die Vorstellung der Stände des Rastenburgischen Kreises vom 14.
+                    Dezember 1811. Berlin, 18. März 1812</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                       
+                        <idno>I. HA, Rep. 74, Nr. 1326, Bl. 99-100</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rlb_wx1_1bb">Bülow, Hans Graf von (1774-1825)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1812-03-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_lwr_p2d_jxb">Ständeversammlung des Kreises Rastenburg</orgName>
+                </correspAction>
+                <note>Siehe die Vorstellung vom <ref target="lehndorff_bfr_1gr_swb">14. Dezember
+                        1811</ref>. </note>
+                
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_sl2_smr_swb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p>Die Bescheidung auf die Vorstellung vom <ref target="lehndorff_bfr_1gr_swb">14. Dezember v.
+                        J.</ref>, welche die Stände des Rastenburgischen Kreises Mir eingereicht
+                    haben, ist aus dem Grunde bis jetzt ausgesetzt geblieben, weil Ich zugleich mit
+                    derselben die Erklärung Meiner Willensmeinung über einige andere ähnliche
+                    Vorstellungen gegen das <seg type="comment"><orig>Edikt vom 14. September v.
+                            J.</orig><note xml:id="nint_q5r_xxb"><ref target="https://ghdi.ghi-dc.org/sub_document.cfm?document_id=3615&amp;language=german">Regulierungsedikt</ref></note></seg> wegen der Regulierung der
+                    gutsherrlichen und bäuerlichen Verhältnisse, die zu erwarten waren und wirklich
+                    eingekommen sind, erlassen wollte. <lb/>Es gereicht zu Meinem Missfallen, dass
+                    die Stände p. in der gedachten Vorstellung den Sinn und die Absicht des Edikts
+                    vom 14. September v. J. so ganz verkennen, dass sie sogar auf eine gänzliche
+                    Aufhebung dieser für das Ganze durchaus notwendigen und für alle dabei
+                    interessierten Teile wohltätigen Verordnung antragen. <lb/>Wenn die Stände p.,
+                    um diesen Antrag zu unterstützen, sich hauptsächlich auf die bisherige Qualität
+                    der zu ihren Gütern gehörenden bäuerlichen Besitzungen beziehen, so übersehen
+                    sie dabei ganz, dass ihr Eigentum an diesen der Einschränkung unterworfen ist,
+                    dass die Höfe nicht eingezogen werden dürfen, sondern im kontributionsfähigen
+                    Stande erhalten und mit Personen des Bauernstandes wieder besetzt werden müssen,
+                    und dass die Gutsherren verpflichtet sind, die Steuern und andere öffentliche
+                    Leistungen davon zu vertreten, wodurch die Nutzungen dieser Höfe in schlimmen
+                    Zeiten als auf Nichts heruntergesetzt werden können. <lb/>Die Besorgnis wegen
+                    des Mangels an der erforderlichen Hilfe zur Bewirtschaftung wird durch dasjenige
+                    vollkommen beseitigt, was in der Verordnung in Betreff ihrer freiwilligen
+                    Einigung über die Hilfsdienste nachgelassen ist. <lb/>Wegen aller übrigen
+                    Einwendungen verweise Ich die Stände auf den Inhalt der Bescheidung, welche Mein
+                    Staatskanzler <persName key="ed_uvr_lxn_zdb">Freiherr von Hardenberg</persName>
+                    auf Meinen besonderen Befehl den Bevollmächtigten der Ostpreußischen und
+                    Litauischen Kreise Brandenburg, Schaaken, Rastenburg, Tapiau, Mohrungen,
+                    Neidenburg, Heilsberg und Seehesten auf deren gemeinschaftliche
+                    Immediatvorstellung vom 30. November v. J. erteilt hat, und Ich erkläre hiermit
+                    nochmals, dass es bei dem Edikte vom 14. September v. J. lediglich sein Bewenden
+                    behält. <lb/>Der General-Kommissar <persName key="ed_rqm_zch_1cb">von
+                        Sydow</persName> hat sich Anspruch auf Mein Vertrauen erworben. Er verdient
+                    nicht minder das seiner vormaligen Commentanten, und diese werden ihr eigenes
+                    Interesse so befördern, wenn sie die Vermittlung dankbar annehmen und benutzen,
+                    wozu derselbe bei der Auseinandersetzung mit den Bauern gesetzlich verpflichtet
+                    ist.</p>
+                <p>Berlin den <gap reason="empty"/> März 1812</p>
+				<closer>
+					<salute>Zur Allerhöchsten Vollziehung</salute>
+					<signed>Bülow 18/3</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_pyf_21n_kqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet aus Steinort, u. a. über die Einführung der neuen
+               Steuern. Steinort, 15. Januar 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1811-01-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_pyf_21n_kqb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 15. Januar 1811</dateline>
+               <salute>Gnädigster Herr Graf</salute>
+            </opener>
+            <p>Ew. Hochgeboren beide Briefe habe ich gestern mit der Post erhalten und den letzten
+               mit dem größten Vergnügen gelesen, und ich freue mich schon recht sehr, Ew.
+               Hochgeboren mit ehesten wieder hier zu sehen, denn bei den jetzigen für den Landmann
+               so drückenden und so unbestimmten Zeiten ist der hiesige Bauer ganz dämlich geworden,
+               denn er tut nichts wie über die Sachen sprechen, und darüber vergehen Wochen und Tage
+               und am Ende der ganze Winter und es geschieht nichts. Wir haben hier zwar noch keinen
+               guten Schlittweg, allein ist auch schon der 15. Jan. und im Grunde nichts getan, und
+               der ganze Monat wird vergehen, und die Bauern werden nicht die Hälfte des
+               Achtelholzes herausfahren. </p>
+            <p>In den Gütern ist noch alles gut, die Schafe und Fohlen sind gesund, nur die
+                    Kälber sind schlecht. Der Hofmann <persName key="ed_w3f_433_wqb">Brose</persName> aus <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                    hat mir 6 Schfl. abgeliefert, die eher schlecht sind. Ich werde alles anwenden,
+                    um sie etwas aufzuhelfen.</p>
+            <p>Den Kämmerer, den mein Vetter mir vorschlug, habe ich kommen lassen, da <persName key="ed_d42_1st_ncb">Sperling</persName> seinen nicht geschickt hat, und ihm <seg type="comment"><orig>den hiesigen Kontrakt der Kämmerer</orig><note xml:id="nryx_fj1_rwb">GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                     Nr. 747 (Vertrag mit Wirtschaftskämmerer George Berent vom 28. März
+                     1744).</note></seg> vorgelegt, er ist nicht abgeneigt ihn einzugehen, indem ich
+               ihm versprochen habe, da er so ein vorzüglicher Schirrarbeitmacher ist, dass ihm Ew.
+               Hochgeboren dafür eine Zulage geben werden.</p>
+            <p>Bei uns ist noch nichts organisiert von der <seg type="comment">
+                  <orig>Land-Konsumtions-Steuer</orig>
+                  <note xml:id="ncl5_b5v_ysb">Diese
+                            war das Kernstück des Finanzedikts vom 27. Oktober 1810. Gemeinsam mit
+                            der Luxussteuer erhoffte sich Staatskanzler Hardenberg hieraus Einnahmen
+                            von 5,5 Millionen Taler jährlich. Dabei wurde die Luxussteuer weniger
+                            aus fiskalische Gründen erhoben, vielmehr sollte sie der durch den
+                            Steuerdruck zu erwartenden Unzufriedenheit der unbegüterten, aber umso
+                            mehr Steuern zahlenden Bevölkerung begegnen, siehe hierzu: <ref target="https://books.google.de/books?id=15RsDwAAQBAJ&amp;pg=PA42&amp;lpg=PA42&amp;dq=Land-Konsumtionssteuer+1811&amp;source=bl&amp;ots=iua1Hw7yyI&amp;sig=ACfU3U2WbWAQQlMFSfSLlx7YhCgo3F7pZg&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjAmq2ritr2AhVdRPEDHZoVDwEQ6AF6BAgMEAM#v=onepage&amp;q=Land-Konsumtionssteuer%201811&amp;f=false">Klein, Ernst, Von der Reform zur Restauration. Finanzpolitik und
+                                Reformgesetzgebung des preußischen Staatskanzlers Karl August von
+                                Hardenberg, Berlin/Boston 2018, S. 38 ff.</ref>
+                  </note>
+               </seg> da ich den Bezirks-Einnehmer bat, dass er <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zuletzt vornehmen soll, und wir
+                    gehen noch in allem unseren alten Gang, nur der böse Feind hat dieses Jahr sein
+                    Spiel mit der Windmühle, denn vorgestern ging das große Mühleisen entzwei,
+                    welches in dieser ganzen Gegend vielleicht kein Schmied machen kann.</p>
+         </div>
+         <div type="writingSession">
+            <p>
+               <seg type="comment">
+                  <orig>Von der Arretierung der adel. Gutsbesitzer wissen wir weiter nichts, als das
+                        <persName key="ed_oxt_jzb_tcb">H. Kayser</persName> gestern von <placeName key="ed_bxm_sxb_5bb">Doben</placeName> kam und erzählte, dass vorgestern
+                     durch ein Kommando Schwarzer Husaren der <persName key="ed_td2_2yv_ysb">Herr v.
+                        Kollrepp</persName>, der <persName key="ed_bzm_3yv_ysb">H. v.
+                        Biberstein</persName> und der <persName key="ed_jy5_tyv_ysb">H. v.
+                        Sieranowsky</persName> nach <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> gebracht worden sind.</orig>
+                  <note xml:id="nwwd_y5v_ysb">In den Provinzen, in denen der Adel nicht von der
+                     Grundsteuer befreit war, hatte er sich den Unzufriedenen angeschlossen und sich
+                     teilweise zum Wortführer gemacht. So hatten sich im Kreis Seehesten die
+                     adeligen und kölmischen Kreisstände versammelt und eine Protestresolution gegen
+                     die Land-Konsumtions-Steuer verfasst, die der Regierung zu Gumbinnen, dem
+                     Oberlandesgericht und dem König zugeschickt worden war. Während die
+                     Remonstranten bei der litauischen Regierung und Präsident <persName key="ed_q1t_d2f_4y">Theodor von Schön</persName> mit einer wohlwollenden
+                     Aufnahme ihres Protestes rechnen konnten, stieß dieser in <placeName key="ed_xrv_gwb_by">Berlin</placeName> auf scharfe Ablehnung. Die adeligen
+                     Teilnehmer wurden verhaftet, bald darauf aber als „verleitete Teilnehmer‟ der
+                     Aktion wieder freigelassen. Herr von Bieberstein wurde als Anstifter und
+                     Wortführer zu 6 Monaten Festungshaft verurteilt. Als Rechtfertigung hatte er
+                     vorgebracht: „Dass über die große Härte des Steuer-Ediktes und die
+                     Unmöglichkeit, dieses Gesetz zu erfüllen, im ganzen Staate nur eine Stimme ist,
+                     mit Ausnahme der Steuer-Offizianten, glaube ich, darf nicht erst bewiesen
+                     werden; und ebenso, dass erwähntes Gesetz eine große Erbitterung aller Gemüter
+                     im Staate erzeugt hat. Der Barthensteinsche Kreis befürchtete eine völlige
+                     Revolution und machte Vorstellungen dagegen an Se. Majestät den König
+                     unmittelbar. In Schlesien war es sogar Veranlassung, dass Bürgerblut
+                     geflossen.‟ Die Kreisstände baten um Begnadigung bei Staatskanzler <persName key="ed_uvr_lxn_zdb">Hardenberg</persName>, der sie an den König verwies. Ob
+                     diese erfolgte, ist nicht bekannt, vgl. Klein, Ernst, Von der Reform zur
+                     Restauration. Finanzpolitik und Reformgesetzgebung des preußischen
+                     Staatskanzlers Karl August von Hardenberg, Berlin/Boston 2018, S. 39. </note>
+               </seg>
+            </p>
+            <p>Zur Aufnahme der Gewerbe- und Fabriken-Steuer war der Kapitän <persName key="ed_ujc_w33_wqb">Gerhardt</persName> aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> hier, zur Lösung des Gewerbe-Scheins sind wir alle sowie
+               auch Handwerker, Krüger, Schänder, Hofleute, Jäger und Kämmerer notiert, allein mit
+               der <seg type="comment">
+                  <orig>Luxus-Steuer</orig>
+                  <note xml:id="nbq1_mwv_ysb">Diese brachte so wenig ein, dass der Finanzminister
+                     ihre Aufhebung vorschlug, die durch Kabinettsordre vom 2. März 1814 rückwirkend
+                     zum 1. Dezember 1813 erfolgte.</note>
+               </seg> bin ich vorderhand soweit durch, dass bloß der Wagen zur Abholung des
+               Justitiarii und Predigers in diese Qualität notiert ist.</p>
+            <p>Die Getreidepreise sind zwar äußerst schlecht, nur bitte ich dieses ja zu
+                    bedenken, dass, wenn wir im Winter nicht nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> fahren, im Frühjahr, bei offenem Wasser, mag der
+                    Preis so hoch kommen wie er will, wir nicht im Stande sind, etwas hinzuschaffen,
+                    denn jetzt braucht der Bauer bloß zu einer Königsbergschen Reise mit seinen
+                    Einrichtungen wenigstens 8 Tage. </p>
+            <closer>
+               <salute>Meine Frau wie auch Herr <persName key="ed_tc2_stm_zcb">Gaehler</persName>
+                  empfehlen uns aufs beste sowie auch allen hohen Herrschaften und ich habe die Ehre
+                  mich zu unterzeichnen <lb/>Ew. Hochgeboren untertänigster</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

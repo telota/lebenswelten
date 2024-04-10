@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_ykf_wc1_zpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Richter Billich bittet Stud. jur. Johann Christoph Nagel um Auskunft im Verfahren
+               gegen den Pächter Knetsch. Rastenburg, 12. November 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 267, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lbj_cfb_ycb">Billich, H. (-)</persName>
+               <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+               <date when="1742-11-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_uh3_vc3_t2b">Nagel, Johann Christoph (-)</persName>
+            </correspAction>
+            <note>Siehe auch die Dokumente vom <ref target="lehndorff_u2d_htv_wpb">25.
+                        August</ref> und <ref target="lehndorff_xbd_cxz_ypb">5. November
+                    1742</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ykf_wc1_zpb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Rastenburg, 12. November 1742</dateline>
+               <salute>Hochedler p. Hochzuehrender Herr und Hochwerter Gönner!</salute>
+            </opener>
+            <p>Aus Ew. Hochedelgeb. geehrtem Schreiben ersehe, dass Ihro <persName key="ed_q4s_xyl_2y">Hochgräfl. Gnaden</persName> resolviert, innerhalb 14 Tagen
+               die Berechnung und Liquidation mit dem Arrendator <persName key="ed_yrq_4nf_fqb">Knetsch</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               vorzunehmen und deshalb uns, ein delegiertes <seg type="comment">
+                  <orig>Judicium</orig>
+                  <note xml:id="nzyf_x1y_5qb">Gericht</note>
+               </seg>, ersucht, einen Terminum desfalls festzusetzen. Nun bin ich mit H. <persName key="ed_yrq_xgq_lpb">Trautmann</persName> sodann wohl bereit, der Liquidation
+               beizuwohnen, Ihr Stadtschreiber aber ist auf einer Kirchen-Kommission <unclear reason="illegible" cert="high">abwesend</unclear> in <placeName key="ed_uks_n5k_gy">Gerdauen</placeName>, <persName key="ed_hnm_yxy_3fb">Dörffer</persName> jedoch sodann sich auch wohl abmühen könne. Zum Voraus aber
+               möchte gern wissen, ob von <gap reason="illegible"/> dieserwegen eine Königliche
+               Resolution von der Hocherlauchten Regierung eingekommen und Arrendator sich zur
+               Assistenz H. <persName key="ed_vrr_5qf_fqb">Willutzki</persName> ausgebeten?
+               Solchenfalls bitte mir diese Königl. Resolution mit der nächsten Donnerstags-Post in
+               Kopia aus, da wir sodann den Termin dem H. Willutzki, weil wir nicht wissen, ob
+               Debitor unter der Stadt- oder Königl. Amts-Jurisdiktion steht, notifizieren und
+               demselben mit dem Arrendatore <seg type="comment">
+                  <orig>abduzieren</orig>
+                  <note xml:id="nydx_3by_5qb">fortführen</note>
+               </seg> wollen, und sollte erstes als <seg type="comment">
+                  <orig>Abdutation</orig>
+                  <note xml:id="ny2h_jby_5qb">Abduktion?</note>
+               </seg> mit der Donnerstags-Post Ew. Hochedlen zur Beförderung zugeschickt werden, den
+               ganzen Rezess von unserer damaligen Anwesenheit in Steinort müssen mit allen Beilagen
+               wir in Originali künftig haben, weil wir ohne selbsten nichts anfangen können, so ich
+               hierdurch schuldigst referiere und nebst schuldigem Gegenkompliment an H. <persName key="ed_tt3_crf_fqb">Amelung</persName> mit aller Konfideration beharren
+               wollen</p>
+            <closer>
+               <salute>Ew. Hochedler ganz ergebenster Diener</salute>
+               <signed>G. E. Billich</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>A Monsieur Nagel <lb/>Candidat en Droit  pres. à Steinort <lb/>Cito</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

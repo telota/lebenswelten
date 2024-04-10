@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_ebv_1lv_wpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Meister Heydmann einen Vertrag. Steinort, 18.
+               Juli 1706</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="editorial">
+               <p>Erhaltener Lohn und Deputat sind abgetragen. Mit Hermann Heydmann war schon am
+                     <ref target="lehndorff_xqm_kqn_wtb">18. Oktober 1705</ref> ein Vertrag
+                  geschlossen worden. </p>
+               <p>Zu den Baumaßnahmen in den Lehndorffschen Gütern: GStA PK, XX. HA, Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 316: Bauangelegenheiten (ca. 1706); StA L,
+                  Bestand 21950 Familienarchiv Lehndorff, Nr. 248: Handwerkervertrag zum Neubau
+                  eines Wohnhauses in Steinort (1689-1691), Nr. 249: Baupläne und Skizzen
+                  (1705-1923).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 45 Gutsarchiv Lehndorff-Steinort, Nr. 316, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1706-07-18" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ebv_1lv_wpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Zum unten gesetzten Dato ist mit dem <seg type="comment">
+                  <orig>Meister <persName key="ed_ohm_fhg_1qb">Hedmann</persName>
+                  </orig>
+                  <note xml:id="ncrj_h14_gqb">Heydmann</note>
+               </seg> bedungen worden, dass er auf dem <placeName key="ed_ohv_kf2_gy">Pristanischen</placeName> Werder ein Haus verfertigen soll laut dem ihm gegebenen
+               Abriss dergestalt, dass das Dach mit einer Mansarde oder doppeltem Dach, die
+               Herrschaftsstube mit dem Saal mit Dielen ausgelegt, auch die Balken darin gehobelt
+               und die Bohlen und Ständer von auswendig des ganzen Hauses gehobelt sein sollen,
+               nebst aller Zimmerarbeit, so zum Gartenhaus nötig, von ihm gemacht werden soll,
+               hiervor soll er haben, wenn er es recht gut und feste wird machen und verbinden, an
+               Lohn und Deputat folgendes:</p>
+            <p>20 Rtlr. Geld <lb/>4 Schfl. Korn <lb/>1 Schfl. Haber <lb/>3 Schock Käse <lb/>3
+                    Stof Butter <lb/>6 Stof Salz <lb/>1/2 Seite Speck <lb/>1/2 Schwein <lb/>1 Tonne
+                    Bier <lb/>1 Tonne Tafelbier</p>
+            <p> Steinort d. 18. Juli 1706 </p>
+            <p><persName key="ed_wwb_gcm_2y">M. E. G. v. Lehndorff</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

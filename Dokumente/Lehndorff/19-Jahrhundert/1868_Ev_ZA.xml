@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_m52_slz_d2b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Zehnter Bericht des Central-Ausschusses für die Innere Mission der deutschen
+                    evangelischen Kirche in Berlin und Hamburg von Juli 1867 bis Juni 1868. Hamburg 1868 (Auszug)</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="print">
+               <msIdentifier>
+                  <institution>EZA</institution>
+                  <idno>7/3522</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1868-06-01" notAfter="1868-06-30"/>
+         </creation>
+         <abstract>
+            <p>
+               <note>
+                  <p>Die im<seg type="comment">
+                        <orig> 8. Bericht</orig>
+                        <note xml:id="nvvx_lj2_3fb">Siehe das Dokument vom <ref target="lehndorff_p2t_y1g_2cb">Oktober
+                                1866</ref>.</note>
+                     </seg> gegebenen Anregungen seien <quote>nicht
+                                ohne Erfolg geblieben. In weiten Kreisen und gerade auch in solchen,
+                                die den Beruf haben, jenem Landesteile zu dienen, ist eine
+                                lebhaftere Fürsorge demselben zugewandt worden</quote>, insbesondere
+                            auf dem Gebiet der <quote>freiwilligen Liebestätigkeit</quote>. </p>
+                  <p>
+                     <quote>Die ungeheure Not, die seit Jahresfrist über <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> gekommen, hat die
+                                dort zu lösenden Aufgaben nicht nur um vieles erweitert, sondern
+                                auch die ganze Tiefe der sozialen und sittlichen Missstände
+                                aufgedeckt, die auf einem großen Teil jener Provinz lasten. Der
+                                Hunger mag zum Teil, der Typhus ganz überwunden sein (und die
+                                ungünstige diesjährige Ernte lässt befürchten, dass trotz aller
+                                großen Opfer weder Hunger noch Typhus dauernd überwunden sind) – das
+                                sittliche Elend, in dem ein großer Teil namentlich der
+                                Arbeiterbevölkerung Ostpreußens sich befindet, ist noch nicht
+                                überwunden, vielmehr durch die lastende Not um vieles vergrößert
+                                worden.</quote>
+                  </p>
+                  <p>In <placeName key="ed_y1h_tpk_wcb">Masuren</placeName> habe der
+                            Johanniter-Orden die Gründung von Krankenhäusern in Aussicht gestellt.
+                            Eine Übersetzung des <persName key="ed_ulj_hnz_d2b">Wangemannschen</persName> Lutherbüchleins ins Masurische
+                            (Verfasser: Pfarrer <persName key="ed_s1p_pmz_d2b">Surminski</persName>
+                            in Friedrichshof) sei im Verlag der Wupperthaler Traktatgesellschaft
+                            erschienen, mit Holzschnitten ausgestattet. Der Central-Ausschuss habe
+                            mitgewirkt, dass Interessen bedrängter Geistlicher und Schullehrer <seg type="comment">
+                        <orig>im Haus der Abgeordneten Fürsprache
+                                    fanden.</orig>
+                        <note xml:id="njkx_zdg_2cb">Der XI. Bericht 1868/1869 geht auf die
+                                    Petition an den Reichstag des Norddeutschen Bundes wg. der
+                                    Sittenlosigkeit der großen Städte ein (30. März 1869), die
+                                    15.048 Unterschriften trug. </note>
+                     </seg>
+                  </p>
+                  <p>Zu den Gebern für die Innere Mission gehörten 1867/68 Graf <persName key="ed_djk_4gx_f2b">Eggloffstein</persName> - Arklitten, Graf <persName key="ed_sdt_wk2_3fb">Bülow</persName> - Dennewitz, Gräfin zu <persName key="ed_xgh_1l2_3fb">Dohna</persName> geb. v. Auerswald - Königsberg,
+                     General a. D. von der <persName key="ed_fnm_sqw_mbb">Trenck</persName>,
+                     Hauptmann von <persName key="ed_s4r_2l2_3fb">Tecklenburg</persName>, Prof.
+                        <persName key="ed_kyp_clr_gz">Voigt</persName>, Prediger <persName key="ed_nl1_hl2_3fb">Voigt</persName>, Konsistorial- und Regierungs- und
+                     Schulrat <persName key="ed_ncw_3l2_3fb">Woike</persName>, von <persName key="ed_yfl_ll2_3fb">Alvensleben</persName> - Rodehlen, Pastor <persName key="ed_a45_pl2_3fb">Holland</persName> - Dönhoffstädt, <seg type="comment">
+                        <orig>Frau Gräfin <persName key="ed_xnq_1fm_2y">Lehndorff</persName> -
+                           Dönhoffstädt, </orig>
+                        <note xml:id="npgs_32g_2cb">Im Bericht 1872/73 wird neben Prof. <persName key="ed_o2r_1dj_d2b">Jacobi</persName> Königsberg auch <quote>Frau
+                                 <persName key="ed_wms_mh2_cy">Gräfin Lehndorff geb.
+                                 Hahn</persName>-<placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                              - Rastenburg</quote> genannt. </note>
+                     </seg>Pastor <persName key="ed_lbq_zxd_3fb">Simon</persName> - <placeName key="ed_h35_jqh_my">Drengfurt</placeName>, Rittergutsbesitzer von <persName key="ed_ktq_xl2_3fb">Unger</persName> - Lardoyen.</p>
+               </note>
+            </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

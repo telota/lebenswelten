@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_hgd_vhj_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Kammerassessor</title><title> Schwarzbach an Ernst Ahasverus Heinrich Graf von Lehndorff. Szczuczyn, 18.
+                    Juli 1795</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 73, Bl. 1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_s1d_kkj_gy">Schwarzbach, (-)</persName>
+               <placeName key="ed_ryp_3bt_fkb">Szczuczyn</placeName>
+               <date when="1795-07-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            </correspAction>
+            <note>Vgl. die <orgName key="ed_ltz_hdr_gbb">Patrimonialgerichtsakten</orgName> in: GStA
+               PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 688 ff., v. a. Nr. 692:
+               Verfahren gegen entlaufene Gutsuntertanen. Demnach war Johann <persName key="ed_mkg_rml_w2b">Masuch</persName> aus Steinort 1735 entlaufen, Gärtner Michel
+                  <persName key="ed_hd4_tml_w2b">Masuch</persName> aus Steinort 1755 unerlaubt nach
+                  <placeName key="ed_h35_jqh_my">Drengfurt</placeName> gereist und 1756 entlaufen,
+               Maria Charlotta <persName key="ed_cqs_vml_w2b">Masuch</persName>, geb. Puschke aus
+               Steinort 1771 entlaufen. Der Bauer <persName key="ed_mbc_flj_gy">Pallasch</persName>
+               war 1772 erst als Erbuntertan vereidigt worden, ebd., Nr. 701. Siehe auch in Nr. 697
+               das Protokoll der Varhandlung vor dem Patrimonialgericht in Steinort am 9. Dezember
+               1766, nachdem Gräfin von Lehndorff bekannt geworden war, dass sich Johann Masuch in den
+               „Saltzbachischen Gütern‟ aufhalte.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Szczuczin, 18. Juli 1795</dateline>
+               <salute>Hochwürdiger und Hochgeborener <lb/>Insonders Höchstzuverehrender Herr Graf!</salute>
+            </opener>
+            <p>Euer Hochgeboren werden aus <seg type="comment">
+                  <orig>dem beiliegenden Schreiben des Weihbischofs Herrn Grafen von <persName key="ed_bk5_ckj_gy">Puzyna</persName>
+                  </orig>
+                  <note xml:id="nhnq_h3j_gy">Liegt der Akte bei, Bl. 2.</note>
+               </seg> als Besitzer der Philipowen und Preroschkenschen Güter zu entnehmen geruhen,
+                  <seg type="comment">
+                  <orig>dass die von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> entwichenen
+                     Untertanen <persName key="ed_h5p_2lj_gy">Masuch</persName> und <persName key="ed_mbc_flj_gy">Pallasch</persName> nicht haben ausgemittelt werden
+                     können</orig>
+                  <note xml:id="nbmy_nfp_tcb">Vgl. hierzu das <ref target="lehndorff_kcw_pwf_nbb">Dokument vom 15. Oktober 1796</ref>.</note>
+               </seg>, und dass sogar das Dorf <seg type="comment">
+                  <orig>Turteln</orig>
+                  <note xml:id="nib1_slj_gy">Der Ortsname ist verschrieben.</note>
+               </seg>, woselbst sich diese Leute aufhalten sollen, in dieser Gegend ganz unbekannt
+               ist. </p>
+            <p>Bei diesen Umständen ist es mir also unmöglich, Euer Hochgeboren durch die
+                    Extradition dieser Untertanen einen Beweis von meiner schuldigen
+                    Dienstbeflissenheit abzulegen, so gern ich solches mit dem größten Vergnügen
+                    getan haben würde; indessen werde ich dennoch nicht aufhören, mit Ausforschungen
+                    dieser Leute fortzufahren. Nur geruhen Hochdieselben womöglich den eigentlichen
+                    Aufenthaltsort derselben auszumitteln, alsdann die schleunige Aushebung und
+                    Auslieferung gewiss das wenigste sein wird, so ich zu dieser Sache beitragen
+                    werde. </p>
+            <closer>
+               <salute>Nichts ist übrigens so vollkommen als der Respekt, mit welchem ich mich zu meiner Ehre
+                        nenne <lb/>Euer Hochgeboren ganz gehorsamster treuer Diener</salute>
+               <signed>Schwarzbach</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

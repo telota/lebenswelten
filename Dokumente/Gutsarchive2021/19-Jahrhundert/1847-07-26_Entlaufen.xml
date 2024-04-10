@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_rmr_d4p_prb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der entlaufene Knecht Andreas Klein soll zurückgebracht werden. Mohrungen,
+                    26. Juli 1847</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p/>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 679, Bl. 16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <orgName key="ed_hly_x1t_vsb">Landratsamt Mohrungen</orgName>
+               <placeName key="ed_axg_z4t_sdb">Mohrungen</placeName>
+               <date when="1847-07-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_lyr_1g5_c2b">Dohna-Reichertswalde, Friedrich Burggraf und Graf
+                        zu (1799-1873)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_rmr_d4p_prb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Mohrungen, den 16. Juli 1847</dateline>
+            </opener>
+            <p>Der Knecht <persName key="ed_mk5_hbt_vsb">Andreas Klein</persName> ist dem Rittergutsbesitzer
+                        <persName key="ed_h4v_jbt_vsb">Zander</persName> in Kl. <unclear reason="illegible" cert="low">Praysden</unclear> aus dem Dienste entlaufen
+                    und soll derselbe sich in <placeName key="ed_m5f_pbt_vsb">Gillgehnen</placeName>
+                    aufhalten. <lb/>Ein Wohllöbl. Dominium ersuche ich, den p. Klein sofort per
+                    Transport in seinen Dienst nach Kl. Praysden zurückführen zu lassen, und dass
+                    solches geschehen, hier in 8 Tagen anzuzeigen</p>
+            <closer>
+               <signed>Der Landrat <lb/>[Paraphe]</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

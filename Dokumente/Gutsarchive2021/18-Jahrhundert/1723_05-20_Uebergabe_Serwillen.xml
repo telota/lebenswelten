@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_nkv_qj3_btb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Dorf und Vorwerk Serwillen werden an den Pächter Mühlpfort übergeben und das auf
+               dem Vorwerk befindliche Inventar verzeichnet. Serwillen, 20. Mai 1723</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das bei der Übergabe des Hofes Labab an den Pächter Christoph Poltzien
+                  aufgestellte Inventar vom <ref target="lehndorff_hnh_lfd_vpb">30. März
+                  1715</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 123, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+            <date when="1723-05-20" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_nkv_qj3_btb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Gräfl. Gut <placeName key="ed_hrb_hc2_gy">Surwillen</placeName>, d. 20. Mai
+               1723</p>
+            <p>
+               <lb/>Nachdem Sr. Hochgeboren Herr <persName key="ed_swz_dbp_mbb">Gerhard Ernst des
+                  Heil. Röm. Reichs Graf von Lehndorff</persName>, Obrister Sr. Hochfürstl. Durchl.
+               zu Hessen Cassel, das Dorf und Vorwerk <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> verarrendiert an Herrn <persName key="ed_rl1_kjx_btb">Theodor Mühlpfort</persName> auf 6 nacheinander folgende Jahre, ist in dem hier
+               oben gesetzten Dato die Übergabe in Gegenwart Herrn <persName key="ed_z2r_njx_btb">Johann Großmanns</persName> Schöppe zu <placeName key="ed_h35_jqh_my">Drengfurt</placeName> von mir Endes Unterschriebenen geschehen und auf diesem
+               Vorwerk folgendes befunden als</p>
+            <p>An Gebäuden</p>
+            <p>Der Hof ist von Bohlen in Schlitzständer aufgesetzt und zwei ausgemauerten
+               Schornsteinen. <lb/>In der Stube zur linken Hand 4 Fenster, jedes mit 4 Licht und 16
+               Rauten, alle mit vollkommenen Beschlägen, auch Fensterladen, bloß die Windeisen
+               fehlen. Die Stube ist mit gemahlter Leinwand ausgeschlagen. <lb/>Der Ofen ist von
+               weiß und grünen Kacheln, 3 Kasten hoch, dient auszuschmieren. <lb/>Ein Teller-Schaff,
+               rot angestrichen, mit 2 Türen, woran Schloss und Bänder, auf demselben sind
+               Repositoria Schüsseln hineinzusetzen. <lb/>An der vordersten Kammertür ist Schloss
+               und Bänder. Selbige ist gleichfalls mit gemahlter Leinwand ausgeschlagen und darinnen
+               zwei Fenster, jedes von vier Licht und 16 Rauten, auch vollkommenem Beschlag, bloß
+               das daran auch 1 Windeisen fehlt. <lb/>An der anderen Kammertür ist ein
+               Drückerschloss und Bänder, auch Haken. Inwendig ein Fenster mit 4 Licht, jedes mit 12
+               Rauten, ohne Beschlag. <lb/>An der Sekrettür sind zwei Bänder, 2 Haken und ein
+               Bügelchen und 1 Ringelchen. Item an der Tür, in die erste Kammer zu gehen, 2 Bänder 2
+               Haken und 1 Ringelchen. <lb/>Die Küche ist mit Dielen dicht verschlagen und darinnen
+               ein Fensterchen von einem Licht, worinnen 1 Raute fehlt. Eine Bank. <lb/>An der Tür
+               in das Haus sind 2 <unclear reason="illegible" cert="low">Brackbände</unclear> und 1
+               Kramp. <lb/>In der Hofmanns-Stube zur rechten Hand sind 3 Fenster, jedes mit 4 Licht
+               und 16 Rauten, und sind in allen 4 Rauten entzwei. Sonsten sind an den Fenstern die
+               vollen Windeisen. <lb/>Der Ofen von grünen Kacheln ist alt und dient umzusetzen. Der
+               Boden ist unten ganz entzwei. <lb/>An der Tür in die Kammer sind 2 Bänder 2 Haken 1
+               Schloss mit dem Schlüssel. <lb/>In selbiger sind 2 Fenster, jedes von vier Licht und
+               16 Rauten, sind aber darinnen 5 Rauten entzwei. <lb/>An der Tür auf die Lucht sind 2
+               Bänder und Haken. Die Treppe auf die Lucht ist gut. <lb/>An der Tür in die Stube zur
+               rechten Hand sind 2 Bänder zwei Haken, und in derselben sind zwei Fenster, jedes von
+               2 Licht. An der Stube auf die linke Hand sind 2 Bänder 2 Haken 1 Überwurf und 2 <seg type="comment"><orig>Haspen</orig><note xml:id="nfk4_5z4_txb"><ref target="https://de.wiktionary.org/wiki/Haspe">Haken</ref></note></seg>, item
+               2 Fenster, jedes von 2 Licht. <lb/>Das Dach dient hin und her zu verwerfen, auch muss
+               der Schornstein auf der oberen Lucht repariert werden. Imgleichen wird der Kamin in
+               der Stube zur rechten Hand bruchfällig. <lb/>Ein Pferdestall von behauenem Holz <seg type="comment"><orig>gegehrsasst</orig><note xml:id="nesd_f1p_txb">Traditioneller
+                     Blockbau aus Holzbalken.</note></seg>, mit Stroh gedeckt, das Dach ist zwar
+               alt, allein noch gut. <lb/>In der Tür sind 2 Bänder 2 Haken. <lb/>Ein Gebäudchen mit
+               einem halben Dach, in welchem zwei Schweinställe, auch Gänse- und Hühner-Ställe, so
+               zu decken dient. <lb/>Ein Scheunen-Gebäude mit zwei Scheunen-Dielen ist von Fachwerk
+               gemauert und ganz neu mit Kalk abgeputzt. <lb/>Das Dach ist gut und die Schwellen neu
+               untermauert, und soll das von Sturm gemachte Loch noch zugedeckt werden. An den
+               Scheunentüren sind eiserne Überwürfe und Haspen, von der Hinterseite eiserne <gap reason="illegible"/> und Vorstachel. <lb/>Ein Kuhschuppen vor vier Jahren gebaut
+               von Fachwerk und gemauert. Das Dach ist gut. <lb/>Die Vordertür ist mit eisern Nägeln
+               zusammen geschlagen und dann ein Überwurf und 2 Haspen. An der einen Tür sind 2
+               eiserne Bänder und Haken, Ein Scheunengebäude mit 3 Scheunen-Dielen, die Schwellen
+               sind rundum neu untermauert, das Dach ist gut. <lb/>An den Türen sind eiserne
+               Überwürfe und Haspen, auch eiserne <gap reason="illegible"/> und Vorstachel.
+               <lb/>Zwischen dem Speicher ist ein Staketen-Zaun, so ganz neu gemacht, und mit
+               hölzernen Nagel zusammen geschlagen. <lb/>Auf dem anderen Ende des Speichers ist ein
+               neuer Planken-Zaun gemacht bis an die vorderste Scheune, so ganz. <lb/>Der Speicher,
+               unter welchem ein Schafstall und Stallungen vor das junge Vieh, ist ein gutes
+               Gebäude, die Lucht gestrichen und von beschlagenem Holz gegehrsasst. <lb/>An der
+               Speichertür sind zwei Bänder zwei Haken 1 Überwurf 2 Haspen. <lb/>Ein Gärtner <seg type="comment"><orig>Kalouppe</orig><note xml:id="nmx2_qls_sxb"><ref target="https://de.wikipedia.org/wiki/Kaluppe">Chaluppe</ref></note></seg>
+               von 2 Stuben von geschnittenen Bohlen gegehrsasst. Das Fenster ist entzwei und muss
+               zur linken Hand eine neue Schwelle kommen. Der Ofen von hohlen Kacheln und der
+               Schornstein ist gut. <lb/>In der Stubentür sind 2 Bänder 2 Haken 1 Klinke 1 Überwurf
+               und 2 Haspen. <lb/>In der anderen Stube ist der Ofen entzwei, auch das Fenster.
+               <lb/>In der Stubentür sind 2 Bänder 2 Haken 1 Überwurf 2 Haspen. <lb/>Ein Gärtner
+               Kalouppe von 2 Stuben, in der einen wohnt der Brettschneider. In der anderen ist das
+               Fenster entzwei, an der Stubentür sind 2 Bänder 2 Haken 1 Überwurf 2 Haspen. Der Ofen
+               dient auszubessern. <lb/>In der dritten Stube ist das Fenster neu, der Ofen muss
+               repariert werden. An die Stubentür ist kein Eisen. <lb/>Der Baumgarten ist wiederum
+               mit Stecken bezäunt, einige Flächen aber alt, und sind darinnen 10 Apfelbäume und 1
+               Birnbaum.</p>
+            <p>An Vieh</p>
+            <p>
+               <note type="editorial">Es folgen die Namen von 60 Kühen mit Angabe des Wertes
+                  (zwischen 15 Fl. und 10 Fl.) und von </note><note type="editorial">zehn Ochsen
+                  (zwischen 24 Fl. und 18 Fl.). Daneben gab es sechs Stärken und 13 junge Ochsen
+                  (mit Angaben zum Alter), 36 alte Schafe, 12 Fl. das Stück, 1 Schafbock und 12
+                  Lämmer vom Jahr, fünf Sauen, drei junge Sauen, siebzehn Ferkel und acht Pferde
+                  (Wallache und Stuten zwischen 12 und 18 Fl.) und 5 Fohlen, siehe die beigefügten
+                  Digitalisate. </note>
+            </p>
+            <p>An Futter</p>
+            <p>Das Vieh hat Herr Arrendator auszufuttern vollkommen Futter erhalten und ist noch ein
+               Fuder Heu anjetzo vorhanden.</p>
+            <p>An Federvieh</p>
+            <p>
+               <note type="editorial">20 Gänse, acht Enten, neun Hühner und ein Hahn</note>
+            </p>
+            <p>An Getreide</p>
+            <p>
+               <gap reason="insignificant"/> Ca. acht Last sechs und vierzig Scheffel <seg type="comment">
+                  <orig>allerhand Getreide</orig>
+                  <note xml:id="nvlq_vfx_btb">Für die einzelnen Posten siehe im Digitalisat.</note>
+               </seg>
+               <lb/>50 Schfl. gut Korn <lb/>50 Schfl. Brotgetreide</p>
+            <p>An Eisenwerk</p>
+            <p>
+               <list>
+                  <item>zwei vierspännige Wagen, wovon der eine vor 2 Jahren, der andere vorm Jahr
+                     angeschafft, an einer Hinterachse fehlen die Bleche, dann auf den Achsen sind
+                     vorn keine Ringe</item>
+                  <item>vier <seg type="comment"><orig>Bracken</orig><note xml:id="ni33_p1p_txb">Zur
+                           Bedeutung <ref target="https://fwb-online.de/lemma/bracke.h2.1f">hier</ref>.</note></seg> mit Ring und Eisen beschlagen</item>
+                  <item>acht hanfene Siele mit hanfenen Strängen</item>
+                  <item>acht Zäume ganz neu</item>
+                  <item>zwei Jagdleinen ganz neu</item>
+                  <item>zwei Eggen mit 64 eisern Eggenzinken und Haken</item>
+                  <item>zwei alte hölzerne Eggen</item>
+                  <item>zwei paar neue Zocheisen, jedes von 3 1/2 Tlr.</item>
+                  <item>zwei paar vorgelegte Zocheisen</item>
+                  <item>vier Podienen</item>
+                  <item>eine alte Holzaxt</item>
+                  <item>fünf Sensen so ein Jahr gebraucht</item>
+                  <item>zwei Häckselmesser so einen Winter gebraucht</item>
+                  <item>zwei Häckselladen mit Ring</item>
+                  <item>ein guter Zaunbohrer</item>
+                  <item>ein Latten <gap reason="illegible"/>, ein Stemmeisen</item>
+                  <item>ein mit Eisen beschlagener Scheffel </item>
+                  <item>elf Vorhang-Schlösser an die Scheunen und Speicher brauchbar</item>
+                  <item>zwei Schoßforken</item>
+                  <item>ein eiserner Teertrog</item>
+                  <item>ein alter Schleifstein</item>
+               </list>
+            </p>
+            <p>An Höltzenwerk</p>
+            <p>
+               <list>
+                  <item>ein oval runder Tisch mit gewundenen Seilen</item>
+                  <item>ein runder Tisch in der Gesindestube</item>
+                  <item>ein paar neue Milcheimer</item>
+                  <item>vier Milchstippel</item>
+                  <item>ein alter Lehnstuhl</item>
+                  <item>eine Laterne, das Holz ist entzwei</item>
+                  <item>ein Wassereimer</item>
+                  <item>sieben und zwanzig große Milchtöpfe</item>
+                  <item>ein Butterfass, alt</item>
+                  <item>ein <gap reason="illegible"/>trog</item>
+                  <item>ein halb Quarter zum Butter machen</item>
+                  <item>eine neuen Milchseige</item>
+                  <item>ein kupferner Kessel 15 <unclear reason="illegible" cert="high">L</unclear>
+                     anstatt dessen ein neuer von der Ton angeschafft worden</item>
+                  <item>ein Quirdel</item>
+                  <item>vier neue drillichte Säcke mit blauen Streifen</item>
+                  <item>zwei <gap reason="illegible"/>tonnen, zwei Molden</item>
+               </list>
+            </p>
+            <p>An Federbetten</p>
+            <p>
+               <list>
+                  <item>
+                     <list>
+                        <item>ein Pfuhl, noch ein Pfuhl größer</item>
+                        <item>zwei Betten</item>
+                        <item>vier Kissen</item>
+                        <item>zwei Laken groß heden</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Dass dieses Inventarium den Herrn Arrendatori Mühlpfort in dem hier oben gesetzten
+               Dato richtig überliefert und dabei auch eine Rechnung gemacht, dass weil er von dem
+               heutigen Dato an nur das angeschlagene Schock Kühe zu genießen angefangen, und der
+               vorige Hofmann die gehabte Kühen 4 Tage über seine Jahreszeit genutzt, er dahero ihm
+               4 Fl. 3 Gr. erstatten müssen und Herr Arrendator also bis zum 16. Mai inklusive die
+               Kühepacht ins künftige nur zu empfangen hat, habe mit namentlicher Unterschrift
+               attestieren sollen. <lb/></p>
+            <p>Surwillen Anno mense et die ut supra</p>
+            <p>
+               <persName key="ed_odd_cgn_ypb">Theodor Scriverius</persName>
+               <lb/>Bürgermeister</p>
+         </div>
+      </body>
+   </text>
+</TEI>

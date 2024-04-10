@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_tdv_zym_15b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Albrecht Wilewski einen Pachtvertrag über das
+               Vorwerk Serwillen. Steinort, 13. Juni 1735</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Dokument vom <ref target="lehndorff_jln_2vr_cqb">3. Juni
+                            1732</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 350, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1735-06-13" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_tdv_zym_15b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ihro Gnaden die Frau <persName key="ed_q4s_xyl_2y">Gräfin von
+                        Lehndorff</persName> haben an den Gärtenierer <persName key="ed_nwl_cf2_2qb">Albrecht Wilewski</persName> das Vorwerk <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> mit den dazu gehörigen Pertinenzen in dem heutigen
+                    Dato auf nachstehende Konditionen verarrendiert:</p>
+            <p>1. Soll seine Arrende von nächst künftigem 21. Juni den Anfang nehmen und drei
+                    nacheinander folgende Jahre bis dahin 1738, so Gott will, kontinuieren,</p>
+            <p>2. jährlich achthundert Gulden rein Geld vor die gesamte Nutzung dieses Vorwerks
+                    inklusive der Teiche und der konsignierten <gap reason="illegible"/>, und zwar
+                    in zwei Terminen jedesmal nach Verlauf eines halben Jahres, an Arrende richtig
+                    gezahlt werden, außerdem ist</p>
+            <p>3. Arrendator schuldig, die bisherige alte Kontribution und den Decem von den
+                    Vorwerkshuben besonders zu bezahlen. Den neuen Modifikations-Canonem nehmen Ihro
+                    Gnaden die Frau Gräfin auf sich, reservieren Ihnen aber</p>
+            <p>4. die baren Zinsen, die Wode-Tage und das Gespinst von den Bauern. Was </p>
+            <p>5. die mit 70 Fl. in Anschlag gebrachte Schültzische Fischerei nebst denen dagegen
+               dem Arrendatori in Anschlag gebrachten Emolumente, also dem Stiebel- und Garngeld,
+               auch dem <gap reason="illegible"/>korn von den Serwillschen Bauern, imgleichen die
+               Miete von dem Schültzischen Fischer-Garten, dann die 20 Fl. vor die 4 Achtel
+               Brennholz, so sonst an die Herrschaft besonders bezahlt werden müssen, und die 4 Tlr.
+               vor das Scharwerk der Bauern im August betrifft, so wollen die Frau Gräfin deshalb
+               von dem Arrendatore nichts prätendieren, sondern alles dieses unter den 800 Fl.
+               Arrende-Pension mit passieren lasen, doch dass er, so viel es ohne Abbruch seiner
+               angenommenen Wirtschaft sein kann, des Winters nach der Fischerei, wo dieselbe auch
+               nicht verarrendiert wird, sehn und darauf Acht habe.</p>
+            <p>6. Wird ihm in eben der Konsideration und dass er ein alter Diener vom Hause ist, dem
+               man mit dieser Arrende auf keine Art schwer fallen wolle, auch die Hälfte von dem
+               Bienenbruch, imgleichen das Bierbrauen und Verschenken im Dorf, aber nicht außer
+               desselben Grenzen und am wenigsten in der Mühle gelassen, auch erlaubt, zu seines
+               Hauses Notdurft, aber nicht zum Verkauf, ein paar Mal des Jahres Branntwein zu
+               brennen. Der Stamm von den Bienen ist nebst dem Zuwachs von jungen Bienen der
+               Arrendator dagegen ohne einzige Nachrechnung wegen der letzteren zurückzulassen
+               schuldig.</p>
+            <p>7. Aus dem bei Serwillen vorhandenen Walde sollen dem Pächter zu seiner Notdurft
+                    jährlich 8 Achtel und zum Verkauf 4 Achtel Brennholz von denen dortigen Bauern
+                    angeliefert werden, und tut deshalb die Anweisung der darüber von der Herrschaft
+                    bestellte Waldknecht, der vom Pächter in jedem Felde 1 Morgen Acker zugewiesen,
+                    auch 2 Fuder Heu zu empfangen hat. Das benötigte Geschirrholtz soll ihm auf sein
+                    Anhalten gereicht werden.</p>
+            <p>8. Die Jurisdiktion bleibt der Gnädigen Frau Gräfin vor wie nach nach der bisherigen
+               Art über den Pächter und die ihm übergebenen Leute.</p>
+            <p>9. Um den <seg type="comment"><orig>manquierenden</orig><note xml:id="nxzd_cf5_txb">mangelnden</note></seg> Kühe-Stamm zu supplieren, werden Ihro Gnaden dem
+               Arrendatori die fehlende Kühe sogleich mit <seg type="comment">
+                  <orig>4 Rtlr. p. Stück bonifizieren</orig>
+                  <note xml:id="no3r_wdn_15b">Wilewskis Quittung liegt bei.</note></seg>, und ist er
+               schuldig, den Ankauf davon in <gap reason="illegible"/> zu besorgen, und bei Abzug
+               den Stamm voll zu lassen.  <lb/>Wegen der <seg type="comment"><orig>casum
+                     fortuitorum</orig><note xml:id="np43_2f5_txb">Unglücksfälle</note></seg>, die
+               Gott verhüte, bleibt es</p>
+            <p>10. bei der Landesgewohnheit und der Praxis der Königl. Domänen, in spezie wegen des
+               Rindviehs <ref target="lehndorff_shn_3pq_wsb">gehen bei einer entstandenen Vieh<gap reason="illegible"/> die ersten 10 Stück über den Arrendator, all das übrige
+                  aber über die Herrschaft.</ref>
+            </p>
+            <p>11. ist Arrendator schuldig, jährlich drei Baum-Gänge neu zu decken, auch den Mist
+               durch die Bauern jährlich rein ausführen zu lassen, die Hofgebäude, die Zäune und in
+               spezie den Garten in dem Stande, worinnen es ihm geliefert wird, hauswirtlich mit dem
+                  <gap reason="illegible"/>bau zu unterhalten und so viel tunlich zu verbessern,
+               auch in dem Obstgarten in spezie jährl. wenigstens 10 neue Obstbäume zu setzen. Der
+               Hauptbau und große Reparationes gehen über die Herrschaft.</p>
+            <p>12. Wenn während den Arrende-Jahren der Arrendator mit dem Tode abgehe, so wollen
+                    Ihro Gnaden die Frau Gräfin dessen hinterbliebene Ehegattin wider ihrem Willen
+                    nicht obligieren, die Arrende länger als zum Ende des alsdann laufenden Jahres
+                    zu kontinuieren, sondern es soll ihr vielmehr frei stehen, nach geschehener
+                    richtigen Tradition die Arrende mit Ausgang des Jahres abzugeben.</p>
+            <p>13. Vor <seg type="comment">
+                  <orig>Expirierung</orig>
+                  <note xml:id="ncsq_d45_r5b">Auslaufen, Beendigung</note>
+               </seg> der Arrende muss Pächter ein halbes
+                    Jahr zuvor, wenn er die Arrende nicht kontinuieren wollte, solches der gnädigen
+                    Frau Gräfin aufkündigen, damit sodann bei der Winter- und Sommersaat von Seiten
+                    der Frau Gräfin jemand gegenwärtig sein könne.</p>
+            <p>Zu mehrerer Festhaltung ist dieser Kontrakt von beiderseits Kontrahenten in zwei
+                    gleichlautenden Exemplaren unterschrieben.</p>
+            <p>So geschehen Steinort d. 13. Juni 1735</p>
+            <p>
+               <seg type="comment">
+                  <orig>Albrecht Wilefski</orig>
+                  <note xml:id="nzr3_tdn_15b">eigenhändige Unterschrift</note>
+               </seg>
+            </p>
+            <p>
+               <note type="editorial">Es folgt eine Aufstellung über Aussaat, Scharwerk,
+                        lebendes und totes Inventar sowie eine Beschreibung des Zustandes der
+                        Gebäude, datiert Serwillen 21. Juni 1735</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

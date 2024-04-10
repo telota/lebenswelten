@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_rqk_v2n_1tb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Carl Friedrich Ludwig Graf von Lehndorff an </title><title>Graf zu Dohna-Schlobitten. Steinort, 9. Februar 1837</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Fürstliches Hausarchiv Dohna-Schlobitten, Nr. 2269</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1837-02-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_rml_3dr_gz">Dohna-Schlobitten, Alexander Fabian Burggraf und
+                        Graf zu (1781-1850)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 9. Februar 1837</dateline>
+               <salute>Mein teurer und verehrter Herr <unclear reason="illegible" cert="high">Graf</unclear>!</salute>
+            </opener>
+            <p>Erst vorgestern dem Bette entstiegen, an welches mich eine böse Grippe, die mich
+                    längere Zeit geplagt, mehrere Tage gefesselt hatte, bitte ich Ew. Exzellenz um
+                    Verzeihung, ein paar Posttage vorübergelassen zu haben, bevor es mir möglich
+                    geworden, Ihren sehr gütigen Brief vom 18. Januar zu beantworten und Ihnen
+                    meinen herzlichen und innig gefühlten Dank für den geneigten freundlichen Anteil
+                    auszudrücken, den Sie an meinem und der meinigen Schicksal und dem nunmehr
+                    teilweise überstandenen Kummer nehmen wollen, der mich diesen Winter recht
+                    bitter und schwehr heimgesucht. Ich mag Ihnen keine Schilderung aller der Mühen
+                    und Schmerzen machen, die ich empfunden, seit drei Monaten wechselten Angst und
+                    Hoffnung in meinem Hause und in meinem Herzen, und noch ist die Qual nicht
+                    überstanden, denn das Liebste, meine Kinder, meine älteste Tochter gibt nun auch
+                    Hoffnung zu ihrer Erhaltung, der leisteste Zufall kann sie zerstören, denn ein
+                    noch fortdauerndes Fieber, welches den Puls mit 130-140 Schlägen auf die Minute
+                    treibt, lässt noch immer uns das Ärgste besorgen und bei ihrer unerhörten
+                    Schwäche die Auszehrung fürchten, doch ist mein Herz von <gap reason="illegible"/> Gottes Gnade erfüllt, welche doch wenigstens die Hoffnung in dasselbe
+                    zurückkehren ließ, denn schon sah ich den Verlust zweier meiner Kinder als
+                    unvermeidlich an und mein Herz war gebrochen, Gott wolle mir ferner gnädig sein!
+                    <lb/>Wenn mich in dem, was mir das Liebste auf Erden ist, meinen Kindern, nicht
+                    bis zur Eröffnung des Landtages ein neues Unglück befällt, so gewährt mir die
+                    Aussicht, mit Ew. Exzellenz in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zusammenzutreffen, eine mehrere und recht große
+                    Freude, noch erfreulicher wäre es mir gewesen, Ew. Exzellenz zu unseren Kollegen
+                    beim Landtage zählen zu dürfen. Männer wie Sie sollten diese Stellung - wenn sie
+                    für jetzt auch noch mehr lästig als sehr anziehend ist, mehr suchen als
+                    vermeiden, Männer wie Sie sind sehr geeignet sie zu heben und für die Zukunft zu
+                    reifen; suchen Sie doch womöglich die längere Zeit des versammelten Landtages in
+                    Königsberg zu bleiben und wenn nicht direkt, doch konsultativ den Sachen durch
+                    Ihren Einfluss wohltätig zu sein. <lb/>Was Ew. Exzellenz mir gemachte Eröffnung
+                    wegen dem hiesigen Wirtschaftsgehilfen p <persName key="ed_clc_sfl_wcb">Scheimann</persName> anbetrifft, so muss ich <gap reason="illegible"/>
+                    befürworten, dass, so viel ich weiß, derselbe ebensowenig seine hiesige Stellung
+                    aufzugeben gesonnen ist, als ich ihn zu verlieren wünschte; Scheimann ist in dem
+                    Verhältnis, in welchem er hier stet - n. b. als ein Wirtschafts<hi rendition="#u">gehilfe</hi> unter direkter Leitung des Inspektors und dem
+                    meinigen, ganz gut und recht brauchbar, treu, ordentlich, fleißig, und mir in
+                    diesen Beziehungen wert; ob er aber selbständig ohne tägliche Anweisung mit der
+                    Direktion einer Wirtschaft beauftragt Ew. Exzellenz Wünschen  und Erwartungen
+                    Genüge leisten würde, ist eine andere Frage und möchte ich fast bezweifeln.
+                    Scheimann , der Sohn eines Dorfschulzen in hiesiger Gegend, hat sehr wenig
+                    Vorbildung, in wirtschaftlicher Hinsicht ist er reiner Empiriker, und ich glaube
+                    schwer, dass er sich in einem amderen Gleise als das mechanisch gewöhnte so
+                    leicht finden wüde, besonders, wenn die Rechnungsführung mit seiner Stellung
+                    verbunden wäre; zudem ist er von einer schwächlichen Konstitution und öfters
+                    kränklich. Vor einiger Zeit schrieb der Herr Landschaftsrat <persName key="ed_eth_4b4_1tb">v. Schönaich</persName> auf Tromnau bei <gap reason="illegible"/> an mich um denselben Gegenstand, nachdem er schon zuvor
+                    mit Scheimann korrespondierte - ich erhielt seinen Brief in Königsberg und
+                    schickte denselben, anbei seinen provosorisch mitgesandten Kontrakt, hierher an
+                    Scheimann, bei meiner Rückkehr aber sagte mir dieser, dass er den Herrn v.
+                    Schönaich abgeschrieben und gern bleiben würde, wenn ich ihn nach der
+                    gepflogenen Korrespondenz behalten wolle, er sei zu ängstlich, sich in das ihm
+                    abgebotene Verhältnis einzulasen, obgleich die ihm gemachten Anerbietungen weit
+                    vorteilhafter als sein hiesiger Etat wären, und ich konnte ihn um dieser
+                    Selbstgerechtigkeit nur loben. <lb/>Dies ist, verehrter Graf, was ich Ihnen über
+                    den Gegenstand mit Überzeugung und gutem Gewissen sagen kann; noch habe ich
+                    Scheimann von Ihrem geneigten Anerbieten nicht unterrichtet, sind Sie aber nach
+                    dieser treuherzigen Mitteilung doch gewilligt und ist es Ihnen viel darum zu
+                    tun, den Scheimann zum <gap reason="illegible"/> für <gap reason="illegible"/>
+                    zu haben, so will ich ihm in seinem Glücke nicht hinderlich sein, und erwarte
+                    Ihre Entscheidung, denn allerdings ist das ihm dargebotene Gehalt bedeutend
+                    erheblicher als das, was er hier bezieht. <lb/>Nun teurer Herr Graf, gewähren
+                    Sie mir diese Gunst, mich Ihrer so hochverehrten, mir so wahrhaft ehrerbietig
+                    teuren Gemahlin und Fräulein Natalie untertänig zu Füßen zu legen <gap reason="insignificant"/>
+            </p>
+            <closer>
+               <salute>der ich fürs Leben beharre Ew. Exzellenz ganz und treu ergebener Diener
+                        und Vetter</salute>
+               <signed>Lehndorff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_hnh_lfd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inventar des Hofes Labab, aufgestellt bei der Annahme des Christoph Poltzien als
+               Pächter. Labab, 30. März 1715</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>1718 verklagte der 82-jährige <persName key="ed_z3z_nzp_lpb">Albertus
+                     Henrici</persName>, der das Kind des Poltzien unterrichtet hatte, diesen vor
+                  dem König und dem „Jurisdictionario loci‟, er hätte ihm seine Habseligkeiten sowie
+                  ein ausstehendes Salär vorenthalten, ihn als „Galgendieb, alten Schelm, alten Jud‟
+                  beschimpft und ihn mit einem Stock angegriffen. Später habe ihm dessen Frau mit
+                  ihrem Gesinde den Weg auf der Landstraße versperrt, ihn beschimpft und das Pferd
+                  vom Wagen ausgespannt, so dass er nach Rosengarten hätte laufen müssen. </p>
+               <p>Die Angelegenheit wurde dem Amtshauptmann zu Memel übergeben. Auf Polziens
+                  Vertrag hatte dies keine Auswirkung. Er wurde mehrfach verlängert, noch bis 1727
+                  war er Pächter von Labab. Dann endete das Vertragsverhältnis jedoch in einer
+                  gerichtlichen Auseinandersetzung, StA L, Bestand 21950 Familienarchiv Lehndorff,
+                  Nr. 340: Gerichtsprotokoll über eine Auseinandersetzung zwischen Ahasverus Ernst
+                  von Lehndorff und dem Pächter Christoff Johann Poltzien (1724-1727). </p>
+               <p>1728 bis 1738 war das Vorwerk Labab zusammen mit Klein Steinort an v. <persName key="ed_kls_v2b_ycb">Schlichting</persName> verpachtet. 1738-1742 ist <persName key="ed_jpz_4sf_fqb">Johann Hermann Friese</persName> als Pächter nachweisbar,
+                  1742-1744 <persName key="ed_yrq_4nf_fqb">Georg Knetsch,</persName> 1753-1760
+                     <persName key="ed_isn_ssf_fqb">Johann Meyer</persName>, 1760 bis 1764 <ref target="lehndorff_wbl_hj4_j3b">
+                     <persName key="ed_gc3_fxc_m3b">Carl Heinrichs</persName> (1776- 1782 Pächter
+                     von Taberlack)</ref> und 1765-1772 <persName key="ed_mn5_ktx_hhb">Johann
+                     Hoffmann</persName> (davor Pächter von Taberlack); alle Verpachtungsakten
+                  befinden sich im GStA PK und im StA L. </p>
+               <p>Zu den Erträgen von Labab (und der anderen Höfe): GStA PK, XX. HA, Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 338 (ca. 1719), Nr. 172 (1720er/30er Jahre),
+                  Nr. 742 (1747, 1750); <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941428">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 67 (1790/91)</ref>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 125, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xpm_112_gy">Labab</placeName>
+            <date when="1715-03-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hnh_lfd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Inventarium des Hofes <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>welches dem Arrendatori <persName key="ed_jxf_qym_s2b">Christoph
+                        Poltzien</persName> bei Antretung seiner Arrende den 30. März 1715
+                    übergeben, welches der Arrendator Christoph Poltzien bei Abtretung seiner
+                    Arrende nebst denen hiernach gesetzten Stücken völlig zu liefern schuldig ist.
+                    Nämlich: </p>
+            <p>Ein mit zwei <seg type="comment">
+                  <orig>Last</orig>
+                  <note xml:id="nckk_gbz_tqb">Getreidemaß. 1 Last = 3.158 Liter = 3,158 m³</note>
+               </seg> einundvierzig Scheffel Korn und dreißig Scheffel Weizen vollbesätes
+               Winterfeld</p>
+            <p>Das Sommerfeld hat er auf den Winter ganz eingestürzt gefunden, solches zu besäen
+                    sind ihm drei Last und fünfzehn Scheffel Haber, ein halber Scheffel große graue
+                    Erbsen, fünf und ein halber Scheffel kleine graue Erbsen, vier Scheffel weiße
+                    Erbsen, zwei Scheffel Bohnen und achtundvierzig Scheffel Gerste zugemessen
+                    worden. </p>
+            <p>Fünfundfünfzig Stück milchende Kühe à 5 Rtlr. das Stück taxiert. Darunter sind
+                    vier stärkere, davor der Arrendator beim Abzug entweder vier gekalbte oder
+                    gewiss trächtige Stücke wiederliefern muss, denn 3 schon vor der Übergabe
+                    gekalbt haben.</p>
+            <p>Sechs Ochsen à 8 Rtlr. <lb/>Ein altes Boll à 6 Rtlr. <lb/>Sechs Pferde à 5 Rtlr.
+               <lb/>Drei einjährige Ochskälbchen <lb/>Drei einjährige Kuhkälbchen <lb/>Sechs
+               Schweine zweijährig <lb/>5 Schweine dreijährig <lb/>5 <seg type="comment"><orig>Börge</orig><note xml:id="nss3_nrd_sxb"><ref target="https://de.wikipedia.org/wiki/Borg_(Hausschwein)">kastrierter
+                        Eber</ref></note></seg> zweijährig <lb/>3 Börge einjährig <lb/>1 <gap reason="illegible"/>
+               <lb/>20 Stück Gänse <lb/>Einen Hahn, zehn Hühner <lb/>Zehn Stück Enten, ein Wardt
+               <lb/>Zehn Stück Kaldaunen, zwei Hahnen.  <lb/>Hierbei ist zu observieren, dass der
+               Arrendator schuldig und verbunden, lauter alt Federvieh, als sein Gänse, Hühner p.,
+               beim Abzug nebst denen Eiern, so da möchten vorhanden sein, aufrichtig zu lassen,
+               auch kein jung Federvieh zu geben. Absonderlich die Gänse, da sie entweder junge
+               Gänse oder lauter <gap reason="illegible"/>. Auch die gesessenen Gänse und Hühner
+               müssen gelassen werden. Da nun vor dem 30. März 1715 sieben Stück Kälber abgesetzt
+               worden, als muss er beim Abzug wieder so viel Vieh liefern, die anderen Kälber aber
+               müssen durch das Gesinde <unclear reason="illegible" cert="high">besehen</unclear>
+               werden, denn viel Vieh aufs Neue gekalbt, die er alle vom 1718 Jahre an lassen muss.
+                  <gap reason="insignificant"/>
+               <note type="editorial"> Es folgen die Namen der 50 Kühe.</note>
+            </p>
+            <p>Dem Gesinde als einem Knecht, zwei Mägden ist ihr Lohn und Deputat von <seg type="comment"><orig>Martini</orig><note xml:id="nwgp_k14_txb">11.
+                  November</note></seg> 1714 bis zur Entrichtung der Arrende für ein Halbjahr völlig
+               in der Pachtrechnung angenommen und abgerechnet worden. Den selben Lohn bekommen die
+               Mägde auf dem Hofe. Der Junge soll auch die halbe Kleidung und 1 paar Schuh aus dem
+               Hofe bekommen.</p>
+            <p>In dem Hofe sind die Fenster alle gut, die Türen und Ställe im Hofe sind alle mit
+               eisernen Bändern und Haken <gap reason="illegible"/>. Das Dach ist mit Dachstroh gut
+               belegt, aber wenig dessen verworfen. Vor die 2 Kapfenster sind hölzerne Fenster mit
+               Bänder und Haken. </p>
+            <p>Der kleine Schuppen mit den 6 Türen und Gang-Tür haben alle 2 Haken und eiserne
+                    Bänder. Das Dach nach <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> zu
+                    ist ganz neu, nach dem Gehöft aber muss es repariert werden. </p>
+            <p>Der ältere Kuh-Schuppen hat Türen mit <unclear reason="illegible" cert="high">Läufen</unclear>, das Dach muss ausgeflickt werden.</p>
+            <p>Das Tor auf dem Gehöft nach <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> hat 4 Haken und 4 Bänder und Überwurf, das nach dem
+                    Dorf geht auf hölzernen Läufen. </p>
+            <p>Die beiden Türen an der Scheune nach <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> gehen auf hölzernen Läufen, die anderen 4 Türen an der
+               Scheune haben eiserne Bänder und Haken und alle 6 Türen haben Haken und Überwurf. Das
+               Dach von der Scheune ist meistenteils ganz schlecht. </p>
+            <p>Der Kutschschuppen hat 2 Türen auf hölzernen Läufen, die kleine Tür hat Haken und
+                    Bänder. Der Kuhschuppen ist gut gedeckt und alle Gebäude gut bekoppelt.</p>
+            <p>Die Gartentür hat 4 Haken und 4 Bänder, der Zaun am Garten nach dem Felde ist
+                    ganz baufällig und soll repariert werden, die anderen 3 Seiten sind gut.</p>
+            <p>Die 2 Türen unter dem Speicher gehen auf Läufen. Die Tür, die auf den Speicher
+                    zugeht, hat ein gut Schloss, Schlüssel, Haken und Bänder. Die Kapfenster auf dem
+                    Speicher haben Haken, Bänder und Überwurf. Das Dach ist etwas abgefallen und
+                    soll repariert werden.</p>
+            <p>Die Zäune um den Garten und Felder sind ihm gut geliefert. </p>
+            <p>An dem Hirten- und Garten-Hause sind die Türen, Dächer, Fenster, Kachelofen alle
+                    gut, beim Gärtnerhaus eine Dachleiter.</p>
+            <p>An Hausgeräte</p>
+            <p>
+               <list>
+                  <item>2 große Bohrer</item>
+                  <item>1 Schneidemesser</item>
+                  <item>2 <unclear reason="illegible" cert="low">Wacht</unclear> Nagel</item>
+                  <item>1 Holzaxt</item>
+                  <item>1 paar Hammer und Amboss dafür</item>
+                  <item>1 gute Sense</item>
+                  <item>2 schlechte Sensen</item>
+                  <item>5 Stück Sicheln</item>
+                  <item>1 Hächselmesser und 2 Ringe nebst 2 Hächselladen</item>
+                  <item>3 Paar Locheisen und 3 Podiemen</item>
+                  <item>4 beschlagene <unclear reason="illegible" cert="low">Bracken</unclear>
+                  </item>
+                  <item>4 Paar Zäume mit besten Stricken</item>
+                  <item>2 Jagdleinen</item>
+                  <item>7 Schlösser an den Scheunen, alle gut</item>
+                  <item>2 Wagen mit allem Zubehör, davon einer ganz neu, der andere gut</item>
+                  <item>1 Wagen von <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                            gut</item>
+                  <item>12 Stück Milchtöpfe</item>
+                  <item>2 Holzschlitten</item>
+                  <item>5 Milch Stüppel</item>
+                  <item>1 Schrag</item>
+                  <item>3 Butter Fässer so gut repariert</item>
+                  <item>1 gläserne Laterne</item>
+                  <item>1 Spaten</item>
+                  <item>1 Milch <unclear reason="illegible" cert="low">Rawde</unclear>
+                  </item>
+                  <item>1 Grütz Stampe samt der Keul</item>
+                  <item>2 <gap reason="illegible"/> Tonnen</item>
+                  <item>1 halbe <gap reason="illegible"/> Tonne</item>
+                  <item>2 Tische</item>
+                  <item>2 Bänke um den Tisch</item>
+                  <item>2 Schaffe in der Mauer in der kleinen Stube</item>
+                  <item>1 Schaff in der großen Stube</item>
+                  <item>1 kupferner Kessel, wiegt 19 1/2 Pfund ohne den eisernen Ring, d. 20.
+                            Jan. 1715 ist darin ein neuer Boden gemacht</item>
+                  <item>1 <gap reason="illegible"/> zu Weiten, schon gebraucht</item>
+                  <item>1 guter Schleifstein</item>
+                  <item>2 Eggen mit 59 guten Zinken</item>
+                  <item>
+                     <list rendition="#rightBraced">
+                        <item>1 halben</item>
+                        <item>1 quarter</item>
+                        <item>1 halb quarter</item>
+                     </list>zur Butter</item>
+                  <item>1 kleine Mulde</item>
+                  <item>1 beschlagener Königsberger guter Scheffel</item>
+                  <item>1 Quirl</item>
+                  <item>4 Stück Achsen</item>
+                  <item>1 wollenes Unterbett und 1 Stück von <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                  </item>
+                  <item>2 neue hölzerne Holzflaschen zur Milch </item>
+                  <item>1 Futterkorb</item>
+               </list>
+            </p>
+            <p>Abgeschriebenes Inventarium ist in zwo Hof Exemplaris geschrieben und eines Ihro
+               Hochgräfl. Exzellenz der Frau <persName key="ed_q4s_xyl_2y">Gräfin von
+                  Lehndorffen</persName>, das andere Exemplar dem Arrendatori <persName key="ed_jxf_qym_s2b">Christoph Poltzien</persName>, welcher dawider was darinnen
+               spezifiziert nichts zu sagen gehabt, und alles gut überliefert worden, eingehändigt,
+               und von beiderseits Kontrahenten unterschrieben worden,</p>
+            <p>Steinort, den 30. März 1715</p>
+            <p>
+               <seg type="comment">
+                  <orig>M. E. v. Lehndorff</orig>
+                  <note xml:id="nzbd_q4g_1qb">eigenhändig</note>
+               </seg>
+            </p>
+            <p>
+               <seg type="comment">
+                  <orig>Christoph Poltzien</orig>
+                  <note xml:id="nl3w_q4g_1qb">eigenhändig</note>
+               </seg>
+            </p>
+            <p>
+               <note type="editorial">Es folgt der „Anschlag von Labab Ao. 1715‟ . Danach
+                        bestand die Ausstattung mit Saatgut aus 2 Last 41 Schfl. Korn, 30 Schfl.
+                        Weizen, 48 Schfl. Gerste zur Winter- und Sommersaat, 12 Schfl. Erbsen und
+                        Bohnen und 3 Last 15 Schfl. Hafer. Davon war der Ertrag das zweite
+                        Korn:</note>
+            </p>
+            <p>
+               <table rows="7" cols="2">
+                  <row>
+                     <cell>5 Last 22 Schfl, Korn a 50 Gr.</cell>
+                     <cell>536 Fl. 20 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Last Weizen à 2 Fl.</cell>
+                     <cell>120 Fl. </cell>
+                  </row>
+                  <row>
+                     <cell>1 Last 36 Schfl. Gerste à 40 Gr.</cell>
+                     <cell>128 Fl. <lb/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>24 Schfl., Erbsen und Bohnen à 5 Gr. </cell>
+                     <cell>40 Fl. <lb/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6 Last 30 Schfl. Haber à 20 Gr.</cell>
+                     <cell>260 Fl. <lb/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Von 50 Kühen die Pacht à 20 Tlr. die Kuh</cell>
+                     <cell>
+                        <hi rendition="#u">666 Fl. 20 Gr.</hi>
+                        <lb/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>1.751 Fl. 10 Gr.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Hiervon gehen ab:</p>
+            <table rows="40" cols="2">
+               <row>
+                  <cell>an Lohn dem Hofmann 50 Tlr., 1 Knecht 18 Fl. </cell>
+                  <cell>86 Fl. 18 Gr.</cell>
+               </row>
+               <row>
+                  <cell>2 Mägde 18 Fl. 18 Gr., 2 Gärtner 20 Tlr., 1 Hirte 5 Tlr. </cell>
+                  <cell>30 Fl.</cell>
+               </row>
+               <row>
+                  <cell>18 Schfl. Korn dem Hofmann à 50 Gr. </cell>
+                  <cell>1 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell>1 Schfl. Gerste demselben </cell>
+                  <cell>4 Fl. 20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Schfl. Haber und 5 Schfl. zum Mastschwein à 20 Gr.</cell>
+                  <cell>4 Fl. 20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Schfl. Erbsen à 50 Gr. </cell>
+                  <cell>1 Fl. 20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Tonne Bier</cell>
+                  <cell>10 Fl. </cell>
+               </row>
+               <row>
+                  <cell>Vor Licht 4 Rtlr. </cell>
+                  <cell>2 Fl. 20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>4 Tonnen Tafelbier </cell>
+                  <cell>4 Fl. </cell>
+               </row>
+               <row>
+                  <cell>1 Schaff </cell>
+                  <cell>2 Fl. </cell>
+               </row>
+               <row>
+                  <cell>2 Paar Schuhe und 1 Paar Strümpfe der Hofmeisterin </cell>
+                  <cell>2 Fl. 24 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Haut zu Stiebeln </cell>
+                  <cell>2 Fl. </cell>
+               </row>
+               <row>
+                  <cell>1 Tonne grob Salz </cell>
+                  <cell>11 Fl. </cell>
+               </row>
+               <row>
+                  <cell>5/8 fein Salz </cell>
+                  <cell>6 Fl. </cell>
+               </row>
+               <row>
+                  <cell>auf 4 Gesinde Deputat Korn 32 Schfl. </cell>
+                  <cell>53 Fl. 10 Gr. </cell>
+               </row>
+               <row>
+                  <cell>4 Schfl. Gerste </cell>
+                  <cell>5 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell>9 Schfl. Haber mit dem zur Mästung </cell>
+                  <cell>6 Fl. </cell>
+               </row>
+               <row>
+                  <cell> 2 Schfl. Erbsen </cell>
+                  <cell>3 Fl. 10 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Seite Speck dem Gärtner </cell>
+                  <cell>3 Fl. </cell>
+               </row>
+               <row>
+                  <cell>1 Sch<gap reason="illegible"/>
+                  </cell>
+                  <cell>1 Fl. </cell>
+               </row>
+               <row>
+                  <cell> 14 Stoff Salz </cell>
+                  <cell>1 Fl. 11 Gr. </cell>
+               </row>
+               <row>
+                  <cell>4 Schock Käse </cell>
+                  <cell>2 Fl. 20 Gr.</cell>
+               </row>
+               <row>
+                  <cell>4 Stof Butter </cell>
+                  <cell>2 Fl. 12 Gr. </cell>
+               </row>
+               <row>
+                  <cell>5 Schfl. Korn dem Hirten </cell>
+                  <cell>8 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell>1/2 Schfl. Erbsen </cell>
+                  <cell>25 Gr.</cell>
+               </row>
+               <row>
+                  <cell>1 Schfl. Gerste </cell>
+                  <cell>1 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell> 1 Schfl. Haber </cell>
+                  <cell>15 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Stof Butter </cell>
+                  <cell>18 Gr. </cell>
+               </row>
+               <row>
+                  <cell>3 Stof Salz </cell>
+                  <cell>15 Gr. </cell>
+               </row>
+               <row>
+                  <cell>1 Schock Käse </cell>
+                  <cell>20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>8 Tonnen Tafelbier </cell>
+                  <cell>8 Fl. </cell>
+               </row>
+               <row>
+                  <cell>1 Deputat Kuh dem Hofmann und Gesinde </cell>
+                  <cell>13 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell>20 Schfl. Korn des Gärtners </cell>
+                  <cell>33 Fl. 10 Gr. </cell>
+               </row>
+               <row>
+                  <cell> 2 Schfl. Gerste </cell>
+                  <cell>2 Fl. 20 Gr. </cell>
+               </row>
+               <row>
+                  <cell>2 Schfl. Haber </cell>
+                  <cell>1 Fl. 10 Gr. </cell>
+               </row>
+               <row>
+                  <cell>2 Schfl. Erbsen  </cell>
+                  <cell>3 Fl. 10 Gr. </cell>
+               </row>
+               <row>
+                  <cell>Noch allerhand Eisenwerk und Geschirr </cell>
+                  <cell>
+                     <hi rendition="#u">20 Fl. </hi>
+                     <lb/>338 Fl. 18 Gr.</cell>
+               </row>
+               <row>
+                  <cell>Soll geben </cell>
+                  <cell>1.751 Fl. 10 Gr.</cell>
+               </row>
+               <row>
+                  <cell>Hiervon gehen ab </cell>
+                  <cell>
+                     <hi rendition="#u">338 Fl. 18 Gr.</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <p>bleiben übrig</p>
+                  </cell>
+                  <cell>
+                     <hi rendition="#uu">1.412 Fl. 22 Gr.</hi>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

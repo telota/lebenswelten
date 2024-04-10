@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_ikn_fkd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verhandlung wegen des Verkaufs des Grundstücks Rosengarten Nr. 10 durch
+                    Christian Kistermann als „Ausgedinge‟. Angerburg, 1. Juni 1844</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Akte der gräflichen Domäne Steinort.</p>
+               <p>Weitere Akten aus dem Zeitraum 1840 bis 1854, den Ankauf von Grundstücken in
+                  Rosengarten betreffend, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 35 bis 46. Angekauft wurden das Eigenkätnergrundstück Nr.
+                  1 von <persName key="ed_p21_q5t_fqb">Friedrich Hofer</persName>, die
+                  Bauerngrundstücke Nr. 16, 17 und 20 von Bauer <persName key="ed_mcj_s5t_fqb">Rogowski</persName>, <persName key="ed_rk5_v5t_fqb">Jacob
+                     Szczepanski</persName> und <persName key="ed_dpr_y5t_fqb">Johann
+                     Wentzeck</persName>, die Waldgrundstücke Nr. 14 und 21 vom Bauernland des
+                     <persName key="ed_irm_lvt_fqb">Johann Molter</persName> und <persName key="ed_cwd_nvt_fqb">Friedrich Fermer</persName>, die Hof- und Gartenstelle Nr.
+                  22 (vormals Besitz des <persName key="ed_ybt_pvt_fqb">Johann Lempert</persName>)
+                  sowie das Grundstück Nr. 8 von <persName key="ed_alp_rvt_fqb">Carl Ludwig
+                     Dreschow</persName>. Zu den Hypothekenangelegenheiten der Grundstücke
+                  Rosengarten Nr. 6, 20a und b sowie 22 Nr. 42 (1845-1855). Ca. hundert Jahre zuvor
+                  war ein <ref target="lehndorff_mh2_chd_vpb">Johann Molter bereits Pächter des
+                     Vorwerks Rosengarten (1745-1746)</ref>, ebd., Nr. 393.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 47, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            <date when="1844-06-01" cert="high"/>
+         </creation>
+         <abstract>
+            <p>
+               <note>
+                  <p>Am 1. Juni 1844 wurde vor dem <orgName key="ed_wmk_wvt_fqb">Land- und
+                        Stadtgericht in Angerburg</orgName> und dem Deputierten der freiwilligen
+                     Gerichtsbarkeit verhandelt:</p>
+                  <p>Der Wirt <persName key="ed_z4k_yvt_fqb">Jacob Kolpach</persName> und seine mit
+                     ihm in Gütergemeinschaft lebende Ehefrau <persName key="ed_swl_1wt_fqb">Maria,
+                        geb. Nolde</persName>, verkauften an <persName key="ed_q4j_dwt_fqb">Eleonore, geb. Dreschau, verh. Kistermann</persName> und den mit ihr in
+                     Gütergemeinschaft lebenden Ehemann <persName key="ed_ky1_hwt_fqb">Christian
+                        Kistermann</persName> aus <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> die Bauerngrundstücke Nr. 10 a und b, von dem sie
+                     das erste am 26. März 1829 bei der <persName key="ed_npj_jwt_fqb">Michael
+                        Noldeschen</persName> Subhastation, das zweite von den Michael Noldeschen
+                     Eheleuten gekauft haben, mit Ausschluss der nach dem Kontrakt vom 11. Januar
+                     1843 abgezweigten Hof- und Gartenstelle, mit allem lebenden und toten
+                     Inventar.</p>Außerdem verkaufen sie das gesamte auf dem Grundstück befindliche
+                  Mobiliar ohne Ausnahme, wie Betten, Wäsche, Kleider. <p>Das Kaufgeld beträgt 600
+                     Rtlr. 20 Sgr. 4 Pf. </p>In § 3 wird explizit darauf verwiesen, dass der Wert
+                  der Grundstücke den Kaufpreis um mehr als das Doppelte übersteigt und man auf
+                  spätere Einrede verzichtet. <p>Die Käufer übernehmen auf Abrechnung des Kaufgeldes
+                     das auf beiden Grundstücken haftende Inventarien-Kapital mit 100 Rtlr. 60 Sgr.
+                     4 Pf. </p>Die Verkäufer überweisen aus dem Kaufgeld dem Sohn der Ehefrau Maria
+                  Kolpach aus ihrer früheren Ehe, Wirt <persName key="ed_alp_rvt_fqb">Ludwig
+                     Dreschow</persName>, zur Abfindung für seinen künftigen Mutterteil 200 Rtlr.,
+                  der Tochter <persName key="ed_ghz_twt_fqb">Wilhelmine</persName> zur Abfindung 243
+                  Rtlr, 22 Sgr., 6 Pf., und übernehmen es, den mütterlichen Erbteil von 56 Rtlr, 7
+                  Sgr., 6 Pf. zu zahlen. <p>Statt der Zinsen des Kaufgeldes erhalten die Verkäufer
+                     ein „lebenslängliches Ausgedinge‟: freie Wohnung, Heizung und Feuerung in dem
+                     Stübchen hinter dem Ofen oder statt Feuerung und Heizung jährlich 1 ½ Achtel
+                     weiches Brennholz, eine Kuh mit Futter und Weide, die Kälber verbleiben den
+                     Verkäufern, zwei Schafe nebst den Lämmern in freier Weide und Futter, eine Gans
+                     in freier Weide und Futter nebst Brut, zwei Hühner nebst der Brut und freiem
+                     Futter, zwei Küken im Garten, bearbeiteten Acker zu einem viertel Scheffel
+                     Aussaat, freies Fuhrwerk zum Besuch der Kirche, der Verwandten und zur Reise in
+                     die Stadt, so oft die Berechtigten es wollen, die Benutzung des
+                     Hausstand-Küchengeräts, jährlich im Voraus 2 Scheffel Weizen, 12 Scheffel,
+                     Roggen, je 2 Scheffel, Gerste, Erbsen, Hafer, 20 Scheffel Kartoffeln, 1
+                     gemästetes Schwein von 110 Pfund, ein <seg type="comment">
+                        <orig>Stein</orig>
+                        <note xml:id="nqpp_lfh_wqb">Gewichtsmaß. In Königsberg war 1 großer Stein =
+                           15428 Gramm, 1 kleiner Stein = 9.350 Gramm.</note>
+                     </seg> Flachs, ½ Scheffel Salz, freies Futter für ein Schwein, das die
+                     Berechtigten selbst anschaffen müssen, freie Wäsche, freies Begräbnis.</p>Das
+                  Ausgedinge soll im Hypothekenbuch verzeichnet und mit dem Tod der Berechtigten
+                  gelöscht werden. Beim Tod des Ersten erhält der Verbliebene die unteilbaren Stücke
+                  ganz, von den anderen die Hälfte. <p>Wenn Wilhelmine heiratet, soll sie von den
+                     Käufern erhalten: eine Kuh im Wert von 15 Rtlr., ein vollständiges Bett mit
+                     dreifachen Bezügen oder 20 Rtlr., Bettgardinen für ein Bett, ein birkenes
+                     Kleiderschaff oder 8 Rtlr., freie Hochzeit oder 33 Rtlr. 10 Sgr. </p>Eleonore
+                  Kistermann erklärt sich durch den Verkauf bereits mit dem elterlichen Erbe
+                  abgefunden</note>
+            </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ikn_fkd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

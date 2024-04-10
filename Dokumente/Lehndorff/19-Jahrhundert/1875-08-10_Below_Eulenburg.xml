@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_sfb_dcy_cqb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Emmy von Below an ihre Tante Therese Gräfin zu Eulenburg. Gastein, 10. August
+               1875</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Familienarchiv v. Below, Nr. 9</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ufp_cv5_22b">Below, Emmy von (1845-1917)</persName>
+               <placeName key="ed_avy_p42_cy">Bad Gastein</placeName>
+               <date when="1875-08-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_ixj_kcy_cqb">Eulenburg, Therese zu (-)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Gastein, 10. August 1875</dateline>
+               <salute>Meine Tante,</salute>
+            </opener>
+            <p>ach Ihr seid so lieb und gut, mich so treu mit Nachrichten zu verwöhnen <gap reason="insignificant"/> ich hätte Euch so viel zu erzählen und schriftlich
+                    ist das alles so mühsam! Unsere Kaiserzeit war zu reizend und <placeName key="ed_avy_p42_cy">Gastein</placeName> kommt uns ganz leer und öde vor,
+                    seitdem der liebe liebe <persName key="ed_lwx_y32_cy">Herr</persName> fort ist!
+                    Ein so gemütliches Zusammenleben mit ihm hätte ich mir nie träumen lassen, und
+                    man ist so recht vom Kaiser begeistert, von seiner hinreißenden
+                    Liebenswürdigkeit und wahren Herzenswärme! Fünf Mal war er den Abend hier und
+                    außerdem sah man ihn täglich draußen auf dem schönen Kreisweg am Morgen oder am
+                    Nachmittag beim Kegelspiel, an dem er immer vorbeifuhr und fast jedesmal
+                    ausstieg. Einmal hat er uns zum Diner eingeladen, nach Böckstein, es <gap reason="illegible"/> wie das Dorffest nach der Schweizerhütte. Das war auch
+                    zu allerliebst, es hatte ganz den Anschein eines Familien-Diners. Ach Tante,
+                    länger und länger recht könnte ich Dir davon schreiben, und es tut mir zu leid,
+                    dass ich Dich nun so bald nicht sehe, um Dir alles zu erzählen!</p>
+            <p>Am letzten Abend schenkte er uns noch seine Photografie und ganz wunderhübsche
+                    Geschenke, die er selbst verteilte und aus seinen Taschen hervorholte. Ich bekam
+                    ein wunderschönes Armband und Du kannst Dir denken, von welchem Wert mir das
+                    ist, aus dieser kaiserlichen Hand selbst empfangen zu haben! Am anderen Morgen
+                    standen wir alle 8 Damen mit eben so vielen Leutnants, die die Buchstaben „Heil,
+                    WILHELM‟ trugen, hier vor der Solitude, wo der Kaiser ausstieg und mit den
+                    rührendsten Worten Abschied von uns nahm!</p>
+            <p>Du kannst Dir denken, wie unsere Herzen ihm nachweinten, als sein Wagen
+                    davonrollte und unsere Gebete Segen auf seinen Weg herabflehten! Der arme
+                        <persName key="ed_nml_dw2_cy">Heinrich Lehndorff</persName>, nach dem Du
+                    dich so teilnehmend erkundigst, reiste hier recht elend ab. Er war schon in
+                        <placeName key="ed_tnj_fcd_gy">Ems</placeName> krank gewesen, erhohlte sich
+                    aber sichtlich hier, bis er sich auf einer Hasenjagd von neuem erkältete, und
+                    die letzten Tage an einer Halzentzündung recht krank war, so dass <persName key="ed_flp_njd_gy">Lauer</persName> ihn kaum wollte reisen lassen. </p>
+            <p>Und nun läst sich in dieser Woche unser ganzer Verein hier auf - am Freitag gehen
+                    wir noch alle zusammen nach <placeName key="ed_mdb_4hz_ny">München</placeName>
+                    und dort ist Trauung. Ich reise mit Eulenburg nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>, während die übrige Gesellschaft eine
+                    kleine Rhein-Spritzfahrt macht. <gap reason="insignificant"/>
+            </p>
+            <closer>
+               <salute>Eure Euch zärtlich liebende gehorsame Nichte</salute>
+               <signed>Emmy</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

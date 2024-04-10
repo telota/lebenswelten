@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_czx_vqk_4qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet aus Steinort über verschiedene Themen. Steinort, 18.
+               Mai 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1811-05-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+           
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_czx_vqk_4qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 18. Mai 1811</dateline>
+               <salute>Gnädigster Herr Graf</salute>
+            </opener>
+            <p>In den Gütern ist noch alles gesund und gut, wir haben bis auf die kleine Gerste in 4
+                    Vorwerken alles zugesät, diese Woche werden wir auch mit Besetzung der
+                    Kartoffelgärten fertig werden, dann die Zäune instand setzen und Dünger anfangen
+                    zu fahren. </p>
+            <p>Der Landbaumeister ist noch nicht hier gewesen, er hat mir aber versprochen,
+                    morgen bestimmt zu kommen, der Zimmermann ist schon ganz unwillig.</p>
+            <p>Die Teichgräber sind gekommen und ich werde alles suchen abgraben zu lassen, was
+                    nur möglich ist.</p>
+            <p>Die <ref target="lehndorff_y1p_wbk_4qb">Stuten von Reuschen</ref> haben 6
+                    Portionen einzunehmen bekommen und gestern sind sie eingeschmiert und werde nach
+                    8 Tagen den Erfolg davon ansehen und sie dann auf Gras bringen. Zuvor wünsche
+                    ich aber wohl der gnädigsten Willensmeinung zu wissen, ob die Reuschenschen
+                    Stuten auch bedeckt werden sollen. </p>
+            <p>Carl ist aus <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> vorgestern
+                    schon retour gekommen und hat beide Schimmelstuten und die Berliner Braune
+                    mitgebracht, die Trakehnsche Braune ist noch dageblieben, die Stute ist tragend
+                    gewesen und hat nach dem Belegen das Fohlen weggeworfen.</p>
+            <p>Mit dem Einteilen des Brachfeldes in <placeName key="ed_xzt_112_gy">Stawisken</placeName> ist der Kondukteur fertig, wir haben jetzt die
+                    Grenzen bereist, die das Vorwerk <placeName key="ed_hyn_yzd_gy">Klein Steinort
+                    </placeName>bekommt, und er arbeitet jetzt am ganzen Plan, danach die
+                    Feldereinteilungen gemacht werden sollen.</p>
+            <p>Vorgestern sind hier aus den Gütern 12 Mann an die Soldaten beordert, beide
+                    Hofknechte, die auf Martini nach <placeName key="ed_xzt_112_gy">Stawisken</placeName> gemietet sind. </p>
+            <p>Der Brenner klagt sehr über die Wärme des Wassers und will nicht länger auf seine
+                    Gefahr brennen. Die Hitze ist auch hier sehr groß, wir haben gestern 20 Grad
+                    Wärme gehabt, und voriges Jahr war die größte Wärme 21 Grad im Monat Juli.</p>
+            <p>Das Stroh haben wir auf allen Vorwerken ja im Überfluss, dass <persName key="ed_ezn_nm3_wqb">Holstein</persName> sein Haus bedachen kann. <seg type="comment"><orig>Die Mäuse werden doch noch vieles zerschneiden. </orig><note xml:id="nayx_tfq_wxb">Allein zwischen dem 27. Januar 1798 und dem 13. September
+                     1799 hatte man auf dem Speicher in Steinort 167 Mäuse gefangen, StA L, Bestand
+                     21950 Familienarchiv Lehndorff, Nr. 265, Bl. 145.</note></seg>Holstein ist
+               gestern bei mir gewesen und hat mir gesagt, dass Ew. Hochgeboren versprochen haben,
+               von unserem Tischler und Holz die Fensterköpfe, Rahmen und Türengerüste machen zu
+               lassen, dazu wird viel Holz und Zeit erfordert und Fichten sind keine vorrätig, dann
+               muss er Eichen nehmen.</p>
+            <p>Der Fährbauer ist schon weit vorgerückt mit dem Bau, nur breiter wie 15 Fuß kann
+                    er sie nicht machen, auch nicht länger wie 30 Fuß, die Bohlen sind nicht länger
+                    wie 30 Fuß geschnitten und stark verhauen, so dass die Breite nicht mehr wie 15
+                    Fuß austrägt, sie wird im Grunde klein und man wird nicht mehr wie 10 bis 12
+                    Stück können überbringen, allein leicht zu rudern.</p>
+            <p>Der Kaufmann, der dem <persName key="ed_kml_2jg_wqb">Willimzig</persName> 5 Fl.
+                    für den Scheffel Weizen geboten hat, heißt <persName key="ed_tt4_qm3_wqb">Sprung</persName>.</p>
+            <p>Wenn Ew. Hochgeboren doch dem Fleischer <persName key="ed_xb5_sm3_wqb">Schön</persName> möchten sagen lassen, dass er entweder seinen Ochsen abholen
+               oder verkaufen möchte lassen, denn sonsten müsste ich ihn ausjagen lassen wenn wir
+               aufhören zu brennen, es hat ein <placeName key="ed_tnl_sgk_gy">Rastenburger</placeName> Fleischer 100 Fl. dafür geboten.</p>
+            <p><seg type="comment"><orig>Der Prediger <persName key="ed_fhx_vm3_wqb">Lüls</persName>
+                     ist gestern hier angekommen und lässt sich Ew. Hochgeboren untertänigst
+                     empfehlen.</orig><note xml:id="ntbd_2gq_wxb">Ab 1811 und in den ersten beiden
+                     Jahrzehnten des 19. Jahrhunderts besuchte der 1798 nach Göritten berufene
+                     Prediger Johann Ernst Lüls jährlich Steinort. </note></seg> Mit mir sieht es
+               auch noch immer schlecht aus, ich kann nicht gesund werden, es bleibt immer beim
+               alten. </p>
+            <p>Herr <persName key="ed_tc2_stm_zcb">Gaehler</persName> lässt sich untertänigst
+                    empfehlen und wenn kein Regen kommt, so wird er schwerlich dieses Jahr auf
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> Kartoffel setzen.</p>
+            <closer>
+               <salute>Mit allem Respekt habe die Ehre mich zu unterzeichnen Ew. Hochgeboren untertänigster
+                        Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

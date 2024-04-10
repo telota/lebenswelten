@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_u4z_kq2_xrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der </title><title>Pächter von Serwillen Johann Wiedtke schreibt an Gräfin von Lehndorff wegen
+               Änderung seines Vertrages. </title><title>9. April 1743</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Dokument vom <ref target="lehndorff_gmy_145_wpb">27. Februar
+                     1742</ref>. - Johann Wiedtke wollte die Pacht in Serwillen nicht fortsetzen,
+                  jedoch gestaltete sich die Auseinandersetzung mit der Herrschaft schwierig. Aber
+                  auch sein Nachfolger, <persName key="ed_ymq_nyx_ssb">W. Schultz</persName> aus
+                     <placeName key="ed_z24_fyx_ssb">Nemmersdorf</placeName>, stellte Bedingungen.
+                  Er monierte, dass die Gebäude noch immer nicht repariert und auch der Speicher in
+                  so schlechtem Stand sei, dass Diebe leichtes Spiel hätten. <ref target="lehndorff_b3v_5rv_msb">1749 war Wiedtke erneut Arrendator in
+                     Serwillen</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 52, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wfv_2f2_2qb">Wiedtke, Johann (-)</persName>
+               <date when="1743-04-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941413"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <salute>Hochgeborene Reichsgräfin, <lb/>Insonders Hochzuehrende Frau Gräfin,
+                        Gnädige Frau.</salute>
+            </opener>
+            <p> </p>
+            <p>Erstlich danke vor Ihro gnädigen guten Willen, dass Ihro Gnaden mich der Freiheit
+                    gegeben haben, länger in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> zu
+                    bleiben, und dagegen auch wiederum, wenn ich nicht bleiben wollte, meine
+                    Dimission haben sollte, so danke gnädigst vor beiderlei. <lb/>Ich wollte
+                    wiederum Ihro Gnaden eine Vorstellung tun, dieweil ich noch nicht in so einem
+                    Stande gewesen bin, und mich dieser so wunderlich vorkommt, dass der sel.
+                    Arrendator <persName key="ed_nwl_cf2_2qb">Albrecht Wilewski </persName>alle die
+                    Gebäude, die er unter seiner Disposition gehabt, in so einem miserablen Stande
+                    gehalten hat, dieweil mir dadurch viel Schaden widerfahren ist, also befürchte
+                    ich mich, dass mich dieses Jahr wiederum geschehen möchte. Nun bitte Ihro
+                    Gnaden, wenn Ihro Gnaden mir länger behalten wollten, und in diesem allen
+                    behilflich sein wollen, wie ich hoffe, dass Ihro Gnaden auch wohl könnten. Wie
+                    folgt:</p>
+            <p>1. Die Gebäude an dem Hofe laut dem Inventario wie auch die Schwellen in allen
+               Gebäuden sind verfault, das Fachwerk fällt aus, die Dächer sind nichts nütze. In dem
+               Viehschuppen, wenn der Mist ausgeführt wird worden, ist nicht möglich, dass die Kühe
+               darin können gehalten werden.</p>
+            <p>2. Die beide Gärtnerhäuser sind so baufällig, dass kein Mensch darin wohnen kann,
+                    imgleichen auch die drei Stuben, wo die Gellfußsche und die beide Gärtner
+                    Pommern und Masuch darin wohnen, auch im schlechten Stande.</p>
+            <p>3. Das Gebäude in <placeName key="ed_lld_mzx_ssb">Schültzen</placeName>, welches auch
+               baufällig ist und von Grenda bewohnt wird, selbiger sagt, dass ihm der sel. Wilewski
+               versprochen, das Gebäude in den Stand zu bringen, dieses auch billig wäre, dieweilen
+               so viele Jahre den Nutzen davon gehabt jährlich 21 F. ohne den Schoss und Dezem.</p>
+            <p>4. Wegen des Müllers, da er doch das ganze Jahr alle die Teiche nutzt.</p>
+            <p>5. Bitte ich wegen der Graben auf den Wiesen, die der selige <persName key="ed_nwl_cf2_2qb">Wilewski</persName> nicht im Stande gehalten, wiederum
+                    von Ihro Gnaden in vorigen Stand bringen zu lassen, wie sie vor alters gewesen
+                    sind, und alsdann können ein ganz Schock Kühe gehalten werden.</p>
+            <p>6. Sind vorhero laut dem Inventario 25 Stück alte, 3 Stück junge Bienen gewesen,
+                    und der Bauer-Garten auch damals in gutem Stande war, nämlich a 15 Stck. Apfel-
+                    und 3 Stück Birnbäume versehen, wo bleibt mir aber der Nutzen davon wie auch von
+                    den Teichen.</p>
+            <p>7. Bitte auch wiederum laut dem Kontrakt, dass die Serwillsche Bauern mir das
+                    Achtel Holz anfahren mögen.</p>
+            <p>8. Bitte auch gnädigst die 100 F., die in dem neuen Kontrakt, und den neuen
+                    Schoss gnädigst auszustreichen wollen, dagegen ich Ihro Gnaden das Gut Serwillen
+                    allezeit treu und redlich versehen will.</p>
+            <p>9. Wenn ich nicht Hilfe und Rat von Ihro Gnaden bekommen kann, so wollte ich wiederum
+               lieber nach <placeName key="ed_h35_jqh_my">Drengfurt</placeName> ziehen und allda
+               mein Stückchen Brot suchen.</p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

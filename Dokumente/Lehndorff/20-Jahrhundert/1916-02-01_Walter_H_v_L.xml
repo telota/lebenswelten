@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_s5p_zjn_my">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Oberförster Walter an Carol Graf von Lehndorff. Mittenort, 1. Februar
+                    1916</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 225, Bl. 9-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_hkh_3pg_my">Walter, (-)</persName>
+               <date when="1916-02-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_ik3_ckz_2y">Lehndorff, Carl Meinhard (Carol) Graf von
+                        (1860-1936)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941503"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Mittenort bei Steinort in Ostpr., 1. Februar 1916</dateline>
+               <salute>Euer Hochgeboren!</salute>
+            </opener>
+            <p>Von heute ab hat Herr Oberinspektor <persName key="ed_stw_tkn_my">Schulz</persName> sämtliche 30 Russen aus <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> für seine Arbeit genommen, so dass im Belauf Groß
+                    Steinort keine Gefangenen mehr arbeiten. Ich habe beim
+                    Gefangenenbewachungsoffizier in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> möglichst schnelle Überweisung von weiteren 10 Russen
+                    nach Steinort zur Waldarbeit beantragt.
+                    Diese 10 Gefangenen können in einer Wohnung im Dorf untergebracht und mit den
+                    übrigen Gefangenen zusammen bespeist werden, was ich heute mit Herrn <persName key="ed_stw_tkn_my">Schulz</persName> vereinbarte. Der letzte Holztermin in
+                        <placeName key="ed_h35_jqh_my">Drengfurt</placeName> brachte 2.473 M. Von
+                    Goldmünzen ist nichts eingegangen, trotzdem ich dafür einen Erlass von 5 % des
+                    Kaufpreises in den Blättern zugesichert hatte. Die Kahlschläge habe ich
+                    vorläufig eingestellt und bin mit der Aufarbeitung des trockenen und
+                    Windbruchholzes beschäftigt, da dieses zum Teil noch vom vorigen Winter liegt
+                    und in diesem Jahr bei dem bis jetzt frostfreien Boden viel Holz gewesen ist.
+                    Der Abschuss des Kahlwildes ist erledigt. Förster <persName key="ed_xz5_ykn_my">Wenk</persName> hat in seinem Belauf einen kranken geringen Schaufler
+                    erlegt, ihm war der linke Hinterlauf zerschossen. <persName key="ed_cd1_cln_my">Schütze</persName> hat einen kranken Spießer abgeschossen. Jetzt ist noch
+                    ein geringer kranker Schaufler und ein Spießer mit drei Läufen vorhanden, welche
+                    ich noch beide abschießen lassen will. Hier ist sämtlicher Schnee mit Regen
+                    fortgegangen. Augenblicklich ist ganz geringer Frost, so dass die Wege im Freien
+                    abtauen, im Walde jedoch noch nicht. Die Holzabfuhr ist dadurch sehr erschwert,
+                    was bei dem vorhandenen geringen Pferdematerial umso mehr ins Gewicht fällt. Das
+                    verkaufte Holz wird aus diesen Gründen voraussichtlich zum größten Teil nicht
+                    abgefahren werden können und über Sommer im Walde liegen bleiben müssen, wenn
+                    nicht recht bald ganz andere Witterungsverhältnisse eintreten. Für das Wild ist
+                    ja das Wetter jetzt gut.</p>
+            <closer>
+               <salute>In aller Ehrfurcht Euer Hochgeboren gehorsamster</salute>
+               <signed>Walter</signed>
+               <address>
+                  <addrLine>Hr. Hochgeboren dem Rittmeister Herrn Grafen Lehndorff-Steinort
+                                <hi rendition="#u">z. Zt. in Berlin</hi>
+                  </addrLine>
+               </address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

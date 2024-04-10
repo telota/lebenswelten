@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_bh5_yvd_xrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Andreas Weißberg einen Vertrag über ein Haus
+               mit Acker und Wiesen</title><title>. 24. September 1735</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Ob er mit dem für <ref target="lehndorff_xpx_xkr_1qb">1736 als Bauer in
+                                <placeName key="ed_pxt_cnh_1y">Steinort</placeName> genannten
+                                <persName key="ed_v2x_blp_5qb">Gustav Weißberg</persName>
+                  </ref>
+                        verwandt war, ließ sich nicht feststellen.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 47, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1735-09-24" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941408"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>An unten gesetztem Dato ist mit dem <persName key="ed_mqg_jbz_ssb">Andreas
+                        Weißberg</persName> folgender Kontrakt geschlossen worden, als</p>
+            <p>1.) Es wird gedachtem Weißberg das neu aufgebaute Haus an der Hecke zu einer
+                    Wohnung angewiesen, so dass er die eine Stube nebst Kammer und Stall bewohnen
+                    und nutzen kann.</p>
+            <p>2.) Dann ein Stück Acker und Wiese, so <unclear reason="illegible" cert="high">Paschkel</unclear> gehabt, bis an den ersten Graben nach dem Brauhaus hin, und
+               nachgehend bis an die See, das Strauch rodet er rein aus und nutzt davor die
+               Wiese.</p>
+            <p>3.) Nachgehend nutzt er ein Platz Wiese und Acker, der auf jenseits der Hecke in dem
+               jetzigen Brachfeld ohngefähr von zehn Schfl. Kornaussaat gelegen ist, sowie ihm
+               bezeigt bis an des Leinenwebers <persName key="ed_rtw_chj_f3b">Haberland</persName>
+               anstößt; das nötige Strauch und Zaunholz wird ihm angewiesen, gedachten Acker und
+               Wiesen zu bezäunen.</p>
+            <p>4.) Freie Weide und Baumstrauch gleich denen anderen Steinortschen Einwohnern hat
+                    er zu genießen. <lb/>Von allem Scharwerk, Spinnen p. ist er befreit. Vor
+                    obgedachte Pertinenzien muss mehr erwähnter Weißberg an die gnädige Herrschaft
+                    jährlich zahlen fünfzehn Reichstaler, sage 15 Rtlr., nebst dem gewöhnlichen
+                    Kopf- und Hornschoss vor sich, sein Weib und das Vieh.</p>
+            <p>5.) Dieser Kontrakt währt vom itzigen <seg type="comment"><orig>Martini</orig><note xml:id="nzpn_5f5_txb">11. November</note></seg> 1735 bis dahin, beliebts Gott,
+               1736, es sei denn, dass vorbesagter Weißberg sich wohl verhält und seine Herrschaft
+               ihm länger hier zu bleiben Urlaub gibt.</p>
+            <p>Steinort, d. 24. 9br. 1735</p>
+            <p>[Siegel] <persName key="ed_q4s_xyl_2y">L. M. G. v. Lehndorff</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

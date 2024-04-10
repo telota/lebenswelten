@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_vkw_4jd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Hans Braun einen Vertrag als Lohn-Hofmann für
+               das Vorwerk Steinort. Steinort, 23. Juni 1753</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Vgl. den <ref target="lehndorff_gzd_2bn_2bb">Arbeitsvertrag mit <persName key="ed_fqf_yjk_gbb">Jacob Nowack</persName> als Hofmann für <placeName key="ed_pxt_cnh_1y">Steinort</placeName> vom 1. März 1717</ref> und mit dem
+                     <ref target="lehndorff_q3r_pq4_5pb">Hofmann <persName key="ed_ilg_dnq_3qb">Haberland</persName> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> vom 21. Mai 1746</ref> (Digitalisat beigefügt).
+                  <lb/>Hierzu auch: APO, <ref target="https://namensindex.org/bestand.php?aid=42&amp;id=382">Bestand 382
+                     Familienarchiv Lehndorff</ref>, Nr. 4: Kauf, Pacht- und Arbeitsverträge für die
+                  Steinortschen Gütern (1744-1893), Nr. 120 desgl. (1836-1891) und Nr. 47
+                  verschiedene Kontrakte (1735-1740, 1786-1789); GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 270 Lohn- und Deputatzettel (1766/67), Nr. 747/1 Lohn- und
+                  Deputatzettel, Arbeitsverträge und Diensteide (1736-1769) und Nr. 903 zu
+                  Pachtangelegenheiten der Güter in Steinort (1743-1751).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 274, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b. Tilsit
+                    12.10.1696-Königsberg 12.2.1775)</persName>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1753-06-23" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_vkw_4jd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Demnach der <seg type="comment">
+                  <orig>
+                     <persName key="ed_gzf_lw4_5qb">Hans Braun</persName>
+                  </orig>
+                  <note xml:id="np3q_yk5_wpb">1736 wird Braun als Bauer in Labab genannt, GStA PK,
+                     XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 180. </note>
+               </seg> von mir als ein Lohn-Hofmann bei dem hiesigen Vorwerke bestellt worden,
+               zumalen mir derselbe verspricht und sich verpflichtet, als ein rechtschaffender
+               Arbeiter der Wirtschaft vorzustehen, meinen Nutzen aufs Beste in allem zu befördern,
+               allen Schaden zu verhüten und all dasjenige, so ihm anbefohlen wird, <seg type="comment"><orig>treu-, red- und fleißig</orig><note xml:id="nbwg_wjw_vxb">treu, redlich und fleißig</note></seg> zu verrichteten, und wenn er nur diesem
+               seinem Versprechen nachgelebt, so soll er 30 Mark oder 20 Fl. in barem Gelde nebst
+               ein par Rtlr. vor ihm und ein paar Rtlr. vor dessen Weib haben.</p>
+            <p>Dann bekommt er vor sich, dessen Weib und das ihnen zur Speisung übergebene
+                    Gesinde, nämlich 2 Mägde, 2 Knechte und 2 Jungen, nachstehendes Deputat als</p>
+            <p>80 Pfd. Brot-Getreide <lb/>8 Pfund Gerste <lb/>8 Pfund Haber <lb/>8 Pfund Erbsen
+               <lb/>8 Achtel Salz <lb/>2 Stück <seg type="comment"><orig>Faselschweine</orig><note xml:id="na4v_ckw_vxb">Langbeiniges Landschwein. Die Tiere wurden vornehmlich
+                     durch Weidegang auf Brachen oder in Waldungen ernährt und in magerem Zustand
+                     als sog. „Faselschweine‟ verkauft.</note></seg> und 10 Pfd. Haber, dieselben
+               fett zu machen <lb/>3 Stück März-Schafe</p>
+            <p>Übrigens sind ihm die beim Vorwerk vorhandenen Wirtschaftsstücke, Vieh, Pferde,
+                    Schafe, Schweine und das Federvieh, gemäß dem aufgenommen und hierbei gehefteten
+                    <seg type="comment">
+                  <orig>Inventario</orig>
+                  <note xml:id="nm3w_gb4_ppb">Das
+                        Inventar liegt nicht bei.</note>
+               </seg> übergeben, worauf er genau
+                    Achtung geben und künftig bei dessen Abzug solches abgeben oder wo es geblieben
+                    beweisen muss.</p>
+            <p>Gegeben Steinort d. 23. Juni 1753</p>
+            <p>
+               <persName key="ed_q4s_xyl_2y">L. M. G. v. Lehndorff</persName>
+            </p>
+            <p>NB. Es wird auf Befehl der Frau Reichsgräfin annoch notiert, dass Hofmann künftig
+                    von dem Federvieh das Gewöhnliche gleich denen liefern, an deren <gap reason="illegible"/> aber das fehlende bezahlen muss.</p>
+            <p>
+               <note type="editorial">Rückseite: </note>Auf Vorstehendes Lohn- und
+                    Deputat-Stücke erhalten.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

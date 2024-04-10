@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_nf2_zky_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Friedrich Müller bittet Gräfin von Lehndorff, nicht mehr Soldat sein zu müssen.
+               Barten, 14. April 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ont_ls5_j5b">Müller, Fritz (-)</persName>
+               <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+               <date when="1811-04-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von (Hirschberg
+                        9.4.1751-Königsberg, Roßgärter Markt 12.11.1830)</persName>
+            </correspAction>
+            <note>Siehe auch das Dokument vom <ref target="lehndorff_vbc_zfy_2tb">14. Dezember
+                  1810</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_nf2_zky_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Barten, d. 14. April 1811</dateline>
+               <salute>Hochgeborene Reichsgräfin, <lb/>Sehr gnädigste Gräfin und Exzellenz.</salute>
+            </opener>
+            <p>Von Ew. Exzellenz gnädigen Gesinnungen gegen jeden Unglücklichen überzeugt, wage ich
+               es noch einmal mit einer untertänigsten Bitte mich Ew. Exzellenz zu nahen. <lb/>Ich
+               bin so unglücklich gewesen, dass ich habe Soldat werden müssen, ich habe zwar nun
+               geschworen und bin alsdann sogleich wieder nach Hause geschickt, aber ich muss immer
+               in Furcht schweben, dass man mir wieder einzieht. Ich bitte dahero Ew. Exzellenz
+               untertänigst und fußfälligst doch die Gnade zu haben und wenn es in Höchst Dero
+               gnädigen Kräften steht, mir den Abschied auszuwirken. Sollte meine untertänigste
+               Bitte gnädiges Gehör finden, so halte ich es für meine Pflicht, Ew. Exzellenz
+               untertänigst anzuzeigen, dass ich unter dem 3. Ostpreußischen Infanterie-Regiment
+               gehöre, wovon der Kommandeur Herr Obristleutnant <persName key="ed_ac1_dtl_wxb">von
+                  Wusterwitz</persName> vor 4 Wochen gestorben, Adjutant des Regiments ist Herr
+               Hauptmann <persName key="ed_bmf_52y_z5b">von Hülsen</persName> und Chef der Kompanie,
+               bei welcher ich angestellt bin, Herr Hauptmann <persName key="ed_q14_r2y_z5b">von
+                  Koskull</persName>. Ew. Exzellenz tun hierdurch ein großes Werk der
+               Barmherzigkeit, wenn Hochdieselben mich davon erretten. </p>
+            <closer>
+               <salute>In der Hoffnung einer gnädigen Erhörung meiner untertänigsten Bitte verharre
+                  ich mit dem untertänigsten Respekt <lb/>Ew. Exzellenz untertänigster
+                  Diener</salute>
+               <signed>Friedrich Müller</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

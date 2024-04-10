@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_k1b_wnn_wtb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Promemoria des Grafen von Lehndorff</title><title> zur Vermeidung unnötiger Ausgaben. Steinort, 24. Mai 1831</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familianarchiv Lehndorff, Nr. 273, Bl. 39</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1831-05-24" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_k1b_wnn_wtb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ich bestimme hiermit, dass jede nicht schon feststehende Gratis-Verausgabung und
+               solche, die als Geschenk von mir angewiesen wird, sie bestehe in Geld, Getreide,
+               Getränken oder in anderen Gegenständen und Begünstigungen, nur auf meine - oder
+               meiner <persName key="ed_mrr_p22_b2b">Frau</persName> - schriftliche Anweisung,
+               welche in den Rechnungen und Registern als Beleg dienen muss, gebucht werden oder in
+               den betreffenden Ausgabe-Registern eingetragen werden muss, und bei der Revision der
+               Rechnungen passieren kann; solches zu meiner eigenen Notiz und Ergänzung meines
+               Gedächtnisses.</p>
+            <p>Dasselbe gilt bei Erneuerung zu den Hospitaliten beneficiis, oder etwa vorkommender
+               andere rVergünstigungen, als z. B. die etwaige Erlaubnis zur Haltung einer Kuh,
+               Schweine, Schafe, außer der schon festgesetzten Etats. Die außer Etats entweder
+               deputatmäßige Berechtigung zu Leinaussaat, Kartoffelacker und all dergleichen, es mag
+               Namen haben wie es will, <gap reason="empty"/></p>
+            <p>Wenn Herr Inspektor in meiner Abwesenheit meinem Auftrage zufolge Unterstützungen
+               angedeihen lässt, so müssen solche ebenfalls durch eine motivierte Anweisung von
+               demselben belegt werden, und im Fall ich oder Herr Inspektor solche auszufertigen
+               vergessen sollten, so ist es die Sache der Registerführer, sie nachträglich <gap reason="covered"/> einzusenden, und die betreffenden Nachweisungen
+               auszuführen.</p>
+            <p><persName key="ed_k4z_jgl_2y">Lehndorff</persName></p>
+         </div>
+      </body>
+   </text>
+</TEI>

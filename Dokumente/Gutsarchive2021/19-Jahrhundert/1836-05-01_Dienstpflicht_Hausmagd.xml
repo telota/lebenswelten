@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_i5l_2q5_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Dienstpflichten der Lehndorffschen Hausmagd. Steinort, 1. Mai 1836</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch die Instruktion für die Wirtschafterin vom <ref target="lehndorff_h4j_csn_xcb">7. Februar 1854</ref>.Hierzu gehören auch
+                  Instruktionen für das Schlosspersonal, jetzt in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941257">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 118</ref>, verfasst von
+                     <persName key="ed_tcp_g3l_2y">Pauline von Lehndorff </persName>und <persName key="ed_wms_mh2_cy">Anna von Lehndorff </persName>(1836, 1854), mit
+                  detaillierten Angaben über die Speisung der Bedienten in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sowie Instruktionen für die
+                  Haushälterin, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 757.
+                  - Siehe auch: APO, Bestand 382 Familienarchiv Lehndorff, Nr.153: Promemoria der
+                  Gräfin Anna Lehndorff betr. Wirtschaftsausgaben (Belege 1855-1893), Nr. 278:
+                  Schriftliche Arbeitsbefehle der Gutsherrschaft an Angestellte (1734-1910) sowie
+                  Nr. 296: Küchenzettel, Speisenverzeichnisse etc. (1797, 1824-1837, 1887,
+                  1890).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 4, Bl. 22-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1836-05-01" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_i5l_2q5_trb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Barbens Dienstpflichten, wie ich sie für den Sommer neu bestimmte. <lb/>
+               <lb/>Regelmäßig gegen halb 5 an die Arbeit. <lb/>Zuerst das obere
+                    Nachtstuhlkabinett gründlich rein fegen, lüften und mit frischem Sande
+                    ausstreuen. <lb/>Die Bodentreppe, den oberen Hausflur, die große Treppe mit
+                    Geländer und den unteren Hausflur gründlich reinmachen, dann für die Mamsell und
+                    die Kinder das nötige aufplätten, was sie immer auf dem Billard der langen Stube
+                    finden, und dorthin wieder zurücktragen muss. <lb/>Des Grafen Flure und
+                    Vorstuben besanden und recht sorgfältig und gründlich reinmachen. <lb/>Die große
+                    Stube reinmachen.<lb break="no"/>Mamsel <persName key="ed_bzc_xc5_22b">Dunkers</persName> Stube reinmachen und ihr gleich den Tisch decken.
+                    <lb/>Alles aufwaschen und aufräumen. <lb/>Den Kammertisch decken. <lb/>Den
+                    schmutzigen Wassereimer im oberen Nachtstuhlkabinett mit dem dazu gehörigen
+                    Deckel fest bedeckt auf dem Misthofe auszugießen, an der Pumpe dort sorgfältig
+                    mehrfach auszuspülen, den leeren Eimer ins Kabinett zurückzutragen, dort
+                    frischen Sand nachzustreuen und etwaige dasige Unordnungen oder Schmutzereien
+                    sorgfältig und auf das Sauberste zu beseitigen. <lb/>Das Kammertischessen zu
+                    besorgen und dann selbst zu essen. <lb/>Nachmittag immer zuerst alles
+                    aufwaschen.</p>
+            <p>Am Montage</p>
+            <p>Die lange Stube gründlich reinmachen, alles sorgfältig abstauben, die Spinnweben
+               abmachen, alle Möbel feucht abreiben, die Fenster waschen, die Fensterbretter usw.,
+               den kleinen dunklen Flur neben der langen Stube gründlich reinmachen, die Spinnweben
+               abnehmen, die dortigen Kasten und Spinde fegen und feucht abwischen. <lb/>Die obere
+               kleine Rendanten-Stube zu reinigen, abzufegen, feucht abzuwischen, die Fenster und
+               Türfenster abzuwaschen, dann durch Mamsel Dunker beliebig zu beschäftigen, wie auch
+               in der noch zu erübrigenden Zeit des Morgens. <lb/>Das Kammertisch-Essen zu besorgen,
+               alles aufzuwaschen, gründlich aufzuräumen, nochmals den oberen schmutzigen Eimer
+               auszugießen und auszuspülen, und Punkt 10 Uhr schlafen gehen.</p>
+            <p>Am Dienstage</p>
+            <p>Die ganze neue Flügeltreppe mit dem Geländer gründlich reinigen und aufwischen, den
+               kleinen unteren Treppenflur, den kleinen oberen Treppenflur und den Durchgang der
+               Bonne desgleichen, im Durchgang der Bonne die Fenster abzuwaschen, alles feucht
+               abzuwischen, und in dem zweiten oberen Durchgang in den beiden unteren Fluren und in
+               des Grafen Vorstube und in der Tafelstube, desgleichen in der blauen Stube.</p>
+            <p>Am Mittwoche</p>
+            <p>Die kleine obere Essstube und die Simson-Stube gründlich reinzumachen. Türen und
+                    Fensterbretter mit Lauge abzuwaschen, samt dem Ofen. Alles recht eigen feucht
+                    abzuwischen, die Fenster waschen, die Leisten rings um die Stube beide
+                    ebenso.</p>
+            <p>Am Donnerstage</p>
+            <p>Im oberen und unteren Hausflur, in der unteren großen Stube, in Mamsel Dunkers
+                    Stube und in der Kammertisch-Stube die Fenster und Fensterbretter abwaschen,
+                    alles feucht abwischen und gut reinigen.</p>
+            <p>Am Freitage</p>
+            <p>Den Gartensaal reinigen, die Fenster und Fensterbretter und Leisten abwaschen,
+                    das Zinn-Teller-Kannengeschirr pp scheuern usw.</p>
+            <p>Am Sonnabend</p>
+            <p>Ganz zu Mamsel Dunkers Disposition.</p>
+            <p>Gräfl. Steinort den 1. Mai 1836</p>
+         </div>
+      </body>
+   </text>
+</TEI>

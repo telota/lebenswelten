@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_agy_vmy_j5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Dönhoff instruiert den Administrator Neumann wegen der Feuerversicherung
+               in den Gütern. </title><title>Schönberg, 5. März 1789</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 573, Bl. 108-113</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_egt_tfg_fwb">DönhoffI, Graf von (-)</persName>
+               <persName key="ed_qwb_kc3_3rb">Neumann, M. (-)</persName>
+                           </correspAction>
+            <correspAction type="received">
+               <persName/>
+            </correspAction>
+            <correspAction type="sent">
+               <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+               <date when="1789-03-05" cert="high"/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_agy_vmy_j5b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Schönberg, d. 5. März 1789</dateline>
+               <salute/>
+            </opener>
+            <p>Da ich bei meinem jetzigen Hiersein mit vielem Missvergnügen wahrgenommen, dass die
+                  <gap reason="illegible"/> und Widerspenstigkeiten der Gutseinsassen mit ihrer
+               Herrschaft bei Einforderung der Feuer-Sozietäts-Beiträge noch immer stattfinden, so
+               habe ich für dienlich erachtet, dem Administrator Neumann nach Lage der Sache und zum
+               Gebrauch des nächsten Gerichtstages folgende Instruktiones zu erteilen. <lb/>Obgleich
+               aus den alten Hausbüchern erhellet, dass wenigstens seit Anno 1764 in allen von der
+               Herrschaft gegebenen Pächter- und Bauernkontrakten einer gewissen Feuer-Sozietät
+               gedacht worden, woselbst es immer geheißen, dass der Pächter N. N. oder die Bauern
+               des Dorfes N. N. der errichteten Feuer-Sozietät gemäß nach der Repartition beitragen
+               sollen, so ist, und unerachet bis in anno 84 keine Spur von Widersetzlichkeit gegen
+               diese Einrichtung zu finden, dennoch nicht zu leugnen, dass dieser Punkt nicht
+               deutlich genug auseinandergesetzt und dadurch zu denen Beschwerden der Pächter
+                  <persName key="ed_wvg_ybg_fwb">Michael Collmann</persName>, <persName key="ed_u4x_1cg_fwb">Ernst Rogusch</persName> und <persName key="ed_cbc_dcg_fwb">Michael Bendig</persName> in anno 84 bei einer Königlichen Regierung und anno 87
+               bei der Vormundschaft von denen Pächtern <persName key="ed_kqv_fcg_fwb">Adam
+                  Gutzke</persName>, <persName key="ed_kzq_hcg_fwb">Christian Hintz</persName>,
+                  <persName key="ed_vfj_jcg_fwb">Peter Gutzke</persName>, <persName key="ed_mm1_lcg_fwb">Martin Winkelowski</persName>, <persName key="ed_q5n_mcg_fwb">Johann Salewski</persName> und <persName key="ed_ps2_4cg_fwb">Anna
+                  Sawitzki</persName> Gelegenheit gegeben. Da nun der ersteren Klage zufolge auf
+               Anordnung einer Königlichen Regierung bei dem Erb-Hauptamte Schönberg d. 29. Junii 84
+               ein Vergleich tendieret, auch wirklich zustande gekommen und nach den Grundsätzen
+               desselben laut denen ihm, Administrator <persName key="ed_qwb_kc3_3rb">Neumann</persName>, gegebenen Instruktionen, der Feuer-Sozietäts-Beitrag der
+               Pächter Adam Gutzke, Christian Hintz, Peter Gutzke, Martin Winkelowski, Johann
+               Salewski, Anna Sawitzki ebenmäßig auf 1/3 reguliert und verglichen worden, so ist es
+               wohl der Billigkeit vollkommen angemessen, dass denen Beschwerden der Bauern in
+               Betreff der Feuer-Sozietäts-Beiträge ebenmäßig abgeholfen werde. <lb/>Damit demnach
+               diese Sache gründlich applaniert und beendigt werden möge, so erhält Administrator
+               Neumann hierdurch Instruktion und Befugnis, sich wegen der Feuer-Beitrags-Reste mit
+               denen Bauern dahin, und zwar gerichtlich, zu vergleichen, dass selbige nur die Hälfte
+               der ihnen treffenden Quanti zu bezahlen schuldig bleiben. Diese Mäßigung fällt umso
+               mehr in die Augen, da die Pächter bereits sich zu 2/3 des Beitrags willig verstanden,
+               die Herrschaft auch darum, dass der Punkt der Feuer-Sozietäts-Beiträge nicht deutlich
+               genug bestimmt worden, den ganzen Nutzen desselben unmöglich verlieren kann, so wie
+               die Dorfschaft <placeName key="ed_pfm_4dy_j5b">Sommerau</placeName>, wie ich höre,
+               mit Hilfe ihrer Konsulenten zu tun vermeint, und bei dieser Gelegenheit sowie bei
+               einer jeden anderen in den letzten Jahren der seligen Gutsherrschaft an der Spitze
+               der Aufwiegler steht. Wenn ich auch dieser traurigen Lage gemäß durch ihn,
+               Administrator Neumann, vernommen, dass die Dorfschaft Sommerau gewiss wieder Vermuten
+               und Erwarten gegen das neue, unter dem 28. Febr. 83 sämtlichen Pächtern und
+               Deputierten der Dorfschaften bekannt gemachte und von ihnen unterschriebene
+               Feuer-Katastrum und, ohnerachtet selbiges als eine <seg type="comment"><orig>Conditio
+                     sine qua non</orig><note xml:id="nlrj_2dg_fwb">unabdingbare
+                     Voraussetzung</note></seg> bei Abhaltung derer in Johanni 88 zu erteilenden
+               neuen Kontrakte zum Grunde gelegt worden, protestiert, er, Neumann, auch sowohl als
+               der H. Amtmann <persName key="ed_nft_fdg_fwb">Brand</persName>, welcher selbige nach
+               Grundsätzen der Billigkeit und regelmäßig veranstalteten Taxe angefertigt,
+               erforderlichenfalls beteuern wollen und können, dass sämtlichen Bauern-Dörfer diese
+               neue Feuer-Beitrags-Einrichtung wiederholentlich und deutlich bekannt gemacht worden,
+               so hat der Administrator Neumann zwar den Fehler begangen, dass selbiger (bei der
+               Neigung zum Querulieren, welche in diesen Gütern, und vorzüglich in der Dorfschaft
+               Sommerau zu Hause gehört und welche ihm, Neumann, nicht unbekannt sein kann) nicht
+               die Vorsicht gebraucht, die neuen Kontrakte coram Justitiario denen Bauern zu
+               erteilen und diese Handlung gerichtlich verschreiben zu lassen. Ob aber dieses
+               Versehen die Gültigkeit dieser hiernächst von mir qua Vormund konfirmierten Kontrakte
+               aufhebe, lasse ich der Entscheidung der Jurisdiktion zwischen ihm und denen
+               Gutsleuten anheimgestellt. Das große Übel, was durch Anullierung diese Kontrakte etwa
+               entstehen könnte, wäre dieses, dass diejenigen Bauern, welche sich der neuen
+               Feuer-Beitrags-Einrichtung nicht unterwerfen wollen, in allen Stücken vor das Jahr
+               von <seg type="comment"><orig>Johanni</orig><note xml:id="nej1_vsf_vxb">24.
+                     Juni</note></seg> 1788/9 nach Inhalt des alten Kontrakts zu behandeln wären und
+               pro futuro eine neue Licitation im Monat April oder Mai dieses Jahres anzustellen
+               sei, als bei welcher dafür zu sorgen ist, dass alles bündig wird und vollkommen
+               rechtsbeständig abgefasst werde. Ich bin <gap reason="illegible"/> erst zum Voraus
+               versichert, dass wenige abziehen würden und dass bei dieser Gelegenheit die
+               Haupt-Querulanten, welchen sogleich ein Abzugs-Attest zu erteilen ist, sich selbst
+               würden bekannt machen. Wenn aber diese Sache durch vernünftige Vorstellung in der
+               Güte reguliert werden kann, so soll ein selbiges um so angenehmer sein. Auch bin ich
+               in diesem Falle nicht abgeneigt, die geäußerte schreckenvolle Vorstellung der
+               Einäscherung eines ganzen Dorfes durch Erlegung verhältnismäßiger Beiträge zu
+               besorgenden Ruines der Dorfschaft Sommerau damit zu nehmen, dass ich vermöge des
+               ihnen unter dem 28. Febr. 88 publizierten Feuer-Katastri in eine der großen
+               Feuer-Sozietäten des Landes eintrete und dadurch ihren Besorgnissen zu Hilfe komme.
+               Dabei aber müsste ihnen handgreiflich dargestellt werden, dass auf diesem Falle
+               jährliche Beiträge unausbleiblich, in den Gütern hingegen 2 und 3 Jahre vergehen
+               könnten, ehe ihnen ein Feuer-Sozietäts-Beitrag lästig werden dürfte. Auf alle Fälle
+               müssten auch die zu repartierenden Fuhren und Handdienste auf das besondere
+               Güterverhältnis haften bleiben. <lb/>Auf welche Weise nun auf Administrator Neumann
+               coram Justitiario dieser Instruktion gemäß die Sache zur Endschaft bringen kann, so
+               hat selbiger das hierüber abgehaltene Verhör alsobald nach <placeName key="ed_nmn_d1h_ldb">Hohendorf</placeName> zu schicken und fernere Instruktion zu
+               erwarten.</p>
+            <closer>
+               <salute/>
+               <signed>Graf von Dönhoff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

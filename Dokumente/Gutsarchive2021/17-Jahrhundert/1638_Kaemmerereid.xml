@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_tck_44r_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eid und Aufgaben eines Kämmerers. Vor dem 1. Dezember 1640</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Kämmerer war ursprünglich der Titel für einen Hofbeamten, der unmittelbar zur
+                  Dienstleistung am Hof bestimmt war. Er war mit finanziellen Aufgaben betraut und
+                  hatte damit eine Vertrauensstellung. Der Eid eines kurfürstlichen Kämmerers war
+                  möglicherweise Vorlage für die Ausgestaltung des Eides, den ein Kämmerer des
+                     <persName key="ed_xy2_4zp_rdb">Grafen Otto von Schwerin</persName>, seit 1638
+                  kurfürstlicher Kammerjunker, ab 1640 Hofkammergerichtsrat, zu leisten hatte. Das
+                  Schriftstück gelangte aus dessen Nachlass am 7. Mai 1803 zusammen mit dem Eid
+                  eines Amts- und des Kornschreibers, des <ref target="lehndorff_ojw_xrr_hrb">Hofmanns</ref> und dem Schöffen-Eid in das Gutsarchiv in Wildenhoff. </p>
+               <p>Siehe auch die Klage vom <ref target="lehndorff_hcf_3lz_hrb">4. März 1786</ref>
+                  gegen den Schönberger Kämmerer Ebernickel, zu den Aufgaben eines Kämmerers das
+                  Dokument vom <ref target="lehndorff_w45_fj1_3qb">7. März 1830</ref> sowie den mit
+                  dem Wirtschaftskämmerer Georg Berent in Steinort abgeschlossenen Vertrag vom <ref target="lehndorff_uky_gm1_rwb">28. März 1744</ref>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 381 Familienarchiv Schwerin, Nr. 121, Bl. 2-3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1640-01-01" to="1640-12-01" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_tck_44r_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachdem der Durchlauchtigste Hochgeborene Fürst und Herr Herr <persName key="ed_wtb_hlm_lgb">Georg Wilhelm Markgraf zu Brandenburg</persName>
+               <gap reason="insignificant"/>, mein gnädigster Kurfürst und Herr, mich N. vor einen
+               Kämmerer auf Deroselben Haus und Amt N. bestellen und annehmen hat lassen, als gelobe
+               und schwöre ich zu Gott dem Allmächtigen, dass ich alles das, was einem Kämmerer zu
+               verrichten gebührt, fleißig und treulich vorstehen, sonderlich beide Höfe und
+               Vorwerke mit Fleiß in Acht nehmen und bestellen, dass der Hofmann und Hofmutter und
+               also das andere Hofgesinde, ein jeder das seine, emsig verrichte, und wenn das Feld
+               bemistet, gepflügt, bestellt und zugerichtet werden soll will ich daran sein, dass
+               sie das Scharwerk zu rechter früher Tagzeit beim Arbeiten gestellen und dasselbe
+               vollkömmlich verrichten, von keinem Schargeld nehmen und das Scharwerk erlassen oder
+               dieselben damit übersehen, noch nicht sonsten einigen Vorteil unterstehen, sondern
+               einen jeden sein vollkommenes Scharwerk tun lassen, dass der Acker recht und wohl
+               zugerichtet werde. Nebst dem will ich auch jederzeit in Acht nehmen, dass Ihro Kurf.
+               Gn. Vieh in Höfen mit dem Futter wohl versehen, in Zeit des Augusts nicht säumig
+               sein, damit das Futter und Getreide trocken und gut eingebracht, nicht unratsam damit
+               umgangen, noch deshalb anderswo denn an Ihro Kurf. Gn. Vieh verwendet werde, dass
+               auch kein fremdes Vieh unter Ihro Kurf. Gn. Futter gehalten, die Pferde mit Hetzen
+               und Jagen oder sonsten anderer Arbeit, außer mir Ihro Kurf. Gn. angelegt, nicht
+               abtreiben lassen, auch dem Hofmann damit sein Gefallen außer Hofe spazieren zu fahren
+               keineswegs gestatten, und da ich nicht schon würde daraus Schaden vermuten, dasselbe,
+               da ich es selbsten nicht wenden könnte, dem Hauptmann oder Amtsschreiber anmelden,
+               auf das es abgestellt werde, und mich hiervon nicht abhalten lassen. <lb/>So war mir
+               Gott helfe und sein Heiliges Wort.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

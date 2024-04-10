@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_m4x_pkp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet ausführlich über die Lage in Steinort. Steinort, 8.
+               August 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-08-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 8.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_m4x_pkp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>No. 8 Gr. Steinort den 8. August 1817</dateline>
+               <salute>Ew. Hochgeboren</salute>
+            </opener>
+            <p>sehr gnädigen Brief vom 4. Juli habe erst den 1. August erhalten und ich würde
+               sogleich Dero hohen Befehl befolgt haben, nur einige Nachrichten wegen der Übergabe
+               (da Aktuarius <persName key="ed_abl_pyy_4kb">Werse</persName> schon seit 6 Wochen
+               krank liegt) verhinderten mir daran, besonders aber ein Schreiben vom H. <persName key="ed_b4v_4ld_b2b">Schmalz</persName>, der mir schreibt, binnen 14 Tagen werde
+               ich Ihnen etwas über die Ankunft unserer Schafe schreiben. Diesen Brief erhielt ich
+               vorgestern, darin schreibt er mir, sein Schäfer und ein Verwandter, der bei ihm
+                  <unclear reason="illegible" cert="low">5</unclear> Jahre in Sachsen gewesen,
+               bringt die 100 St. Mutterschafe für <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und für ihn 58 Stück hier nach Preußen. Den 24. Juli sind
+               die Schafe gesund in <placeName key="ed_y44_5tc_lwb">Roßlau</placeName> angekommen.
+               Der Schäfer, schreibt er mir, hat einen Freipass und Empfehlungsschreiben an alle
+               Beamten von S. Exzellenz Herrn <persName key="ed_rlb_wx1_1bb">Minister von
+                  Bülow</persName>, auch von pp <persName key="ed_tkl_kvp_vcb">Thaer</persName>, und
+               die Schafe kommen über <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> gerade
+               nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. <seg type="comment"><orig>Er glaubt Ende August oder Anfang September werden sie in Steinort
+                     eintreffen.</orig><note xml:id="nisg_fzs_xxb">Sie kamen am <ref target="lehndorff_lkh_clp_3tb">2. September</ref> an.</note></seg> Zwei
+               Böcke werden auch in dieser Zeit mit den Königl. in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ankommen, wenn ich solche abholen lassen soll. <lb/>In den
+               Gütern ist noch alles gut und es sind keine sehr windige Ereignisse vorgefallen, nur
+               die Witterung ist nicht die beste. Wir haben viel Regen und Ende Juli haben wir
+               solche Regengüsse gehabt, dass alle Wiesen unter Wasser standen, und das wenige Heu,
+               was wir dieses Jahr haben, und dazumalen gehauene, alles wegschwemmte. Dieses Jahr
+               ist außerordentlich wenig Heu. Durch die vorjährige Nässe ist der Wiesenklee alles
+               ausgefroren sowie der zweijährige gesäte, von dem ist fast gar nichts gewesen. Der
+               einjährige oder diesjährige war doch noch so ziemlich, aber bei weitem nicht so gut
+               wie voriges Jahr, und ich glaube, so lange wir nasse Jahre haben, werden wir auf
+               unserem kalten Boden keinen Klee, auch keine gute Saat gewinnen. Auch dieses Jahr ist
+               in dem Saatklee nicht viel drinnen, und ich habe noch vom diesjährigen, auch
+               vorjährigen stehen lassen, und man bekommt keinen guten zu kaufen. Ich bin dieses
+               Jahr selbst in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gewesen und habe
+               mir von drei Kaufleuten Saat genommen und ihn auf der Stelle eingesät, aber ich
+               konnte keinen gebrauchen, auch nicht der dritte Teil ging auf. <lb/>Ich kann wegen
+               Mangel an Heu keinen Ochsen mästen, ich habe hier in Steinort 4 <seg type="comment"><orig>Fuder</orig><note xml:id="nbf4_lzs_xxb">Ladung eines
+                  Ackerwagens</note></seg> weniger wie voriges Jahr, und voriges war schon wenig .
+               Ich habe aber einige großen Ochsen etwas frei ziehen lassen und habe davon schon 6
+               Stück zu 36 Rtlr. p. St. verkauft. Mit den kleinen muss ich freilich nachpflügen, bis
+               ich andere in die Stelle gekauft habe. Hernach will ich davon einige mit der bloßen
+                  <seg type="comment"><orig>Schlempe</orig><note xml:id="nazd_nzs_xxb">Rückstand bei
+                     der Spirituserzeugung; Viehfutter</note></seg> für die Kleinstädter anfüttern.
+               <lb/>Das Getreide steht im Durchschnitt gut, das Korn ist bei uns durchweg dünn und
+               wird nicht viel Roggen geben, der Weizen ist besser, jedoch der spät gesät und auf
+               windigem Boden steht, ist voller Brand. Die Gerste ist auch, besonders die frühe,
+               dünn, die späte ist besser, der Haber und die Erbsen, wenn sie gut einkommen, sind
+               sehr gut. <lb/>Mit dem Heu ist es dieses Jahr sehr übel, und wir müssen viel Haber
+               geben, um die Pferde zu nähren, dass übelste ist bei unserer Einrichtung, dass man so
+               viel Heu weggeben muss. Ich muss auf die Vorwerke, ohne die verpachtet sind, und hier
+               an Instleute, <seg type="comment"><orig>Zechner</orig><note xml:id="no5f_knh_yxb">Knecht</note></seg>, Hirten und Schullehrer 62 Fuder geben, und ich werde
+               dieses Jahr auf ganz Labab nicht 50 Fuder bekommen. <lb/>Heute den 8. August fangen
+               wir an Korn zu hauen und den Weizen werden wir nicht viel vor <seg type="comment"><orig>Bartholomäi</orig><note xml:id="nhk1_qzs_xxb">24. August</note></seg>
+               hauen, um die Saat wieder anzuschaffen in einer so kurzen Zeit, wenn uns Gott bei
+               schön Wetter jetzt lassen möchte, damit wir doch im Jahr zeitig und gut wieder zusäen
+               könnten, damit wir wieder einmal in die vorigen Jahre wieder kommen. <lb/>Von der
+               Verpachtung <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristangen</placeName> habe ich Ew. Hochgeboren in meinem <ref target="lehndorff_k3v_kkp_3tb">Brief No. 7</ref> Nachricht gegeben, ich wiederhole
+               solches auch hierin. Der <persName key="ed_ps5_zkj_hlb">Pächter</persName>
+               <seg type="comment"><orig>und sie</orig><note xml:id="nsd4_szs_xxb">gemeint ist
+                     dessen Frau</note></seg> sind beide brave und wohlerzogene Menschen, und er,
+               soweit ich ihn kenne, ein denkender theoretischer und praktischer Landwirt. Seine
+               Wirtschaft geht rasch vorwärts, und das Beste ist, dass er sich mit den Leuten gut zu
+               benehmen weiß. Sein Pachtkontrakt ist die ersten zwei Jahre 1.200, die 4 letzten
+               1.500 Rtlr. exkl. aller übrigen Lasten. Die Übergabe geschieht nach allen Formen
+               rechtens. <lb/><table rows="5" cols="2">
+                  <row>
+                     <cell>Seine Inventarienstücke an Vieh und Pferde in <placeName key="ed_xzt_112_gy">Stawisken</placeName> sind</cell>
+                     <cell>1.338 Rtlr</cell>
+                  </row>
+                  <row>
+                     <cell> an Wirtschaftsgerät</cell>
+                     <cell>197 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell> in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> an Vieh und
+                        Pferden</cell>
+                     <cell>356 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>an Wirtschaftsgerät</cell>
+                     <cell>93 RTlr.</cell>
+                  </row>
+                  <row>
+                     <cell>Summe</cell>
+                     <cell>1.984 Rtlr. taxiert</cell>
+                  </row>
+               </table><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+            <p>Schafe sind ihm zwar in natura übergeben <lb/><table rows="5" cols="2">
+                  <row>
+                     <cell>105 St. </cell>
+                     <cell>Mutterschafe mit Lämmer</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>juste</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>alte Hammel</cell>
+                  </row>
+                  <row>
+                     <cell>207</cell>
+                     <cell>Zeit Hammel und Schafe und jährlich </cell>
+                  </row>
+                  <row>
+                     <cell>379 </cell>
+                     <cell>St. alte und 105 Lämmer</cell>
+                  </row>
+                  <row>
+                     <cell>ich habe aber doch im Falle eines Sterbens die alten Schafe mit 10 Fl.
+                        und die jungen mit 5 Fl. taxieren lassen macht</cell>
+                     <cell>905 St.</cell>
+                  </row>
+                  <row>
+                     <cell>das Ganze also beträgt</cell>
+                     <cell>12.889 Rtlr.</cell>
+                  </row>
+               </table></p>
+            <p>Das Getreide steht auch recht mittelmäßig gut, und ihm sind an Wintersaat 26 S.
+               Weizen und 326 S. Korn auf beiden Vorwerken übergeben, und an Sommergetreide 112 S.
+               Gerste 71 S. Erbsen und Bohnen 229 S. Haber und 7 Schfl. Leinsaat. <persName key="ed_stv_2dt_xxb">Willimzig</persName> hat aber einen sehr großen Teil Acker
+               liegen lassen, der teils <gap reason="illegible"/> und auch sehr mager war. Da
+                  <persName key="ed_kml_2jg_wqb">Willimzig</persName> noch 118 Schfl. Korn 48 S.
+               Gerste als Bestand hatte, beides aber sehr schlecht war, so habe ich dem Pächter, da
+               er es gerne haben wollte, davon 50 S. Korn und 65 Schfl. Gerste als Bestandsgetreide
+               übergeben, auch 146 Schfl. Klee sind ihm übergeben worden. <lb/><seg type="comment"><orig>Ew. Hochgeboren Anfrage zu erwidern, muss ich 1. wegen
+                     Auseinandersetzung der Bauern erwähnen, dass ich bloß auf ein Jahr bis Ostern
+                     1818 einen schriftlichen Kontrakt mit jedem Bauern in <placeName key="ed_ohv_kf2_gy">Pristangen</placeName> separat geschlossen und die
+                     übrigen in ihren alten Verhältnissen stehen.</orig><note xml:id="njjt_g1t_xxb">Im Brief vom <ref target="lehndorff_k3v_kkp_3tb">10. Juni 1817</ref> schrieb
+                     Berent: „Jetzt aber sind sie alle ruhig und ich habe mit die Pristanger einen
+                     schriftlichen Kontrakt gemacht auf Hochzins, nämlich 24 Rtlr. Geld, 20 Schfl.
+                     nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu fahren und 2
+                     Achtel schlagen und anfahren.‟</note></seg> In hiesigen, auch anderen Gegenden
+               ist noch nichts Bestimmtes vorgenommen, jedoch in den Dönhoffschen <placeName key="ed_ant_kpw_lwb">Sillginschen</placeName> und anderen großen Gütern werden
+               aber schon Vorkehrungen getroffen, nämlich die Ländereien vermessen, einzelne Bauern
+               eingezogen, und sie in andere Dörfer versetzt, ihnen aber Wohnungen gebaut. Hier bei
+               uns beruht es bloß auf die Frage, wollen Ew. Hochgeboren ihnen ihr ganzes Areal
+               lassen oder nur die Hälfte und wie, denn so, wie ich es von vielen vernommen, so soll
+               diesen Herbst die Auseinandersetzung und Berechnung vor sich gehen, allein wie, dass
+               weiß man nicht, denn wo wird der Bauer sein Wintergetreide säen, wenn jetzt die
+               Herrschaft dieses Feld nimmt, wo er dieses Jahr den Dünger ausgefahren hat. Ich
+               glaube, die Sache kommt noch in zwei bis drei Jahren nicht zustande, allein was wird
+               von den Gebäuden werden, glauben Sie mir, in zwei Jahren stürzt die Hälfte ganz
+               zusammen und bei uns ist schon der dritte Teil der Bauern in solchem Zustande, dass
+               er weder Zins zahlen noch Scharwerk leisten kann, und zu helfen ist es eine
+               Unmöglichkeit, sowie alles neu zu bauen. Den <placeName key="ed_xpm_112_gy">Lababern</placeName> habe ich doch aufgekündigt, und werde mir bloß ihr
+               Besatzgetreide absäen lassen, ich werde alles mögliche anwenden, um sie
+               herauszusetzen, denn ein solches Vorwerk so ungenutzt zu lassen, besonders, da es so
+               nahe am Gute liegt, ist so schmerzlich, und bei der jetzigen Bewirtschaftung kommt
+               nichts heraus und der Bauer geht auch mit zugrunde. <lb/>2. <seg type="comment"><orig>Wegen der Bauten habe ich getan, was ich nur möglich machen
+                     konnte.</orig><note xml:id="nann_x1t_xxb">Siehe <ref target="lehndorff_bhs_ck4_ftb">hier</ref> und Berents Brief vom <ref target="lehndorff_k3v_kkp_3tb">10. Juni 1817</ref>.</note></seg> Der
+               Schuppen in <placeName key="ed_xpm_112_gy">Labab</placeName> ist größtenteils unter
+               Dach, kostet aber viel Geld und Arbeit, bis er ganz fertig sein wird. Er wird Ihnen
+               aber doch gefallen. Es ist jetzt unerhört teuer zu bauen, der Kalk gilt jetzt 7 Fl.
+               ,im Anfange 7 1/2 Fl. Die Handlanger bekommen 24 bis 30 Gr. p. Tag und doch sind
+               wenige zu haben. In Labab habe ich zugleich, damit es doch nach etwas aussehen soll,
+               die Scheune auf dem alten Stall ganz in guten Stand setzen lassen, auch alle
+               Instwohnungen neu mit Lehm auskleben und recht gut verwerfen lassen. In <placeName key="ed_s3k_b12_gy">Taberlack</placeName> ist die alte Scheune ganz instand
+               gesetzt, der Pferdestall, wo die jungen Pferde stehen, ausgepflastert und repariert,
+               ein Schweine- und Hühnerstall von Lehm neu gebaut, eine neue Schmiede von Lehm neu
+               gebaut, dem Schmied sein Wohngebäude ganz neue Wände eingezogen, das neue Schankhaus
+               den ganzen Rumpf und Stall nebst Fenstern und Ofen neu gemacht, und auch zwei
+               Bauer-Scheunen fürs Umfallen gesichert. In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> ein Familienhaus von 4 Stuben und 4 Ställe dazu, sowie in
+                  <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> fast ganz neu in Stand
+               gesetzt, dann an beiden Scheunen einige Schwellen und neue Wände eingezogen. In
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName> habe ich die Scheune, den
+               großen Stall ins gerade bringen lassen, neue Wände einziehen, neue Türen machen
+               lassen , und das große Fundament unter dem Speicher ist ganz neu gemacht und
+               abgeputzt. Die beiden Lehmgebäude in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> sind recht gut geraten, und dass ist bei diesem Bau das
+               üble, dass er so lange trocknet und bis jetzt noch nicht trocken ist, und beim Bau
+               die Arbeiter immer Pausen machen müssen, bis das, was sie gemacht haben, etwas
+               getrocknet ist, ein solches Gebäude kostet aber viele Arbeit. Nun habe ich in
+                  <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> einige Reparaturen, auch in
+                  <placeName key="ed_xzt_112_gy">Stawisken</placeName>, und dann, wenn es angeht, in
+                  <placeName key="ed_ohv_kf2_gy">Pristangen</placeName> das Schulhaus und die
+               Schmiede. <lb/>3. Das Geld für russische Bons von beiden Zeichnungen, wonach wir 575
+               Rtlr. zu fordern haben, ist noch nicht bezahlt und von Lieferungsscheinen sind keine
+               herausgekommen. <lb/>4. <seg type="comment"><orig>Die jungen Pferde sind alle
+                     gesund</orig><note xml:id="npny_dbt_xxb">Über den Zustand der Pferde berichtete
+                     Berent bereits am <ref target="lehndorff_k3v_kkp_3tb">10.
+                  Juni</ref>.</note></seg> und die Piphaken haben sich endlich verloren, nur bei der
+               engl. Braunen bleiben sie, die andere große braune Stute von der engl. trakenschen
+               Braunen, die schon immer schlechte Augen hatte, wurde fast ganz blind. Ich hatte sie
+               nach <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> geschickt und <persName key="ed_xyb_x3g_hwb">Steinert</persName> hat sie zwar wieder hergestellt, allein
+               er ließ mir sagen, gebraucht kann sie nicht werden, bei <gap reason="illegible"/>
+               Verhitzung wird sie stark blind, sollte sich ein Kaufmann finden, so werde sie
+               verkaufen. <seg type="comment"><orig>Es sollen aufm Herbst Pferde zur Remonte gekauft
+                     werden, vielleicht kann ich sie den kastrierten Hengst und die 4. jährige
+                     rehhaarige Stute, auch den großen 4 jähr. Fuchs, den hab ich im Stall,
+                     verkaufen, und ist noch eine braune Stute, die hab ich im Arbeitsgespann, und
+                     eine kl. Schimlichte, von der Milchschimmel. </orig><note xml:id="nxyw_d11_rwb">Siehe die (undatierte) Liste einer Pferdeauktion in: GStA PK, XX. HA, Rep. 54
+                     Gutsarchiv Lehndorff-Steinort, Nr. 483, auf der u. a. die rehhaarige Stute,
+                     hier noch 3-jährig, genannt wird. Hier wurden zehn Lehndorff-Pferde und die
+                     rehhaarige Stute Behrends angeboten. </note></seg>Den Rotschimmel werde ich
+               doch man auch ins Gespann nehmen, und was wird vom kl. Falben, er ist jetzt zwar sehr
+               gut, aber er ist auch schon aufs Frühjahr 8 Jahre alt. Die Fohlen vom Hard<gap reason="illegible"/> sind fast alle Schimmel, aber nichts besonderes. Von der
+               großen Normannschen ist das beste. Im Ganzen haben wir 11 Stück. Auf einem Zettel
+               erfolgt die <seg type="comment"><orig>Liste von den bedeckten Stuten. </orig><note xml:id="nij3_gmr_sxb">Liegt dem Brief bei.</note></seg><lb/>5. Die jungen
+               Hengste sind alle gesund und gut imstande, der k. Schimmel von der Rose hat sich gut
+               ausgewachsen, nur klein ist er. <lb/>6. Ein <seg type="comment"><orig>Verzeichnis von
+                     der hiesigen Schäferei und die bei der Schur waren erfolgt
+                     anliegend.</orig><note xml:id="nsly_lkb_rwb">Liegt dem Brief bei.,</note></seg>
+               40 <seg type="comment"><orig>Stein</orig><note xml:id="nhgz_jct_xxb">Königsberg; 1
+                     großer Stein = 33 Pfund (berlin.) = 15.428 Gramm; 1 kleiner Stein = 20 Pfund
+                     (berlin.) = 9.350 Gramm</note></seg> und 10 Pfund sind dieses Jahr à 25 Rtlr.
+               verkauft und 23 Stück Böcke, worunter auch 4 St. alte zu 6 Rtlr. Von der spanischen
+               Wolle ist aber die Bauch-, Fuß- und Schwanzwolle ausgelassen, beträgt noch beinahe 3
+               Stein. <lb/>7. Mastochsen habe ich nur 9 St., die besten, recht fett gemacht und habe
+               für sie 500 Rtlr. oder p. Stück 55 1/4 Rtlr. bekommen. 6 St. habe ich a 28 Rtlr. an
+               die Kleinstädter in Weihnachten verkauft. <lb/>8. Eine Nachweisung von erbautem Klee
+               befindet sich auf der anderen Seite der Schäfereiberechnung. Hier bei <placeName key="ed_pxt_cnh_1y">Gr. Steinort </placeName>war er am besten, und ich hätte
+               wenigstens 10 bis 12 Fuder erbaut, wenn man nicht mit den Stall- und Arbeitspferden
+               und Kälbern so viel Grün verfuttern müsste. In <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> habe ich den alten Klee alle müssen umpflügen und der
+               diesjährige ist auch nicht sonderlich, im ganzen sind nur 12 Fuder erbaut. <lb/>9.
+                  <persName key="ed_tc2_stm_zcb">Gaehler</persName> ist nach <placeName key="ed_wsx_ljt_gwb">Klimken</placeName> und hat nicht geheiratet, er sucht noch
+               immer eine Stelle, da diese nicht seinen Wünschen entspricht. <lb/><seg type="comment"><orig>10. <persName key="ed_kml_2jg_wqb">Willimzig</persName> ist
+                     in <placeName key="ed_j3v_gk5_h2b">Partsch</placeName> bei H. Baron
+                     Wirtschafter</orig><note xml:id="ngn5_pct_xxb">Mit dem Pächter von Pristanien
+                     hatte es zuvor bereits mehrfach Ärger gegeben.</note></seg>, und <seg type="comment"><orig><persName key="ed_d42_1st_ncb">Sperling</persName> hat sich
+                     das adel. Gut <placeName key="ed_tqp_jrw_lwb">Bialla</placeName>
+                     gekauft</orig><note xml:id="nn35_tct_xxb">Er war zuvor Pächter von
+                     Rehsau.</note></seg>. <lb/>11. Das Bestandsgetreide von <persName key="ed_stv_2dt_xxb">Willimzig</persName> bestand in 28 S. Weizen 118 S. Korn 48
+               S. Gerste und 25 S. Erbsen, aber alles zum Verkauf nicht zu gebrauchen. dann 24. St.
+               Jungvieh 1-, 2- und 3-jährig und 11 St. Fohlen 1-, 2- und 3-jährig. Die von hier
+               erhaltenen Inventarienstücke hatte er zwar in der Quantität richtig wieder
+               zurückgegeben, aber vieles ist gar nicht zu gebrauchen. Seine Rechnung habe ich dem
+                  <persName key="ed_afr_tvf_2y">Werner</persName> zur Durchsicht übergeben. 256
+               Rtlr. hat er an Bestand hier abgeliefert. Das Getreide habe ich hier nach <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName> und Vieh und Fohlen auf die übrigen
+               Vorwerker genommen. <lb/>12. An Korn habe ich einige 60 Schfl. an die hiesigen Bauern
+               und Leute unter dieser Bedingung geliefert, den 1. Sept. 5/4 Rtlr. für 1 Schfl. vom
+               Korn zur Saat abzugeben. <lb/>13. <table rows="9" cols="3">
+                  <row>
+                     <cell>die diesjährige Einnahme von den 6 Vorwerkern ex. <placeName key="ed_ohv_kf2_gy">Pristangen</placeName>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName> der Forst- Pferde- und
+                        Vieh-Kasse ist</cell>
+                     <cell>11.517 Rtlr.</cell>
+                     <cell>83 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>der Bestand vom vorigen Jahr</cell>
+                     <cell>2.384</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>Summe</cell>
+                     <cell>13.902 Rtlr.</cell>
+                     <cell>38 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>die Ausgabe ist</cell>
+                     <cell>12.205 Rtlr.</cell>
+                     <cell>65 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Bestand</cell>
+                     <cell>16.96 Rtlr.</cell>
+                     <cell>62 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>bei Kittlitz habe ich noch Bestand</cell>
+                     <cell>324</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>bei der Pferde- und Viehkasse ist</cell>
+                     <cell>669</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Bestand in allem</cell>
+                     <cell>2.689 Rtlr.</cell>
+                     <cell>62 Gr. ohne</cell>
+                  </row>
+                  <row>
+                     <cell>die Forstkasse in Pristangen und Stawken</cell>
+                     <cell>1.000</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Die größesten Ausgaben sind 3 Termine an Dero <persName key="ed_pv1_b4g_hy">H. Bruder</persName></cell>
+                     <cell>925 Rtlr.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>H. Graf Dönhoff 2 Termine</cell>
+                     <cell>486</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Gräfin Schlieben</cell>
+                     <cell>600</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Depositengelder</cell>
+                     <cell>302</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an Kaufmann Lieppe</cell>
+                     <cell>519</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>für gekaufte 16 Ohm Branntwein</cell>
+                     <cell>344</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>für Bauten</cell>
+                     <cell>1630</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>und dann folgen alle übrige Königl. Inst-, Dienstleute und
+                        Wirtschaftsausgaben</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>von den privaten Ausgaben und Einnahmen ist Folgendes bezahlt</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an Lieferungsscheinen ist eingekommen</cell>
+                     <cell>367 Rtlr.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>vom <persName key="ed_rrz_y3x_clb">Hoyer</persName> für das <placeName key="ed_jpk_w4f_cy">Rosengartsche</placeName> Erbe</cell>
+                     <cell>1.000</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>für das <placeName key="ed_lld_mzx_ssb">Schülzsche</placeName></cell>
+                     <cell>166</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>die übrigen 200 Fl. sind noch bis zur Berichtigung des Besitztitels zu
+                        behalten</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Summe</cell>
+                     <cell>1.533 Rtlr.</cell>
+                     <cell>60 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>davon</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an die <persName key="ed_tvm_gsf_fwb">Hennigen</persName> 1.000
+                        Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>an <persName key="ed_d42_1st_ncb">Sperling</persName> 500 Rtlr.</cell>
+                     <cell>1.500</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Bestand</cell>
+                     <cell>33 Rtlr.</cell>
+                     <cell>60 Gr.</cell>
+                  </row>
+               </table></p>
+            <p>Auch sollte Ew. Hochgeboren doch wissend sein, wie es wohl zu wünschen wäre, sich mit
+               den Bauern noch vor Dero Hiersein auseinandersetzen zu lassen, so bitte ich um einen
+               Assistenten. Ich glaube aber, dass, wenn Ew. Hochgeboren dem Präsidenten von
+                  <persName key="ed_rqm_zch_1cb">Sydow</persName> schrieben, er möchte unsere Güter
+               zuletzt lassen, so würde es wohl noch eine Weile fortdauern, und dann würde man doch
+               erfahren, wie es andere gemacht haben. Vor drei Wochen war Herr <persName key="ed_uxc_ljt_c2b">Graf v. Klinkowström</persName> und Gemahlin und sämtlicher
+               Familie nebst dem Grafen v. Schlieben hier, und ich habe zu Dero Vergnügen alles
+               getan, was ich nur wusste, der sagte mir, er ließe sich auf jeden Fall diesen Herbst
+               noch mit seinen Bauern auseinandersetzen, sie mögen wollen oder nicht. Von der
+                  <orgName key="ed_cyd_wtg_hy">Gumbinnenschen Regierung</orgName> war auch eine <seg type="comment"><orig>Kommission hier, die den Ausfluss des Mauersees untersuchte,
+                     ob es möglich ist, ihn mit der Guber oder Alle zu verbinden.</orig><note xml:id="nfng_mft_xxb">Der erste Entwurf eines Kanals, der den Mauersee mit der
+                     Alle verbinden sollte, stammt erst aus dem Jahr 1849, siehe <ref target="https://de.wikipedia.org/wiki/Masurischer_Kanal">hier</ref>.
+                  </note></seg> Bei Gelegenheit, dass ich in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> war, habe ich auch den H. Grafen in <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> besucht, und er hat mir alle seine
+               Vorwerke und Einrichtungen gezeigt, ein Vorwerk hat er verpachtet und vier, die ganz
+               im Quadrat liegen, bewirtschaftet er selbsten. Er ist aus der 4-Felder-Wirtschaft in
+               drei übergegangen, um mehr Wintergetreide zu säen. Auf den drei Vorwerken ist schon
+               fast alles in Ansehung der Bauten in Stand gesetzt und sehr tüchtig. Sein Hof und
+               Garten in Warglitten ist schon ganz fertig in Stand gesetzt und sehr hübsch möbliert,
+               seine Wirtschaftspferde und Ochsen sowie seine Ackerwerkzeuge in bestem Stande.</p>
+            
+               <salute>Meine Frau mit mir uns alle übrige Tischgenossen empfehlen sich zur Fortdauer
+                  Dero Gnade und ich ersterbe mit allem Respekt <lb/>Ew. Hochgeboren untertänigster
+                  Diener</salute>
+               <signed>Berent</signed>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

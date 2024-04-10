@@ -1,0 +1,519 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_qt5_5tm_15b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Spezifikation der bei den Steinortschen Gütern vorhandenen Hubenzahl.
+                    Steinort, 27. März 1808</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Der „Plan zu denen zu dem hochgräflichen Hofe Groß Steinort gehörigen Ländereien,
+                  vermessen im Monat Oktober 1807 durch den Königlichen Bau- und
+                  Landschafts-Conducteur Kuegler“, gibt die Ausdehnung der Herrschaft Steinort mit
+                  allen Dörfern und Vorwerken an. Im Februar 1809 waren die Vermessungspläne „ins
+                  Reine gezeichnet“ worden, GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                  Nr. 142 (Kuegler an Lehndorff, <ref target="lehndorff_rtg_kfg_hdb">5. Februar
+                     1809</ref>). Neben dem Hauptplan gab es weitere Pläne von Pristanien, Stawken,
+                  Serwillen, die Kuegler mit 54 Rtlr. vergütet worden waren, siehe in Nr. 866 die
+                  Anlage zu Berents’ Brief vom 19. April 1818. Der von Kuegler erstellte Plan „vom
+                  Dorfe und Garten in Steinort“ in: StA L, Bestand 21950 Familienarchiv Lehndorff, K
+                  18.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 753, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_bt5_kmm_wcb">Kuegler, (-)</persName>
+            <date when="1808-03-27" cert="high"/>
+           
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qt5_5tm_15b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="12" cols="14">
+                  <row>
+                     <cell/>
+                     <cell>Namen der Vorwerke und Dörfer</cell>
+                     <cell cols="3">gemäß Contributionsbücher soll enthalten</cell>
+                     <cell cols="3">Nach der jetzigen Vermessung ist befunden</cell>
+                     <cell cols="6">Also gegen die jetzige Vermessung</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell cols="3"/>
+                     <cell cols="3"/>
+                     <cell cols="3">Plus</cell>
+                     <cell cols="3">Minus</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Huben</cell>
+                     <cell>Morgen</cell>
+                     <cell>Quadraruten</cell>
+                     <cell>Hub.</cell>
+                     <cell>Mg.</cell>
+                     <cell>QuR</cell>
+                     <cell>Hub.</cell>
+                     <cell>Mg.</cell>
+                     <cell>QR</cell>
+                     <cell>Hub.</cell>
+                     <cell>Mg.</cell>
+                     <cell>QR</cell>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Hof <placeName key="ed_pxt_cnh_1y">Groß
+                                Steinort</placeName>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                     <cell>8</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Vorwerk <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+                                incl. sep. Rossgarten</cell>
+                     <cell>6</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell>25</cell>
+                     <cell>256</cell>
+                     <cell/>
+                     <cell>25</cell>
+                     <cell>256</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell>27</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>29</cell>
+                     <cell>19</cell>
+                     <cell>58</cell>
+                     <cell>2</cell>
+                     <cell>19</cell>
+                     <cell>58</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell>32</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>22</cell>
+                     <cell>26</cell>
+                     <cell>64</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>236</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell>52</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>30</cell>
+                     <cell>23</cell>
+                     <cell>276</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>21</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell>33</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>21</cell>
+                     <cell>14</cell>
+                     <cell>77</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>11</cell>
+                     <cell>15</cell>
+                     <cell>230</cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell>28</cell>
+                     <cell>27</cell>
+                     <cell>136</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell>42</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>11</cell>
+                     <cell>24</cell>
+                     <cell>94</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </cell>
+                     <cell>39</cell>
+                     <cell>2</cell>
+                     <cell>83</cell>
+                     <cell>25</cell>
+                     <cell>15</cell>
+                     <cell>139</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>13</cell>
+                     <cell>16</cell>
+                     <cell>244</cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell>Vorwerk und Dorf <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell>32</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>18</cell>
+                     <cell>12</cell>
+                     <cell>175</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>13</cell>
+                     <cell>17</cell>
+                     <cell>125</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>Dorf <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> exkl. dem
+                                Klein Steinortschen Rossgarten</cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>24</cell>
+                     <cell>226</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Summarum <lb/>hiervon</cell>
+                     <cell>275</cell>
+                     <cell>5</cell>
+                     <cell>227</cell>
+                     <cell>205</cell>
+                     <cell>3</cell>
+                     <cell>129</cell>
+                     <cell>11</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>81</cell>
+                     <cell>29</cell>
+                     <cell>133</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>das Plus dem Minus abgezogen bleibt Minus bei denen Vorwerken und
+                                Dörfern</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>70</cell>
+                     <cell>2</cell>
+                     <cell>105</cell>
+                  </row>
+               </table>
+            </p>
+            <p/>
+            <p>
+               <table rows="19" cols="4">
+                  <row>
+                     <cell>Benennung der Ländereien</cell>
+                     <cell cols="3">
+                        <gap reason="illegible"/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Huben</cell>
+                     <cell>Morgen</cell>
+                     <cell>QuadratRuten</cell>
+                  </row>
+                  <row>
+                     <cell>Der Steinortsche Wald enthält inkl. Brücher und exkl. des kleinen
+                                Eichenwaldes </cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Der Stawische Wald enthält inkl. Brücher</cell>
+                     <cell>17</cell>
+                     <cell>20</cell>
+                     <cell>248</cell>
+                  </row>
+                  <row>
+                     <cell>Der Heegewald enthält inkl. Brücher, dem daran angrenzenden
+                                Rossgarten, Taberlackschen und Stobbenschen Strauche</cell>
+                     <cell>17</cell>
+                     <cell>17</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>Der Taberlacksche, Pristanische und Stawsche Wald enthält inkl.
+                                Brücher</cell>
+                     <cell>43</cell>
+                     <cell>11</cell>
+                     <cell>299</cell>
+                  </row>
+                  <row>
+                     <cell>Die Marschallsheide nethält inkl. Brücher und
+                                Waldwarts-Dienstland</cell>
+                     <cell>13</cell>
+                     <cell>24</cell>
+                     <cell>126</cell>
+                  </row>
+                  <row>
+                     <cell>Summarum an Waldungen</cell>
+                     <cell>104</cell>
+                     <cell>28</cell>
+                     <cell>210</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>An Seen</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Der kleine See an Groß Steinort enthält</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>254</cell>
+                  </row>
+                  <row>
+                     <cell>Der Stobbensche kleine See</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Summarum an Seen</cell>
+                     <cell>5</cell>
+                     <cell>13</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Die Werder enthalten</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Upalten in Sa. totalis</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_hcn_kc2_gy">Wittfong</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>25</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell><unclear reason="illegible" cert="low"><seg type="comment"><orig>Przibiec</orig><note xml:id="nn2b_jlj_wxb">Es ist unklar,
+                                 was gemeint ist.</note></seg></unclear></cell>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_mxw_c1k_gy">Sdorkowen</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell>276</cell>
+                  </row>
+                  <row>
+                     <cell><unclear reason="illegible" cert="low"><seg type="comment"><orig>Surrawsk</orig><note xml:id="nmns_jlj_wxb">Es ist unklar,
+                                 was gemeint ist.</note></seg></unclear></cell>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell>111</cell>
+                  </row>
+                  <row>
+                     <cell>Summa totalis</cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>220</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Recapitulatio</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Huben</cell>
+                     <cell>Morgen</cell>
+                     <cell>QuadratR</cell>
+                  </row>
+                  <row>
+                     <cell>An Vorwerks- und Dorf-Ländereien in Sa.</cell>
+                     <cell>205</cell>
+                     <cell>3</cell>
+                     <cell>129</cell>
+                  </row>
+                  <row>
+                     <cell>An Waldungen, Brüchen etc. in Sa.</cell>
+                     <cell>104</cell>
+                     <cell>28</cell>
+                     <cell>210</cell>
+                  </row>
+                  <row>
+                     <cell>An Seen in Summa</cell>
+                     <cell>5</cell>
+                     <cell>13</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Die Werder betragen in Summa</cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>220</cell>
+                  </row>
+                  <row>
+                     <cell>Summa aller Ländereien die zu den Hochgräfl. Steinortschen Gütern
+                                gehören</cell>
+                     <cell>320</cell>
+                     <cell>3</cell>
+                     <cell>293</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Balance</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Nach dem kontribuablen Hubenstande sollten sämtliche Güter incl. der
+                        Marschallsheide enthalten</cell>
+                     <cell>288</cell>
+                     <cell>18</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>abgezogem</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>ist also Plus ausgemittelt</cell>
+                     <cell>31</cell>
+                     <cell>15</cell>
+                     <cell>261</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Gräfl. Hof Steinort den 27. März 1808</p>
+            <p>
+               <persName key="ed_bt5_kmm_wcb">Kuegler</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

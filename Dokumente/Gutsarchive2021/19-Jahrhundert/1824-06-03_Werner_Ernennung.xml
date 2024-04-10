@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_cmc_df4_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff ernennt Carl Leopold Werner rückwirkend zu seinem
+               Bevollmächtigten. Steinort, 3. Juni 1824</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>
+                  <persName key="ed_afr_tvf_2y">Werner</persName> hatte bereits in den 1820er Jahren
+                  in den <ref target="lehndorff_sjp_fzy_cqb">Regulierungsverhandlungen</ref>
+                  Lehndorff vertreten, was dieser nun nachträglich offiziell legitimiert. Siehe auch
+                  das Dokumen vom <ref target="lehndorff_jz1_pl1_3qb">18. März 1830</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 74, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1824-06-03" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_cmc_df4_3qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Verhandelt vor dem Patrimonial-Gericht <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den 3. Juni 1824</p>
+            <p>Vor dem unterschriebenen Patrimonial-Richter erschien der persönlich und als
+                    dispositionsfähig bekannte hiesige Guts- und Gerichtsherr Herr Generalmajor
+                    Reichsgraf <persName key="ed_k4z_jgl_2y">Friedrich Ludwig Carl von
+                        Lehndorff</persName> und gab folgende Vollmacht zum gerichtlichen
+                    Rezess.</p>
+            <p>Bei seiner Abwesenheit in seinen Dienstverhältnissen habe er den Herrn
+               Feuer-Sozietät-Kassen-Rendanten <persName key="ed_afr_tvf_2y">Carl Leopold
+                  Werner</persName> in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zu
+               seinem Bevollmächtigten erwählt und beauftrage zu Folge denselben, alle die
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName>- und <placeName key="ed_ugy_1pg_hy">Rehsauschen</placeName> Güter betreffenden Angelegenheiten in
+               seinen Namen gültig zu besorgen, vorzüglich Kontrakte aller Art abzuschließen,
+               Grundstücke in den Gütern von denen eigentümlichen Besitzern zu akquirieren oder in
+               der Subhastation zu erstehen.</p>
+            <p>Die Abrechnungen mit denen Pächtern der genannten Güter zu halten, die
+                    Administrationsrechnungen zu revidieren und nach Befund der Richtigkeit zu <seg type="comment">
+                  <orig>dechargieren</orig>
+                  <note xml:id="novl_fgh_wqb">entlasten</note>
+               </seg>, insoweit ein besonderer Auftrag dazu von dem
+                    Herrn Komparenten erfolgt. Imgleichen in allen Domanial und polizeilichen
+                    Angelegenheiten <gap reason="illegible"/> wahrzunehmen, Vergleiche zu schließen
+                    und Entsetzungen gültig zu erklären.</p>
+            <p>Alles dasjenige, was nun der Bevollmächtigte vermöge seines Auftrags bereits getan
+               oder noch tun werde, genehmigt derselbe hiermit und in Kraft dieser Vollmacht,
+               verpflichte sich auch, den Bevollmächtigten wegen gehabter barer Auslagen und Kosten
+               überall zu entschädigen.</p>
+            <p>Diese Vollmacht dem Herrn Rendanten zu seiner Legitimation auf den gehörigen
+                    Stempel urkundlich auszufertigen, unterschrieb auf eigene Durchlesung diese
+                    Erklärung eigenhändig</p>
+            <p>
+               <persName key="ed_k4z_jgl_2y">Graf von Lehndorff</persName>
+               <lb/>Königl. Preuß. Generalmajor <lb/>a. a. s.</p>
+            <p>
+               <persName key="ed_gjf_4j2_b2b">Horn</persName> Jurist</p>
+            <p>
+               <unclear reason="illegible" cert="high">Graffenberger</unclear>
+            </p>
+            <p>Urkundlich <seg type="comment">
+                  <orig>in forma probante</orig>
+                  <note xml:id="nfw1_3gh_wqb">in rechtskräftiger Form</note>
+               </seg> ausgefertigt <lb/> Nordenburg den 9. Juni 1824</p>
+            <p>Patrimonialgericht zu Steinort <lb/>
+               <persName key="ed_gjf_4j2_b2b">Horn</persName> Just.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

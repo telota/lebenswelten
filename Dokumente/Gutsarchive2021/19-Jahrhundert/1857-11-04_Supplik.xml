@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_iqz_5rz_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Theodor Werner bittet um Unterstützung. Uderwangen, 4. November 1857</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_mjx_gnb_3vb">Werner, Theodor (-)</persName>
+               <placeName key="ed_f3d_cnb_3vb">Uderwangen</placeName>
+               <date when="1857-11-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_iqz_5rz_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Uderwangen, d. 4. November 57</dateline>
+               <salute>Hochgeborener Herr Graf!</salute>
+            </opener>
+            <p>Mit der untertänigsten Bitte einer gnädigen Unterstützung nahe ich mich. <lb/>Das
+               Mühlengrundstück, das ich verwalte, soll verkauft werden, da Schwager <persName key="ed_ejf_2mb_3vb">Grosse</persName> sein Kapital von 5.000 Rtlr. der
+               Schwiegermutter gekündigt. Das Grundstück besteht aus 4 Hufen schönen Landes, Öl-,
+               Wind- und Mahlwassermühle mit 3 Gängen und wird mir von der Mutter billiger wie jedem
+               anderen mit voller Wirtschaft, sämtlichem Inventarium und Hausgerät für den Preis von
+               32.000 Rtlr. überlassen. Zur Übernahme fehlen mir die gekündigten 3.000 Rtlr. Die
+               übrigen Kaufgelder brauche ich nur zu verzinsen, so dass die Summe des Kaufgeldes in
+               dieser Art aufgeht:<list>
+                  <item>Anna Grosse, geb. Wachholz 5.000 gekündigt</item>
+                  <item><persName key="ed_rks_mmb_3vb">Ernst Wachholz</persName> 5.500</item>
+                  <item><persName key="ed_bqc_4mb_3vb">Marta Werner</persName>, geb. Wachholz
+                     5.500</item>
+                  <item><persName key="ed_hdl_qmb_3vb">Willi Wachholz</persName> 5.500</item>
+                  <item><persName key="ed_zn1_smb_3vb">Wilhelm Wachholz</persName> 5.500 </item>
+                  <item>
+                     <hi rendition="#u">Schwiegermutter 5.000</hi>
+                  </item>
+                  <item>32.000</item>
+               </list>
+            </p>
+            <p>Da ich, jetzt mit dem Geschäfte bekannt, in der Umgegend recht viele Beweise von
+               Vertrauen erhalten, bin ich zur festen Überzeugung gekommen, dass ich einen sehr
+               vorteilhaften Kauf machen und so durch Gottes weise Führung, durch Hochdieselben
+               Gnade zu einem ersehnten schönen Eigentum gelangen würde. <lb/>Herr Pfarrer <persName key="ed_u33_ymb_3vb">Baudisch</persName> will mir 2.500 Rtlr. geben und
+               hypothekarisch eintragen lassen, nun, gnädiger Herr Graf, schenken Euer Gnaden meiner
+               Bitte gnädigst Gehör und helfen mir mit 2.500 Rtlr., prompt will ich ausgestellten
+               Schuldschein mit 5 % verzinsen und jährlich, je nach den Umständen, doch das Minimum
+               von 100 Rtlr. darauf abzahlen. <lb/>Wenden Hochdieselben sich nicht von mir und
+               erfüllen meine Bitte, jedoch bleibt die Bitte unerfüllbar, verzeihen dann Ew. Gnaden
+               das zu kühne Wagnis.</p>
+            <closer>
+               <salute>Ew. Hochgeboren ergebenster Diener</salute>
+               <signed>Theodor Werner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

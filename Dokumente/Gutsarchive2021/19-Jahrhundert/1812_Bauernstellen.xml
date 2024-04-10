@@ -1,0 +1,682 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_xnz_mzl_15b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Übersicht der zu den Steinortschen Gütern gehörenden Bauern-Erben und
+               namentliches Verzeichnis der Bauern. Ca. 1812</title><title> </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch <ref target="lehndorff_llz_pg4_1tb">hier</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 504, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1812-01-01" to="1812-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xnz_mzl_15b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="10" cols="7">
+                  <row>
+                     <cell>Namen der Dörfer</cell>
+                     <cell>Anzahl der Bauer-Erben, die zum General-Huben-Schoss bei der Kammer
+                        angenomen sind</cell>
+                     <cell>Vor der Zeit des Inspektor Berent sind Erbe eingegangen und zum Vorwerk
+                        geschlagen worden anno 1797</cell>
+                     <cell>Während der Zeit des Inspektor Berent sind zum Vorwerk gezogen </cell>
+                     <cell cols="2">Gegenwärtig sind wirklich besetzte Bauer-Erbe</cell>
+                     <cell>Unbesetze Erben sind jetzt vorhanden</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>Mit Untertänigen</cell>
+                     <cell>Mit Fremden</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1. <placeName key="ed_xpm_112_gy">Labab</placeName></cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2. <placeName key="ed_xzt_112_gy">Stawisken</placeName></cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell/>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>3. <placeName key="ed_s3k_b12_gy">Taberlack</placeName></cell>
+                     <cell>18</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>16</cell>
+                     <cell>2</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4. <placeName key="ed_hrb_hc2_gy">Serwillen</placeName></cell>
+                     <cell>8</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5. <placeName key="ed_nkz_b12_gy">Stawken</placeName></cell>
+                     <cell>7</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>6. <placeName key="ed_ohv_kf2_gy">Pristanien</placeName></cell>
+                     <cell>13</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>9</cell>
+                     <cell/>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>7. <placeName key="ed_xjg_d12_gy">Stobben</placeName></cell>
+                     <cell>16</cell>
+                     <cell/>
+                     <cell>vor 1800 6 eingegangen</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>8. <placeName key="ed_xnn_d12_gy">Kittlitz</placeName></cell>
+                     <cell>6</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>90</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                     <cell>59</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell cols="2">in Summa 73</cell>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+            <p>Namentliches Verzeichnis derer in den Steinortschen Gütern jetzo wirklich vorhandenen
+               Bauern</p>
+            <p>
+               <table rows="20" cols="4">
+                  <row>
+                     <cell/>
+                     <cell>Nahmen der Bauern</cell>
+                     <cell>Anzahl derselben in jedem Dorf</cell>
+                     <cell>Bemerkung</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_xpm_112_gy">Labab</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulze <persName key="ed_uf1_5v1_zqb">Uwis</persName></cell>
+                     <cell rows="10">10</cell>
+                     <cell rows="10">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>B. <persName key="ed_ibm_cw1_zqb">Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_hxs_fw1_zqb"><hi rendition="#u">Jacob
+                           Liss</hi></persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_gsp_kk3_wqb">Ahasv. Uwis</persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_d4l_vw1_zqb">Jarreck</persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_bcc_rw1_zqb">Christoph Masuch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_hkg_kx1_zqb">Mich. Liss</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_a5l_4x1_zqb">Mich. Masuch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell><persName key="ed_etd_tgt_fqb">Kordack</persName></cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell><persName key="ed_n11_hx1_zqb">Klein</persName></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_xzt_112_gy">Stawisken</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulz <persName key="ed_rx1_41b_zqb">Bannasch</persName></cell>
+                     <cell rows="3">3</cell>
+                     <cell rows="3">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>B. <persName key="ed_eyv_v1b_zqb">Kordack</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_qqg_wgt_fqb">Jarreck</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_bcb_y1b_zqb">Jacob Grenz</persName></cell>
+                     <cell rows="5">5</cell>
+                     <cell rows="5">Freie Hochzins-Bauern</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_u4q_z1b_zqb">Kuhn</persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_onk_pjw_yxb">Voss</persName></cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_jhw_bbb_zqb">Rehberg</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_n3x_cbb_zqb">Kosack</persName></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell cols="3">NB. Alle rot unterzeichneten Bauern sind in der <gap reason="illegible"/> weggelassen</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_hrb_hc2_gy">Serwillen</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulze <persName key="ed_ajl_rsc_zqb">Kuckel</persName></cell>
+                     <cell rows="7">7</cell>
+                     <cell rows="7">untertänig Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>B. <persName key="ed_fpr_ctc_zqb">Kuckel</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_byh_1tc_zqb">Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_nhs_5sc_zqb">Jasch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_qbm_h3t_fqb">Schönfeldt</persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_j2f_ntc_zqb">Seska</persName></cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_x5x_qtc_zqb">Rautenberg</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_xzw_ttc_zqb">Wandkowski</persName></cell>
+                     <cell>1</cell>
+                     <cell>Freier Hochzins-Bauer</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_s3k_b12_gy">Taberlack</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulz <persName key="ed_cpc_rkc_zqb">Waschke</persName></cell>
+                     <cell rows="16">16</cell>
+                     <cell rows="16">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Bauer <persName key="ed_q4m_clw_yxb">Fritz Masuch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_qrx_3lw_yxb">Bliss</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_hxy_yk2_jxb"><hi rendition="#u">Christoph
+                           Uwis</hi></persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_ts1_lht_fqb"><hi rendition="#u">Mich.
+                           Smolenga</hi></persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_bhs_nht_fqb">Ad. Kiworra</persName></cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_jv1_ylc_zqb">David Uwis</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_rwv_cmc_zqb">Mich. Masuch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell><persName key="ed_cpv_yht_fqb">Gellesch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell><persName key="ed_rgv_mmc_zqb">Joh. Gus</persName></cell>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell><persName key="ed_ggc_c3t_fqb">Matzig</persName></cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell><persName key="ed_us2_3ht_fqb">Fr. Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell><persName key="ed_gqt_1nc_zqb">David Gus</persName></cell>
+                  </row>
+                  <row>
+                     <cell>14.</cell>
+                     <cell><persName key="ed_vcn_mpc_zqb">Schwikowsky</persName></cell>
+                  </row>
+                  <row>
+                     <cell>15.</cell>
+                     <cell><hi rendition="#u"><persName key="ed_krg_23t_fqb">Gritzka</persName></hi></cell>
+                  </row>
+                  <row>
+                     <cell>16.</cell>
+                     <cell><hi rendition="#u"><persName key="ed_l1r_rht_fqb">Rautenberg</persName></hi></cell>
+                  </row>
+                  <row>
+                     <cell>17. </cell>
+                     <cell><hi rendition="#u"><persName key="ed_psb_wht_fqb">Hesse</persName></hi></cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">Freie Hochzins-Bauern</cell>
+                  </row>
+                  <row>
+                     <cell>18.</cell>
+                     <cell><persName key="ed_sgd_pvh_wqb">Rogge</persName></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_ohv_kf2_gy">Pristanien</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulz <persName key="ed_ub2_gth_wqb">Martin Gellesch</persName></cell>
+                     <cell rows="9">9</cell>
+                     <cell rows="9">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Bauer <persName key="ed_uyv_cjt_fqb">Mich. Gellesch
+                        jun.</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_x1r_2y3_zqb">Mich. Gellisch</persName> medio</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_ufl_ksh_wqb">Fr. Gellisch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_gm3_njt_fqb">Georg Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_cgb_xrh_wqb">Christian Gellesch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_snp_gjt_fqb">Uwis</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_x2y_2jt_fqb">Schack</persName></cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell><seg type="comment"><orig>Kuckel</orig><note xml:id="negg_spw_yxb">Es gab
+                              in Pristanien Vater und Sohn.</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_nkz_b12_gy">Stawken</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulz <persName key="ed_ylw_vxc_zqb">Wittke</persName></cell>
+                     <cell rows="4">4</cell>
+                     <cell rows="4">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Bauer <persName key="ed_zjy_byc_zqb">Gwiasda</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_cmp_2yc_zqb">Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><hi rendition="#u"><persName key="ed_vck_gyc_zqb">Schönfeldt</persName></hi></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>Peter Berger</cell>
+                     <cell rows="2">2</cell>
+                     <cell rows="2">Freie Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>Witwe <persName key="ed_g13_cs3_zqb">Bergerin</persName></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_xjg_d12_gy">Stobben</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Bauer <persName key="ed_o41_jbf_jxb">Schwikowski</persName></cell>
+                     <cell rows="5">5</cell>
+                     <cell rows="5">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell><persName key="ed_is5_pjt_fqb">David Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_bzg_vjt_fqb">Gritzka</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_yc2_sjt_fqb">Jacob Gellisch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_mbn_t24_gqb">Georg Scheimann</persName></cell>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>Schulze <persName key="ed_b3j_kz3_zqb">Strehl</persName></cell>
+                     <cell rows="4">4</cell>
+                     <cell rows="4">Freie Hochzinser</cell>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell>Bauer <persName key="ed_dhd_qth_wqb">Wölck</persName></cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell rows="2"><persName key="ed_ezn_nm3_wqb">Holstein</persName>
+                        <add place="intralinear">NB. Holstein besitzt zwei Erbe</add></cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf <placeName key="ed_xnn_d12_gy">Kittlitz</placeName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Schulze <persName key="ed_vqp_lt3_zqb">Schack</persName></cell>
+                     <cell rows="5">5</cell>
+                     <cell rows="5">untertänige Scharwerksbauern</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Bauer <persName key="ed_mfw_fqg_j5b">Rompel</persName></cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_ssn_vt3_zqb">Masuch</persName></cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_iky_bxw_yxb">Kösling</persName></cell>
+                  </row>
+                  <row>
+                     <cell>5.,</cell>
+                     <cell><persName key="ed_f4s_dl3_wqb">Liss</persName></cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Rekapitulatio</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Labab</cell>
+                     <cell>10</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Stawisken</cell>
+                     <cell>8</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf serwillen</cell>
+                     <cell>8</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Taberlack</cell>
+                     <cell>18</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Pristanien</cell>
+                     <cell>9</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Stawken</cell>
+                     <cell>6</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Stoben</cell>
+                     <cell>9</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Dorf Kittlitz</cell>
+                     <cell>5</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Summa</cell>
+                     <cell>73</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Außer diesen ist noch</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Krüger <persName key="ed_vyb_nnc_zqb">Lemcke</persName> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und</cell>
+                     <cell/>
+                     <cell rows="2">Diese sind Zeitpächter von den Krügen</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Krüger <persName key="ed_ok3_qw3_zqb">Neumann</persName> in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName></cell>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+           
+         </div>
+      
+         
+      </body>
+   </text>
+</TEI>

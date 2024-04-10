@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_lht_ytm_rrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Das Bauernerbe des Christoph Herrmann wird an dessen Sohn übergeben.
+               Reichertswalde, 20. Dezember 1784</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>In der Akte zahlreiche weitere Besatzbriefe der Bauern in Reichertswalde aus
+                        den Jahren 1784-1814. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 874, Bl. 27-40</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1784-12-20" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Der Bauer <persName key="ed_mnk_4rx_5sb">Christoph Hermann</persName> zu <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>, der aus Altersgründen seinem Hof
+               nicht mehr vorstehen kann, hat die Herrschaft darum gebeten, den Hof seinem ältesten
+               Sohn <persName key="ed_jp2_rrx_5sb">Johann</persName> zu übergeben. Die Herrschaft
+               hat dem zugestimmt. Mit dem Schulzen und dem Gerichtsgeschworenen von <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName> sowie dem Dorfgeschworenen von
+                  <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName> wird die Abnahme vom
+               alten und die Übergabe an den neuen Wirt vollzogen. Zum Erbe gehören drei Hufen. Nach
+               dem Besatzbrief vom 7. Dezember 1772 werden die Bestände an Korn, Gerste, Hafer,
+               Erbsen, Leinsamen und Flachs, an Viktualien, an Futter, an Gebäuden, Pferden und
+               Vieh, an Geschirr und Hausgeräten aufgenommen. Die Aufnahme ergibt einen
+               Wert-Überschuss von 106 Gulden 13 Gr. die der neue dem alten Wirt zu zahlen hätte,
+               die der alte Wirt jedoch nur allmählich und „nach Bedürfnis zu seinem Unterhalt‟
+               fordert, „welche Erklärung der neue Wirt mit kindlichem Dank annimmt‟. Das
+               Ausgedinge, dass der abgehende Wirt auf Lebenszeit erhält, wird bestimmt. Nachdem dem
+               neuen Wirt „der Segen Gottes zu seiner Wirtschaft gewünscht und derselbe zu einer
+               ordentlichen Wirtschaft angewiesen, besonders, dass er die Gebäude und Acker gehörig
+               erhalte und nutze, auch mit dem Herrschaftlichen Besatz gut und wirtschaftlich umgehe
+               und die Pferde nicht mit Jahrmarkts-, Salz- und besonders verbotenen Holzfuhren
+               abfahre‟, ist der Besitzwechsel vollzogen. <lb/> Zu den baren Abgaben des neuen
+               Wirtes gehören neben dem General-Huben-Schoss, den die Dorfschaft jährlich in acht
+               Terminen mit 480 Fl. entrichten muss, 56 Gulden Zins, 10 Gr./Hube Gerichts- und 3
+               Gr./Hube Armengeld sowie der Decem für die Kirche in Silberbach. Zudem hat er
+               jährlich 2 <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=grashuhn">Grashühner</ref> oder eine Gans in den Hof zu liefern und <seg type="comment"><orig>eine Mandel</orig><note xml:id="nwgm_fdg_vxb">15 Stück</note></seg> Garn
+               zu spinnen. Das zu leistende Scharwerk hat er wie alle Bauern in Reichertswalde zu
+               leisten, d. h., er muss, „so oft es bestellt wird‟, Knecht und Magd von 7 Uhr morgens
+               bis 7 Uhr abends im Sommer, von 8 Uhr morgens bis 7 Uhr abends im Winter, sowie bei
+               anstehenden Bauten und zum Flachsziehen von Sonnenaufgang bis Sonnenuntergang und zu
+               anderer Flachsarbeit, wohin sie bestellt werden, schicken. Auch die Fuhren muss er
+               vierspännig, wann und wohin sie bestellt werden, leisten. Im Vorwerk hat er Mist-,
+               Mühlen- und andere Fuhren zu leisten, in den Saatfeldern 10 Schfl. Getreide mit
+               seinem Gespann einzuackern und die festgesetzte Anzahl Viertel Holz zu schlagen und
+               anzufahren, auch muss er bei Bauholzfuhren helfen. Seine und die gemeinschaftlichen
+               Zäune hat er zu unterhalten. Bei Getreidefuhren der Herrschaft in die Städte oder in
+               Misswachsjahren bei Ankäufen hat er Fuhren zu leisten. Er hat sich an den Jagden,
+               Nachtwachen, der Unterhaltung des schwarzen Weges zum Vorwerk <placeName key="ed_vxw_ryw_5sb">Inrücken</placeName>, und „zu allem dem, was andere Bauern
+               hier in Reichertswalde bishero getan und zu tun schuldig sind‟, zu beteiligen. Auch
+               zu den gegenwärtigen außergewöhnlichen Lasten des Festungsbaus muss er seinen Anteil
+               in Geld und durch Stellung von Arbeitern leisten. Er hat sich nach der <ref target="lehndorff_lbw_zgj_5pb">Willkür und Dorfordnung</ref> zu richten und alles
+               öffentliche Scharwerk zur Verbesserung der Wege, Brücken, Mühlen, Kirchen und
+               Schulbauten zu leisten, das „Willkür-Gebet und <seg type="comment">
+                  <orig>Schemper-Bier</orig>
+                  <note xml:id="nzln_pph_y5b">
+                     <ref target="https://www.dwds.de/wb/dwb/schemper">Dünnbier</ref>
+                  </note>
+               </seg> mithalten‟ und bei allen Dorf-Pflichten zu helfen. Insofern er allen Pflichten
+               nachkommt, versichert ihm die Herrschaft, dass er „in ruhigem Besitz seines Erbes
+               gelassen wird‟ und in allen Unglücksfällen auf die Unterstützung der Herrschaft
+               rechnen kann. <lb/> Nach Verlesung des Rezesses wird er von allen Seiten gezeichnet,
+               wobei der alte und der neue Wirt und die oben genannten Zeugen mit xxx zeichnen.
+                  <persName key="ed_ehf_grx_5sb">Friedrich Leopold Graf zu Dohna</persName>
+               unterzeichnet und besiegelt den Besatzbrief am 15. Januar 1785.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_lht_ytm_rrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

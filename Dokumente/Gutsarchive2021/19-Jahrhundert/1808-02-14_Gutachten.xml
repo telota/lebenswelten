@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ucg_pcl_4qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bemerkungen über die persönlichen Verhältnisse der Gutsherrn
+                                        und ihrer Hintersassen in Ostpreußen und Litauen, über die
+                                        Rechte der letzteren an ihren benutzten Grundstücken und
+                                        über die Austuung der Bauernhuben zum Eigentum oder in
+                                        Erbpacht</title><title>. Nach dem 14. Februar 1808</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                                <note type="keyword">
+                                        <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+                                </note>
+                        </notesStmt><sourceDesc>
+                                <msDesc rend="manuscript" subtype="copy">
+                                        <msIdentifier>
+                                                <institution>GStA PK</institution>
+                                                <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                                                  Nr. 377, n. f.</idno>
+                                        </msIdentifier>
+                                </msDesc>
+                        </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1808-02-14" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ucg_pcl_4qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+                                <p>„Bemerkungen über die persönlichen Verhältnisse der Gutsherrn und
+                                        ihrer Hintersassen in <placeName key="ed_uvt_4j4_dz">Ostpreußen</placeName> und <placeName key="ed_z15_pdp_tcb">Litauen</placeName>, über die
+                                        Rechte der letzteren an ihren benutzten Grundstücken und
+                                        über die Austuung der Bauernhuben zum Eigentum oder in
+                                        Erbpacht, nach Maßgabe der <seg type="comment">
+                                                <orig>Verordnung vom 14. Februar 1808 § 6 Litt.
+                                                  B</orig>
+                                                <note xml:id="ntf1_vzr_flb">Zum Gesetz <ref target="https://books.google.de/books?id=B0pdAAAAcAAJ&amp;pg=PA359&amp;lpg=PA359&amp;dq=Verordnung+14.+Februar+1808+%C2%A7+6+Lit.+B&amp;source=bl&amp;ots=4JpEr9TOJ8&amp;sig=ACfU3U0yF9Kmnlw3ZmKgCfEemIsYcSHY4A&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwiY1rD10snoAhVMC-wKHQNvAOwQ6AEwAXoECAoQKw#v=onepage&amp;q=Verordnung%2014.%20Februar%201808%20%C2%A7%206%20Lit.%20B&amp;f=false">hier</ref>
+                                                </note>
+                                        </seg>“</p>
+                                <p>1. Das persönliche Verhältnis der Eingesessenen zu ihren
+                                        Gutsherren begründet entweder ihr Stand oder der Besitz der
+                                        Grundstücke, der ihnen übertragen ist. Ersteres beruht</p>
+                                <p>2. auf der Eigenschaft als Gutsuntertan, und diese besteht in
+                                        nichts weiter als in der Verpflichtung, das Gut, mit dem der
+                                        Eingesessene in der Art verbunden ist, ohne die im Gesetz
+                                        ausdrücklich bestimmten Fälle nicht zu verlassen, sondern
+                                        sich darauf durch die verschiedenen ländlichen Erwerbsarten
+                                        zu ernähren, und entweder nach dem Kontrakt oder nach der
+                                        Ortsgewohnheit oder nach dem Gesetz seine Pflichten zu
+                                        erfüllen.</p>
+                                <p>
+                                        <note place="inline" hand="#author">Provinzialrecht Zusätze
+                                                108-115-123 Allgemeines Landrecht Part 2. Tit. 7 SE3
+                                                §§ 87-548 </note>
+                                </p>
+                                <p>Von diesem Untertänigkeitsverband darf jetzt nicht weiter die
+                                        Rede sein, da solches mit Ableben d. J. ganz aufgelöst wird,
+                                        mithin die hieraus herzuleitenden wechselseitigen Pflichten
+                                        gehoben sind.</p>
+                                <p>Aber auch ohne diese Untertänigkeit oder eigentliche
+                                        Gutspflichtigkeit entstehen</p>
+                                <p>3. aus der Aufnahme in ein Gut gesetzliche Pflichten des
+                                        Aufgenommenen. Hierher gehören, was den Zweck dieses
+                                        Aufsatzes betrifft,</p>
+                                <p>a. das Recht des Gutsbesitzers, von seinen Eingesessenen zu
+                                        fordern sich zur Gutsmühle zu halten <note place="inline" hand="#author">Allg. LR P. 1. Tit. 22 §§ 25. 27. 28.
+                                                29. </note> oder nach dem neuen Gesetz ihn zu
+                                        entschädigen,</p>
+                                <p>b. das Recht zu fordern, dass der Eingesessene das Getränke von
+                                        ihm nehme <note place="inline" hand="#author">C. C. §
+                                                59.</note>,</p>
+                                <p>c. dass der Eingesessene sich zu Diensten im Gut vorzüglich
+                                        verstehe, der Handwerker mit seinem Handwerk und der
+                                        Tagelöhner als solcher, und</p>
+                                <p>d. dass er die zum Dienen fähigen und dazu gewidmeten Kinder hier
+                                        vorzüglich vor anderen Orten dienen lasse <note place="inline" hand="#author">Gesinde-Ordn. vom 10.
+                                                Sept. 1784 Cap. 1 § 2. Allg. LR P. 2 Tit. 7 §§ 113.
+                                                118-120. 182-184. </note>
+                                </p>
+                                <p>Dieser Gesindezwang liegt nicht nur in der allgemeinen Pflicht
+                                        jeder Obrigkeit und jedes Vorgesetzten, den Müßiggang zu
+                                        steuern und die Einsassen zur Arbeit anzuhalten <note place="inline" hand="#author">Allg. LR LC Tit. 20 §
+                                                1. 4.</note>,</p>
+                                <p>sondern er ist auch umso billiger, als die Gerichtsbarkeit des
+                                        Wohnorts der Letzteren die Kosten übernehmen muss, wenn die
+                                        auswärts dienenden Kinder ihrer Einsassen Kriminalverbrechen
+                                        begehen, welches unbillig wäre, wenn dem Gutsherrrn der
+                                        Eltern und deren Vorgesetzten durch Wegschickung der Kinder
+                                        in auswärtige Dienste die Mittel genommen würden, sie in
+                                        ihren Handlungen zu beobachten, vom Bösen abzuhalten und den
+                                        Verbrechen vorzubeugen. </p>
+                                <p>4. Sämtl. adl. Gutshuben sind ihren Erwerbern als freie
+                                        Ritterhuben mit überall gleichen Rechten verliehen, und es
+                                        war ursprünglich ganz der Willkür der Beliehenen überlassen,
+                                        sie entweder selbst mit eigenem Gesinde zu bewirtschaften,
+                                        oder solche mit kleinen bäuerlichen Wirten zu besetzen
+                                        gerade so, wie jetzt die Domänen-Amts-Vorwerkshuben ausgetan
+                                        werden. Die Landesregierung bekümmerte sich um die innere
+                                        Wirtschaftsart der Privat-Güterbesitzer nicht, sondern
+                                        überließ solche lediglich dem Gutbefinden der Letzteren,
+                                        daher dann auch diese nach der Notdurft der Umstände
+                                        Vorwerksländereien an kleine bäuerliche Wirte entweder von
+                                        neuem austaten oder früher ausgetane, wenn die Kontrakte
+                                        nicht entgegen waren, zum Vorwerk wieder einzogen.</p>
+                                <p>5. Nun erst durch die Verordnung vom <seg type="comment"><orig>12. Aug. 1749</orig><note xml:id="nwx1_hfj_wxb"><ref target="https://opac.biblioteka.tgory.pl/ici/recorddetail?id=oai%3Apolona.pl%3A126559835">Allgemeines Edict, Dass keiner Von Adel, noch
+                                                  andere Vasallen, insonderheit weder hohe und
+                                                  niedere Stifter, noch Ballayen, Dohm- Capitul,
+                                                  Commenden, Praelaturen, Clöster, oder andere Pia
+                                                  Corpora, Städte und Communen etc. so Dörffer und
+                                                  Land- Güter besitzen, bey Ein Hundert Ducaten
+                                                  Strafe zur Invaliden- Casse, sich unterstehen
+                                                  sollen, in und bey ihren Gütern Bauer- und
+                                                  Cossäthen- Höfe eingehen zu lassen, und die Aecker
+                                                  und Wiesen davon an sich zu ziehen, oder zu
+                                                  Vorwercke zu Schlagen, nochweniger davon neue
+                                                  Vorwercke anzulegen, ein solches auch selbst in
+                                                  denen Königl. Aemtern beobachtet, die Land- Räthe,
+                                                  bey Vermeydung einer Strafe von Ein Hundert Thlr.
+                                                  wenn sie solches binnen Jahr und Tag nicht
+                                                  anzeigen, darauf besonders acht haben und davor
+                                                  stehen sollen. De Dato Berlin, den 12 August.
+                                                  1749</ref></note></seg> wurde es bei Geldstrafe
+                                        verboten, die einmal <unclear reason="illegible" cert="high">ausgetanen</unclear> Bauernhuben zu den Vorwerken
+                                        ohne höhere Genehmigung anzuziehen, und sie sind in den
+                                        Kontributions-Katastern ihrer Anzahl nach verzeichnet. Das
+                                        Ostpr. Prov. Recht lautet über das Verbotgesetz im Zusatz
+                                        106 folgendergestalt:</p>
+                                <p rendition="#et">Veränderungen bäuerlicher Besitzungen durch
+                                        Einziehung der Stellen und der dazu gehörigen oder durch
+                                        Zusammenschlagung derselben, dürfen ohne Genehmigung der
+                                        Krieges- und Domänen-Kammer nicht vorgenommen werden.</p>
+                                <p>6. Wegen der denen Besitzern nach Nr. 4 zugestandenen
+                                        uneingeschränkten Befugnis, ihre Güter so zu besitzen und zu
+                                        benutzen, wie die Landesherrschaft selbst sie besessen und
+                                        genossen, oder besitzen und genießen können, ist es denn
+                                        auch gekommen, dass in sehr vielen ansehnlichen Gütern bis
+                                        jetzt gar keine bäuerlichen Wirte existieren, sondern solche
+                                        mit Gesinde und Tagelöhnern bewirtschaftet werden.</p>
+                                <p>7. In Ostpreußen und Litauen gehört in der Regel das Eigentum der
+                                        Bauerngüter, der Gebäude und des Besatzes der
+                                        Gutsherrschaft. Im Ermland hingegen gehört in der Regel das
+                                        Eigentum der Gebäude dem Untertan oder Bauernwirt und nur
+                                        das Eigentum der Güter und des Besatzes der Herrschaft.
+                                                <note place="inline" hand="#author">Zusatz des
+                                                Provinzialrechts 116.</note>
+                                </p>
+                                <p>8. Auch das im Allg. LR Part. 1 Tit. 21 § 626-680 beschriebene
+                                        Recht der bäuerl. Besitzer ist in Privat-Gütern in Preußen
+                                        eine ganz unbekannte Sache und der Provinzial-Verfassung
+                                        sowie dem gewöhnlichen Verfahren völlig zuwider, denn
+                                        wenngleich der Gutsherr das Recht hat, den Sohn des
+                                        verstorbenen Wirtes, jedoch nur dann, wenn dieser ein
+                                        Untertan war, auf das väterliche Gut zu setzen, so beruhte
+                                        dies doch klar auf dem persönlichen Recht des Gutsherrn -
+                                        gegen den untertänigen Nachkömmling, welcher bald aufhören
+                                        wird, und die adl. Gutsbesitzer haben sich vor Emanierung
+                                        des Allg. LR stets in dem Besitz der Befugnis befunden, wenn
+                                        in den Kontrakten oder Besatzbriefen keine bestimmte Zeit,
+                                        wie lange der Besitz dauern soll, verabredet, oder gar keine
+                                        Kontrakte errichtet worden, das Bauernerbe nach eigener
+                                        Willkür abzunehmen. Nun erst nach den Verhandlungen mit den
+                                        Ständen über das Provinzial-Recht ist es mit Bewilligung der
+                                        Ständischen Deputierten dahin reguliert, </p>
+                                <p rendition="#et">dass eine solche unbestimmte Besitzzeit 3 Jahre
+                                        dauert und bei nicht erfolgender 6 monatlicher Aufkündigung
+                                        nur auf 1 Jahr verlängert gerechnet werden solle, jedoch bei
+                                        dem Absterben des Bauern der adl. Gutsbesitzer auch während
+                                        der 3 Jahre befugt bleibe, das Gut mit Ablauf des
+                                        Wirtschaftsjahres zurückzunehmen. Hierauf gründet sich der
+                                        gleichlautende Zusatz im Prov. R. Nr. 80.</p>
+                                <p>9. In den königl. Domänen-Dörfern ist aber durch die Allerh.
+                                        Kabinetts-Ordre vom 2. Febr. 1777 und durch die nachherigen,
+                                        darauf sich gründenden Erweiterungen die in dem Zusatz des
+                                        Prov. Rechts sub Nr. 82 enthaltene Zessions-Ordnung
+                                        eingeführt, welche, als außer dem Zweck dieses Aufsatzes,
+                                        übergangen werden kann.</p>
+                                <p>10. Außer denjenigen, welche auf den Grund schriftlicher und in
+                                                <seg type="comment"><orig>foro rei sitae</orig><note xml:id="nrd2_t34_fwb">vor dem Gerichtsstand der
+                                                  gelegenen Sache</note></seg> verlautbarten
+                                        Kontrakten,</p>
+                                <p rendition="#et">denn ohne solche waren alle Verhandlungen über
+                                        ein Grundstück nach den Vorschriften des alten Preuß.
+                                        Landrechts P. 2. Lib. 4. Tit. 6. Art. 7. § 1. pag. 112. Art.
+                                        11. § 7. p. 119 Tit. 9 Art. 1. § 2. § 154. unbündig und von
+                                        keinen Kräften, und </p>
+                                <p>ihre Grundstücke eigentümlich entweder zu kölmischen und
+                                        preußisch frei oder nur zu Erbzins, Erbpacht, Erbvergleich
+                                        und anderen dergl. unwiderruflichen Rechten erworben haben,
+                                        gibt es folgende bäuerliche und kleine Einsassen in den
+                                        Gütern, welche gemeinhin und erstgedachte nur als seltene
+                                        Fälle vorkommen:</p>
+                                <p>a. Zinsbauern</p>
+                                <p>Dies sind freie oder untertänige Wirte, die die Grundstücke,
+                                        nämlich Wohnung, Wirtschaftsgebäude, Garten und Acker, mit
+                                        herrschaftlichem Besatz wie Zeitpächter gegen einen
+                                        bestimmten Zins an Geld, bestimmte Dienste und
+                                        Naturalabgaben innehaben. Ihre Dienste sind entweder nach
+                                        Tagen oder Ackerflächen oder nach beidem oder auch nach zu
+                                        verrichtenden Arbeiten festgesetzt, z. B. sie präparieren
+                                        eine gewisse Anzahl Morgen zu den verschiedenen Saaten,
+                                        befahren einen gewissen Teil des Ackers mit Dünger, leisten
+                                        bestimmte Fuhren, arbeiten gewisse Tage auf bestimmte Art
+                                        beim <gap reason="illegible"/>, Bau pp., kurz sie leisten im
+                                        Sinne des Gesetzes gewisse Dienste. Sie tragen die ordinäre
+                                        und extraordinäre Kontributionen, hierunter den Kopf-, Horn-
+                                        und Klauenschoss nach der Anzahl ihrer Familien, den
+                                        Hausgenossen und des zu haltenden Viehs, die Kirchen-,
+                                        Prediger- und Schulen-Abgaben, leisten die Sozietäts- und
+                                        Kommunallasten, Landeslieferungen und Fuhren, alles nach
+                                        Verhältnis der Größe ihres Grundstücks, auch wenn die
+                                        Forderungen nicht auf die Person gelegt, sondern als eine
+                                        Reallast ausgeschrieben wird. Diese Zinsbauern sitzen nach
+                                        Maßgabe ihrer Kontrakte und Vereinigungen mit dem Gutsherrn
+                                        öfters in ein und ebendemselben Gut mit ungleichen
+                                        Bedingungen, je nachdem das Grundstück des einen oder des
+                                        anderen wegen besonderen Realitäten, z. B. wegen mehrerer
+                                        Wiesen, besserer Ackerplätze oder Zugaben an Acker, Weide
+                                        pp. im Vorzuge oder Zurücksein sich befindet. Sie haben auch
+                                        zuweilen keinen gutsherrschaftlichen Besatz an Aussaat,
+                                        Vieh, Acker und Wirtschaftsgerät.</p>
+                                <p>b. Scharwerksbauern</p>
+                                <p>Dies sind wenige Fälle, ausgenommen größtenteils untertänige
+                                        Wirte, welche gleichfalls Grundstücke nach der Bezeichnung
+                                        unter a., aber jederzeit mit komplettem Besatz, nämlich mit
+                                        der Garten- und Ackeraussaat, Betrieb- und Nutzvieh, Acker-
+                                        und Zinsgerät übernommen haben, und hierfür gegen die
+                                        Zinsbauern unter a. einen unbedeutenden baren Zins und
+                                        Abgaben entrichten, dagegen verbunden sind, mit dem
+                                        herrschaftlichen Inventarium oder auch bloß mit Handdiensten
+                                        zu sämtlichen im Gute vorfallenden herrschaftl. Arbeiten in
+                                        den Werktagen sich zu gestellen; nur muss ihnen in jeder
+                                        Woche so viel Zeit übrig gelassen werden, als zur
+                                        Bearbeitung ihrer Wirtschaftsnotdurft erforderlich ist. Über
+                                        die Scharwerkstage in der Woche und über die den
+                                        Scharwerksbauern gelassene Zeit zur Arbeit in ihrer
+                                        Wirtschaft sind verschiedene Einrichtungen in den Gütern,
+                                        welche von mehreren Ortsumständen, zum Teil aber auch davon
+                                        abhangen, <seg type="comment">
+                                                <orig>ob der Gutsherr im Stande ist,
+                                                  dienstpflichtiges Gesinde zur Annahme des
+                                                  Dienstes</orig>
+                                                <note xml:id="nibf_f52_wqb">Hier fehlt das
+                                                  Verb.</note>
+                                        </seg>, und ob die Mehr- oder Minderzahl der Bauern und die
+                                        gutsherrliche Mithilfe zu den vorfallenden Arbeiten mehr
+                                        oder weniger disponible Scharwerkstage erfordern, wonach
+                                        dann auch der stipulierte Zins abgemessen wird. Diese
+                                        Einsassen leisten als Dienst sogenannte <seg type="comment"><orig>ungemessene Dienste</orig><note xml:id="nozc_chj_wxb">Zu gemessenen und
+                                                  ungemesenen Diensten siehe <ref target="https://www.regionalgeschichte.net/bibliothek/glossar/begriffe/eintrag/fronde.html">hier</ref>.</note></seg>. In Absicht der
+                                        ordinären und extraordinären Kontributionen, Kirchen-,
+                                        Prediger- und Schulen-Abgaben, Sozietäts- und allgemeinen
+                                        Lasten, Lieferungen, Fuhren und überhaupt aller öffentlichen
+                                        Lasten stehen diese Scharwerksbauern mit den unter a. in
+                                        gleichem Verhältnis, außer, dass die Fuhren und
+                                        Dienstleistungen, da solche nur mit herrschaftl. Gespann
+                                        verrichtet und Spannwerkstage dadurch verloren gehen, immer
+                                        dem Gutsherrn zur Last fallen.</p>
+                                <p>c. Instleute</p>
+                                <p>Diese Freie oder Untertänige erhalten als Mietsleute und
+                                        Tagelöhner Wohnung, Stall und Garten, zuweilen einige
+                                                <unclear reason="illegible" cert="high">Scheffel</unclear> Beisaat auf dem Vorwerksacker,
+                                        ein Stück Wiese zum Heu machen, einen Gelass zur
+                                        Aufbewahrung des Heuschnitts, sie zahlen Haus und
+                                        Gartenmiete, für die Beisaaten im Vorwerk und für das, was
+                                        ihnen sonst noch zur Nutzung überlassen wird; auch liefern
+                                        sie nach Maßgabe der an dem Orte ihres Aufenthalts
+                                        zulässigen Nutzungen verhältnismäßige Naturalien, z. B. eine
+                                        gewisse Quota an Federvieh, von den benutzten
+                                        Walderzeugnissen, ferner die Hilfskontribution an Kopf-,
+                                        Horn- und Klauenschoss, leisten bestimmte Handdienste
+                                        (selten über 8 Tage des Jahres) und bestimmte Arbeiten, z.
+                                        B. das Weib etwas Gespinst ohnentgeldlich für das mehrere
+                                        der von ihnen geforderten Dienste und Arbeiten, wozu sie
+                                        bereit sein müssen, erhalten sie entweder das kontraktmäßige
+                                        oder in der <seg type="comment"><orig>Gesindeordnung d. a.
+                                                  1784</orig><note xml:id="nts5_jhj_wxb">Zum Text
+                                                  <ref target="https://www.digitale-sammlungen.de/de/view/bsb10553167?page=5">hier</ref>.</note></seg> bestimmte oder
+                                        ortsübliche Tagelohn, und dreschen für den 10. oder 11.
+                                        Scheffel. Diese sind nach der Gesindeordnung vom Sept. 1784
+                                        verbunden, wenigstens 3 Jahre an dem Orte, wo sie Kontrakt
+                                        genommen, zu bleiben, wenn auch keine Zeit verabredet
+                                        wäre.</p>
+                                <p>d. Gärtner oder <seg type="comment">
+                                                <orig>Kossäger</orig>
+                                                <note xml:id="nyz5_3x2_wqb">Kossäten</note>
+                                        </seg>
+                                </p>
+                                <p>Sie erhalten Wohnung, Stall und Garten, zuweilen Beisaaten in den
+                                        Vorwerksfeldern, die sie mit herrschaftl. Angespann sich
+                                        bestellen, genießen für eine eigene Kuh herrschaftl. Futter
+                                        und das in der Gesindeordnung bestimmte Lohn und Deputat,
+                                        sie sind von allen Abgaben an die Herrschaft frei, gehen
+                                        aber täglich zur Arbeit.</p>
+                                <p>e. In den Kontrakten und den Vereinigungen mit den unter a. b. c.
+                                        benannten Einsassen wird sehr oft, um die jährl. <seg type="comment"><orig>Konsignationen</orig><note xml:id="ninm_nhj_wxb">Lieferungen</note></seg> zu
+                                        vermindern, ein Pausch-Quantum über die ordinäre königl.
+                                        Kontribution verabredet, und in den jährl. den Gutsherren zu
+                                        zahlenden Zins aufgenommen. Dies interessiert die
+                                        Kontributionsbehörden nicht, weil sie die ein vor allemal
+                                        auf das Gut gelegte Kontribution bloß vom Gutsherrn erheben
+                                        und sich dieserhalb nur an ihn halten.</p>
+                                <p>f. In den Domänen und Forstämtern gibt es auch <seg type="comment"><orig>Chatoul</orig><note xml:id="ndvk_z34_fwb"><ref target="https://www.dwds.de/wb/dwb/schatullbauer">Schatullbauern</ref></note></seg>- und <seg type="comment"><orig>Beutner-Bauern</orig><note xml:id="nzjb_dj4_fwb">Bienenzüchter</note></seg>,
+                                        Hochzinser, <seg type="comment"><orig>Assekuranten</orig><note xml:id="nkml_hj4_fwb">Hochzinser</note></seg>,
+                                        Erbkätner, Erbgärtner pp. auf den Grund der Kontrakte
+                                        hierüber, die übergangen werden können.</p>
+                                <p>11. Durch den Ausdruck Losbauern werden in diesen Provinzen
+                                        bäuerliche Wirte bezeichnet, welchen das Land nicht erblich
+                                        gehört, es finden also die etwaigen entgegengesetzten <seg type="comment">
+                                                <orig>lassischen</orig>
+                                                <note xml:id="ny32_psf_wqb">lassitischen</note>
+                                        </seg> Verhältnisse in dieser Provinz nicht statt.</p>
+                                <p rendition="#et">Regelung des Kriegsschuldenwesens der Provinz
+                                        Ostpreußen und Litauen und der Stadt Königsberg insbesondere
+                                        betreffend von 23. Febr. 1808 § 51.</p>
+                                <p>12. Es liegt in der Natur der Sache, dass bei Kontrakten mit
+                                        ihren Wirten über die unter 10. Lit. a. b. c. d. benannten
+                                        Stellen die Bedingung, unter welchen sie auszutun, bloß dem
+                                        freien Übereinkommen der Kontrahenten überlassen bleiben
+                                        muss, und es ist dem Gutsherrn nie verwehrt gewesen, sein
+                                        Eigentum auf die bestmögliche Art herauszubringen. Um aber
+                                        in Absicht des Untertans, der nach den älteren Gesetzen und
+                                        nach den Vorschriften des Allg. LR P. 2 Tit. 7 §. 181.
+                                        gezwungen war, eine dergleichen Stelle besonders durch Nr.
+                                        10 Lit. B anzunehmen, alle Einseitigkeit zu entfernen, so
+                                        entstand der Zusatz des Prov. Rechts 109, welcher also
+                                        lautet:</p>
+                                <p rendition="#et">Bei Wiederbesetzung solcher Stellen, die entweder
+                                        eigentümlich noch erblich besessen worden, ist die
+                                        Herrschaft an die bisherigen Bedingungen nicht gebunden,
+                                        aber auch künftig nicht berechtigt, den Untertan zur Annahme
+                                        einer Stelle unter schwereren Bedingungen anzuhalten, als
+                                        unter welchen sie der zuletzt abgegangene untertänige Wirt
+                                        besessen hat. </p>
+                                <p>13. Durch die Kalamitäten des Krieges, durch die daraus
+                                        erfolgenden ansteckenden Krankheiten unter den Pferden,
+                                        unter dem Betriebs- und Nutzvieh, bei den vom Feinde
+                                        verzehrten Feld- und Gartenfrüchten und wegen Mangel an
+                                        Wiederaufrichtungsfonds liegen die Äcker der Grundstück 10
+                                        a. und b. mehr oder weniger gänzlich unbesät, die Gebäude
+                                        zerstört und von Menschen verlassen, bei Ablauf der
+                                        Untertänigkeitsverpflichtung wird gewiss ein großer Teil der
+                                        Einsassen, wenn auch nur, um von dem Recht Gebrauch zu
+                                        machen, von ihren Stellen abziehen, und die Stellen unter 10
+                                        Lit. b werden in solche, wie sie unter Nr. 10 Lit. a.
+                                        beschrieben wurden, also der Scharwerksbauer zum Zinsbauer,
+                                        umgeschaffen werden müssen. Wenn bei diesen widrigen
+                                        Umständen durch eine neuerliche Festsetzung E. Königl.
+                                        Ministerii des Innern angeordnet worden, dass die
+                                        Gutsbesitzer diese Stellen sofort zu retablieren oder zu
+                                        gewärtigen haben, dass solche nach Maßgabe der Verordnung
+                                        vom 14. Febr. 1808 § 6 Lit. b zum eigentümlichen Besitz oder
+                                        in Erbpacht, ohne Dienstmühlen und Getränkezwang, ausgetan
+                                        werden sollen, so kann eine solche Festsetzung nicht anders
+                                        als die Gutsbesitzer im höchsten Grade beunruhigen, denn</p>
+                                <p>a. schmerzt es sie, dass ihre Not bei keiner, auch nicht der
+                                        billigsten ihrer Bitten beachtet worden,</p>
+                                <p>b. beunruhigt sie obige Festsetzung, weil sie durch kein einziges
+                                        unerlaubtes Faktum sich straffällig gemacht haben, und
+                                        dennoch jetzt zur Zeit, wo sie sich einer zu erhaltenden
+                                        Unterstützung schmeichelten, eine härtere Strafe leiden
+                                        sollen, als je auf den Fall der willkürlichen Einziehung der
+                                        Bauernhuben gesetzt gewesen. Die gesetzliche Folge der
+                                        vorsätzlichen Übertretung des Verbots Nr. 5 war bei
+                                        Wiederherstellung der vorigen Situation eine willkürliche
+                                        Strafe im Sinne des Gesetzes, nicht aber Verlust des
+                                        Eigentums oder der hieraus folgenden Rechte.</p>
+                                <p>c. Der bäuerliche Wirt, der nach Nr. 7 und Nr. 10 Lit. b die
+                                        Gebäude und den Besatz eigentümlich besitzt, muss nach den
+                                        allgemeinen gesetzlichen Bestimmungen den an seinem Eigentum
+                                        sich ereigneten Schaden allein tragen, mithin sich selbst
+                                        retablieren, nach der zu Anfange dieser vorgedachten
+                                        Anordnung würde aber der Gutsherr dafür, dass der bäuerliche
+                                        Wirt sein Grundstück verlassen und seine Schuldigkeit nicht
+                                        tun will oder ohne sein Verschulden nicht tun kann, also
+                                        wenn man es unter dem jetzigen Umständen so nennen darf, für
+                                        ein fremdes Verbrechen bestraft werden, oder derjenige
+                                        Gutsbesitzer, der seine Gebäude, seine Saaten, sein Nutz-
+                                        und Betriebsvieh, Acker und Hausgerät bei den bäuerlichen
+                                        Wirten verloren hat, noch dazu dafür, dass er alles dies
+                                        nicht wieder ausscharten kann, seinen Grund und Boden,
+                                        mithin doppelt verlieren.</p>
+                                <p>d. Dass jetzt weder der Gutsherr noch der Bauer sich völlig
+                                        retablieren können, und dass beim Ausbieten <gap reason="illegible"/> außer Kultus sich befindenden
+                                        Stellen kein neuer Kontrakt vorteilhaft, für den
+                                        Gutsbesitzer geschlossen werden kann, ist klar am Tage,
+                                        dahero ebenso evident, dass ein Kontrakt nach Vorschrift der
+                                        Verordnung vom 14. Febr. 1808 § 6 Lit. b, der allen Nutzen
+                                        durch allmähliche Verbesserung für den Gutsherrn
+                                        ausschließt, ihm den Verlust eines Teils des inneren Werts
+                                        seines Eigentums unwiederbringlich bewirkt.</p>
+                                <p>e. Der Ausfall an Diensten bei den aus der Aufhebung der
+                                        Untertänigkeit unter Lit. J auszuführenden Folgen wird nur
+                                        durch Ausbedingung mehreren in den Kontrakten nach Nr. 10
+                                        Lit. a oder durch Ansetzung mehreren Gesindes ergänzt werden
+                                        können, wenn aber beides die angeordneten Kontrakte
+                                        erschwert, welcher Erfolg ist dann für den Gutsbesitzer zu
+                                        erwarten? Die Müller müssen von dem Gutsbesitzer entschädigt
+                                        werden, wenn die Gutseinsassen anderwärts mahlen können, und
+                                        die Ungewissheit des Einkommens bei Mühlen und
+                                        Getränkefabrikationsanlagen sind ein unersetzlicher Schade
+                                        für den einzelnen Gutsbesitzer, der ihm nicht so ersetzt
+                                        werden kann, als in dem großen Umfange eines Domänenamts, wo
+                                        das, was an diesem Orte abgeht, an anderen einkommt. </p>
+                                <p>f. Die Aufhebung der Untertänigkeit macht die Verwandlung der
+                                        Stellen unter 10. b. in Stellen nach 10. a, notwendig,
+                                        dadurch entsteht für den Gutsbesitzer ein großer Ausfall an
+                                        Arbeitern, welche auf andere Art zu ersetzen ihm
+                                        beträchtliche Kosten verursachen wird, er wird müssen
+                                        mehrere Familien nach b. et c. ansetzen, mehrere Knechte und
+                                        Mägde annehmen und sein Inventarium vergrößern, denen neu
+                                        angesetzten Familien nach b. et c. einen neuen Teil
+                                        Vorwerksländereien zu ihren Beisaaten und Wirten zum
+                                        Heumachen für ihre Kühe abgeben und wenn man außer den mehr
+                                        Gebäuden, die diese neuen Wirtschaftseinrichtung neben den
+                                        wiederherzustellenden Gebäuden der Stellen unter 10 a. b.
+                                        erfordert außer dem Lohn und Deputat für das mehr zu
+                                        haltende Gesinde in der Wohnung bis zu den kleinsten
+                                        Bedürfnissen desselben z. B. Schlafstellen, Betten übergeht,
+                                        so erfordert dieses einen Aufwand, dessen
+                                        Unerschwinglichkeit ohnfehlbar an einem oder dem anderen
+                                        Orte ein Zurückbleiben mit dessen für die Ackerkultur
+                                        nachteiligen Folgen hervorbringen muss.</p>
+                                <p>g. Diese unter f. angeführten Nachteile und besonders auch die
+                                        auf den adl. Gütern durch Aufhebung der Untertänigkeit
+                                        entstehende Entvölkerung zu entschädigen, geruhten S.
+                                        Majestät durch die Allerhöchste Kabinetts-Resolution d. d.
+                                        Memel den 3. Sept. 1807 denen Gutsbesitzern die freie
+                                        Disposition über ihre Bauernländereien huldreichst zu
+                                        verheißen, und durch das <seg type="comment"><orig>Edikt vom
+                                                  9. Okt. 1807 § 6.</orig><note xml:id="nnbg_cjj_wxb">Zum Text <ref target="https://www.verfassungen.de/preussen/preussen07-index.htm">hier.</ref></note></seg> ist diese wohltätige
+                                        höchste Zusage wiederholt. Nun soll sie der Kultur und
+                                        Bevölkerung nicht hinderlich sein. Es kann diesseitig
+                                        hierüber hauptsächlich nur das gesagt werden, was man vor
+                                        Augen und in dieser traurigen Epoche erfahren hat. Bei der
+                                        Bewirtschaftung der Vorwerksäcker sieht man sehr
+                                        ausgebreitete ökonomische Übersicht, Kraft und Ordnung, die
+                                        Beförderungsmittel guter Kultur, als bei den kleineren
+                                        Wirten. In der verflossenen Zeit der Not waren nur die
+                                        Gutsbesitzer, Domänen-Amtspächter und größeren Eigentümer im
+                                        Stande, Zwangsdarlehen, extraordinäre Kontributionen und
+                                        dergleichen Ansprüche zu befriedigen, die kleineren haben
+                                        nicht die Ressourcen, aus welchen einer den anderen
+                                        aushielt, man sieht, wie wichtig eine solche und Ausdauer
+                                        und Wiederherstellung ist, und wie wohltätig die Hälfte
+                                        einer halb ruinierten Wirtschaft der völlig zerstörten
+                                        werden kann, wenn beide einem gemeinschaftlichen
+                                        uneingeschränkten Eigentümer und Disponenten unterworfen
+                                        sind. Die Zerstückelung eines Gutes unter kleine Eigentümer
+                                        setzt jeden außer Verbindung mit dem anderen und unabhängig
+                                        vom Gutsherrn, bei jedem Unglücksfall bleibt der
+                                        Verunglückte, gemeinhin auch noch mit früheren Schulden
+                                        belastet, einzeln hilflos stehen. </p>
+                                <p>Die seit kurzem gestiegene Neigung der Gutsbesitzer zur eigenen
+                                        Wirtschaftstätigkeit hat schon ihre gesegneten Folgen
+                                        gezeigt, sie scheint also mehr Aufmunterung als
+                                        Unterdrückung zu verdienen, denn sobald die Gutsbesitzer
+                                        kein unmittelbares Interesse an der Kultur des Bodens,
+                                        sondern nur für die prompte Einziehung der Renten zu sorgen
+                                        haben werden, so wird dies gewiss nicht bloß auf die Kultur
+                                        des Bodens, sondern auch auf die Einsassen selbst, an die
+                                        solchergestalt nichts zurückkommt, nachteilig wirken, und
+                                        welche Wirtschaftshindernisse kleine Erbländereien neben den
+                                        Vorwerken hervorbringen, beweisen die Gemeinheiten, welche
+                                        jeder Kulturverbesserung im Wege sind, dass es aber dieser
+                                        Verbesserung in Preußen sehr bedarf, ist notorisch. Da es,
+                                        wie schon erwähnt, in Preußen sehr viele ansehnliche Güter
+                                        gibt, welche keine Bauern, sondern nur Einsassen nach Nr. 10
+                                        Lit. c. und d. haben, so kann ihre Vergleichung mit
+                                        Bauerngütern zeigen, dass die Volksmenge in den Gütern auf
+                                        gedachte Art, wo nicht die in den Bauerndörfern bei weitem
+                                        übersteigt, so doch ihnen gewiss gleichkommt. Dies ist
+                                        natürlich, da aus einer Bauernstelle sub 10 Lit. a und b.
+                                        zwei, drei bis vier paar Instleute mit den Zuschüssen der
+                                        Gutsherrschaft an Tagelohn, Drescherverdienst pp. gehalten
+                                        werden können, und diese Leute in ihren Einkommen sicher
+                                        sind, weil es ihnen an Arbeit, je mehr sich die Wirtschaft
+                                        der Gutsherrschaft ausbreitet, nicht fehlen kann. Die
+                                        Gutsbesitzer würden gewiss diese gegen sie getroffenen
+                                        Festsetzungen mit stiller Unterwürfigkeit übergehen, wenn
+                                        sie solche nicht als ein bleibendes Haupthindernis ihrer
+                                        Wirtschaftsstellung ansehen müssten; sie haben die Sachen
+                                        von allen Seiten erwogen und daher beim Gen. Landtage im Mai
+                                        1809 folgende Anträge gemacht:</p>
+                                <p>1. dass denen Gutsbesitzern freisteht, die eine Hälfte des
+                                        Bauernlandes zum Vorwerk einzuziehen oder sonst darüber zu
+                                        disponieren, wenn er nur die andere Hälfte nach der in der
+                                        Verordnung bestimmten Größe für bäuerliche Besitzer
+                                        konserviert,</p>
+                                <p>2. dass er jedoch nicht schuldig sein solle, die bleibende Hälfte
+                                        des Bauernlandes erbpachtsweise und unter den
+                                        vorgeschriebenen lästigen Bedingungen auszutun, sondern
+                                        solche, wie bisher, in Zeitpacht überlassen könne,</p>
+                                <p>3. dass die Gutsbesitzer in Absicht der Disposition über
+                                        diejenigen Bauernhöfe, welche durch den Krieg dergestalt
+                                        ruiniert sind, dass ihre Besitzer die Höfe verlassen haben,
+                                        ganz und gar nicht einzuschränken, sondern ihnen vielmehr
+                                        die Zuschlagung zum Vorwerk oder Wiederansetzung neuer
+                                        bäuerlicher Familien auf Erbe und Zeitpacht gänzlich zu
+                                        überlassen,</p>
+                                <p>4. dass jedoch da, wo der Krieg zuvor Verwüstungen angerichtet
+                                        hat, die Familien sich aber noch auf ihrem Platz einstweilen
+                                        als Instleute erhalten haben, eine geräumige Frist zur
+                                        Wiederherstellung als Bauern gestattet werde, </p>
+                                <p>welche auch jetzt huldreicher Berücksichtigung unterworfen
+                                        werden.</p>
+                                <p>Königsberg, den </p>
+                        </div>
+      </body>
+   </text>
+</TEI>

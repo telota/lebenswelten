@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_gyl_mqj_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Der Schulze zu Stobben Albrecht Wilewski wird vor dem Patrimonialgericht in
+               Steinort wegen einer Reise auf den Jahrmarkt in Heilige Linde verklagt. Steinort, 2.
+               Juli 1746</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Bereits in der „Willkür für das den Burggrafen und Grafen zu Dohna gehörende Dorf
+                  Reichertswalde‟ aus dem Jahr <ref target="lehndorff_lbw_zgj_5pb">1627</ref> hatte
+                  es geheißen: „5. Wenn auf der Nähe in den Städten Jahrmarkt gehalten wird, soll
+                  nicht zugleich Mann und Weib zum Jahrmarkt gehen oder fahren, sondern alle Wege
+                  einer zu Hause bleiben bei Strafe 1 Fl. ung. der Herrschaft, worauf die Schulzen
+                  und Ratleute gute Achtung geben sollen, in Verbleibung dessen sollen sie doppelter
+                  Straf gewärtig sein, der Schulze aber, selbst wenn er nicht vom Jahrmarkt bleiben
+                  kann, soll er die Ratleute im Dorf lassen und hinwiederum wenn die Ratleute zum
+                  Jahrmarkt reisen, soll er selbst zu Hause bleiben bei doppelter Buß als
+                  vorgemeldet.‟</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 698, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1746-07-02" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gyl_mqj_2tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Hochgräflichen Hofe Groß Steinort d. 2. Juli 1746</p>
+            <p>Wenn der Schulze aus <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+               <persName key="ed_nwl_cf2_2qb">Albrecht Wilewski</persName> sich unterstanden,
+               unerlaubt und ohngemeldet nicht allein selbst bereits vor 2 Tagen nach dem <del rendition="#s">Heil.</del>
+               <placeName key="ed_lfs_yjp_tdb">Lindeschen</placeName> Jahrmarkt zu reisen und die
+               itzt nötige Dorf- und Feld-Aufsicht zu negligieren, sondern auch den Bauern daselbst
+               eben dahin zu verleiten, so sind zuvor beide adcitiert, aber wegen bisheriger
+               Abwesenheit nicht erschienen; weshalb nun Richter <persName key="ed_lbj_cfb_ycb">Billich</persName> aus <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName>
+               ihrethalben sich nicht länger aufhalten kann, selbte aber durch diese sich selbst
+               genommene Kühnheit ihren untertänigen Respekt und Gehorsam der Herrschaft entzogen
+               und strafbar gehandelt; als wird hiermit zu Recht erkannt, dass solcherhalb besagter
+               Schulze Wilewski 4 Fl., der Bauer aber, so sich etl. Tage unnütz in der Linde
+               herumgetrieben, auch 2 Fl. zur Strafe an die <placeName key="ed_jpk_w4f_cy">Rosengartsche</placeName> Kirche zu bezahlen, künftig aber bei harter
+               Leibesstrafe ihrer Pflicht und Gehorsam gehörig nachzuleben schuldig sein sollen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

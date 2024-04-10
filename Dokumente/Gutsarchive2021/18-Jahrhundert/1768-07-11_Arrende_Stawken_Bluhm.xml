@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_p1b_vjd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Ahasverus Gottlieb Bluhm
+                                        einen Pachtvertrag über das Vorwerk Stawken</title><title>. Steinort, 11. Juli 1768</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>1733 hatte Gräfin von Lehndorff Stawken gemeinsam mit Pristanien an einen Herrn
+                                                  <persName key="ed_ics_5yz_scb">von
+                                                  Tassitzky</persName> verpachtet, StA L, Bestand
+                                                21950 Familienarchiv Lehndorff, Nr. 246. 1738-1743
+                                                war <persName key="ed_fwp_4bt_fqb">Gaser</persName>
+                                                Pächter von Stawken, ihm folgte 1749-1754 <persName key="ed_cvp_t1t_fqb">Erdmann Thiele</persName>.
+                                                Dessen Witwe übergab 1754 übergangsweise die Pacht
+                                                an <persName key="ed_dhh_fbt_fqb">Andreas
+                                                  Mosenthien</persName>, ihm folgte im selben Jahr
+                                                  <persName key="ed_zcq_zbt_fqb">Friedrich
+                                                  Bressau</persName>, dessen Vertrag bis 1764 immer
+                                                wieder verlängert wurde, GStA PK, XX. HA, Rep. 54
+                                                Gutsarchiv Lehndorff-Steinort, Nr. 328, 330, 347,
+                                                368, 370, 371. <lb/> Der 1768 geschlossene Vertrag
+                                                mit <persName key="ed_vrf_3zs_fqb">Bluhm</persName>
+                                                über Stawken ist ebenfalls eine Verlängerung des
+                                                ersten Vertrages, zuvor war Bluhm <ref target="lehndorff_r4z_3pw_5pb">Pächter des Gutes
+                                                  <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                                                </ref> (Nr. 146-148, 155, 329, 373 und 391).
+                                                <lb/>Für 1770/71 sind Quittungen über
+                                                Pachtleistungen einer Pächterin <persName key="ed_lwk_rbt_fqb">Bluhm</persName> überliefert,
+                                                Bluhm war demnach verstorben und seine Frau hatte
+                                                die Pacht weitergeführt (Nr. 438). <lb/> Zur
+                                                Verpachtung von Stawken (und der Vorwerke Pristanien
+                                                und Stawisken) auch: <ref target="https://namensindex.org/bestand.php?aid=42&amp;id=382">APO, Bestand 382 Familienarchiv Lehndorff</ref>,
+                                                Nr. 50, zur Bewerbungen um die dortige Pacht Nr. 52,
+                                                sowie GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                                Lehndorff-Steinort, Nr. 828.</p>
+               <p>Pachtangebote erreichten die Interessenten, indem in den Zeitungen
+                        entsprechende Offerten inseriert wurden. Hier wurden dann auch die
+                        Nachrichten über neue Verpachtungen bekannt gemacht, StA L, Bestand 21950
+                        Familienarchiv Lehndorff, Nr. 417, Bl. 1-1v (der Name der Zeitung ließ sich
+                        nicht feststellen). </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 146, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1768-07-11" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_p1b_vjd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+                                <p>Kund und zu wissen sei hiermit jedermänniglich, sonderlich denen,
+                                        so daran gelegen und zu wissen von Nöten, dass zwischen Ihro
+                                                <persName key="ed_q4s_xyl_2y">Hochreichsgräfl.
+                                                Gnaden, der Frau Reichsgräfin von Lehndorff,
+                                                geborene von Wallenrodt</persName>
+                                        <gap reason="illegible"/> Verpächterin an einem, dann dem
+                                                <persName key="ed_vrf_3zs_fqb">Ahasverus
+                                                Bluhm</persName> Pächter an anderem Teil ein
+                                        wohlbedachter und unwiderruflicher Arrende-Kontrakt
+                                        folgender Gestalt geschlossen.</p>
+                                <p>1. Es verpachten Ihro Hochreichsgräfl. Gnaden Dero Vorwerk
+                                        Stawken <seg type="comment"><orig>cum
+                                                  Pertinentiis</orig><note xml:id="nlym_k3g_vxb">mit
+                                                  Zubehör</note></seg> in dessen Grenzen und <gap reason="illegible"/> mit denen dabei vorhandenen und
+                                        in dem <seg type="comment">
+                                                <orig>annektierten Inventario</orig>
+                                                <note xml:id="nr1v_4bf_tpb">Das Inventar liegt hier
+                                                  nicht bei, jedoch gibt es ein Inventar 1767/68 in
+                                                  Nr. 159.</note>
+                                        </seg> beschriebenen und übergebenen Inventarien-Stücken an
+                                        den Ahasverus Bluhm auf 3 Jahre, als von <seg type="comment"><orig>Trinitatis</orig><note xml:id="naxh_m3g_vxb">4. Juni</note></seg> 1768
+                                        bis dahin Gott gebe! des in Gesundheit und Segen zu
+                                        erlebenden 1771sten Jahres, welches Vorwerk der Pächter
+                                        Bluhm nach seinem besten Wissen und Willen, jedoch
+                                        wirtschaftlich zu nutzen hat.</p>
+                                <p>2. Zu Bearbeitung dieses Vorwerks werden dem Pächter 7 Bauern aus
+                                        dem dasigen Dorf mit ihren Scharwerksdiensten angewiesen,
+                                        welche Dienste in der Art reguliert und festgesetzt
+                                        werden.</p>
+                                <p>a. Ein jeder Bauer muss seinen Morgen von <seg type="comment">
+                                                <orig>6 Schfl. im Winter- und 6 Schfl. Aussaat im
+                                                  Sommerfelde</orig>
+                                                <note xml:id="nqqm_hlg_rpb">So auch im
+                                                  Arrendevertrag mit dem Hofmann von Taberlack,
+                                                  <persName key="ed_cvp_t1t_fqb">Erdmann
+                                                  Thiele,</persName> für das Jahr 1749, GStA PK, XX.
+                                                  HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                                  162. </note>
+                                        </seg> bearbeiten, das davon gewonnene Getreide ein<gap reason="illegible"/> und zur Scheune einbringen.</p>
+                                <p>b. Im Sommer- und Winterfeld, und zwar in jedem Feld, zwei Tage
+                                        von Sonnenaufgang bis Sonnenuntergang Gras hauen und das
+                                        eingehauene aufharken und einfahren.</p>
+                                <p>c. Müssen die Bauern das bei dem Vorwerk gebaute Flachs
+                                        brechen.</p>
+                                <p>d. Jede Bauern-Magd muss wöchentlich 2 Tage im Hofe in Scharwerk
+                                        gehen.</p>
+                                <p>e. Fahren die Bauern mit gesamter Hand den Mist aus und streuen
+                                        denselben.</p>
+                                <p>f. Muss jeder Bauer 2 Königsbergsche Fuhren à 12 Schfl. Korn,
+                                        oder was ihnen anstatt dessen nach Proportion aufgelegt
+                                        wird, verrichten. Doch dass in derselben Gelegenheit gesehen
+                                        wird und sie nicht beim schlimmen Wege ausgetrieben werden.
+                                        Mehrere Dienste aber kann Pächter von denen Bauern nicht
+                                        fordern, sondern es bleiben die Rohde-Tage, Bau- und
+                                        Achtel-Holz-Fuhren, auch andere Dienste lediglich vor die
+                                        Eigentums-Herrschaft und wird der Dienstzwang vorerwähnter 7
+                                        Bauern dem Pächter gelassen, die Jurisdiktion aber verbleibt
+                                        der
+                                        Eigentums-Herrschaft.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>3. Wird dieser Kontrakt nur auf drei folgende
+                                        Jahre, nämlich von Trinitatis 1768 bis dahin 1741 errichtet,
+                                        und nach Verfließung dieser Pachtjahre behalten sich Ihro
+                                        Hochreichsgräfl. Gnaden ausdrücklich vor, diesen Kontrakt
+                                        entweder nach einem billigmäßigen Anschlag gnädigst zu
+                                        prolongieren oder nach Höchstderselben Gefallen anderweitig
+                                        zu
+                                        verpachten.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>4. Zahlt der Ahasverus Bluhm als Pächter an
+                                        Arrende-Pension jährlich für das Vorwerk Stawken 1.050 Fl.,
+                                        sage Eintausend und Fünfzig Gulden, in guter kassenmäßiger
+                                        Münze, und zwar nach dem neuen angefertigte Anschlage vom
+                                        24. Mart. c. a. Die Arrende-Pension von diesem Vorwerk <seg type="comment">
+                                                <orig>deduotis deducendis </orig>
+                                                <note xml:id="nd4x_f5t_vqb">nach Abzug dessen</note>
+                                        </seg> mit ein <seg type="comment"><orig>Schock</orig><note xml:id="nrlt_43g_vxb">60 Stück</note></seg>
+                                        Pacht-Kühe auf 1.132 Fl. 28 Gr. ausgemittelt worden. So
+                                        werden dennoch mit gnädiger Approbation Ihro
+                                        Hochreichsgräfl. Gnaden von diesem Anschlage 82 Fr. 28 Gr.
+                                        unter der Bedingung gnädigst erlassen, dass die 38 Stück
+                                        Pacht-Kühe, so Pächter nach dem Traditions-Rezess erhalten
+                                        und davon noch 8 Stück abzugeben verbunden wäre, weil er
+                                        nach dem Anschlage die Hälfte von dem Pachtstamm der 60
+                                        Stück Kühe sich ex propriis anschaffen muss, pro Inventario
+                                        ihm gelassen werden. Hinfolglich zahlt der Pächter Bluhm
+                                        nunmehro über Pausch und Bogen ohne einzige Abzüge 1.050
+                                        Fl., sage die Eintausend und Fünfzig Gulden in kassenmäßiger
+                                        Münze.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>5. Wird expresse festgesetzt, dass der Pächter
+                                        diese Arrende halbjährig, nämlich um <seg type="comment"><orig>Crucis</orig><note xml:id="nizf_53g_vxb">Karfreitag</note></seg> mit 525 Fl. und um
+                                        Trinitatis mit 515 Fl., Summa 1.050 Fl. ohne weitere
+                                        Erinnerung bezahlen soll, welche festgesetzte Termine zu
+                                        zahlen er richtig einzuhalten verbunden, indem er gemäß der
+                                        unterm 14. Jul. c. a. gehaltenen Arrende-Liquidation an die
+                                        Hochgräfl. Herrschaft noch ein ansehnliches Arrende-Quantum
+                                        schuldig geblieben. Diesemnach behalten sich Ihro Hochgräfl.
+                                        Gnaden die Frau Reichsgräfin von Lehndorff besonders vor,
+                                        dass, wenn Pächter so wohl das in Rest gebliebene
+                                        Arrende-Quantum nicht baldigst entrichtet, als auch die
+                                        jährliche Arrende zur bestimmten Zeit nicht richtig und
+                                        prompt abtragen werde, Höchstdenenselben unbenommen bleibe,
+                                        dem Pächter Bluhm diese Arrende zu aller Zeit, auch in
+                                        währenden Arrende-Jahren, abnehmen und denselben <seg type="comment"><orig>depossedieren</orig><note xml:id="nml2_z3g_vxb">Zur Bedeutung <ref target="https://de.wiktionary.org/wiki/depossedieren">hier</ref>.</note></seg> zu
+                                        lassen.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>6. Die onera publica als Kontribution,
+                                        Kirchen-Decem pp. bezahlt der Pächter bis Trinitatis jedes
+                                        Jahres besonders, und wird davon in der Arrende-Pension
+                                        nichts in Abrechnung angenommen, weil schon dergleichen
+                                        Abzüge bei dem Anschlage gut getan
+                                        wurden.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>7. Die Gebäude unterhält Pächter in Dach und
+                                        Fach und deckt jährlich 3 neue Baum-Gänge auf seine eigenen
+                                        Kosten.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>8. Ohne Ihro Hochreichsgräfl. Gnaden Konsens
+                                        soll Pächter Bauten, die über 5 Taler betragen, nicht
+                                        übernehmen, noch zu Rechnung bringen. Reparaturen, so nicht
+                                        über 5 Rtlr. betragen, auf eigene Kosten übernehmen, die
+                                        Materialien dazu aber werden von der Eigentums-Herrschaft
+                                        gereicht. Reparaturen, so 5 Rtlr. übersteigen und wo einige
+                                        Handwerker mit Kosten gebraucht, auch Materialien gestellt
+                                        werden müssen, sollen Ihro Hochreichsgräfl. Gnaden angezeigt
+                                        und Deroselben gnädigster Konsens erfordert werden, und nach
+                                        erfolgtem Konsens trägt die gnädige Herrschaft die
+                                        Kosten.</p>
+                                <p>9. Zu Tisches Notdurft wird dem Pächter Haus-Bier zu brauen,
+                                        keineswegs zu verkaufen, am wenigsten aber andernorts als
+                                        aus dem Steinortschen Hofe zu nehmen erlaubt sein bei der
+                                        festgesetzten Strafe.</p>
+                                <p>10. Wird dem Pächter der etwa wüst liegende Acker, soweit es ohne
+                                        jemandes Nachteil geschehen kann, sich zu bedienen, ohne
+                                        deshalb etwas besonderes zu bezahlen, zugestanden.</p>
+                                <p>11. Wegen der Unglücksfälle als Viehsterben, Misswachs,
+                                        Hagelschaden (welche Gott in Gnaden abwenden wolle) wird
+                                        hiermit festgesetzt, dass bei dem Viehsterben es in der Art
+                                        gehalten werden soll, wie solches in den Königlichen Ämtern
+                                        gehalten wird. Den Misswachs hingegen betreffend, hat sich
+                                        Pächter der in diesem Fall von Ihro Königl. Majestät
+                                        erfolgenden Remission der Kontribution zu erfreuen, sonsten
+                                        aber keine andere Vergütung von der resp.
+                                        Eigentums-Herrschaft zu verlangen, noch ihm solches
+                                        zugestanden werden soll. Die <seg type="comment">
+                                                <orig>Casus fortuiti majores</orig>
+                                                <note xml:id="njqz_n5t_vqb">größten
+                                                  Schadensfälle</note>
+                                        </seg> als Feuer, <gap reason="illegible"/>, Krieg,
+                                        Pestilenz und andere dergleichen Zufälle können dem Pächter
+                                        nicht zur Last gelegt werden, sondern gehen lediglich über
+                                        die Eigentums-Herrschaft. Die Schäden hingegen die der
+                                        Pächters oder die Seinigen verursacht, trägt der Pächter
+                                        allein. Die<gap reason="illegible"/>, Bollen, Pferde bleiben
+                                                <gap reason="illegible"/>, und würden solche, wenn
+                                        sie abgehen, dem Pächter nicht vergütet.</p>
+                                <p>12. Wegen des Lohn und Deputat an die Gärtner und Gesinde item
+                                        Beschnitt wird es in der Art gehalten, als es dem vorigen
+                                        Pächter Berschau übergeben gewesen, und muss Pächter nach
+                                        dem Traditions-Rezess diese Berichtigung bei seinem Abzug
+                                        gleichfalls entrichten. Hierbei ist noch verabredet worden,
+                                        dass zwar dem Pächter das bei der Übergabe spezifizierte
+                                        Volk und Dienst gegeben worden, die resp.
+                                        Eigentums-Herrschaft keineswegs gehalten sein wollen, falls
+                                        in künftigen Jahren dem Pächter fehlen sollten, solches
+                                        herbeizuschaffen. Jedoch soll dasselbe ohne die geringste
+                                        Not ihm nicht abgenommen, noch damit eine Veränderung
+                                        geschehen, es wäre denn, dass jemand von denenselben
+                                        absterbe oder verheiratet werden soll, oder aber durchaus
+                                        nicht länger bei dem Pächter bleiben wollte, wiewohl in
+                                        letztern Fall das Dienstjahr ausgehalten und der Dienst zu
+                                        gehöriger Zeit aufgesagt werden muss.</p>
+                                <p>13. Dem Pächter ist nicht erlaubt, ohne Herrschaftl. Konsens
+                                        Butter zu verkaufen.</p>
+                                <p>14. Da Pächter, wie schon in Pkt. 4 erwähnt, vor 38 Stck. Kühe
+                                        pro inventario erhalten, und dagegen laut Anschlage vor 6
+                                        Stck. Kühe ohne einzigen <gap reason="illegible"/> von der
+                                        zu zahlenden Arrende abzahlen muss, so darf er in Betracht
+                                        dessen, dass er die 22 Stck. fehlende Kühe ex propriis sich
+                                        anschaffen muss, und dazu das Futter selbsten benötigt, und
+                                        davon nichts erübrigen kann, keine Kälber abliefern.</p>
+                                <p>15. Das Metz-Getreide und Mahl-Geld liefert Pächter in dem
+                                        Hochgräfl. Hof Groß Steinort ab.</p>
+                                <p>16. Zur nötigen Brennung werden dem Pächter 5 Achtel Brenn-Holz,
+                                        welche von den Stawkenschen Scharwerksbauern geschlagen und
+                                        angeführt werden, frei akkordiert. Nur das übrige Achtel
+                                        Holz, so von diesen Bauern noch geschlagen und angeführt
+                                        werden muss, behalten sich die Hochgräfl. Herrschaft nach
+                                        Steinort vor.</p>
+                                <p>17. Noch ist verabredet worden, dass Pächter bei jeder
+                                        Arrendeberechnung, falls er einige kontraktmäßige
+                                        Vergütungsposten anzugeben hätte, solche zur Bonifizierung
+                                        anzeigen solle, widrigenfalls er damit nachhero nicht gehört
+                                        werden wird.</p>
+                                <p>18. Wollen Ihro Hochreichsgräfl. Gnaden nicht gehalten sein, eine
+                                        Eviation oder Schadloshaltung, sie bestehe worin sie wolle,
+                                        auch so gar wegen der Dienste der Bauern, die solche dem
+                                        Pächter zu leisten verbunden, wie denn auch, wenn Pächter
+                                        bei <seg type="comment">
+                                                <orig>Expirierung</orig>
+                                                <note xml:id="nfcn_55t_vqb">Ablauf</note>
+                                        </seg> der Pachtjahre und sonst beim Abzug bei denen Bauern
+                                        oder Gesinde einige Schulden ausstehen haben sollte,
+                                        derselbe solche hinterstellige Schulden keineswegs in
+                                        solutum auf die Arrende angeben kann, sondern selbige
+                                        während seiner Arrende-Jahre selbst einkassieren muss.</p>
+                                <p>19. Setzen Ihro Hochreichsgräfl. Gnaden per expressem fest, dass
+                                        sich der Pächter nicht widersetze, wenn die Schäfer-Schafe
+                                        zur Weide auf die Stawkenschen Felder oder <gap reason="illegible"/> getrieben werden sollten,
+                                        Dagegen Höchstdieselben dem Schäfer anzubefehlen in Gnaden
+                                        geruhen wollen, dass aller Schaden aufs Genaueste verhütet
+                                        werden solle.</p>
+                                <p>
+                                        <note type="editorial">Punkt 20 ist für den späteren Vertrag
+                                                neu formuliert, die nachfolgende Zählung wurde
+                                                korrigiert. </note>
+                                </p>
+                                <p>20. Da der Pächter Bluhm zur Sicherheit keine bare Kaution zu
+                                        stellen vermögend ist, sonder vielmehr aus Hoher Gnade als
+                                        ein Erb-Untertan zu dieser Arrende gelassen und eingesetzt
+                                        worden, so versprechen sich um so mehr die Hochgräfl.
+                                        Herrschaftl, dass er durch Führung einer guten Wirtschaft
+                                        und richtige Bezahlung der stipulierten Arrende sich für ihm
+                                        angediehene Gnade würdig machen werde; widrigenfalls dieses
+                                        nicht geschehen sollte, so haftet der Pächter mit allem dem
+                                        Seinigen <seg type="comment">
+                                                <orig>com evectis et sillabis</orig>
+                                                <note xml:id="nucm_bvt_vqb">Bedeutung unklar</note>
+                                        </seg> für die zu zahlende Pacht und wird mit ihm deshalb
+                                        nach dem §§ Pkt. 2 genau verfahren werden.</p>
+                                <p>21. Wenn Pächter diesen Kontrakt in allen Punkten und Klauseln
+                                        gehörig nachleben und seine Engagements ordentlich in
+                                        Erfüllung bringen wird, so versprechen Ihro Hochreichsgräfl.
+                                        Gnaden, ihn bei diesem Kontrakt zu schützen, auch solchen
+                                        gnädigst zu halten und zur mehreren Erhaltung desselben
+                                        haben Ihro Hochreichsgräfl. Gnaden zur Sicherheit des
+                                        Pächters eigenhändig unterschrieben und mit Hochderoselben
+                                        angeborenen Wappen besiegeln lassen.</p>
+                                <p>So geschehen Groß Steinort den 11. Juli 1768.  <lb/>Hof
+                                        Exemplar</p>
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        </div>
+      </body><?oxy_custom_end?>
+   </text>
+</TEI>

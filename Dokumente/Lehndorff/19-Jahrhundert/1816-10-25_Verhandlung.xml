@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_l1r_xjv_qhb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verhandlungsprotokoll. Königsberg, 11. September 1816</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 130, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1816-09-11" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <note type="editorial">Verhandlungsprotokoll des <orgName key="ed_cly_vxq_gbb">Königsberger Stadtgerichts</orgName>, </note>verhandelt in der Wohnung
+                    der Frau Landhofmeisterin <persName key="ed_gnc_c1m_2y">Gräfin von
+                        Lehndorff</persName> den 11. September 1816. </p>
+            <p>
+               <note type="editorial">In einem Termin in loco war eruiert worden, welche Gründe in
+                     <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> der Gräfin von Lehndorff
+                  gehören. Nach den Aussagen von <persName key="ed_abj_ndc_rhb">Maria Elisabeth
+                     Borowski</persName> und <persName key="ed_qvk_pdc_rhb">Samuel Heinrich
+                     Schmidt</persName>
+                  <note type="editorial">, Kommerzien- und Admiralitätsrat und seit 1791 Mandatarius
+                     des Grafen Lehndorff, </note>
+               </note>
+               <note type="editorial">stellte das Stadtgericht am 11. September 1816 fest:</note>
+               „1. das große Wohnhaus auf dem Roßgartenschen Markt, welches die alte No. 41 führt,
+               ist jetzt mit der neuen No. 5 bezeichnet; 2. das Grundstück No. 43, welches jetzt
+               Kaufmann <persName key="ed_itv_gkr_v2b">
+                  <persName key="ed_itv_gkr_v2b">Siericke</persName>
+               </persName> bewohnt, ist jetzt mit der neuen No. 6 bezeichnet; 3. das Grundstück in
+               der Roßgartenschen Hintergasse nach der alten No. 39, welches nach der Aussage der
+                  <persName key="ed_abj_ndc_rhb">Borowski</persName> wirklich dasjenige ist, <ref target="lehndorff_qmr_zg1_r2b">welches von dem p. <persName key="ed_dvq_2ml_w2b">Ramminger</persName> erkauft ist</ref>, führt die neue Nr. 12 und sind an
+               diesem Hause beide Nummern, sowohl die alte als neue, angeheftet, so dass über die
+               Identität kein Zweifel stattfindet; 4. die No. 40 nach der alten Numeration ist das
+               Gebäude, welches nach der Aussage der Witwe <persName key="ed_abj_ndc_rhb">Borowski</persName> vom 12. Juli 1812 jetzt vor ohngefähr 20 Jahren abgebrochen
+               ist und ist der leere Platz zu dem Hof des großen Wohnhaus gezogen. Auch diese Angabe
+               findet sich dort völlig bestätigt, denn auf der Stelle, wo das Gebäude gestanden,
+               welchen die Witwe Borowski angezeigt, findet sich jetzt in der Hintergasse ein Zaun,
+               woran die neue Nr. 13 befindlich ist, mithin ist es außer allen Zweifel, dass dieser
+               leere Platz das ehemalige Gebäude No. 40 gewesen.“ <note type="editorial">Wegen des
+                  Rammingerschen Hauses in der Hinterstraße sei eine nochmalige Erklärung
+                  erforderlich, dass nach der <seg type="comment">
+                     <orig>Abtretungsurkunde der Erben vom 11. Mai 1812</orig>
+                     <note xml:id="nwlh_g2c_rhb">Siehe das Dokument vom <ref target="lehndorff_z4z_4bf_nfb">5. Mai 1812</ref>.</note>
+                  </seg> der Witwe sämtliche Königsberger Grundstücke, die zum Nachlass gehörten,
+                  überlassen worden seien.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

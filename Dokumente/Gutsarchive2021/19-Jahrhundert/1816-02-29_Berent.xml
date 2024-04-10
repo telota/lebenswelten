@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_k1b_v44_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet über die Situation in Steinort, u. a. über die
+               Pferdezucht. Steinort, 29. Februar 1816</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1816-02-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 15.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_k1b_v44_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 29. Febr. 1816</dateline>
+               <salute>Ew. Hochgeboren</salute>
+            </opener>
+            <p>werden gnädigst verzeihen, dass dieser Brief länger ausgeblieben ist wie er sollte,
+               und dass er auch vielleicht nicht so vollkommen sein wird. Mich hat des Schicksals
+               eiserne Hand wieder hart gezüchtigt, heute vor 14 Tagen bekam ich ein hitziges
+               Gallenfieber und war am Rande des Grabes, allein der gute Doktor <persName key="ed_pt5_nwy_z5b">Schwan</persName> hat mich doch mit Gottes Hilfe wieder unter
+               die Lebendigen versetzt, und ich kann doch schon in der Stube etwas gehen und
+               anordnen. Ich glaube, dass hat der außerordentliche Winter schuld, denn es sind
+               außerordentlich viele Kranke. Hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> waren kürzlich mit Kinder 17 Menschen. Den ganzen Monat
+               Februar haben wir eine außerordentliche Kälte gehabt, bis zu 22 Grad und viele
+               Menschen sind durch den Frost verunglückt, und dabei einen solchen Schnee und
+               Ungestüm, dass man gar nicht von einem Ort zum anderen fahren konnte und Türen und
+               Gebäude ausgegraben musste. In den Gütern ist sonsten alles noch gut, mit der
+               Schäferei sieht es auch schon gut aus, denn es ist in 14 Tagen nur ein Lamm krepiert,
+               und die übrigen sind ja recht munter. Die Böcke auch, nur mit dem Futter sieht es
+               wieder schlecht aus, ich habe schon einige 50 Fuder von Steinort hingefahren und
+               werde noch weiter müssen hinbringen. Die Fohlen und übrigen jungen und alten Pferde
+               sind alle recht gesund und gut im Stande, und bis jetzt noch kein Kropf zu spüren.
+               Von den Fohlen werde ich doch nur höchstens ein paar, die vom Trompador und guten
+               Stuten gefallen, als Hengste gehen lassen, und die anderen nach Ostern schneiden
+               lassen. Ich bin willens, diese jungen Hengste inkl. der beiden 2 und 3-jährigen nach
+                  <placeName key="ed_xpm_112_gy">Labab</placeName> in den Rossgarten zu nehmen. Hier
+               in Steinort kann ich auf der Weide nichts behalten, da ich jetzt von hier aus nicht
+               aufs Lababsche Feld kommen kann; so will ich sämtliche Fohlen, Stuten und vielleicht
+               noch einige, die nicht Fohlen haben, auf die Weideschläge in Labab hüten lassen, und
+               auch da eintreiben, denn hier im Hof Steinort habe ich das Feld nach der Bruchstube
+               brach, da sind keine großen Wiesen, der Teil zum Düngen ist umgestürzt, ein großer
+               Teil mit Klee besät, und die Brücher gewiss dieses Jahr bei dem so entsetzlich vielen
+               Schnee ganz unter Wasser. Gott weiß, wie sich auch das Vieh nähren wird. Nach
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName> würde ich denn alle 1-, 2-
+               und 3-jährigen jungen Pferde nebst den 3 Stück 4-jährigen vor <persName key="ed_uxn_2xv_3pb">Farenheidscher</persName> Ankunft geben und hüten lassen. Die
+               schwarze Schimmelstute von der Rose, dass wird ein gut Reitpferd werden und auch
+               groß. Haber muss ich aber viel kaufen, denn ich brauche alle Tage <lb/>
+               <table rows="7" cols="2">
+                  <row>
+                     <cell>auf 80 St. Arbeitspferde à 1 1/2 Metz</cell>
+                     <cell>
+                        <p>7 Schfl. 8 Metz</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>auf 22 St. Fohlen a 1 Metz und 2 Hengste à 1 1/2 Metz</cell>
+                     <cell>1 Schfl. 9 Metz</cell>
+                  </row>
+                  <row>
+                     <cell>auf 12 St. junge Pferde hier in Gr. Steinort à 2 Metz und die beiden
+                        großen Wallache à 3 M.</cell>
+                     <cell>1 Schfl. 10 Metz</cell>
+                  </row>
+                  <row>
+                     <cell>in Taberlack auf 6 St. 4-jährige à 1 1/2 M. und 15 St. 2 und 3-jährige à
+                        1 Metz</cell>
+                     <cell>1 Schfl. 8 Metz</cell>
+                  </row>
+                  <row>
+                     <cell>auf die Dienstpferde à 2 Metz</cell>
+                     <cell>1 Schfl. </cell>
+                  </row>
+                  <row>
+                     <cell>auf die hiesigen tragenden Stuten</cell>
+                     <cell>10 Metz</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>13 Schfl. 13 Metz</cell>
+                  </row>
+               </table>Ich brauche also bis Ende Mai, da ich den Arbeitspferden bei der Beackerung
+               und dem schlechten Heu Zulage geben muss, noch über 1.300 Schfl. ohne die kl. Kälber
+               und <gap reason="illegible"/>, und hernach beim Abfohlen der Stuten und unsere
+               Aussaat auf meinen Vorwerken ist höchstens 500 Schfl., und die jungen Pferde und
+               Fohlen Stuten muss ich etwas Körner geben, weil das Heu gar zu schlecht ist und das
+               Erbsen Stroh durch die viele Nässe zu gar nichts und der Klee nicht zu nehmen. Das
+               Vieh ist alles gesund und nach dem Futter auch gut genährt und ist auf allen
+               Vorwerken kein einziges Stück abgegangen. 25 Stück Kälber sind zugelegt, ich hätte
+               sie gern bis auf 36 St. gebracht, allein die Kühe kalben zu spät, und auf den
+               Vorwerken sind die Kälber auch nicht sonderlich. Die Preise des Getreides sind noch
+               die nämlichen, Weizen recht gute 2 Rtlr., Korn 1 Rtlr., Gerste 72 Gr., Haber 45 Gr.,
+               Erbsen 72 Gr. Mit der Brauerei geht es recht gut, und auch mit dem Bierdebit, ich
+               habe schon über 80 Ohm gebrannt, nun fange ich an von Gerste zu brauen, weil sonsten
+               mein Bestand von Korn sehr klein werden könnte. Dann nach unserer Brau- und Brennerei
+               und so großem Deputat, und da wir doch so ziemlich viel Weizen säen, ist die
+               Kornaussaat in der Schlagwirtschaft viel zu gering. Die Russischen Bons stehen bald
+                  <unclear reason="illegible" cert="high">90</unclear> und auch 96 p. C. Der
+               Justitiar <persName key="ed_sgc_2wf_2y">Leitner</persName> ist recht gesund, und er
+               hat für 7.000 Rtlr. Königl. Wald bei Wolfshagen zu <placeName key="ed_lrv_kgj_f3b">Dombrowken</placeName> gekauft und will künftiges Jahr sich ein Brandhaus bauen,
+               dann wird <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> viel verlieren.
+               Landbaumeister <persName key="ed_hhn_qmh_wqb">Vogt</persName> hat seit dem Herbst
+               Gicht und Podagra und kann nicht aus der Stube. Werse ist gesund, die <ref target="lehndorff_dc5_mhh_3tb">Liesche Sache</ref> ist noch gar nicht in Anregung
+               gekommen. Mit den Bauten will ich in nachstehender Art verfahren. Das Insthaus auf 4
+               Familien in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> soll das erste sein,
+               dann in <placeName key="ed_nkz_b12_gy">Stawken</placeName> der Schuppen und
+               Reparaturen der Insthäuser, in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+               die Bauern-Scheune, die 2 St. Bauernhöfe zu Insthäusern, dann den Pferdestall größer
+               machen, und 2 Inst-Scheunen reparieren, <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>, in <placeName key="ed_xpm_112_gy">Labab</placeName> den
+               Schuppen und einige Stuben bei den Instleuten, denn sonsten ziehen sie uns wegen des
+               Holzes alle weg, und dann in <placeName key="ed_xzt_112_gy">Stawisken</placeName> das
+               Gebäude, wo der <persName key="ed_y5n_r3c_zqb">Bannasch</persName> wohnt. Wegen
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName> bleibt es nun ganz auf den
+               Befehl beruhen, wie dieses Gebäude gebaut werden soll, indessen behelfen wir uns noch
+               ein Jahr recht gut. Ew. Hochgeboren hatte ich doch um Dero Willensmeinung [gebeten],
+               ob Sie durchaus keinen verheirateten Knecht behalten wollen. Für jetzt sind derer 6
+               St., deren Frauen aber auf keine Art der Herrschaft zur Last fallen, indessen weiß
+               ich aber schon bestimmt, dass Sie doch künftiges Frühjahr einen Garten haben werden
+               wollen, auch Schafe und 1 Kuh zu halten verlangen. Inststellen sind besetzt und nach
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName> werden sie nicht ziehen, jedoch ich werde alles anwenden um
+               welche dahin zu bekommen. Der H. General Lieut. v. <persName key="ed_vhm_mqk_wcb">Massenbach</persName> war vorgestern hier zu Mittag, er kam von <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> und hat mir zur <seg type="comment"><orig>Einlage</orig><note xml:id="nnf5_dyb_3yb">Liegt nicht bei.</note></seg>
+               einen Zettel gegeben, sowie H. <persName key="ed_b4v_4ld_b2b">Schmalz</persName>. </p>
+            <closer>
+               <salute>Meine Frau mit mir und alle übrigen Tischgenossen empfehlen uns zur
+                        ferneren Gnade und ich ersterbe mit Respekt <lb/>Ew. Hochgeboren
+                        untertänigster</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

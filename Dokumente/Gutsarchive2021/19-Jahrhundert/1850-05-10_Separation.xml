@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_cs2_b4b_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entscheidung in der Klage des Grafen zu Dohna-Reichertswalde gegen Bauer Faust zu
+               Abrahamsheide und andere. Liebstadt, 10. Mai 1850</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das <ref target="lehndorff_rms_p1n_rrb">Dokument vom 10. Januar
+                  1850</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 732, Bl. 1-1v </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ijm_3qs_d2b">Liebstadt</placeName>
+            <date when="1850-05-10" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Nach dem Regulierungsrezess war der Bauer <persName key="ed_cjn_pdt_vsb">Faust</persName> zu <placeName key="ed_pbr_fvw_5sb">Abrahamsheide</placeName>
+               verpflichtet, jährlich zehn männliche und zehn weibliche Handtage dem Kläger zu
+               leisten, davon hatte er 1848 6 ½ männliche und 4 weibliche geleistet. Sein Einwand,
+               die Leistungen seien durch die neue Gesetzgebung gänzlich aufgehoben ist unbegründet.
+               Als Entschädigung hat Kläger nur die von der Regierung festgesetzten, im Amtsblatt
+               vom 3. März 1840 (S. 45) für den Mohrunger Kreis festgesetzten Preise zu fordern, da
+               diese in der Allerhöchsten Kabinettsordre vom 1. Februar 1838 (GS 1838, S. 137) bei
+               Ablösung von Hilfsdiensten in der Provinz Preußen festgesetzt worden sind. Bei
+               Vermeidung der Exekution ist der Beklagte schuldig, für die 1848 nicht geleisteten
+               Dienste 1 Rtlr. 27 Sgr.  sowie die Prozesskostenzu zahlen.</p>
+            <p>Neben der <ref target="lehndorff_rms_p1n_rrb">Entscheidung gegen den Bauern Bauer
+                  Gottfried, Abrahamsheide</ref>, fallen weitere Entscheidungen gegen: </p>
+            <p>Bauer <persName key="ed_jx5_fy1_3vb">Herrmann</persName>, Abrahamsheide – hat nur 7
+               männlich, 6 ½ weibliche Dienste geleistet,</p>
+            <p>Bauer <persName key="ed_s4r_2l2_3fb"><persName key="ed_qk5_3y1_3vb">Teschner</persName></persName>, Abrahamsheide – hat nur 51/2 männliche und 3
+               weibliche Dienste geleistet,</p>
+            <p>die Bauern <persName key="ed_qrc_ly1_3vb">Alfred Neuber</persName>, <persName key="ed_jdr_qy1_3vb">Eisermann</persName>, <persName key="ed_cs5_my1_3vb">Michael
+                  Neuber</persName>, <placeName key="ed_sq5_mfc_3rb">Goldbach</placeName> – haben
+               gar keine Leistungen geleistet, <lb/><persName key="ed_xwp_sy1_3vb">Christoph
+                  Reisberg</persName>, Goldbach. Er ist verpflichtet, der Gutsherrschaft jährlich 8
+               einspännige Spann- und 10 männliche Handtage zu leisten, die er 1848 nicht geleistet
+               und zu denen er erklärt, „dass er diese Dienste in Zukunft nicht werde leisten noch
+               auch eine Vergütung dafür zahlen wolle“. <lb/>Der Kläger verlangt 1 Rtlr. 5 Sgr. für
+               jeden nicht geleisteten Spanntag, 6 Sgr. für jeden Arbeitstag. Da der Verklagte das
+               Grundstück bereits am 12. April des Vorjahres an seinen Sohn abgetreten hat, kann die
+               Klage nicht eingeleitet werden, der Anwalt reicht deshalb eine neue Klage ein.</p>
+            <p>Bauer <persName key="ed_og3_dz1_3vb">Rossmann</persName>, Goldbach, ist verpflichtet,
+               8 vierspännige Spann- und 10 männliche Handtage zu leisten, was er nicht getan hat,
+               ebenso Wirt <persName key="ed_omh_kz1_3vb">Schindowski</persName> und Bauer <persName key="ed_d4b_4z1_3vb">Jacob Wölck</persName> aus Goldbach.</p>
+            <p>Bauer <persName key="ed_j21_qz1_3vb">Christoph Wölck</persName>, Reichertswalde, ist
+               verpflichtet, 8 einspännige Gespann- und 10 Männertage zu leisten. Gespann hat er gar
+               nicht und nur 5 Manntage geleistet.</p>
+            <p>Anderthalbhüfner <persName key="ed_evw_tz1_3vb">Christoph Böttcher</persName>,
+                  <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName> hat 4 vierspännige Spann-
+               und 5 Manntage zu leisten, nur 1/2 Manntag wurde geleistet.</p>
+            <p>Bauer (Dreihüfner) <persName key="ed_mjt_wz1_3vb">Christoph Behr</persName>,
+               Silberbach wird wegen nicht geleisteter 8 vierspänniger Gespann- und 10 Manntage zu
+               11 Rtlr, 10 Sgr. verklagt. Die Klage kann nicht bearbeitet werden, denn die
+               Besitzerin des Grundstücks hatte nicht das ganze Grundstück an den Sohn übertragen,
+               wie ein Blick in die Hypothekenakte zeigte.</p>
+            <p>Der Hüfner <persName key="ed_i43_b1b_3vb">Gelhaar</persName>, Silberbach, hatte seine
+               5 Mann- und 5 Frauenhandtage nicht geleistet, ebenso Altsitzer <persName key="ed_txm_d1b_3vb">Christoph Wölck</persName> und Halbhüfner <persName key="ed_vpm_h1b_3vb">Richter</persName>.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_cs2_b4b_3rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

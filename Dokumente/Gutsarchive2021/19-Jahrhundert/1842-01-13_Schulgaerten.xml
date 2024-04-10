@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_qwk_xph_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Superintendent Neumann antwortet Graf von Lehndorff auf dessen Anfrage wegen der
+               Bäume in den Schulgärten. Angerburg, 13. Januar 1842</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 541, Bl. 22-22v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_knz_tlh_wsb">Neumann, Samuel (-)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1842-01-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940851"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, den 13. Januar 1842</dateline>
+               <salute>Ew. Exzellenz</salute>
+            </opener>
+            <p>habe ich die Ehre, Nachstehendes in tiefster Ergebenheit auf die sehr geehrte
+               Zuschrift vom 6. h. zu antworten. <lb/>Nach den Auseinandersetzungsgrundsätzen § 20
+               heißt es wörtlich: <lb/>„Obstbäume, Baumschulen und Hopfen-Stühle, die der Abgehende
+               gepflanzt und angelegt hat, <hi rendition="#u">bleiben im Garten</hi> und werden nach
+               Beschaffenheit und Billigkeit vergütet. Nähere Bestimmungen des Preises lassen sich
+               hierüber wegen der verschiedenen Qualitäten nicht angeben; ungefähr etwa <lb/>ein
+               tragender Kern-Obstbaum über 10 Jahre als 10 bis 15 Sgr., <lb/>von 3 bis 10 Jahren 6
+               bis 10 Sgr. ,<lb/>schon veredelte Stämme unter 3 Jahren 1 bis 4 Sgr., <lb/>beim
+               Stein-Obst die Hälfte der beim Kern-Obst angenommenen Sätze. Baumschulen müssen nach
+               der Anzahl und Güte in Bausch und Bogen nach Billigkeit vergütet werden.‟ <lb/>Nach
+               dieser gesetzlichen Bestimmung darf mithin kein Schullehrer die Obstbäume <hi rendition="#u">
+                  <unclear reason="illegible" cert="high">weg</unclear>nehmen</hi> oder <hi rendition="#u">verkaufen</hi>, denn es heißt ausdrücklich: „<hi rendition="#u">sie
+                  bleiben im Garten</hi>‟, und der Nachfolger <hi rendition="#u">muss</hi> sie
+               vergüten, worauf streng zum Besten der Schulstellen gehalten werden muss. <lb/>Ew.
+               Exzellenz haben viel mit Schulen zu tun und ist daher nötig, dass Hochdieselben eine
+               vidimierte Abschrift der qu. Auseinandersetzungsgrundsätze besitzen. Ich werde
+               dieselben Ew. Exzellenz nächstens über den Lehrer <persName key="ed_bc1_knd_py">Puschke</persName>, dem ich dieselben zuschicke, hiermit ehrerbietigst
+               übersenden. </p>
+            <closer>
+               <salute>Mit hoher und aufrichtiger Verehrung habe ich die Ehre, mich in schuldiger
+                  Devotion zu unterzeichnen Ew. Exzellenz ganz untertänigster <lb/>
+               </salute>
+               <signed>Neumann <lb/>Superintendent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

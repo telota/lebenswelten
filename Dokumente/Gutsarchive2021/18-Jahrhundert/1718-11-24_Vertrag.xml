@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_vdx_shv_ytb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff schließt mit dem Brettschneider Jan Stanislawski einen
+               Vertrag. Steinort, 24. November 1718</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch den Vertrag vom <ref target="lehndorff_kcn_4sn_wtb">14. Dezember
+                     1716</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 311, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1718-11-24" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_vdx_shv_ytb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>In unten gesetztem dato ist mit dem Brettschneider <persName key="ed_ylt_5bj_3qb">Jan
+                  Stanislawski</persName> verdungen worden, <seg type="comment"><orig>ein
+                     Schock</orig><note xml:id="nh3c_rq4_txb">60 Stück</note></seg> Tannen 1 1/2
+               zollige Dielen in dem <placeName key="ed_hrb_hc2_gy">Serwillschen</placeName> Walde
+               zu schneiden, 30 Fuß lang und recht breit, so dass das Stück Holz nicht verhauen
+               werde, worauf der Waldhüter Acht haben und der Brettschneider im befundenen Fall sein
+               Lohn quitt gehen soll (die Schwarten werden nicht mit gerechnet). Vor diese Arbeit
+               soll er an Lohn und Deputat Korn haben </p>
+            <p>
+               <list>
+                  <item>10 Fl. Geld <lb/>1 Schfl. Korn <lb/>1 Schfl. Gerste <lb/>1 Schf.
+                            Erbsen</item>
+                  <item>1/2 Seite Speck <lb/>1/2 <seg type="comment">
+                        <orig>Schmer</orig>
+                        <note xml:id="nss1_252_j5b">Schmalz</note>
+                     </seg>
+                     <lb/>1 1/2 Stof Butter</item>
+                  <item>1 1/2 Schock Käse</item>
+                  <item>1 1/2 <gap reason="illegible"/> Salz</item>
+                  <item>1 Tonne Tafelbier</item>
+               </list>
+            </p>
+            <p> Steinort den 24. Nov. 1718  </p>
+            <p><persName key="ed_wtg_nyl_2y">E. G. v. Lehndorff</persName></p>
+         </div>
+      </body>
+   </text>
+</TEI>

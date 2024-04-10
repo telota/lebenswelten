@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_ly3_xsr_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Übersicht über die zu leistenden Abgaben von den Lehndorffschen Gütern. 1733 bis
+               1744 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Intus: Quittbücher 1. von Gr. Steinort, 2. von Klein Steinort, 3. von Rosengarten
+                  über Kontributionen, 4. von Rosengarten über Fourage und Service-Gelder, 5. über
+                  den Ritterdienst und Allodifikationszins von Steinort, 6. vom Ritterdienst von
+                  Pristanien, 7. vom Ritterdienst von Rosengarten. </p>
+               <p>Siehe hierzu auch GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 632:
+                  Lehnsverhältnisse der Steinortschen Güter, 1806/07, intus: Auszug aus der
+                  Lehnstabelle 1717, sowie das Promemoria des Grafen Carl Friedrich Ludwig von
+                  Lehndorff zum „Zustand der bäuerlichen Erbe seit Anlegung des
+                  General-Hubenschoss-Katasters bis zur beendeten Regulierung der bäuerlichen
+                  Verhältnisse nach dem Edikt vom 14. September 1811 in den Steinortschen Gütern
+                  (1811)‟ in Nr. 560. </p>
+               <p>Weitere Quittbücher für Gr. Steinort (Generalhubenschoss 1730-1737, 1737-1747)
+                  ebd., Nr. 253 und 254, für Rosengarten (Generalhubenschoss 1730-1737, 1737-1747,
+                  Fourage- und Service-Gefälle 1728-1734, 1735-1740, 1743-1748, Ritterdienst- und
+                  Allodifikationszins 1727-1748) ebd., Nr. 256, 340-344, für das Vorwerk Stawken
+                  (Generalhubenschoss 1747-1765) ebd., Nr. 369. Ein Quittungsbuch über den
+                  Generalhubenschoss für Klein Steinort 1729-1737 in: StA L, Bestand 21950
+                  Familienarchiv Lehndorff, Nr. 280. </p>
+               <p>Nicht gezahlte Kontributionen führten zum Verlust des Hofes. 1754/55 wurden
+                        drei kölmische Hufen der Bauern <persName key="ed_aws_j2x_2qb">Goldack</persName> und <persName key="ed_zfw_l2x_2qb">Werner</persName>
+                        in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> versteigert, die
+                        ihren Zahlungsverpflichtungen nicht nachgekommen waren, GStA PK, XX. HA,
+                        Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 412. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 258, n. f.</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Der Akte liegt der Rest des alten Umschlages bei, beschriftet mit der
+                     Altsignatur „No. 40. Kontributions-Sachen‟. </p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1733-05-25" to="1744-01-01" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Es waren an Kontributionen nach der zugesandten <seg type="comment">
+                  <orig>Lehnstabelle</orig>
+                  <note xml:id="nyrk_1dx_2qb">Siehe hierzu das <ref target="lehndorff_xp1_n5k_2z">Dokument vom 9. März 1717</ref> mit Anmerkungen.</note>
+               </seg> zu zahlen: <lb/>
+               <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> 1 Rtlr., 60 Gr. <lb/>
+               <placeName key="ed_xpm_112_gy">Labab</placeName> 3 Rtlr. <lb/>
+               <placeName key="ed_xjg_d12_gy">Stobben</placeName> Dorf 3 Rtlr., 50 Gr. <lb/>
+               <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> 6 Rtlr., 46 Gr. <lb/>
+               <placeName key="ed_nkz_b12_gy">Stawken</placeName> 4 Rtlr. 73 Gr., 13 D. <lb/>
+               <placeName key="ed_xzt_112_gy">Stawisken</placeName> 5 Rtlr. 30 Gr. Gr. <placeName key="ed_pxt_cnh_1y">
+                  <lb/>Steinort</placeName> 2 Rtlr. 48 Gr., 1 D. <lb/>Kl. <placeName key="ed_hyn_yzd_gy">Steinort</placeName> 1 Rtlr. <lb/>
+               <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 4 Rtlr., 40 Gr. <lb/> Summe: 32
+               Rtlr., 77 Gr., 14 D. „pro anno canone“. <lb/>Die Hälfte wurde Anfang November
+               „eingehoben“ . <lb/>1735 durfte wegen „Misswachs“ die Zahlung reduziert werden.
+               <lb/>1741 waren an General-Hubenschoss zu zahlen: <lb/>Labab 12 Rtlr. 89 Gr. 3 D.
+               <lb/>Kittlitz 1 Rtlr. 57 Gr. 9 D. <lb/>
+               <seg type="comment">
+                  <orig>Pniewen</orig>
+                  <note xml:id="nvh2_1v4_5qb">
+                     <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </note>
+               </seg> 9 Rtlr. 21 Gr. 6 D. <lb/>Pristanien 4 Rtlr. 30 Gr. <lb/>Stawisken 4 Rtlr 14
+               <lb/>Gr. Steinort 3 Rtlr. 10 Gr. <lb/>Taberlack 14 Rtlr 26 Gr. 6 D. <lb/>1740, 1742
+               und in den Folgejahren gab es wegen des <seg type="comment">
+                  <orig>Viehsterbens</orig>
+                  <note xml:id="ndzq_cyw_gqb">Siehe hierzu GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                     Lehndorff-Steinort, Nr. 432: Aufstellung des verendeten Vieh auf den Vorwerken
+                     (1744/45).</note>
+               </seg> landesherrliche „Remissionen“ (Nachlass der Abgaben), die auf die betroffenen
+               Güter verteilt wurden, weshalb die Quittbücher wegen Berichtigung einzusenden waren.
+                  <seg type="comment">
+                  <orig>Diese Vergütungen wurden den Bauern gut geschrieben.</orig><note xml:id="nazc_p3q_3qb">Auch bei Naturkatastrophen gab es solche Nachlässe. Als
+                     Groß und Klein Steinort, Stawisken, Labab und Kittlitz 1720 von einem großen
+                     Hagelschaden betroffen waren, wurden den Bauern Martini 1722 insgesamt 84 Rtlr.
+                     und 5 Sgr. Kontributionen, die sich auf die betroffenen Bauernhöfe verteilten,
+                     erlassen. Grünhagen strich die Summen aus der Jahresrechnung aus, damit die
+                     Bilanz ausgeglichen war. StA L, Bestand 21950 Familienarchiv Lehndorff, Nr.
+                     265, Bl. 9.  </note>
+               </seg> Es folgt eine undatierte Aufstellung der Gefälle (ca. 1744). </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ly3_xsr_1qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

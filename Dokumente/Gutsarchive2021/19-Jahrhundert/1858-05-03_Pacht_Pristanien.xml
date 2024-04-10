@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_o5f_drg_grb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auguste Schmidt bürgt für das von ihrem Mann übernommene Vorwerk
+               Pristanien</title><title>. Angerburg, 3. Mai 1858</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 552, Bl. 21-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            <date when="1858-05-03" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941696"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Verhandelt Angerburg, beim Königl. Kreisgericht am 3. Mai 1858</p>
+            <p>Vor dem unterzeichneten, zur Aufnahme von Handlungen der freiwilligen
+                    Gerichtsbarkeit deputierten Richter meldet sich heute zu den Verpachtungs-Akten
+                    des Gräflichen Gutsvorwerks <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p rendition="#et">die Frau Gutspächter <persName key="ed_sbl_k2t_vsb">Auguste
+                  Schmidt</persName>, geborene Maeckelburg aus Pristanien,</p>
+            <p>persönlich bekannt und dispositionsfähig. <lb/>Sie beantragt, mit ihr die in § 4
+                    des Pachtvertrages vom 20. Juni 1856 bestimmte Beitritts-Erklärung aufzunehmen.
+                    Es wurde ihr der zwischen dem Königl. Legations-Sekretär <persName key="ed_zkm_whl_2y">Herrn Grafen von Lehndorff</persName> auf Steinort und
+                    ihrem Ehemann <persName key="ed_sdm_s2t_vsb">Carl Schmidt</persName> über das
+                    Vorwerk Pristanien in 26 Paragrafen errichtete Pachtvertrag vom 30. Juni 1856,
+                    mit dessen Inhalt sie bekannt zu sein versichert, nochmals vorgehalten und sie
+                    erklärt:</p>
+            <p rendition="#et">ich übernehme hierdurch die in diesem Pachtvertrag, dem ich, ohne
+               Mitpächterin zu werden, beitrete, vor meinen Ehemann gegen den Herrn Verpächter
+               übernommenen sämtlichen Verbindlichkeiten als Selbstschuldnerin und will für die
+               Erfüllung derselben mit meinem Ehemann solidarisch haften.</p>
+            <p>Die Frau Komparentin wurde von dem Richter und dem von ihr selbst erwählten
+               Rechtsbeistand, Kreisgerichtssekretär <persName key="ed_rs1_x2t_vsb">Boltz</persName>, über die Folgen ihrer obigen Erklärung dahin belehrt, dass es dem
+               Herrn Verpächter freistehe, sich wegen der Ansprüche aus dem Pachtkontrakt zuerst an
+               ihr Vermögen oder an das ihres Mannes oder an ihr beiderseitiges Vermögen
+               gleichzeitig zu halten, ohne dass sie zu dem Einwand berechtigt ist, da sie nur als
+               Bürgin für die ihrem Ehemann übernommenen Verpflichtungen hafte. <lb/>Frau
+               Komparentin verblieb auch nach dieser Belehrung bei ihrer obigen Erklärung und
+               bemerkt noch, dass sie mit ihrem Ehemann in Gütergemeinschaft lebe. <lb/>Der
+               ebenfalls anwesende Herr Gutspächter <persName key="ed_sdm_s2t_vsb">Carl
+                  Schmidt</persName> genehmigte die vorstehenden Erklärungen seiner Ehefrau
+               durchweg.</p>
+            <p>Es wird die einmalige Ausfertigung dieser Verhandlung zu Händen des Herrn Schmidt
+               beantragt, der die Kosten dafür trägt.</p>
+            <p>V. G. W. <lb/>Auguste Schmidt geb. Maeckelburg <lb/>Boltz <lb/>Carl Schmidt</p>
+            <p>a. u. s. <lb/>Dargel <lb/>Urkundlich unter Siegel und Unterschrift ausgefertigt
+                    <lb/>Angerburg, den 4. Mai 1858</p>
+            <p>[Siegel]</p>
+            <p>Königl. Kreisgericht II. Abteilung  <lb/>[Paraphe]</p>
+            <p>Ausfertigung für Herrn C. Schmidt zu Pristanien</p>
+         </div>
+      </body>
+   </text>
+</TEI>

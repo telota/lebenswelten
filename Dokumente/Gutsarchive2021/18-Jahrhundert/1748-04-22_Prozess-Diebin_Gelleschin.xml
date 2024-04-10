@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_okz_jjd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verhör und Urteil im Prozess gegen die Diebin Gellesch aus Labab und wegen
+               anderer Vorkommnisse. Steinort, 22. April 1748</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 125, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1748-04-22" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_okz_jjd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Hochgräfl. Hofe zu Steinort, den 22. April 1748</p>
+            <p>Nachdem Ihro Reichsgräfliche Gnaden die Frau <persName key="ed_q4s_xyl_2y">Gräfin von
+                  Lehndorff</persName> Hochgeboren in sichere Erfahrung gekommen, dass einige von
+               Deroselben Untertanen und Leuten auf dem letzt verwichenen Jahrmarkt vor Ostern in
+                  <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> verschiedene Sachen
+               gestohlen, der Diebstahl auch durch wirkliche Abnahme der Sachen sattsam erwiesen
+               worden, ferner auch die Widerspenstigkeit an verschiedenen Untertanen in
+               herrschaftlichen Verrichtungen zu bestrafen, so haben Hochgräfl. Gnaden mich, den
+               Lötzischen adelichen Gerichtsschreiber <persName key="ed_jnf_1lq_lpb">Salomon
+                  Hoch</persName>, anhero requiriert, um diese Sache nach allen konkurrierenden
+               Umständen auf das genaueste gerichtlich zu untersuchen und hiernächst zu erkennen,
+               was denen Rechten gemäß ist. Es wird dahero, da allerseits Partei Komplizen und
+               Interessenten erschienen, nachstehendes Verhör in dieser Sache summariter
+               aufgenommen. </p>
+            <p>
+               <persName key="ed_wrn_dlq_lpb">Anna Kiworcka</persName>, des <persName key="ed_bqm_2lq_lpb">Faltin Kiworra</persName>, Bauern aus <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, Ehegattin, <seg type="comment">
+                  <orig>de veritate discenda</orig>
+                  <note xml:id="nrkj_4zs_vqb">zur Wahrheit</note>
+               </seg> sattsam ermahnt, deponiert auf Befragen, was ihr von der letzt in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> ausgeübten Dieberei aufm Jahrmarkt
+               wissend, folgende ihr von der Sache bekannte Umstände.</p>
+            <p>Nachdem nämlich Deponentin nebst ihrem Mann vom letzt verwichenen Jahrmarkt aus
+                  <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> nach Hause zurückgefahren,
+               wären sie unterwegs aufm <seg type="comment">
+                  <orig>Werder</orig>
+                  <note xml:id="nqhl_vlq_lpb">Werder Upalten</note>
+               </seg> der hiesigen Hochgräfl. Güter angesprochen und hätten allbereits daselbst den
+               Schulzen <persName key="ed_ykw_llq_lpb">Georg Nowack</persName> aus <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, den Schulzen <persName key="ed_fyt_syb_t2b">Martin Rompel</persName> aus <placeName key="ed_xpm_112_gy">Labab</placeName>, auch derselben beiden Ehegattinnen, ferner den <persName key="ed_n5t_wlq_lpb">Gottlieb Kiworrra</persName>, Bauer aus <placeName key="ed_xjg_d12_gy">Stobben</placeName>, samt dessen Ehegattin, dann schließlich
+               den Knecht <persName key="ed_uns_fmq_lpb">Jan</persName> auf dem Hofe <placeName key="ed_xpm_112_gy">Labab</placeName> samt des Bauern <persName key="ed_xmk_lmq_lpb">Uwis </persName>Ehegattin, und dann das Gärtnerweib <persName key="ed_l4d_4mq_lpb">Gelleschin</persName> aus Labab, so auf des Uwis Schlitten
+               gesessen und die eben die Täterin und berufene Diebin ist, so schon hin und wieder
+               auf den Jahrmärkten gestohlen, daselbst in voller Versammlung angetroffen. Deponentin
+               ihr Ehemann, Faltin Kiworra, wäre hierauf in die Stube gegangen, sie aber,
+               Deponentin, aufm Schlitten sitzen geblieben. Während dem Eintritt in die Stube aufm
+               Werder, woselbst Herrschaftl. Bier geschonken wird, findet Deponentin ihr Ehemann die
+               ganze Versammlung in größtem Streit und zwar dergestalt, dass allerseits über den
+               Gottlieb Kiworra, ihres Mannes Bruder, gewesen und auf ihn zuschlagen wollen,
+               letzterem, nach der Ursache dieses entstandenen Lärms fragend, wird von dessen
+               Bruder, dem Gottlieb Kiworra, berichtet, dass man ihm aus dieser Ursache zu Halse
+               gehen wolle, weil er die berüchtigte Diebin Gelleschin zusamt ihrem gestohlenen Pack
+               arretieren und nach dem Hochgräfl. Hofe <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bringen wollen, wohl wissend, dass dies diebische Weibsstück
+               allen Ernstes und auf das Nachdrücklichste von der Herrschaft inhibiert worden, sich
+               nirgends auf einige Märkte mehr betreten zu lassen, wohingegen der Schulze Nowack aus
+               Kittlitz und der Martin Rompel aus Labab schlechterdings davor partiert gewesen, dass
+               diese Sache vertuscht und der Herrschaft nicht angezeigt werden solle. Deponentin,
+               diesen Lärm in der Stube wahrnehmend, wäre hierauf vom Schlitten gleichfalls
+               abgestiegen aus Beisorge, dass etwa ihr Mann in die Händel mit eingeflochten werden
+               möge, beim Eintritt in die Stube bemerkte aber Deponentin, dass der ganze Streit
+               bereits gehoben und ihr Ehemann dessen Bruder, dem Gottlieb Kiworra, zugerufen, er
+               solle die Canaille, die Diebin fahren lassen, was er nötig habe, sich ihretwegen den
+               Buckel vollprügeln zu lassen, worauf ihres Mannes Bruder sich zufrieden gestellt,
+               Deponentin den von ihm ausgetrunkenen Stof Bier bezahlt und hierauf nach Hause
+               abgereist. So viel Deponentin gehört, so haben sie allbereits das Pack, so Gelleschin
+               in Angerburg gestohlen, noch vor ihrer Ankunft aufs Werder visitiert gehabt und dem
+               Vernehmen nach ein Paar <unclear reason="illegible" cert="high">Korkeln</unclear>, 1
+               Brot und 2 Schüsseln, auch 2 Teller glasierter Töpferarbeit bei ihr angetroffen,
+               welches aber Deponentin, da sie schon zuletzt gekommen, selbst mit ihren Augen nicht
+               gesehen. Weil Sie aber, Deponentin, beschuldigt worden, als ob sie von den diebischen
+               Sachen der Gelleschin mit partizipiert und ein paar <unclear reason="illegible" cert="high">Korkeln</unclear> von ihr erhalten, welches doch im Grunde falsch und
+               verlogen, ferner auch der <persName key="ed_hzz_vmq_lpb">David Wilewski</persName>
+               aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, auch nachgedachter Schulze
+               Nowack aus Kittlitz ihr aufs Haus gekommen, ersterer sie, Deponentin, nebst ihrem
+               Ehemann ganz unschuldig geschlagen, letzterer aber sie vor eine offenbare Diebin,
+               ihren Ehemann aber für einen Pferdedieb ausgerufen, ja ihren Mann, Bruder und ihn
+               prügeln wollen, so habe sie nachdem Grunde sich genötigt gesehen, sofort aufzumachen
+               und diese verschwiegene Facta und Gewalttätigkeit der Herrschaft zu denunzieren. Es
+               rührt aber dieser Revers und darauf erfolgte Schlägerei des David Wilewski aus
+               Steinort hauptsächlich und ursprünglich dahero, weil Deponentin gegen den Schulzen
+               Nowack sich mit Worten herausgelassen, dass David von der Diebin Gelleschin schon
+               nach dem Angerburgschen Jahrmarkt einen Bock sich zuführen lassen, welchen des
+               Schulzen Nowacks Knecht selbst abgeholt und nach Kittlitz bringen müssen, ob nun
+               dieser Bock von der Gelleschin geschenkt worden oder was es sonst vor eine Bewandtnis
+               habe, könne Deponentin nicht anzeigen, indessen habe sie doch gegen den Schulzen <gap reason="illegible"/>, dass ohngeachtet das Feld auf Kittlitz so klein, selbiges
+               dennoch mit gar zu vielem Vieh des Schulzen und sonst mit fremdem Vieh übersät werde,
+               und die Bauern dadurch bei ihrem Inventario und mit ihrem Vieh leiden müssen, wie
+               denn der David Mittwochs nach den Ferien auch 7 Stück Schafe vom Rautenberg aus
+               Taberlack, der kein Bock von dem Krüger daselbst gekauft und alles zu besagtem
+               Schulzen Nowack hingebracht, wozu noch der Bock von Labab von der Diebin Gelleschin
+               dazu gekommen und alles beim Schulzen Nowack noch bis dato befindlich. Ob nun David
+               dieses alles mit herrschaftlichem Konsens an sich gebracht und an den Schulzen Nowack
+               übergeben, können Deponentin nicht wissen, genug aber, dass sie dadurch wegen ihres
+               Vieh sehr <gap reason="illegible"/> würde.</p>
+            <p>Dem Schulzen Nowack aber wäre dieses unerträglich gewesen, dass Deponentin deshalb
+               sowohl wegen des Bocks als übrigen Vieh Worte gemacht, und muss vermutlich den David
+               gegen sie aufgebracht haben, welcher dann Freitag Abend zu ihrem Mann hingekommen und
+               ihn auf morgenden Tag zum Pflügen nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> befohlen, ihr Ehemann habe darauf repliziert, dass er
+               gehorsam sein und sich punktuell auf Morgen zum Pflügen einfinden würde, welches auch
+               geschehen. Die Ochsen aber bis an die Bäuche wegen der Nässe eingefallen und David
+               selbst gesehen, dass es die Unmöglichkeit gewesen zu pflügen, auch ihn selbst vom
+               Vorwerk zurückgeschickt. Woraus zu schließen, dass er lediglich nur einen Vorwand
+               gesucht, bei ihr, Deponentin, und ihrem Ehemann einzubrechen und dass es ihm um kein
+               Pflügen zu tun gewesen. Als indessen David Wilewski abends vorhero zu ihrem Mann
+               gekommen, und derselbe keine Gelegenheit gefunden, sich an ihm zu reiben, weil er die
+               Gestellung zu Scharwerk mit allem Gehorsam angenommen, so wäre David hierauf zur
+               anderen Stube des Hauses herumgeritten und hätte sie, Deponentin, herausgerufen, auch
+               da sie vor ihm erschienen, sie, Deponentin, gleich mit den allerhärtesten und
+               ungestümsten Worten angegriffen wie sie Canaille so impertinent sein könne, ihn zu
+               raisonnieren, dass er von der Diebin Gelleschin einen Bock angenommen. Deponentin
+               wollte sich dieserhalb rechtfertigen, allein der David schlug auf sie zu, und da sie,
+               Deponentin, ein kleines Kind auf der Hand gehabt, auch also ihr Mann dazu gesprungen
+               und sie, Deponentin, nicht schlagen lassen wollen, weil sie ob Böses verwirkt, habe
+               David, welcher den Schulzen und übrige Bauern gerufen habe, ihren Ehemann binden und
+               ferner schlagen wollen, Deponentin aber sich auf die Herrschaft beziehend, wie auch
+               ihr Ehemann, der nicht das geringste verschuldet, haben sich auch wirklich schon zur
+               Abendzeit aufgemacht und den ganzen Verlauf der Sache erzählt, welches dann Ihro
+               Reichsgräfliche Gnaden zur Untersuchung aussetzt.</p>
+            <p>
+               <note type="editorial">Es folgt die Aussage des Ehemanns, Faltin Kiworra, die mit
+                        der Aussage seiner Ehefrau übereinstimmt. Man habe <note type="editorial">Gelegenheit gesucht, sich an ihm zu rächen, und da man keine gefunden,
+                            habe der Wilewski seine Ehefrau geschlagen und versucht, ihn mit der
+                            Peitsche zu züchtigen, unterstützt von dem Schulzen und den Bauern. Erst
+                            als er damit gedroht habe, alles der Herrschaft anzuzeigen, habe man von
+                            ihm abgelassen. Der Schulze Nowack habe ihn mit Schimpfworten traktiert
+                            und gesagt, dass er ein Pferdedieb sei. Kiworra beschuldigte dagegen den
+                            Schulzen, jährlich mehrere Fuder vom Vorwerk zu entwenden, was jeder
+                            wüsste; er sei ein Dieb, der die Herrschaft zu hintergehen suche und die
+                            Bauern ruiniere,indem er dem Bauern <persName key="ed_qbb_mft_fqb">Schuja</persName> 4 Scheffel weiße Erbsen und dem <persName key="ed_cbm_vjz_tqb">Gritzka</persName> 5 Scheffel Bohnen und graue
+                            Erbsen weggenommen habe. Auch habe er behauenes Holz vom Vorwerk geholt,
+                            mit dem er sich ein Ställchen im Vorhaus gebaut habe. Klagen habe wenig
+                            Sinn, da alle Bedienten verschwägert und befreundet mit dem Schulzen
+                            seien, so dass die Wahrheit doch nie ans Licht käme. </note>
+               </note>
+            </p>
+            <p>
+               <note type="editorial">Auch <persName key="ed_n5t_wlq_lpb">Gottlieb
+                            Kiworra</persName> aus Stobben, der Bruder des Vorgenannten, und dessen
+                        Ehefrau <persName key="ed_id4_rct_vqb">Catharina</persName> wurde vernommen.
+                        Er gibt zu Protokoll, dass er die Gelleschin und den Schulzen Nowack auf dem
+                        Werder getroffen habe, als er vom Jahrmarkt zurückgekommen sei. Er habe die
+                        Gelleschin aufgefordert, ihm die noch schuldigen zwei Mandel Stroh zu
+                        bezahlen und sie gefragt, wie sie denn hätte zum Jahrmarkt fahren könne, wo
+                        es ihr doch von der Herrschaft verboten worden sei. Er habe ihr das
+                        gestohlene Gut abnehmen und dieses zusammen mit der Gelleschin nach Steinort
+                        bringen wollen, was seine Ehefrau bestätigt. Die Ehefrauen des Rompel und
+                        des Nowack hätten ihn daran gehindert und ihn geschlagen, der Schulze ihn
+                        aufgefordert, die Sache auf sich beruhen zu lassen. Als er trotzdem das
+                        Diebesgut visitierte, hätte ihm der Schulze erklärt, dass es seine Sachen
+                        wären. Dann sei sein Bruder gekommen, gemeinsam wären sie in die Stube
+                        gegangen, hätten ihr Bier ausgetrunken und seien fortgefahren. Seine Ehefrau
+                        gibt noch zu Protokoll, dass dies alles wegen des Bockes sei, den die
+                        Gelleschin David Wilewski gegeben habe, und dass sich dort auch 7 Schafböcke
+                        des Schulzen Nowack befinden, die Wilewski in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> gekauft habe. </note>
+            </p>
+            <p>
+               <note type="editorial">Anschließend wird die Beschuldigte <persName key="ed_l4d_4mq_lpb">Else Gelleschin</persName> vernommen. Sie gibt die
+                  Diebstähle zu. Bei der Beute hätte es sich um ein Paar <unclear reason="illegible" cert="high">Korkeln</unclear>, 2 glasierte Schüsseln, 2 glasierte Teller, 3
+                  Groschen Brot, 1 Hut und eine leinene Haube gehandelt. Das Brot habe sie gegessen,
+                  die Haube der Tochter gegeben, die <unclear reason="illegible" cert="high">Korkeln</unclear> getragen, alles andere befinde sich in <placeName key="ed_xpm_112_gy">Labab</placeName>. Von wem sie die Sachen gestohlen können
+                  sie nicht angeben. Der Besuch des Jahrmarktes sei Unrecht gewesen, weshalb sie
+                  Besserung verspreche. Sie wolle „von dieser Zeit an nicht mehr die Zeit ihres
+                  Lebens auf die Märkte gehen‟. Nach dem Bock befragt, gibt sie an, Wilewski habe
+                  ihn noch von ihrem Mann gekauft, der Geld brauchte um das Mahlgeld zu bezahlen. Er
+                  sei einjährig gewesen und ihr Mann habe nur 45 Gr. bekommen. </note>
+            </p>
+            <p>Der Schulze Nowack samt dem Schulzen Rompel aus Labab werden hierauf zur
+               Verantwortung gezogen, wie sie sich unterstehen können, die diebische Gelleschin
+               mitsamt der diebischen Sachen zu verhehlen, und ob ihnen nicht bekannt, dass die
+               Diebeshehlerei gleicher Strafe schuldig sei wie der Diebstahl selbsten, umso mehr, da
+               ihnen bekannt, dass der Gelleschin untersagt gewesen, sich auf keinem Markte mehr
+               finden zu lassen, und es notorisch, dass diese ein diebischer Mensch gewesen.</p>
+            <p>
+               <note type="editorial">Als beide versuchen zu leugnen, werden sie mit den
+                        Aussagen der Zeugen konfrontiert. Nowack versucht sich herauszureden, er sei
+                        betrunken gewesen, Rompel gibt an, dass er sich in die Sache gar nicht
+                        eingemischt habe. Nowack, nach dem Bock und den Schafen befragt, gibt an,
+                        dass David Wilewski die Schafe vom Rautenberg, den Bock vom Gellesch aus
+                            <placeName key="ed_xpm_112_gy">Labab</placeName> gekauft habe. Den
+                        Betrug an der Herrschaft, indem er den Bauern Saatgut weggenommen habe, und
+                        die Unterschlagung von Heu gibt er erst zu, nachdem er mit den
+                        Zeugenaussagen konfrontiert wird. Wegen des vom Vorwerk <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> gestohlenen Holzes
+                        erklärt er, er habe dazu die Konzession des verstorbenen Gärteniers
+                        eingeholt, um sich ein Ställchen zu bauen. </note>
+            </p>
+            <p>
+               <note type="editorial">Der ebenfalls vernommene Bedienstete David Wilewski erklärt,
+                  dass es mit allem, was erklärt wurde, seine Richtigkeit habe. Die sieben Schafe
+                  habe er vom Rautenberg behalten, da der Schulze ihm gesagt habe, dass er „solche
+                  dennoch verkaufen und an die Seite bringen würde.‟ Das Geld habe er an den
+                  Schulzen bezahlt und ihm befohlen, bei der Ankunft beim Adelsgericht dieses
+                  abzugeben, damit es vom Rautenbergschen Rest abgeschrieben werden könne, womit
+                  sich der Schulze morgen vor dem Gericht einfinden wird. Eine Schuld seinerseits
+                  könne er nicht erkennen. So habe er auch dem Gellesch aus Labab die 45 Gr. wegen
+                  der ausstehenden Mahlgelder angerechnet. Er verlange wegen der Beschuldigung und
+                  der Widersetzlichkeit des Kiworra Genugtuung. Von der Angelegenheit der Gelleschin
+                  und allem Übrigen habe er nichts gewusst. Als er Kiworra zum Pflügen auf das
+                  Vorwerk bestellt habe, habe dieser ihm „störrische Antworten‟ erteilt und gesagt:
+                  „Hol Euch der Teufel, warum habt Ihr den Schmied so lange aufgehalten.‟ Er habe
+                  ihm darauf Strafe angedroht. Daraufhin habe sich dessen Frau eingemischt und er
+                  hätte ihr geraten, ihr „liederliches Maul‟ zu halten, worauf Kiworra hinzu
+                  gelaufen und ihn angefahren habe, es „habe wenig gefehlt, dass er mit der Axt nach
+                  ihm gehauen‟. Daraufhin habe er sein Pferd bestiegen und mit der Peitsche den
+                  Kiworra geschlagen, die sich um die Axt gewickelt habe. Daraufhin habe er nach dem
+                  Schulzen und anderen Bauern gerufen. Da Kiworra erklärt habe, dass er bereit sei
+                  nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> mitzugehen, habe er ihm
+                  „weiter kein Leid tun lassen‟, sondern seine Klage wegen der Rebellion nur
+                  mündlich bei der Gräfin vorgebracht. Er bittet um Bestrafung des Kiworra, denn wie
+                  solle er sich künftig Respekt bei den Bauern verschaffen und ihnen etwas befehlen?
+               </note>
+            </p>
+            <p>Kiworra bestreitet, sich wegen der Arbeit gewehrt zu haben, aber schlagen habe er
+                    sich und seine Frau nicht lassen wollen, weshalb er in die Peitsche gegriffen
+                    habe. Wilewski sei nur gegen ihn aufgebracht, weil er seinen Zins richtig
+                    bezahle und jedem die Wahrheit sage.</p>
+            <p>Hierauf meldet sich Herr <persName key="ed_mwg_mbh_dvb">Gottfried Mann</persName>,
+               Schreiber von Ihro Hochgräfl. Gnaden, und stellt gleichfalls vor, dass, wenn der
+               Ungehorsam und die übergroße Widersetzlichkeit höchst halsstarriger Untertanen nicht
+               gebührend bestraft werden sollen, er sich nicht unterstehen könne, in
+               herrschaftlichen Verrichtungen dem geringsten Jungen was zu befehlen, ein jeder wolle
+               nach seinem Gutdünken handeln und kehre sich nicht an die herrschaftlichen Befehle.
+               Eben dieser Kiworra wäre auch derjenige so ihn, Deponenten, vor anderen 3 Wochen aufm
+               Werder in herrschaftlichen Verrichtungen auf eine enorme Art und Weise prostituiert.
+               Deponent habe nämlich Befehl gehabt, da er die Fischerei respiziert, die Stute gegen
+               den höchsten Groschen zu verkaufen. Da nun eben zu der Zeit Leute angekommen, welche
+               5 Fl. vor eine teure Stute gleich bar bezahlt, auch zu der Zeit vor 5 teure 25 Fl. 18
+               Gr. zum Voraus gleich bar erlegt, habe solches den Kiworra dermaßen verdrossen, dass
+               er sich gleich gegen ihn, Deponenten, verlauten lassen, dass, falls er sich
+               unterstehen würde, die Stute an die Leute zu verkaufen, wolle er gleich die Tonne auf
+               der See entzweischlagen. Er als herrschaftlicher Untertan habe die Hoheit dazu, wolle
+               aber jedoch um mehr als den fixierten Preis à 4 Fl. das teuer bezahlen. Als nun
+               Deponent diesem wie nicht minder auch dem <persName key="ed_pzj_jft_fqb">Kuckel</persName> welcher gleichfalls sich gegen den Verkauf der Stuten gesetzt,
+               vorgestellt, dass sie sich unterständen sich ihm zu widersetzen, er hätte dazu Befehl
+               von der Herrschaft, so habe Kiworra ihm, Deponenten, vor die Brust gestoßen, wobei
+               auch der Schulze Nowack gewesen, und habe viele Impertinenzen noch dazu ausgestoßen,
+               auch sonst bei der See ein liederliches Maul gehabt. </p>
+            <p>Ferner klagt derselbe auch über <persName key="ed_x3r_32t_vqb">Roloff</persName>
+                    von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, welcher sich bei
+                    Fischerei sogar mit eine Reuse gegen ihn widersetzt, als er ihm dahero ein paar
+                    Schläge gegeben, indem er mit dem Kescher Fisch stehlen wollen, welches allhier
+                    durchgehend eine böse Gewohnheit ist, dass ein jeder nach Belieben zugreift. Der
+                    Fischmeister <persName key="ed_wr4_n2t_vqb">Schönfeldt</persName> solches zeugt
+                    die Umstände gleichfalls ein, und wiewohl Roloff zu der Zeit um ein Gerichtchen
+                    Fische gebeten, aber solche nicht erhalten, so hätte er doch gegen den Schreiber
+                    sich zu keiner Gegenwehr setzen sollen.</p>
+            <p>
+               <note type="editorial">Auch Roloff wird vernommen und gibt seine Gegenwehr zu,
+                        doch habe er den Schreiber nicht geschlagen. Der Schreiber habe ihm und
+                        anderen ein kleines Gericht Fische geben wollen, es aber nicht getan,
+                        sondern ihn geschlagen. Aus Verbitterung habe er ihm die Reuse vor den
+                        Schlitten geworfen. </note>
+            </p>
+            <p>
+               <note type="editorial">
+                  <note type="editorial">Auch über die </note>Knechte <persName key="ed_xsc_w2t_vqb">Andreas Plesska</persName> und <persName key="ed_wm4_y2t_vqb">Caspar
+                     Bliss</persName> aus <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> führt
+                  der Schreiber Klage. Sie hätten, als er vor 14 Tagen deren Landwirtschaft
+                  revidieren wollte, gegen ihn opponiert. Die Hofmutter habe gebeten, mit dem Pferd
+                  auf den <placeName key="ed_hz1_4wl_2y">Angerburger</placeName> Jahrmarkt fahren zu
+                  dürfen, um Dinge für die Wirtschaft zu kaufen. Er habe zugestimmt und dann im
+                  Stall dem Knecht befohlen, ihm ein anderes Pferd anzuspannen, da sein Pferd
+                  ermüdet sei und er noch zur Fischerei müsse. Der Knecht habe sich geweigert,
+                  worauf er ihn mit der Peitsche geschlagen habe, um ihn zur Vernunft zu bringen.
+                  Der andere Knecht, der inzwischen das Pferd für den Jahrmarkt gezäumt hatte, habe
+                  ihn daraufhin umfasst und geschüttelt, er solle sich nicht unterstehen, den Knecht
+                  zu prügeln. Er habe mit seinem Pferd zur Winterfischerei fahren müssen. Der Knecht
+                  sei ohne Erlaubnis nach Angerburg gefahren. </note>
+            </p>
+            <p>Deponent bittet um Satisfaktion, sonsten er nicht sicher mehr die Vorwerke
+                    bereisen kann. <note type="editorial">Beide Knechte wurden nicht einbestellt,
+                        sollen aber zur Verantwortung gezogen werden.</note>
+            </p>
+            <p>
+               <note type="editorial">Auch die Bauern <persName key="ed_sjg_cft_fqb">Gritzka</persName> und <persName key="ed_qbb_mft_fqb">Schuja</persName>
+                        aus <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> erscheinen als
+                        Zeugen. Sie sagen aus, von der unterschlagenen Saat einen Anteil bekommen zu
+                        haben. </note>
+            </p>
+            <p>Urteil über die im vorstehenden Verhör enthaltenen Klagen</p>
+            <p>Alldieweil beklagte Gelleschin aus Labab als eine berüchtigte und in vielmaliger
+               Komplizität schon begriffen gewesene Diebin in actis sowohl durch eigenes Geständnis
+               als auch durch Überzeugung der abgeführten Zeugen sattsam und zureichend überführt
+               worden, dass selbige aufs neue im letzteren Jahrmarkt zu Angerburg verschiedene
+               Diebstähle ausgeübt <gap reason="illegible"/>, die bisher entwendeten Stücke, obwohl
+               derselben sowohl durch Urteil und Recht als auch durch ein besonderes Verbot von der
+               Hochgräfl. Herrschaft auf das allernachdrücklichste verboten worden, sich ganz und
+               gar auf keinem Jahrmarkt mehr betreiben zu lassen, dieselbe aber nichts desto weniger
+               sich gelüsten lassen, dieses Verbot ganz mutwillig zu übertreten und ihre ersteren
+               diebischen Griffe abermalen zu erneuern, so wird die Sache rechtlich dahin gestellt,
+               dass Inquisitin Gelleschin diese überaus große Bosheit, Freveltat und erneuerten
+               Diebereien mit 14-tägiger Gefängnisstrafe geschlossen bei Wasser und Brot, dann beim
+               Eingang und Ausgang des Gefängnisses in beiden Malen jedesmal mit 20
+               Peitschenschlägen, anderen zum Beispiel, sich aber selbst zur wohlverdienten Strafe,
+               ohnnachlässig zu verbüßen schuldig und gehalten sein soll. </p>
+            <p>Der Schulze Nowack aus Kittlitz nebst dem Schulzen Rompel aus Labab haben höchst
+               unverantwortlich gehandelt, dass dieselben diese Diebeshehlerei <gap reason="illegible"/> zu verhehlen gesucht und sowohl die diebischen Sachen an sich
+               selbst nicht abgenommen und der Hochgräfl. Herrschaft zur Bestrafung angezeigt, als
+               noch weniger die Diebin selbst arretiert, da ihnen doch das herrschaftl. Verbot wegen
+               dieses Weibes sattsam bekannt gewesen und besonders Schulze Nowack noch über dieses
+               den Kiworra schlechterdings abgehalten, solches der Herrschaft zu denunzieren, und
+               darüber noch so vielen Streit erregt. Als hat der Schulze Nowack hierunter sowohl als
+               der Schulze Rompel von Labab wider Pflicht, wider seine eigene Überzeugung folglich
+               höchst strafbar gehandelt, wennhero beiderseits nachteilig dahin kondemniert worden,
+               dass des Schulzen Nowack, welcher hierunter am meisten <seg type="comment">
+                  <orig>inkulpiert</orig>
+                  <note xml:id="nist_tft_vqb">beschuldigt</note>
+               </seg>, dieses sein pflichtvergessenes Bezeigen mit 4 Rtlr. Strafe der Kirchen- und
+               Hospital-Kasse in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> zur Hälfte,
+               der Schulze Rompel aber seine Nachlässigkeit, da er im Dorf anwesend und danach die
+               Gelleschin aufm Jahrmarkt gehen lassen, auch solches nachhero noch verschwiegen, mit
+               1 Rtlr. 3 Gr. Strafe gleichfalls der Kirchen- und Hospital-Kasse zu Rosengarten <gap reason="illegible"/> zu bezahlen schuldig und gehalten sein sollen. Die der Diebin
+               Gelleschin abgenommenen Sachen indessen, da derselben Eigentümer nicht füglich
+               auszumitteln, werden der Armut im <orgName key="ed_pgl_yft_vqb">Rosengartenschen
+                  Hospital</orgName> zugesprochen, davon entweder den Wert oder die Sachen selbst
+               unter sich zu verteilen. </p>
+            <p>Was überdies die Misshandlung des Schulzen Nowack aus Kittlitz insbesondere
+               anbetrifft, da er sich nicht gescheut zuwider herrschaftlichem Verbot mit den Bauern
+               Gritzka und Schuja auf die Hälfte zu säen, die Bauern Gritzka und Schuja auch selbst
+               im Verhör zugestehen müssen, dass Nowack dem Gritzka 1 1/2 Schfl. weiße Erbsen, von
+               Schuja aber 5 Schfl. Bohnen von dieser Zusaat wirklich erhoben, welcher letztere doch
+               der Hochgräfl. Herrschaft den Zins <gap reason="illegible"/> bezahlt, als ist der
+               Schulze Nowack schlechterdings schuldig verbunden, die erhobenen 1 1/2 Schfl. weiße
+               Erbsen und 5 Schfl. Bohnen alsofort an den Hochgräfl. Hof nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, und zwar auf Abschlag des restierenden
+               Zinses der Bauern Gritzka und Schuja, abzuführen.</p>
+            <p>Wegen imputierten gestohlenen Heus vom Vorwerk Groß Steinort wird die Sache zu
+                    weiterem Beweis ausgesetzt <gap reason="insignificant"/>.</p>
+            <p>Was hingegen die Widersetzlichkeit, zum Teil tätliche Vergreifung einiger boshafter
+               Untertanen gegen den herrschaftlichen Bedienten David Wilewski und den Schreiber
+               Gottfried Mann anbetrifft, so hat erstlich Fabian Kiworra von Kittlitz im Verhör
+               selbsten nicht verabreden mögen, die Peitsche dem David Wilewski umfasst und seiner
+               Bestrafung in herrschaftlichen Verrichtungen sich widersetzt zu haben. Da es ihm
+               vielmehr gebührt habe, wenn ihm zu viel geschehen, klagbar zu werden und nicht zu
+               Tätlichkeiten zu schreiten, über dieses derselbe auch zugestehen müssen, sich nebst
+               dem Kuckel, auch dem Schreiber Gottfried Mann bei der Fischerei schlechterdings
+               entgegengesetzt und an denselben im Beisein des Schulzen Nowack sich sowohl in Worten
+               als mit der Tat selbst vergriffen zu haben, indem er ihn vor die Brust gestoßen und
+               keineswegs zugeben wollen, dass die Stute an die Leute nach herrschaftlichem Befehl
+               verkauft werden solle, als soll er dieses sein halsstarriges und widerspenstiges
+               Verbrechen mit 30 Stockschlägen, der Kuckel aber seine Widerspenstigkeit, da er nur
+               in letzterer Sache allein impliziert, mit 15 Stockschlägen zu verbüßen schuldig
+               sein.</p>
+            <p>Der Bauer Roloff aus Taberlack, da derselbe simpliciter zugestehen müssen, auf
+                    den Schreiber Gottfried Mann sogar die Reuse bei der Fischerei ergriffen und
+                    dieselbe zum Schlagen bereits erhoben zu haben, soll vor diesen Exzess und
+                    öffentlich auf der See bezeigte Widerspenstigkeit mit 20 Stockschlägen bestraft
+                    werden.</p>
+            <p>Die Knechte aus Serwillen, da selbige nicht bestellt worden, sollen annoch über
+                    die eingeklagten Punkte verhört und hiernächst wegen ihrer Widersetzlichkeit dem
+                    Befinden nach gleichfalls am Leibe bestraft [werden].</p>
+            <p>
+               <note type="editorial">Das Urteil wurde am 23. April verkündet und die Strafen an
+                        Gellesch und Kiworra sofort vollstreckt. Der nicht erschienene Roloff sollte
+                        zur Bestrafung geholt werden. Die Knechte wurden „in loco‟ in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bestraft. </note>
+            </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

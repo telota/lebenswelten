@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ljd_ssf_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Finckenstein verbietet das mehrtägige Feiern ihrer Guts-Einsassen.
+               Schönberg, 4. Februar 1754</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu die Willkür von Reichertswalde aus dem Jahr <ref target="lehndorff_lbw_zgj_5pb">1627</ref> mit Vorgaben über bäuerliche
+                  Feste.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 704, Bl. 1-7</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1754-02-04" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=704"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachdem bishero in denen Gütern ein unordentliches und unchristliches Leben bei denen
+               bäuerlichen Einsassen dadurch einzureißen beginnt, dass dieselben bei Ausrichtungen,
+               nämlich Hochzeiten, Kindtaufen und Begräbnissen, oftmals einige Tage hintereinander
+               mit einem Zusammenlauf von allerhand Menschen, Fressen und Saufen, mithin nicht nur
+               das ihrige solchergestalt durchbringen und untüchtig werden, in dem Christentum
+               zuzunehmen, ihrer Herrschaft den gebührenden Abtrag zu leisten, sich selbst nebst den
+               ihrigen auf eine gute Art zu ernähren, sondern auch andere Wirte zugleich ihre
+               Wirtschaft mit verabsäumen und deren Gesinde gleichergestalt zu einem liederlichen
+               Leben mit angeführt wird, bei welchen Unordnungen ferner nicht allein verschiedene
+               Exzesse vorkommen, sondern auch, wie es jüngst das Exempel in <placeName key="ed_jvm_rc3_3rb">Herzogswalde</placeName> bezeigt, Feuersbrünste entstehen,
+               wodurch teils die Herrschaft, teils die Brauachtbaren in großen Schaden und Verlust
+               gesetzt werden können. Weshalb auch diesen anderwärts gleichfalls Ärgernisse und
+               Unbill durch an die Städte ergangene Königl. hohe Verordnungen gesteuert und solchem
+               verderblichen Beginnen Ziel und Maß gesetzt worden. <lb/>Als habe ich sonach als von
+               S. Königl. Majestät allerhöchsten Person bestätigte Vormünderin meiner Kinder
+               hiedurch verordnet und verbieten wollen, dass von nun an keiner von denen bäuerliche
+               Einsassen, Instleuten und Kätnern bei 2 Rtlr. Strafe sich unterstehen soll, länger
+               als einen Tag Ausrichtungen, es sei bei Hochzeiten, Kindtaufen oder Begräbnissen zu
+               halten, keine große Zahl von Gästen zu bitten oder Spielleute bei Vermeidung der
+               besagten 2 Rtlr. Strafe zu nehmen. <lb/>Und damit die gute Absicht dieser Verordnung
+               desto besser erreicht werden könne, so soll sich von dato an kein Bauer, Instmann
+               oder Kätner unterstehen, weder zu Ausrichtungen noch sonst jemals, außer während der
+               Ernte im Monat Julio et August, von 2 bis 3 Schfl. Haustrunk zu brauen, worauf der
+               Dorfschulze an jedem Ort mit allem Ernst zu sehen hat, und so oft Ausrichtungen
+               geschehen, muss der Schulze im Dorf mit Zuziehung der Dorfgeschworenen Haussuchungen
+               anstellen, und wenn selbstgebrautes oder fremdes Bier gefunden wird, solches sofort
+               wegnehmen und ins Schloss liefern, alsdann die Kontravenienten auf jede Tonne
+               dergleichen Haustrunk 4 Fl. an Strafe erlegen und der Schulze nebst den Geschworenen
+               davon 1 Fl. erhalten sollen. Würde aber der Schulze diese Nachsuchung unterlassen und
+               durch andere Bediente die Kontravention entdeckt werden, so muss der Schulze wegen
+               einer jeden Ausrichtung, bei welcher selbst gebraut ist oder wenn das Bier vorhanden
+               gewesen, 3 Fl. aus seinen eigenen Mitteln an Strafe erlegen, davon Hälfte dem
+               Denunzianten gereicht, der Bauer indes besonders mit 4 Fl. von jede Tonne gestraft
+               werden soll. <lb/>Damit auch niemand sich mit der Unwissenheit entschuldigen könne,
+               so wird diese Verordnung einem jeden Dorfschulzen abschriftlich zugefertigt, welcher
+               ohne Verzug denen sämtlichen Dorfeinsassen bekannt zu machen, wohl einzuschwören und
+               jährlich auf den <seg type="comment"><orig>Martinstag</orig><note xml:id="njsq_vkw_vxb">11. November</note></seg> zu wiederholen hat.</p>
+            <p>Schloss Schönberg d. 4. Febr. 1754</p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

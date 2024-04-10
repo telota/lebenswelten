@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_dtn_rnk_5bb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Zeitungsartikel. Ca. 1917</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">Weitere Zeitungsausrisse in der Akte. Personenfotos und
+                    Luftaufnahmen ebd., Nr. 518 (1914 bis 1916). Zum Ersten Weltkrieg in Ostpreußen:
+                    GStA PK, XX. HA, Rep. 2 II Kriegsregistratur (Kriegsschäden,
+                    Ernährungswirtschaft); XX. HA, Rep. 235 Provinzialkriegsarchiv aus den Kreisen
+                    Insterburg und Johannisburg (Chroniken, Ego-Zeugnisse). </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="print">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 459, Bl. 22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1917-01-01" to="1917-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <gap unit="chars" reason="lost"/> Der Offizier gibt nun der Anschauung Ausdruck: „Die jetzige
+                schwere Zeit und der in unserem lieben Vaterlande herrschende Mangel an
+                Lebensmitteln, gerade an denjenigen, die durch eine gute Futterernte bedeutend
+                vermehrt werden können - Fleisch, Milch, Butter - sind doch wahrlich nicht geeignet,
+                das Gebot: 'Du sollst den Feiertag heiligen', wörtlich durch Nichtstun zu befolgen.
+                Statt seine Gemeinde von der so wichtigen und nötigen Erntearbeit abzuhalten, sollte
+                der Pfarrer dieselbe lieber dazu anhalten <gap reason="insignificant"/>
+            </p>
+            <p>Wir, die wir seit fast 2 Jahren keinen Sonn- und Feiertag mehr kennen, sehr oft
+                gerade an ihnen die schwersten Kämpfe zu bestehen hatten, um unserm Vaterlande die
+                feindlichen Horden fernzuhalten, haben für ein derartiges Verhalten kein
+                Verständnis. ... Was sollte daraus werden, wenn wir da draußen auch durch Nichtstun
+                den Feiertag heiligen wollten? ... Alle Deutschen, welche zum Wohle ihres
+                Vaterlandes nicht Leben und Gesundheit einsetzen können, haben ihm, unseren
+                gefallenen Helden und den vielen Millionen gegenüber, die dies täglich tun, doch
+                ganz besonders die heilige Pflicht, alles dafür zu tun was in ihren Kräften steht.
+                Und das heißt just in der so wichtigen Erntezeit, die uns mit Gottes Hilfe dazu
+                verhelfen soll, auch den Aushungerungskrieg unserer Feinde siegreich zu überwinden:
+                Unverdrossene Arbeit an jedem Tage, auch an Sonn- und Feiertagen, sowie es das
+                Wetter zulässt. Ein besseres Gebet, ein besseres Gott dienen durch die Tat kann es
+                jetzt für einen deutschen Landwirt nicht geben!‟</p>
+            <p>Wir glauben sicher, dass die deutschen Landwirte ihrerseits mit diesen
+                    Anschauungen sehr einverstanden und danach zu handeln geneigt sein werden. Sie
+                    werden zur Erfüllung dieser vaterländischen Pflicht keiner Mahnung bedürfen, sie
+                    sollten aber in dieser schweren Zeit von keiner Seite davon abgehalten oder
+                    daran irre gemacht werden. Die gute Bergung der Ernte ist genau so notwendig zum
+                        <gap unit="chars" reason="lost"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

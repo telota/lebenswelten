@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_ph2_nb1_fy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Siegfried Graf von Lehndorff an Wolfgang
+                    Kapp. Graditz, 15. September 1906</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Nachlass Wolfgang Kapp, Nr. 96, Bl. 1</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Der Nachlass Kapp gelangte vor 1937 in das GStA gelangt, die Familie
+                            behielt sich die Benutzungsgenehmigung vor, vgl. GStA PK, I. HA, Rep.
+                            178, Nr. 484, Bl. 213 (Korrespondenz der Zentralstelle für
+                            Archivgutschutz mit der Landesstelle Ostpreußen, 13. Oktober 1937). </p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_z3m_cbt_2y">Lehndorff, Siegfried Karl Heinrich von (Graditz,
+                        11.4.1869-)</persName>
+               <placeName key="ed_v2c_gc1_fy">Graditz</placeName>
+               <date when="1906-09-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_tn1_vb1_fy">Kapp, Wolfgang (1858-1922)</persName>
+            </correspAction>
+            <note>Kapp antwortet am 20. September 1906 aus Königsberg an <quote>Seine Exzellenz,
+                        den Wirklichen Geheimen Rat, Oberlandstallmeister, Vorsitzenden der großen
+                        Schiedsgerichte zur Entscheidung von Regierungsangelegenheiten, Herrn Graf
+                        von Lehndorff Graditz</quote>, dass die Anlagen sogleich in den
+                    Geschäftsgang gegeben worden seien und er die Sache unterstützen werde. Er sei
+                    in der nächsten Woche in Berlin und beabsichtige, <quote>Euer Exzellenz auf dem
+                        Ministerium aufzusuchen, um die Steinorter Angelegenheit mit Ihnen zu
+                        besprechen</quote>. Nach einem Telegramm (Bl. 3) fand die Unterredung am
+                    Dienstag statt. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Graditz, 15. September 1906</dateline>
+               <salute>Verehrter Herr Generallandschaftsdirektor!</salute>
+            </opener>
+            <p>Mein <persName key="ed_ik3_ckz_2y">Neffe</persName> (Steinort) schreibt mir soeben,
+               dass Sie liebenswürdigerweise bereit seien sich dafür zu interessieren, dass
+                  <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> für das Majorat <placeName key="ed_pxt_cnh_1y">Steinort</placeName> angekauft und schon jetzt in die
+               Drainage-Genossenschaft einverleibt werde. Ohne Dränage wird Rosengarten nie ein
+               rentables Objekt werden. Ich beeile mich daher, der Generallandschaft den
+               beiliegenden Brief zu schreiben und der Beschleunigung halber durch Ihre kräftigen
+               Hände gehen zu lassen, da, wie mein Neffe mir schreibt, die Drainage-Angelegenheit
+               schon für Mitte September auf der Tagesordnung der Landschaft steht. Leider war es
+               mir in diesem Jahre wegen Überbürdung mit anderen Dienstreisen nicht möglich, den
+               Rennen in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> beizuwohnen und Ihnen
+               bei dieser Gelegenheit die Hand zu schütteln. Für unseren armen Minister waren die
+               letzten Momente auch nicht gerade sehr erheiternd. Bis auf weiteres scheint das
+               Fahrwasser jetzt aber wieder klar zu sein.</p>
+            <closer>
+               <salute>Stets Ihr ergebenster</salute>
+               <signed>G. Lehndorff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

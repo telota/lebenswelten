@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_bkx_jsm_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die entlaufenen Untertanen des Grafen von Lehndorff lassen sich nicht
+                    auffinden</title><title>. Motulen, 7. Juli 1795</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 73, Bl. 2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_bk5_ckj_gy">Puzyna, Graf von (-)</persName>
+               <placeName key="ed_o25_bvm_3qb">Motulen</placeName>
+               <date when="1795-07-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_s1d_kkj_gy">Schwarzbach, (-)</persName>
+            </correspAction>
+            <note>Am <ref target="lehndorff_hgd_vhj_gy">18. Juli 1785</ref> antwortete
+               Kammerassessor <persName key="ed_s1d_kkj_gy">Schwarzbach</persName> dem <persName key="ed_csb_mdf_cy">Grafen von Lehndorff</persName>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bkx_jsm_3qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Motulen, 7. Juli 1795</dateline>
+            </opener>
+            <p>Ich versichere Euro Hochgeboren aufrichtig, dass solche Untertanen, die der Herr
+                  <persName key="ed_csb_mdf_cy">Graf von Lehndorff</persName> sucht, auch so gar der
+               Name des Dorfes Turtule in meinem ganzen Gebiet nicht zu finden sei; auch kann ich
+               frei sagen, dass mich diese Namen ganz unbekannt sind.</p>
+            <p>Da die Preußische Einwohners haben das Recht, ihre entlaufenen Untertanen in unseren
+               Gebiete zu suchen (welche vor diesem nur ihr Gut und nicht die Person ausliefert
+               bekamen), so habe ich das Recht zu bitten, dass Euro Hochgeboren ebenfalls unseren
+               Einwohnern dieselbe Gerechtigkeit widerfahren [lassen] möchten, welches noch bis
+               jetzt von den Preußischen Majestäten uns entsagt worden ist mit dem Ausdruck, dass
+               die Leute über die Grenze können nicht ausgeliefert werden. </p>
+            <p>Mit größter Dankbarkeit habe ich die Ehre Euro Hochgeboren zu benachrichtigen, dass
+               Dero Deklaration von wegen der Stadt <placeName key="ed_ksv_cqq_3qb">Filipoven</placeName> und sämtlichen Dörfern gehörige Wirkung genommen hat. <seg type="comment">
+                  <orig>Obgleich, selbe lassen nicht nach, alle Mittel zu suchen, sich aus der
+                     Dependention des Hofes los zu helfen.</orig>
+                  <note xml:id="nwdr_lqq_3qb">Bei der Dritten Teilung Polens 1795 war die Stadt an
+                     Preußen gefallen. 1807 gehörte sie zum Herzogtum Warschau und wurde 1815 Teil
+                     des russischen Kongresspolens. </note>
+               </seg>
+            </p>
+            <p>Ich versichere Sie auf meine Ehre, dass ich von Ihnen nichts mehres prätendieren
+                    werde, als nur dass was mir von Ihnen vor diesem bis zum Anfang der Revolution
+                    zugehört hat, und Sie ohne einziges Wort zu sagen richtig bestätigt haben.</p>
+            <p>Sollten dieselbe noch ein Versuch an Dero Herzen tun? so bitte ich ergebenst Eure
+               Hochgeboren Ihnen dieses anzudeuten, dass die Stadt Filipoven wie vor diesem bis zur
+               Anfang der Revolution in allen Fällen von dem Hof suspendiert und subordiniert sein
+               soll, und die vordeutsche Bauern für den Hof dieselbe Dienste taten, welche sie vor
+               alten Zeiten bis zum Anfang der Revolution getan hatten. </p>
+            <closer>
+               <salute>Ich verbleibe mit aller Hochachtung <lb/>Euer Hochgeboren ganz ergebenster
+                  Diener</salute>
+               <signed>Puzyna</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

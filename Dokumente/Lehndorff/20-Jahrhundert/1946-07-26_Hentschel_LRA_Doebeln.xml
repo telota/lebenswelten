@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_zhm_12w_h1b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Walter Hentschel an das Landratsamt Döbeln. Dresden, 26. Juli 1946</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 20232 Kreistag/Kreisrat Döbeln, Nr. 2147, Bl. 183; Abschrift in:
+                     StA L, Bestand 20232 Kreistag Döbeln, Nr. 1315, Bl. 9 und in HStA
+                     Dresden, Bestand 11401 Landesregierung Sachsen, Ministerium für Volksbildung,
+                     Nr. 2434, Bl. 79. </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_zc1_nyk_gbb">Hentschel, Dr. (-)</persName>
+               <placeName key="ed_dz5_2kn_4y">Dresden</placeName>
+               <date when="1946-07-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_lfn_4yk_gbb">Landratsamt Döbeln</orgName>
+            </correspAction>
+            <note>Burg Kriebstein war zu keiner Zeit von russischen Truppen besetzt gewesen und auch
+               Plünderungen entgangen, so der Bericht des Landrats des Kreises Döbeln vom 10.
+               Dezember 1945, in: HStA Dresden, Bestand 11401 Landesregierung Sachsen, Ministerum
+               für Volksbildung, Nr. 320/25, Bl. 67-67v. Nach der Verordnung über die
+               landwirtschaftliche Bodenreform vom 11. September 1945, Art. 2, Abs. 3 wurde Burg und
+               Rittergut, Besitz der Familie von <persName key="ed_bpc_kw5_12b">Arnim</persName>,
+               beschlagnahmt. Vom 3. bis 7. Dezember sollte Kriebstein mit weiteren Rittergüter und
+               Schlössern im Zuge der von der Landesverwaltung Sachsen begonnenen Sicherung und
+               Erfassung des Inventars („Schlösser-Aktion‟) durch die Sachverständigen für die
+               Kreise Döbeln und Rochlitz, Dr. phil. Gottfried <persName key="ed_hmp_pw5_12b">Reimer</persName> (Döbeln, Grimmaische Str. 24), Dr. Walter Karl <persName key="ed_wgc_5w5_12b">Zülch</persName> (Dresden, Elsa-Brandström-Str. 5) und Paul
+               Friedrich <persName key="ed_cpq_vw5_12b">Gerhard</persName> (Dresden, Ermelstr. 28)
+               besichtigt werden. Nach ihrem Bericht vom 14. Dezember 1945 (vollständig in: LASA,
+               StA L, Bestand 1315 Kreistag Döbeln, Nr. 1315, Bl. 1-5) konnte Kriebstein <quote>bei
+                  der gemeinsamen Autofahrt nicht mit besichtigt werden, da der Schlüsselverwahrer
+                  Forstmeister <persName key="ed_zpf_b25_sdb">Paulitzsch</persName> (sic!) abwesend
+                  war. Feststellungen werden von Dr. Reimer bei Besuch an Ort und Stelle
+                  nachgeholt.</quote> Etwa acht Rittergüter im Landkreis Döbeln waren zu diesem
+               Zeitpunkt noch zu besichtigen, mit <quote>bemerkenswerte Ausbeute</quote> sei nicht
+               zu rechnen. Reimer, der am 4. April 1946 der Landesverwaltung Sachsen alle wertvollen
+               Kunstgegenstände in den enteigneten Schlössern mit Schätzung des Wertes zu melden
+               hatte, teilte für Kriebstein mit: <quote>Inventarisierung und Abschätzung unmöglich,
+                  da sowjetischer Militärkommandant von Waldheim auch für die Landesverwaltung
+                  ausdrücklich Zutritt zur Burg verboten hat. Soviel von einem früheren Besuch
+                  bekannt, waren hauptsächlich Gemälde und zahlreiche, jedoch nicht kostbare
+                  Kunstgewerbe vorhanden. Möbelbestand nicht erheblich. Summe: 175000.--RM.</quote>
+               (StA L, Bestand 1315 Kreistag Döbeln, Nr. 1315, Bl. 16). Am 15. Dezember 1945
+               berichtete Reimer, der mit Zülch und Friedrich vom 3. bis 7. Dezember die Objekte im
+               Landratsamt Döbeln besucht hatte. Dabei hatten sie festgestellt, dass bemerkenswertes
+               Inventar hier <quote>zumeist auch bereits unter Verschluss und dadurch
+                  geschützt</quote> sei, wodurch es für <quote>später beabsichtigte
+                  Verwertungsmaßnahmen</quote> sichergestellt sei. Die in Reimers Schreiben an
+               Kretzschmer vom 15.12.1945 angekündigte Anlage - der eigentliche Bericht - fehlt,
+               ebenso der hier angekündigte Ergänzungsbericht und der Bericht für das Landratsamt
+               Rochlitz (bearbeitet von Zülch und Friedrich) im HStA Dresden, Bestand 11401, Nr.
+               2421 (das Schreiben Bl. 309-309v). Auch in den Akten der Kreisverwaltung Döbeln, die
+               nachweislich ein Exemplar erhalten hatte, fehlt das
+               „Schlossbergungs-Inventarverzeichnis‟ für <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName>. Am 17./18. Mai 1946 wurde eine Schätzung der Kunstgüter
+               aus dem Besitz Lehndorff - Lorck vorgenommen worden, dabei hatte man Kunstwerke für
+               die Staatlichen Kunstsammlungen „beiseite‟ gestellt. Hentschel hatte die Liste der
+               Kunstgüter an die Landesverwaltung Sachsen, Abteilung Reparationen, weitergeleitet
+               und einen Wert von 981.300 RM angegeben. Zwischen der Schätzung im Mai und vor dem
+               26. Juli 1946 muss der Abtransport der als Reparationsleistung ausgewählten
+               Gegenstände erfolgt sein, HStA Dresden, Bestand 11401 Landesregierung Sachsen,
+               Ministerium für Volksbildung, Nr. 2434, Bl. 77-96. Am 19. Februar 1947 wurde
+               Kriebstein dem Ministerium für Volksbildung unterstellt, 1949 wurde die Burg als
+               „Kreismuseum‟ eröffnet. - Siehe hierzu: StA L, Bestand 20232: Kreistag/Kreisrat
+               Döbeln, Nr. 2147 und Nr. 2134; HStA Dresden, Bestand 11394 Landesregierung Sachsen,
+               Ministerium für Land- und Forstwirtschaft, Nr. 292 und Bestand 11402 Hauptverwaltung
+               der Staatlichen Museen, Schlösser und Gärten, Nr. 58. - Die Schlossbergungsaktion
+               sollte bis zum 1. August 1947 beendet sein, mit der beschleunigten Abwicklung wurde
+               Gruve am 27. März 1947 beauftragt, vgl. HStA Dresden, Bestand 11401 Landesregierung
+               Sachsen, Ministerium für Volksbildung, Nr. 2422, Bl. 186. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Dresden, 26. Juli 1946</dateline>
+            </opener>
+            <p><ref target="lehndorff_jp2_zyw_wvb">Die in Schloss <placeName key="ed_hlf_ztt_sdb">Kriebstein</placeName> eingelagerten Kunstgüter aus dem Besitz des <persName key="ed_eq5_1t1_dy">Grafen Lehndorff</persName> wurden von der Besatzungsmacht
+                  – Osorbtorg – für Reparationen in Anspruch genommen.</ref> Leider sind dabei trotz
+               des erhobenen Einspruchs auch der Gobelin und der Teppich einbezogen worden, die zur
+               Einrichtung des Schlosses Kriebstein gehörten. Man wird sich leider damit abfinden
+               müssen. </p>
+            <p>Der Befehl Nr. 177 der SMA sieht u. a. auch die baldige Wiedereröffnung von Museen vor, die im
+                    Laufe der Bodenreform Privatpersonen abgenommen worden sind. <seg type="comment">
+                  <orig>Dieses darf auch auf Schloss Kriebstein bezogen werden, welches
+                            vor dem Krieg stets als Sehenswürdigkeit gezeigt und sehr stark besucht
+                            worden ist. </orig>
+                  <note xml:id="nurv_ycc_p2b">Vgl. StA L, Bestand
+                            20232 Kreistag Döbeln, Nr. 1315, Bl. 6 und 8. Demnach war bereits im
+                            September 1946 die Nutzung als Kreismuseum beschlossen worden. Am 14.
+                            September 1946 wurde das Landratsamt Döbeln mit der
+                                <quote>Sicherstellung des Inventars, besonders der Sicherstellung
+                                der etwa vorhandenen künstlerischen Werte und der Bibliothek</quote>
+                            und der <quote>Aufstellung des gesamten Inventars der Wertobjekte und
+                                des Bücherbestandes</quote> durch die Landesverwaltung Sachsen,
+                            Referat Verwaltung der sächsischen Schlösser beauftragt. </note>
+               </seg>
+                    Auch jetzt bietet das Schloss an baulichen Werten und Einrichtungsgegenständen –
+                    die evtl. durch solche aus anderen Schlössern zu ergänzen wären – noch viel
+                    Sehenswertes dar, dass sich die Wiederingangsetzung des Führungsbetriebes lohnt.
+                    Durch die Nachbarschaft der Talsperre und die Nähe großer Industrieorte mit
+                    zahlreicher Bevölkerung – <placeName key="ed_zwl_qvk_gbb">Chemnitz</placeName>,
+                        <placeName key="ed_x5f_r5t_sdb">Döbeln</placeName>, <placeName key="ed_ylj_rbv_12b">Mittweida</placeName> – ist ein reger Besuch
+                    gewährleistet. Die kalten und unwohnlichen Räume der Burg gestatten zudem keine
+                    andere Verwendung. Die Erträgnisse der Führungen, der Mietertrag der vier ins
+                    Schloss verlegten Arbeiterwohnungen und bei Bedarf Zubussen aus den
+                    Forsteinnahmen dürften die bauliche Instandhaltung des Schlosses vollauf
+                    ermöglichen. Der Ort Kriebstein, der durch die Demontage des Niethammerwerkes
+                    vor größten Schwierigkeiten steht, dürfte an den sich aus dem Fremdenverkehr
+                    ergebenden wirtschaftlichen Möglichkeiten ebenfalls stark interessiert sein. </p>
+            <p>Da erhebliche wirtschaftliche und kulturelle Gründe für die
+                    Wiederinstandsetzung der Schlossbesichtigungen sprechen, denen sich das
+                    Landratsamt kaum verschließen dürfte, bitte ich, sich möglichst umgehend bei der
+                    Abteilung Bodenreform dafür einzusetzen, nachdem bereits ein entsprechender
+                    Antrag für Kriebstein und andere Schlösser vor einigen Tagen von hier aus
+                    gestellt worden ist. Des Weiteren wäre bei der Kommandantur Waldheim die
+                    Freigabe des Schlosses zu erbitten, sobald die für Reparationszwecke
+                    beschlagnahmten Güter abtransportiert worden sind.</p>
+            <p>Für die Wiedereinrichtung des Schlosses, die Vorbereitung der Führungen usw.
+                    stelle ich meine Beratung gern zur Verfügung.</p>
+            <closer>
+               <signed>Der Landesmuseumspfleger  <lb/>gez. Dr. Hentschel</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>Verteiler <list>
+                  <item>1. Herrn Landrat Kränkel</item>
+                  <item>2. Herrn Manneberg m. d. Bitte um Bearbeitung</item>
+                  <item>3. dem Amt für Bodenordnung m. d. Bitte um Bearbeitung</item>
+                  <item>4. Herrn Schuster (NA) z. K.</item>
+               </list>
+            </p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

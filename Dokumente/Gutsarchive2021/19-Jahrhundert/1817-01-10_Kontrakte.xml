@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_afr_2vc_nxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Verhandlung der Kontrakte mit den Bauern von Pristanien.</title><title> Steinort, 10. Januar 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe auch die Entwürfe, ca. <ref target="lehndorff_n4q_rwv_p5b">1810.</ref></p>
+                </note>
+                <note type="editorial">
+                    <p>Im Brief vom <ref target="lehndorff_k3v_kkp_3tb">10. Juni 1817</ref> schreibt
+                        Berent: „Jetzt aber sind sie alle ruhig und ich habe mit die Pristanger
+                        einen schriftlichen Kontrakt gemacht auf Hochzins, nämlich 24 Rtlr. Geld, 20
+                        Schfl. nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu fahren
+                        und 2 Achtel schlagen und anfahren.‟</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy" subtype="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 608, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1817-01-10" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_afr_2vc_nxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Actum Patrimonial-Gericht Gr. Steinort d. 10. Januar 1817</p>
+                <p>Zum heutigen Gerichtstage waren die bäuerlichen Einsassen aus dem Dorfe
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> anhero bestellt, um
+                    ihre Erklärung abzugeben, ob sie in Gemäßheit des Königlichen Allerhöchsten <seg type="comment"><orig>Edikts vom 14. Sept. 1811</orig><note xml:id="nvbj_55r_xxb"><ref target="https://ghdi.ghi-dc.org/sub_document.cfm?document_id=3615&amp;language=german">Regulierungsedikt</ref></note></seg> und Deklaration vom 29. Mai
+                    1816 mit der Gutsherrschaft auseinandergesetzt sein, oder noch auf ihrem
+                    bisherigen Kontrakt als Scharwerker verbleiben, oder den von dem Gutsherrn
+                    projektierten Zeitpachts-Kontrakt auf 3 Jahre, welcher im Wesentlichen
+                    folgendergestalt lautet:</p>
+                <p>1. dass alle bisherigen gutsherrlichen Dienste und Abgaben aufhören und dagegen
+                    <lb/>2. ein jährlicher Zins von 20 Rtlr., geschrieben zwanzig Taler, von jedem
+                    Besitzer eines Bauerngrundstücks von 1 kölmischen Hube entrichtet, außerdem aber
+                    noch jährlich 20 Schfl. Getreide frei nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gefahren und 2 Achtel Holz geschlagen und nach
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> angefahren werden
+                    sollen,</p>
+                <p>abschließen wollen.</p>
+                <p>Es waren erschienen 1. der Schulze <persName key="ed_fnr_nrh_wqb">Joh.
+                        Kuckel</persName>, 2. der Bauer <persName key="ed_uyv_cjt_fqb">Michael
+                        Gellesch</persName>, 3. der Bauer <persName key="ed_ljj_srh_wqb">Peter
+                        Berger</persName>, 4. Bauer <persName key="ed_nyb_4sh_wqb">Xtoph
+                        Schack</persName>, 5. <persName key="ed_nrx_thy_nxb">Mich.
+                        Jezorke</persName>, 6. <persName key="ed_ub2_gth_wqb">Mart.
+                        Gellesch</persName>, 7. <persName key="ed_ufl_ksh_wqb">Fritz
+                        Gellesch</persName>, 8. <persName key="ed_i5d_bsh_wqb">Andr. Liss</persName>
+                    und 9. <persName key="ed_lvq_3th_wqb">Gottlieb Gellesch</persName>, welche
+                    sämtl. von Person bekannt sind.</p>
+                <p>Sämtliche erklärten einstimmig, dass sie den projektierten Zeitpachts-Kontrakt
+                    auf 3 Jahre mit der Gutsherrschaft durchaus nicht abschließen können noch
+                    wollen, indem die ihnen auferlegten Verpflichtungen zu hart wären. Sie wollen
+                    vielmehr sich hiedurch verpflichten, ihre bisherigen Verbindlichkeiten so lange
+                    zu erfüllen, bis das Allerhöchste Edikt vom 14. Septr. 1811 und Deklaration vom
+                    29. Mai 1816 in Ausübung gebracht werden würden, und diesemnach stellen sie auch
+                    anheim, die nötigen Vorkehrungen zu treffen, damit ihre Auseinandersetzung mit
+                    der Grundherrschaft sobald als möglich durch die dieserhalb zu ernennende
+                    Allerhöchste General-Kommission bewirkt werde.</p>
+                <p>Herr Inspektor <persName key="ed_yx5_cbg_nbb">Berent</persName> als
+                    General-Bevollmächtigter des Gutsherrn <persName key="ed_k4z_jgl_2y">Herrn
+                        Reichsgrafen von Lehndorff</persName> akzeptierte die Erklärung der
+                    bäuerlichen Einsassen von Pristanien und trug darauf an, ihm die heutige
+                    Verhandlung zum nötigen Gebrauch in origiale zu extradieren, nachdem zuvor noch
+                    auf seinen Antrag denen Bauern zu Pristanien nachdrücklichst zur Pflicht gemacht
+                    werde, alle ihre bisherigen Dienstleistungen und Pflichten als Scharwerksbauern
+                    bei Vermeidung exekutivischer Zwangsmittel so lange zu erfüllen, bis von Seiten
+                    der General-Kommission solche aufgehoben und sie mit der Grundherrschaft
+                    auseinandergesetzt sein werden.</p>
+                <p>Sie versprachen dieses treulich zu erfüllen, und haben dieses Protokoll nach
+                    vorheriger Verlesung und Verdolmetschung genehmigt und zum Zeichen dessen
+                    hiermit eigenhändig unterschreiben sollen, allein Komparenten erkärten, dass sie
+                    dieses nicht tun würden, da sie keinen neuen Kontrakt abschließen, sondern auf
+                    einen neuen Fuß gesetzt sein wollen, und nahmen alle dieserhalb ihnen gemachte
+                    Erklärung hinsichts des ihnen nochmals deutlich gemachten Inhalts der
+                    Verhandlung nicht an, welches von dem mit zugezogenen Kalkulator <persName key="ed_afr_tvf_2y">Werner</persName> hiermit glaubhaft bescheinigt
+                    wird.</p>
+                <p>Berent</p>
+                <p>a. u. s.</p>
+                <p><persName key="ed_abl_pyy_4kb">Werse</persName> Kreis-Justiz-Actuarius und
+                    Justitiar</p>
+                <p>Werner Kalkulator</p>
+            </div>
+        </body>
+    </text>
+</TEI>

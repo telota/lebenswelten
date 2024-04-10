@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_jsk_3pf_vbb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Lebenslauf von Ernst Ahasverus Graf von Lehndorff. Steinort, 26. Oktober 1706 bis
+               18. März 1709</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Herkunft/Genealogie</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            <note type="editorial">
+               <p>Dessen Tagebuch aus den Jahren 1705 bis 1709 in: StA L, Bestand 21950
+                  Familienarchiv Lehndorff, Nr. 476. Persönliche Dokumente (Ehevertrag,
+                  Erbvergleiche, Inventare, Johanniter-Ordenssachen, Rechtsstreitigkeiten,
+                  Korrespondenz) in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort.
+                  <lb/>Die <quote>Trauer-Rede, welche bey der illustren Beerdigung des
+                     Hoch-Gebohrenen Reichs-Grafen Hrn. Ernesti Ahasveri von Lohndorff, Seiner
+                     Königlichen Majestät in Preußen hochbestalten Obrist-Lieutenants beim
+                     Hoch-Gräflichen Finckensteinschen Regiment zu Fuß/Ambts-Hauptmann zu
+                     Memel/Erb-Herren der Güter
+                     Steinort/Labapp/Pristanien/Sourvillen/Taberlauck/Staffken/Stavisken/Stobben und
+                     Kittlitz etc. Anno 1727 den 14. Junii gehalten worden von Fabian Wilhelm von
+                     Hohndorff/Lieutenant beim Finckensteinischen Regiment</quote>, in: StA L,
+                  Leichenpredigten Zentralstelle Sign. A 5888. Er wurde im Erbbegräbnis der Familie
+                  in der Löbenichtschen Pfarrkirche in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> beigesetzt. Trauerreden hielten der Hof-Konsistorial-
+                  und Pupillen-Rat Gottfried <persName key="ed_f4v_dyz_scb">Erasmus</persName> und
+                  Daniel Heinrich <persName key="ed_qyy_byz_scb">Arnoldt</persName>. Vgl. zu diesem:
+                  Kessler, Gerhardt, Daniel Heinrich Arnoldt und der Pietistenkreis in Königsberg,
+                  in: Altpreußische Geschlechterkunde 8 (1934), S. 9-24.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 478, Bl. 72-122</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Teil eines gebundenen Buches, aus drei Teilen bestehend: „Erste
+                            Vormundschaftsrechnung über meines mittelsten Sohnes Carl Leopold
+                            Gottfried Freiherrn von Schmettow von seinem wohlseligen Herrn Vater
+                            ererbten Vermögens, soviel davon in diese Rechnung gehört. Vom 31. Juli
+                            1728 bis 31. Juli 1729‟, Bl. 1-71v, dem Lebenslauf, Bl. 72-122,
+                            Briefabschriften Friedrichs II. an Madame Camas, Bl. 123-155. Die
+                            restlichen Blätter sind leer.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                    (1688-1727)</persName>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1706-10-26" to="1709-03-18" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jsk_3pf_vbb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Aufzeichnung meines Lebenslaufes</p>
+            <p>
+               <seg type="comment">
+                  <orig>welches den 26. Oktober Anno 1706 angefangen in
+                                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                  </orig>
+                  <note xml:id="nbk2_ppf_vbb">Durch dessen Sohn, <persName key="ed_csb_mdf_cy">Ernst Ahasverus Heinrich Graf von Lehndorff</persName>, später
+                            zugesetzt: <quote>von Ahasverus Grafen von Lehndorff, geboren Anno 1688,
+                                gestorben den 9. Mai 1727, als Oberst-Leutnant im damaligen
+                                Finckensteinschen Regiment. Er war mein Vater und ich 2 Tage alt,
+                                als er starb.</quote>
+                  </note>
+               </seg>
+            </p>
+            <p>Ich bin geboren in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> auf dem
+               Schlosse Anno 1688. Nach meines nunmehro in Gott ruhenden Herrn <persName key="ed_zyw_ncf_2y">Vaters</persName> Tode (so geschehen Anno 1688 den 14.
+               Februar, hat gelebt 51 Jahr 6 Tage), bin ich von meiner würdigen Gräfin <persName key="ed_wwb_gcm_2y">Maman</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> auferzogen worden, sub Informatione der Mademoiselle
+                  <persName key="ed_ekx_h4q_ybb">Verniere</persName>, einer Französin, und meinem
+               Hofmeister <persName key="ed_jxc_n4q_ybb">Conrady</persName>, so auf der Maman
+               Rekommandation Pfarrei in <placeName key="ed_djt_1nw_22b">Momehnen</placeName> im
+               Amte <placeName key="ed_uks_n5k_gy">Gerdauen</placeName> gegeben worden, dann dem
+                  <gap reason="illegible"/>
+               <unclear reason="illegible" cert="low">mmichshausen</unclear>, <seg type="comment">
+                  <orig>einem Westfälinger, und <gap reason="illegible"/>, einem Holsteiner, und
+                     zuletzt von Hermanno <persName key="ed_jrr_t4q_ybb">Meyero</persName> aus der
+                     Stadt <placeName key="ed_bld_y4q_ybb">Osnabrück</placeName>, in Westfalen
+                     gelegen, gebürtig.</orig>
+                  <note xml:id="nnlg_tcy_dcb">Ob man hieraus eine Verbindung nach Westfalen
+                     konstruieren kann, bleibt zu prüfen. Hierfür spräche, dass noch 1715 und bis
+                     zur Mitte des 18. Jahrhunderts <persName key="ed_ccd_wjg_ldb">Marie-Anna von
+                        Lehndorff</persName> aus der Linie Lehndorff zu Statzen eine Präbende beim
+                        <orgName key="ed_lhq_kkg_ldb">Stift Schildesche</orgName> inne hatte, vgl.
+                     GStA PK, I. HA GR, Rep. 34, Nr. 5739, 5741 und 5747. Siehe auch: LA NRW, Abt.
+                     Westfalen, Minden-Ravensberg, Regierung, Nr. 1423: Beschwerde einiger
+                     Stiftsdamen zu Schildesche über den Ausschluss vom Besitz der Kurien und der
+                     sogenannten Haushaltungspräbenden, Inanspruchnahme durch die Familien;
+                     Kanonisse von Lehndorff ./. von Ledebur bzw. von Schele; Auseinandersetzungen
+                     zwischen den katholischen und evangelischen Stiftsdamen, 1723- 735.</note>
+               </seg> In meinem Glauben bin ich vom Herrn <persName key="ed_dq2_dpq_ybb">Cochius</persName>, reformiertem Prediger in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, unterwiesen worden.</p>
+            <p>1705, den 16. Juni habe ich die erste Stufe zu meinem Glück angetreten, da mir
+                    der Oberst Graf <persName key="ed_m5q_z52_vz">Dönhoff</persName> als mein
+                    Schwager zu wissen getan, dass Ihro <persName key="ed_syp_mzf_h1b">Königliche
+                        Majestät</persName> mir die Gnade getan, ein Fanal bei dem Gräflich
+                    Jung-Dohnaschen Regiment zu geben, darauf bin mit dem Herrn Grafen </p>
+            <p>den 23. dito von hier nach <seg type="comment">
+                  <orig>
+                     <placeName key="ed_jnz_jhp_tdb">Preuschholland</placeName>
+                  </orig>
+                  <note xml:id="nezz_dqq_ybb">Preußisch Holland</note>
+               </seg> abgereist und habe mich in <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName> bedankt, von da ward Herr Graf von General-Leutnant Graf
+               von <persName key="ed_d2t_jvy_rcb">Schlippenbach</persName> beordert, um einige
+               Uneinigkeiten zwischen den <seg type="comment">
+                  <orig>
+                     <placeName key="ed_ed2_4r1_my">Elbingern</placeName> wegen das damals uns
+                     übergebenen Territoriums mit dem Schwedischen Kommandanten <gap reason="illegible"/> zu debattieren.</orig>
+                  <note xml:id="nlfb_3ty_rcb">
+                     <placeName key="ed_ed2_4r1_my">Elbing</placeName> war während des <ref target="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Nordischer_Krieg">Großen
+                        Nordischen Krieges</ref> von 1703 bis 1710 durch schwedische Truppen
+                     besetzt.</note>
+               </seg>
+               <gap reason="insignificant"/>
+            </p>
+            <p>
+               <note type="editorial">Lehndorff beschreibt im Folgenden die weiteren Stationen
+                        seines Lebens, seinen militärischen Werdegang und seine Reisen in die
+                            <placeName key="ed_opm_vwd_b2b">Schweiz</placeName> und nach <placeName key="ed_g3s_5s1_t2b">Italien</placeName>. Die Aufzeichnungen brechen am
+                        18. März unvermittelt ab.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

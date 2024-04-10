@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_mql_ts3_xrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>N. N. berichtet Graf von Lehndorff über eine Versammlung in Barten zur </title><title>Einsetzung </title><title>eines Kreisjustitiars. Barten, 16. August 1783</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword"/>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 54, Bl. 5</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+               <date when="1783-08-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+            </correspAction>
+            <note>Siehe das Dokument vom <ref target="lehndorff_ihl_tgl_xsb">25. Februar
+               1783</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941415"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Amt Barten, den 16. August 1783</dateline>
+               <salute>Hochwürdiger Hochgeborener Reichsgraf <lb/>insonders höchstzuverehrender Königlicher
+                        Kämmerer <lb/>Herr und Johanniter-Ordens-Ritter!<lb/>
+               </salute>
+            </opener>
+            <p>Euer Hochgeboren gnädigen Befehl zu <seg type="comment"><orig>satisfaciren</orig><note xml:id="nfsh_q2g_vxb">befriedigen</note></seg>
+               verfehle nicht gehorsamst zu melden, dass die Noblesse, welche gestern hier
+               versammelt war, bis auf den Grafen von <seg type="comment">
+                  <orig>Denhoff</orig>
+                  <note xml:id="nrv2_r1x_5sb">Dönhoff</note>
+               </seg>von der Regierung bestätigte Justitiare mit gewissen und festgesetzten Gehalten
+               zu haben nachwies, und deshalb wider die Ansetzung eines Kreisjustitiari protestiert.
+               Herr Graf von Denhoff protestiert wieder bei derlei <gap reason="illegible"/> auf
+                  <gap reason="illegible"/> Justitiarius und erklärt sich folgendergestalt. Sie
+               würden den Stadtrichter zum Justitiario <unclear reason="illegible" cert="high">ernennen</unclear> und wegen des Honorarii mit ihm selbst übereinzukommen suchen,
+               welches niemand zu wissen, noch weniger die Regierung zu bestätigen nötig habe, weil
+               er nicht (wie einige sich schon ge<gap reason="illegible"/>) geneigt sei, an ein
+               Justitiarium, so lange er lebt, gebunden zu sein, es könnten sich verschiedene
+               Umstände ereignen, die eine Veränderung notwendig machten, weswegen sie sich die
+               Freiheit vorbehielten, einen Justitiarius zu nehmen, welchen sie wollten, und diesen,
+               wenn es nötig, nach kurz oder lang abzuschaffen und einen anderen zu nehmen. Ich kann
+               es Herrn Grafen nicht verdenken, weil ein bestimmter Richter oder Justitiarius, wie
+               es zum Teil die Erfahrung lehrt, den <seg type="comment"><orig>Jurisdictionaren
+                     oficarien</orig><note xml:id="nz3k_cfg_vxb">im Sinne von
+                     Gerichtebshörden?</note></seg> treu. Herr Hochgeboren melde noch, das heute die
+               Notablen des Rastenburgschen Hauptamtes in <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> zusammenkommen und, wie ich vermute, Herr Regimentsrat
+               Euer Hochgeboren heute aufwarten würde. Ich schließe mit der untertänigsten Bitte,
+               diesen Brief zu kassieren. </p>
+            <closer>
+               <salute>Der mich bestens empfehle und mit Respekt ersterbe <lb/>Euer Hochgeboren
+                  gehorsamster treuer Diener </salute>
+               <signed>[Paraphe]</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

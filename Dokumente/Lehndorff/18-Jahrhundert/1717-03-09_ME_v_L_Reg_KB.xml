@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_xp1_n5k_2z">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Maria Eleonora Gräfin von Lehndorff an die Regierung zu Königsberg. Steinort,
+                    9. März 1717</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>I. HA GR, Rep. 66: Allodifikation der Lehen, Nr. 54, Bl. 4–4v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wwb_gcm_2y">Lehndorff, Marie Eleonore Gräfin von, geb. Gräfin
+                        von Dönhoff (Königsberg, 5/15.3.1664-Steinort, 12.4.1723)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1717-03-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_rml_bbl_2z">Regierung zu Königsberg</orgName>
+            </correspAction>
+            <note>Tabellen sämtlicher Lehen in den preußischen Ämtern in: GStA PK, I. HA GR,
+                    Rep. 66, Nr. 51 und 52. Die Assekuration <persName key="ed_nyn_ffz_g1b">Friedrich Wilhelms I.</persName> für die Ritterschaft im Königreich Preußen
+                    über die Umwandlung der Lehen in Erbgüter gegen einen jährlichen Lehnskanon,
+                    Berlin 18. Dezember 1732, ebd., Nr. 58 (Druck). <lb/> Siehe auch: GStA PK, XX.
+                    HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 253 bis 258: Quittungsbücher über
+                    den zu zahlenden Generalhubenschoss für Steinort, das Ritterdienstgeld und den
+                    Allodifikationszins (Kladde mit gedruckten Formularen), Mitte 18. Jahrhundert;
+                    Nr. 632: Lehnsverhältnisse der Steinortschen Güter, 1806/07, intus: Auszug aus
+                    der Lehnstabelle 1717. <lb/> Zur Lehnsallodifikation: Loewe, Victor, Die
+                    Allodifikation der Lehen unter Friedrich Wilhelm I., in: Forschungen zur
+                    Brandenburgischen und Preußischen Geschichte 11 (1898), S. 41–74; <ref target="https://rep.adw-goe.de/handle/11858/00-001S-0000-002D-B3C1-6">Schenk, Tobias,</ref> Reichsjustiz im Spannungsverhältnis von
+                    oberstrichterlichem Amt und österreichischen Hausmachtinteressen: Der
+                    Reichshofrat und der Konflikt um die Allodifikation der Lehen in Brandenburg-
+                    Preußen (1717-1728).</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 9. März 1717</dateline>
+            </opener>
+            <p>Nachdem von dem Königlichen <orgName key="ed_r2q_dc1_tcb">Amt Angerburg</orgName> mir
+               aufgegeben worden, auf den 10. huius wegen <seg type="comment">
+                  <orig>Konvertierung der Lehen in Allodialgüter und dafür abzustattender jährlicher
+                     Rekognition</orig>
+                  <note xml:id="ncgd_vvg_scb">Am 5. Januar 1717 hatte der König bestimmt, dass
+                        <quote>alle Adeliche, Schulzen- und Bauernlehen vor allodial erklärt und
+                        nexus feudalis aufgehoben werden solle, wenn dafür ein jährlicher Canon
+                        gewilligt wird</quote>, vgl. <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT25/start.html">Mylius, Christian Otto, Corpus Constitutionum Marchicarum ..., II. Teil, 5.
+                        Abtlg., Nr. LIX.</ref>
+                  </note>
+               </seg> meine schriftliche Erklärung einzubringen, meine untertänige Observanz neu zu
+               kontestieren, so stelle meine Erklärung dahin, wie zu <persName key="ed_nyn_ffz_g1b">Seiner Königlichen Majestät</persName>, meinem Souverain, das demütige Vertrauen
+               habe, Sie werde bei meinen uralten wohlhergebrachten Privilegiis mich allergnädigst
+               maintenieren, zumalen es auf die Konservation der Familie angesehen, welche, wenn die
+               Töchter mit denen Söhnen zugleich gehen sollten, gar sehr den kürzeren ziehe und
+               würde zurückgesetzt werden. Zudem ist notoriam, dass von meinen <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern keines pur Lehn, sondern <seg type="comment">
+                  <orig>zu Magdeburgischen Rechten und beiden Kindern verschrieben.</orig>
+                  <note xml:id="nbs1_ck5_1bb">Die Rechte hafteten nicht an der Person, sondern am
+                     Grund und Boden. Nach Magdeburger Recht waren ursprünglich nur die direkten
+                     männlichen Nachkommen erbberechtigt, erst in der späteren Ordenszeit gab es die
+                     Erweiterung „zu beider Kinder Rechten‟, mit der die Erbfolge auf beide
+                     Geschlechter ausgedehnt wurde. Bei Aussterben der Familie fiel der Besitz an
+                     die Landesherrschaft zurück. Vgl. GStA PK, XX. HA, Adelsarchiv Nr. 662, Bl.
+                     42-45, <ref target="lehndorff_trv_w1g_s3b">Verschreibung über Steinort und
+                        Taberlack für Caspar, Fabian und Melchior von Lehndorff 1554</ref>,
+                     Abschrift; StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 238:
+                     Urkunden über die Belehnung der Familie von Lehndorff mit Groß Steinort und
+                     umliegenden Gütern aus den Jahren 1554, 1570 und 1572 (Fotokopien). </note>
+               </seg> Davon Seiner Königlichen Majestät, meinem allergnädigsten Herrn, jährlich zu
+               dero Cassam eine gewisse Rekognition zu geben würde mich zwar nicht weigern, aber ich
+               lebe der demütigen Hoffnung, Seine Königliche Majestät werde die hohe Gnade vor mich
+               haben und mich bei dem, was bishero zu Dero Revenuen meine Güter jährlich
+               beigetragen, und solches noch ferner unermüdet tun will, allergnädigst lassen. </p>
+            <p>Dieses habe dem Königlichen Amte Angerburg gebührend hinsenden wollen.</p>
+            <closer>
+               <signed>M. E. G. v. Lehndorff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

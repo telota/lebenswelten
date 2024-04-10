@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_rxk_kwq_swb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Alexander Burggraf und Graf zu Dohna an Staatskanzler Karl August Fürst von
+                    Hardenberg wegen der Eigentumsverleihung für die Bauerngüter. Berlin, 2. Oktober
+                    1810</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 74, Nr. 1326, Bl. 23-24v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yvk_y45_vcb">Dohna-Schlobitten, Friedrich Ferdinand Alexander
+                        Burggraf und Graf zu (1771-1831)</persName>
+                    <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    <date when="1810-10-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_uvr_lxn_zdb">Hardenberg, Karl August Fürst von
+                        (1750-1822)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_rxk_kwq_swb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 2. Oktober 1810</dateline>
+					<salute/>
+                </opener>
+				<p>Die Notwendigkeit, das Verfahren bei Gemeinheitsteilungen abzukürzen, wurde schon vor dem
+                    Ausbruch des letzten Krieges gefühlt. Nach dessen Beendigung kam dieselbe unter
+                    den Mitteln, den gesunkenen Wohlstand des Landes wiederherzustellen, dringend in
+                    Anregung, und der Staatsminister <persName key="ed_ifh_zd1_hy">Freiherr von
+                        Schroetter</persName> veranstaltete verschiedene Vorarbeiten zu einer
+                    Verbesserung der Gesetzgebung in dieser Rücksicht. Diese waren noch nicht ganz
+                    beendigt, als die neue Organisation der obersten Staatsbehörden die
+                    Gemeinheitsteilungs-Angelegenheiten zum Ressort der Gewerbe-Sektion meines
+                    Ministerii verwies. <lb/>Die Notwendigkeit und hohe Wichtigkeit eines
+                    verbesserten Verfahrens bei Gemeinheitsteilungen wurde nun auch hier sogleich
+                    anerkannt, und nach Vergleichung vieler auswärtiger
+                    Gemeinheitsteilungs-Ordnungen und einer großen Anzahl von Gutachten
+                    ausgezeichneter Sachkundiger der Gesichtspunkt festgestellt, aus welchem dieser
+                    Teil der Gesetzgebung zu bearbeiten sein dürfte. <lb/>Es wurde hierbei
+                    anerkannt, dass es durchaus vergebens sein würde, materielle Vorschriften
+                    darüber zu erlassen, da die unendliche Mannigfaltigkeit der bei
+                    Auseinandersetzungen vorkommenden Fälle sich unmöglich vorhersehen und unter
+                    bestimmte Gesetze bringen lässt. Eben daraus folgte auch die reine
+                    Unmöglichkeit, diese Auseinandersetzungen durch die ordentlichen Gerichte, die
+                    in der Regel nur nach materiellen gesetzlichen Bestimmungen sprechen können,
+                    bewirken zu lassen. Es musste vielmehr, sofern die Auseinandersetzung nicht im
+                    Wege des freien Vertrages zu erwarten war, eine schiedsrichterliche Behörde
+                    konstituiert werden, welche das Vertrauen der Parteien selbst ernannte, und
+                    welche der Staat autorisierte, sich auf jedem angemessenen und rechtlichen Wege
+                    die möglichst vollständigste Kenntnis von den Verhältnissen der Parteien und
+                    deren Ansprüchen zu verschaffen, um alsdann nach ihrem besten Wissen ohne alle
+                    Einschränkung durch materielle Vorschriften und unter der bloßen Kontrolle der
+                    Publicität und ihres Gewissens zu entscheiden. <lb/>Zugleich wurde dies
+                    Verfahren auch auf die Ablösung von <seg type="comment"><orig>Servituten</orig><note xml:id="nuvg_x4j_wxb">Dienstbarkeiten</note></seg>, Diensten, Abgaben, Real-Leistungen und
+                    Zwangsrechten aller Art anwendbar gefunden, und hiernach <seg type="comment"><orig>durch den Staatsrat <persName key="ed_tkl_kvp_vcb">Thaer</persName> der Entwurf eines Gesetzes
+                            ausgearbeitet</orig><note xml:id="nzv5_4vr_swb">Siehe hierzu Thaers
+                            Nachfrage in seinem Schreiben an Hardenberg vom 11. November 1810, in:
+                            GStA PK, I. HA, Rep. 74, Nr. 1327, Bl. 23-25v </note></seg>, welches den
+                    Zweck haben sollte, jedermann die Möglichkeit aufzustellen, sein ländliches
+                    Grundeigentum durch Auseinandersetzungen, Abfindungen und Ablösungen von allen
+                    den Privatbelastungen und Beschränkungen der Disposition darüber, die nicht
+                    fideikommissarischer Natur sind, zu befreien. <lb/>Dieser Entwurf zirkulierte
+                    wiederum unter mehreren ausgezeichneten Sachkundigen und wurde sodann nach einer
+                    nachmaligen sehr sorgfältigen Revision unterm 20. September v. J. dem
+                    Justiz-Ministerio, der Gesetzgebungs- und der Domainen-Sektion mittelst eines
+                    Schreibens mitgeteilt, wovon ich <seg type="comment"><orig>Abschrift</orig><note xml:id="nvdk_gfr_swb">Liegt nicht bei.</note></seg> beizulegen mir
+                    deshalb erlaube, weil dasselbe eine nähere Auseinandersetzung der Ansichten
+                    enthält, welche diesem Gesetzentwurfe zum Grunde liegen. <lb/>Die
+                    Domainen-Sektion war wesentlich mit diesen Ansichten einverstanden, erkannte
+                    auch die dringende Notwendigkeit des Gesetzes überhaupt an, und machte nur über
+                    einzelne Anordnungen Bemerkungen, die sorgfältig benutzt wurden, und worüber
+                    endlich eine vollständige Einigung stattfand. <lb/>Das Justiz-Ministerium
+                    bezweifelte dagegen teils überhaupt die Notwendigkeit einer Verbesserung dieses
+                    Teils der Gesetzgebung. teils aber glaubte es, die Entscheidung über
+                    Auseinandersetzungen und Ablösungen bloß rechtlicher Erkenntnis vorbehalten zu
+                    müssen. Alle Bemühungen, es von diesen Ansichten zurückzubringen, waren durchaus
+                    vergeblich, und es blieb bei dieser so ganz entgegengesetzten Beschaffenheit der
+                    Meinungen völlig unmöglich, die Sache auch nur einen Schritt weiter zu bringen,
+                    obwohl von Provinzial-Regierungen und Privatpersonen die dringendsten Anträge
+                    auf Publikation einer wesentlich nach den diesseitigen Ansichten verbesserten
+                    Gemeinheitsteilungs-Ordnung aus allen Gegenden des Staats häufig eingingen.
+                    <lb/>Die Gesetzgebungs-Sektion glaubte ihr Gutachten aussetzen zu müssen, bis
+                    der Entwurf erst von der Domainen-Sektion und dem Justiz-Ministerio geprüft sei.
+                    <lb/>Ich habe die lange Zögerung, welche durch die abweichende Ansicht des
+                    Justiz-Ministerio entstand, benutzt, um inzwischen nicht allein diejenigen
+                    Bemerkungen, über welche ich mit der Domainen-Sektion übereingekommen war,
+                    sondern auch viele andere bei fortgesetzter aufmerksamer Erwägung der Sache
+                    richtig befundene Modifikationen nachtragen zu lassen. Der Entwurf hat hierdurch
+                    endlich diejenige Gestalt erhalten, in welchem ich mir denselben nunmehr Euer
+                    Exzellenz in der <seg type="comment"><orig>Anlage</orig><note xml:id="nrrz_nfr_swb">Liegt nicht bei.</note></seg> abschriftlich
+                    mitzuteilen beehre. <lb/>Ich habe diese Redaktion jetzt sowohl der
+                    Gesetzgebungs-Sektion auf ihren Wunsch nebst den zubehörigen Akten übersandt,
+                    als auch des Herrn Justizministers <persName key="ed_s3x_2pj_wxb">von
+                        Kircheisen</persName> Exzellenz mit dem Ersuchen übermacht, die mit seinem
+                    Vorgänger fruchtlos gepflogenen Verhandlungen wieder auzunehmen. Auch ist
+                    derselbe in seiner jetzigen Gestalt dem Herrn Geheimen Staatsrat <persName key="ed_jy3_3zp_vcb">Sack</persName> als Chef der Finanzverwaltung in Bezug
+                    auf Domainen und Abgaben mitgeteilt worden, welcher schon früher von der ersten
+                    Redaktion Kenntnis erhalten hat. <lb/>Euer Exzellenz stelle ich eine gefällige
+                    Prüfung dieses Gesetzemtwurfs ganz ergebenst anheim. Ich halte mich im Voraus
+                    überzeugt, dass Dieselben mir mir die Notwendigkeit einer Verbesserung des
+                    besonderen Verfahrens bei Gemeineitsteilungen und die hohe Wichtigkeit, alle
+                    Privatbeschränkungen des ländlichen Grundeigentums ohne prozessualische
+                    Weitläufigkeiten ablöslich zu stellen, anerkennen, und sich mit mir gefälligst
+                    vereinigen werden, die von allen Provinzen schon längst erwarteten
+                    erleichternden Bestimmungen darüber zur Allerhöchsten Vollziehung zu
+                    befördern</p>
+				<closer>
+					<salute/>
+					<signed>Dohna</signed>
+				</closer>
+            </div>
+            <postscript>
+                <p>An des Königl. Staatskanzlers Herrn Freiherr von Hardenberg Exzellenz</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

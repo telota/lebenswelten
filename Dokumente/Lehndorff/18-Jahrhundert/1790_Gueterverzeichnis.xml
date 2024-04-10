@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_cbk_pyd_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der Güter des Grafen Ernst Ahasverus Heinrich von Lehndorff im
+                    Seehestenschen Kreis. 1790/91</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">
+               <p>Vgl. das <quote>Manual aller Geld-Ausgaben von Trinitatis 1790 bis Trinitatis
+                     1791</quote> in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941404">Nr. 281</ref> sowie die <quote>Jahresrechnung der Hochreichsgräflich
+                     Steinortschen Güter, sämtliche Geld-Einnahmen von Trinitatis 1791 bis
+                     Trinitatis 1792</quote> in: StA L, Bestand 21950 Familienarchiv
+                  Lehndorff, Nr. 266. Nach letzterer betrug die bare Einnahmen aus den Gütern 11.214
+                  Rtlr., 18 Gr. und 12 D., die Ausgabe 5.680 Rtlr., 45 Gr. und 13 1/4 D, der
+                  Überschuss demnach 5.533 Rtlr., 62 Gr., 16 3/4 D. Der Getreidevorrat entsprach
+                  einem Wert von 1.145 Rtlr, 378 Gr., 4 3/4 D. - Die Verzeichnisse gehörten
+                  ursprünglich zu einem Aktenkonvolut verschiedener Schriftstücke unter dem Titel
+                     <quote>Landwirtschaftliches</quote>, vgl. StA L, Bestand 21950
+                  Familienarchiv Lehndorff, Nr. 267. Vgl. auch <ref target="https://szukajwarchiwach.pl/42/382/0/3/61/str/1/1/100#tabSkany">APO,
+                     Bestand 382 Familienarchiv Lehndorff, Nr. 61: Jahresrechnung sämtlicher
+                     Einnahmen der Steinortschen Güter 1790/91 </ref>mit Anlagen. - Siehe auch:
+                  Mülverstedt, Adalbert v., Beitrag zur älteren Geschichte von Seehesten, in:
+                  Masovia 11 (1906), S. 61-69.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 50, 2 Blatt </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1790-01-31" notAfter="1791-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Verzeichnis derer zum <placeName key="ed_qcj_1qf_hy">Seehestenschen Kreise
+                    </placeName>gehörigen Adelsgüter und deren Besitzer<table rows="11" cols="2">
+                  <row role="label">
+                     <cell>Namen der <lb/>adeligen Güter und Dörfer</cell>
+                     <cell>Besitzer derselben</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="insignificant"/>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7. Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                     </cell>
+                     <cell>Kammerherr Reichsgraf von <persName key="ed_csb_mdf_cy">Lehndorff</persName>, wohnt in <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8. <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9. <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10. <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11. <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12. <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13. <placeName key="ed_ohv_kf2_gy">Przistaynen</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>14. <placeName key="ed_xjg_d12_gy">Stobben</placeName> oder
+                                Pniewen</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>15. <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="insignificant"/>
+                     </cell>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

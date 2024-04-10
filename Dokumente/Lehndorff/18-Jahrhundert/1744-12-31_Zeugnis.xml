@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_ccz_lmj_dbb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Promemoria. Kloster Berge, 31. Dezember 1744</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            <note type="editorial">Ein Schulübungsbuch aus dem Jahr 1744 in: StA L, Bestand 21950
+               Familienarchiv Lehndorff, Nr. 418. <persName key="ed_csb_mdf_cy">Ernst Ahasverus
+                  Heinrich von Lehndorff</persName> war 1743 nach <placeName key="ed_e44_fxr_tcb">Kloster Berge</placeName> bei Magdeburg zum Studium geschickt worden. Er hielt
+               sich hier 2 1/2 Jahre auf, vgl. dessen biografische Notizen als Einleitung zu den
+               Tagebüchern, ediert in: Schmidt-Lötzen, Karl Eduard (Hrsg.), Dreißig Jahre am Hofe
+               Friedrichs des Großen. Aus den Tagebüchern des Reichsgrafen Ernst Ahasverus Heinrich
+               von Lehndorff, Gotha 1907. Zum Kloster Berge: Holstein, Hugo, Geschichte der
+               ehemaligen Schule zu Kloster Berge, Leipzig 1886.</note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 204, Bl. 1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_e44_fxr_tcb">Kloster Berge</placeName>
+            <date when="1744-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <opener>
+               <dateline>Kloster Berge, den 31. Dezember 1744</dateline>
+               <salute> </salute>
+            </opener>
+            <p>Pro Memoria an Ew. Hochwürden den Herrn Abt <persName key="ed_kfq_k4k_gbb">Steinmetz</persName>
+            </p>
+            <p>Der Herr <persName key="ed_csb_mdf_cy">Graf von Lehndorff</persName> hat sich </p>
+            <p>1. im Latein, so lange er hier ist, viel Mühe gegeben. Er sitzt jetzo in Groß-Secunda
+                und steht im merklichsten Wachstum in dieser Sprache, darin sonst am meisten
+                versäumt war. </p>
+            <p>2. Im Französischen hat er sich sowohl im Sprechen als Schreiben, sonderlich in der
+                Orthographie sehr gebessert und gehörige Fertigkeit erlangt. </p>
+            <p>3. Im Englischen ist einiger Anfang gemacht, weil er besondere Lust dazu bezeugt. </p>
+            <p>4. Die Geographie und Historie ist von Anfang angenehmstes Studium gewesen, er sitzt
+                in beiden obersten Klassen und ist zu beiden, wie auch in der Heraldik, sehr
+                geschickt. </p>
+            <p>5. In der teutschen Oratorie und Poesie ist bereits ein guter Ansatz da. </p>
+            <p>6. Die Mathesie tractirt der H. Graf auch Applikation. Die ganze Mathesie applicatam
+                hört er jetzo praeparatorie, die puram hat er schon einmal gehört, und ich gehe sie
+                jetzo noch einmal mit dem Herrn Graf nebst noch einem durch. </p>
+            <p>7. Im Reifen sind die Muster des Herrn Grafen nicht die allerbesten.</p>
+            <closer>
+               <salute> </salute>
+               <signed>A. G. E. <persName key="ed_stc_n4k_gbb">Hempel</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

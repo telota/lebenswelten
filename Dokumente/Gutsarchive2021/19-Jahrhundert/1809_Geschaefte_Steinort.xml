@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_yrf_zvx_btb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff notiert die in Steinort anstehenden Aufgaben. Ca. 1809</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 139, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1809-01-01" to="1809-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_yrf_zvx_btb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Geschäfte in Steinort</p>
+            <p>1. <gap reason="lost"/> arrangements und alles was dahin gehet <gap reason="lost"/>
+               Betrieb der Wirtschaft stets nach der Rationellen Landwirtschaft <lb/>2. was dahin
+               gehört, die besten Bücher lesen und demnach handeln<lb/>3. Bäuerliche Einrichtungen
+               und Verbesserungen und möglichst <gap reason="lost"/> Mehrausgaben der Wirtschaft von
+               denen des Hauswesens trennen <lb/>4. Garten und alles was dazu gehört, über alles
+               promemorieren für die verschiedenen Jahreszeiten und darauf halten, dies auch in den
+               wirtschaftlichen Betrieben <lb/>5. Aufsicht auf die Brauerei <gap reason="illegible"/>
+               <lb/>6. Bauten, der Pavillon im Garten, <placeName key="ed_hyn_yzd_gy">Klein
+                  Steinort</placeName> Haus, <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>,
+                  <gap reason="illegible"/>Reparaturen - Flügel, Stall <lb/>7. Zäune, <gap reason="illegible"/>wege und Anlagen <lb/>8. Schäferei <lb/>9. beständige Tournee,
+               auch später, um immer in der <gap reason="illegible"/> zu bleiben <lb/>10. <gap reason="illegible"/> sie genau kennen lernen und Wandlungen fassen <lb/>11.
+               Verbesserung der Wiesen, Kompost kaufen, Moderlöcher <lb/>12. Ackerinstrumente
+               anfertigen lassen, ihre Verwendung. Kartoffelschneider, Häckselmaschine p. <lb/>13. In
+               der Gegend herum Stuten Kundschaft tun <lb/>14. Verbesserung der Viehracen nach
+               Veredlung und <gap reason="illegible"/>
+               <lb/>15. Milchwirtschaft und die Kuhpachten regulieren <lb/>16. <seg type="comment"><orig>Jedes Vorwerk hat sein Fach im Schreibtisch, da sind aufbewahrt Projekte
+                     dafür, Berechnungen, Etats, Raisonnements, drüber Zeichnungen und außerdem
+                     Projekte im allgemeinen</orig><note xml:id="nlg2_4nj_wxb">Das erklärt die noch
+                     heute sichtbare Ordnung des <orgName key="ed_e3t_l2n_4y">Archivs</orgName>.</note></seg>
+               <lb/>17. Jagden in der Jahreszeit nach der Ordnung, und suche einigen Nutzen davon zu
+               ziehen <lb/>18. darauf spekulieren, nicht allein von den vorhandenen
+               Einnahmebereichen höheren Nutzen zu ziehen, sondern neue zu schaffen, als Backen
+               lassen und auf die Dörfer Frauen schicken, Garten, Obst und Früchte, aus den Jagden,
+               Fetthammel-Mastung, Gans <gap reason="illegible"/>, Pferde, <gap reason="illegible"/>
+               <lb/>19. Landwirtschaftliche Gesellschaften und Verbindungen, landwirtschaftliche
+               Bücher und Korrespondenzen, über andere Saaten, Vieh, <gap reason="illegible"/>
+               <note type="editorial">die folgenden 5 Zeilen sind beschädigt <lb/>
+               </note>eine genaue Anzeige der <gap reason="illegible"/> und Beschaffenheit der
+               Wiesen, des Verhältnisses des Gespanns und der Instleute, Preise, der Stallweide,
+               jetzigen Verhältnisse, <gap reason="illegible"/> und <gap reason="illegible"/> Antrag
+               an die Beurteilung des Guts; Beschreibung des Areals, die wasserhaltende Kraft des
+               Bodens, seine ungefähren Bestandteile; und dann selbst angestellte Berechnungen
+               darüber und meine Ideen nach Maßgabe, was ich wünschte, ob mit <gap reason="illegible"/>nahme Weide und Acker <seg type="comment"><orig><lb/>Wo
+                     bekomme ich einen geschickten Separations-Kommissarius und gescheite praktisch
+                     wissenschaftliche Taxatoren her, als denn einen geschickten Feldmesser um die
+                     Situation aufzumessen?</orig><note xml:id="nz5h_snj_wxb">Siehe hierzu u. a. die
+                     Dokumente vom <ref target="lehndorff_yl2_cll_htb"><ref target="lehndorff_k4t_jtv_s3b">15. Januar 1817</ref> und 17. Januar
+                        1818.</ref></note></seg>
+               <lb/>20. Über welche Einteilungen und Veränderungen Administration, Brücherschläge,
+               Deputanten und Bewirtschaftung, wie auch das <gap reason="illegible"/>geld und die
+               besten Forstmänner und Knechte <lb/>
+               <gap reason="illegible"/>, den Lehrer wie <persName key="ed_bhb_yr5_j5b">Wittke</persName> etc. konsultieren, <gap reason="illegible"/> danach einraten;
+               vorzüglich wie die <gap reason="illegible"/> zu befriedigen, richtiges Ansprechen des
+               Satzes, nicht vorzuschlagen, gibt und existiert darüber ein Werk, als eben <gap reason="illegible"/>
+               <lb/>
+            </p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

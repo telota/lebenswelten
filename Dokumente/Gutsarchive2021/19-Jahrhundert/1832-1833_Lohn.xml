@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_csy_hnb_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Lohn- und Deputat-Nachweis für Reichertswalde. 1. Juni 1832 bis ult. Mai
+                    1833</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="keyword">
+               <p/>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 587, 1-22v, 23v-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1832-06-01" to="1833-05-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_csy_hnb_3rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>1.6.1832 bis ult. Mai 1833</p>
+            <p>
+               <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>:</p>
+            <p>Rechnungsführer: 120 Rtlr., kein Deputatkorn</p>
+            <p>Wirtschafter 90 Rtlr., dito</p>
+            <p>Ein Bedienter 40 Rtlr., dito</p>
+            <p>Kämmerer 16 Rtlr. und Deputatkorn</p>
+            <p>Brauer 19 Rtlr. und dito</p>
+            <p>Brenner 40 und dito</p>
+            <p>Oberjäger 45 und dito</p>
+            <p>Schafmeister 40 und dito</p>
+            <p>Hofmann 15 und dito lt. Vertrag</p>
+            <p>Gärtenierer <persName key="ed_bmz_1ms_vsb">Neubert</persName> 36 Rtlr. 20 Gr. und
+               Deputat: 1 Schfl. Weizen, 14 Schfl. Roggen, 2 Schfl. Gerste, 2 Schfl. Haber, je 1
+               Schfl. graue und weiße Erbsen, 4 Schfl. Mastgetreide, 1 Tonne Bier aus dem Krug, 6
+               Tonnen Speisebier, 3 Schafe, 1 Schwein, 1 Gans</p>
+            <p>Ofensetzer nur Deputat</p>
+            <p>Schmied 19 Rtlr. und Deputat</p>
+            <p>Böttcher 4 und D.</p>
+            <p>Kunstschmied 8 Rtlr und D.</p>
+            <p>Brauereigehilfe 14 Rtlr. 10 Gr. 7 D. und Deputat</p>
+            <p>Dammacher nur Deputat</p>
+            <p>Hirt 5 Rtlr. und D.</p>
+            <p>Witwe Böttcher nur Deputat</p>
+            <p>Nachtwächter 4 Rtlr.</p>
+            <p>Schafjunge 18 Rtlr. und Deputat</p>
+            <p>Kutscher 20</p>
+            <p>2 Knechte 7 Rtlr. 16 Gr. 8 Pf.</p>
+            <p>7 Knechte 17 Rtlr.</p>
+            <p>1 Knecht 14 Rtlr. 15 Gr. </p>
+            <p>2 Knecht 12 Rtlr.</p>
+            <p>Schafknecht 16. Rtlr. 20 Gr. 2 D.</p>
+            <p>Schafknecht 24 Rtlr.</p>
+            <p>Schafknecht 8 Rtlr. 26 Gr. 8 D.</p>
+            <p>Schafknecht 20</p>
+            <p>Schafknecht 5</p>
+            <p>Jäger 24 Rtlr.</p>
+            <p>Mägde 4 Rtlr. 20 Gr.</p>
+            <p>Magd 5 Rtlr. 15 Gr.</p>
+            <p>Bedienter 16 Rtlr.</p>
+            <p>Knecht 8 Rtlr. 15 Gr.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_xw2_nms_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Das Kriminalgericht zu Angerburg schreibt an Gräfin von Lehndorff in einer
+               Ermittlungssache gegen vagabundierende Diebe. Angerburg, 24. September 1743 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 263, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1743-09-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+            <note>Handschriftlich am oberen Rand: „Eodem geantwortet, dass nachdrücklich verfügt
+               worden, Krüger König solle vor E. delegiertes Gericht d. 2. <gap reason="illegible"/>
+               n 45 <gap reason="illegible"/> und die Magd Anna Catharina Thiele mit dahin bringen.‟
+               <lb/> Zum ersten Termin am 16. September war König nicht erschienen. Am 17. September
+               war er Mittags zum Gericht gekommen. Im Verhör hatte sich ergeben, dass weitere
+               Personen aus Pristanien geladen werden müssten, u. a. die Ehefrau, Knecht <persName key="ed_cpv_cfg_fqb">David Gwiasda</persName>, dessen Mutter, Bauer <persName key="ed_onh_ffg_fqb">Eisermann</persName> und Frau, Fischer <persName key="ed_txs_hfg_fqb">Kuckel</persName> und die Frau des Bauers <persName key="ed_hpm_kfg_fqb">Gellesch</persName>. Alle sollten sich am Morgen des 28.
+               September als Zeugen, nicht als „complices‟, bei Gericht melden. König wurde bis
+               dahin zwar nicht in Arrest genommen, musste sich aber „bei seinem guten Freunde, dem
+               hiesigen Bürger und Schneider <persName key="ed_cxz_nfg_fqb">Piczewski</persName>‟
+               aufhalten. <lb/> Zum angesetzten Termin erschienen die Zeugen nicht, so dass für den
+               9. Oktober ein neuer Termin festgesetzt und die Gräfin aufgefordert wurde, die Zeugen
+               zum Erscheinen zu bewegen. König war in der Zwischenzeit nach Pristanien
+               zurückgekehrt, weshalb das Gericht fürchtete, er könne sich im Dorf besprechen.
+               <lb/>Am 6. November bat das Gericht erneut um Hilfe, nun wegen der Vorladung von
+               König und dessen Frau, Sohn und Tochter und der Leinweberin <persName key="ed_u5f_rfg_fqb">Haberland</persName> aus <placeName key="ed_xzt_112_gy">Stawisken</placeName> für den Morgen des 11. November, „und nicht so spät wie
+               vorhin‟. Die Gräfin hatte die Zeugen jedoch nicht auffordern lassen, was den Prozess
+               verzögerte. Der neue Termin am 28. fiel aus. <lb/>Da sich die Gräfin ob der
+               aufgewandten Zeit beschwerte, schrieb das Angerburger Gericht an den
+               Tribunals-Vizepräsidenten <persName key="ed_drn_pbj_f3b">von Grabowski</persName>, er
+               möge sie auffordern, alle Personen nach Angerburg bringen zu lassen, „indem wir sie
+               alle miteinander zusammen und auf einmal hier zur Konfrontation haben müssen‟,
+               versuchte zugleich alle Schuld von sich zu weisen, dass der Prozess ins Stocken
+               geraten sei, und benannte als neuen Termin den 23. Dezember. Man habe noch zwei
+               weitere Verdächtige inhaftieren lassen, die von <placeName key="ed_uyl_j3c_gy">Danzig</placeName> mit dem Erz-Spitzbuben <persName key="ed_ijg_dgg_fqb">Mitmann</persName> nach Preußen geflüchtet seien. Amtmann <persName key="ed_dks_4zh_lpb">Cibrovius</persName> wolle sie aber nicht verpflegen, obwohl
+               es ihm die Kriegs- und Domänenkammer befohlen habe, „weil sonsten die Leute von
+               Hunger krepieren‟. <lb/>Die Gräfin wehrte sich nicht nur gegen die Beschuldigung
+               ihrer Person seitens des Angerburger Gerichts, sondern auch gegen die Anschuldigungen
+               gegen „meine Leute‟. Das Gericht habe Vater und Sohn „in Verhaft nehmen lassen, ohne
+               mir die allergeringste Nachricht zu geben‟, „einen davon gar in Fesseln legen lassen‟
+               ohne sie zu benachrichtigen, „ob meine Leute etwas und worin sie schuldig befunden
+               worden‟, oder ob es nicht vielmehr daran liege, „das meine Leute eine etwa nicht
+               genugsame Ehrfurcht vor das Gericht bewiesen haben‟. Das Angerburger Gericht würde
+               ihre Jurisdiktion untergraben wollen, weshalb sie bitte, dies zu untersagen und
+               „meine inhaftierten Leute los zu lassen‟. <lb/> In der Zwischenzeit war der Krüger
+               verstorben. Am 14. September 1744 (!) sollten Witwe, Sohn und Tochter nochmals im
+               Hauptamt vernommen werden. Dagegen, dass der Amts-Wachtmeister in Pristanien die
+               Witwe und deren Kinder aufsuchte, legte die Gräfin als „Erb-Jurisdictionärin‟ ihrer
+               Güter Widerspruch ein, da er damit seine Kompetenzen überschritten hatte.
+               Möglicherweise hatte er das vom König bestätigte Urteil übermitteln sollen, mit dem
+               die Witwe, Sohn und Tochter „mit ihren sämtlichen Habseligkeit zu allen Unkosten‟
+               verurteilt worden waren, wenigstens aber zu 7 Rtlr. 30 Gr. für die „6 Sessionen, so
+               ihretwegen gehalten‟. <lb/>Das Vermögen, das sofort gerichtlich spezifiziert und
+               taxiert wurde, betrug 275 Fl. Der Justizbeistand der Gräfin <persName key="ed_uh3_vc3_t2b">Nagel</persName> monierte, dass es nicht zu verantworten sei,
+               dass man das Vermögen völlig einziehe, zumal man ja davon ausgegangen sei, dass das
+               Vermögen gering sei, und ob es nicht genug wäre, wenn aus dem Vermögen die 7 Rtlr. 30
+               Gr. genommen und das übrige ihnen gelassen würde, da sie damit alle Kosten beglichen
+               hätte. Das Angerburger Gericht gab die Entscheidung an das Tribunal weiter. <lb/>Der
+               Königsberge Hofrichter von der Groeben entschied am 13. Oktober 1744, dass nach Abzug
+               der 7 Rtlr. 30 Gr. „wegen Bezahlung der Unkosten in peinlichen Sachen der wegen
+               Spitzbüberei dort inhaftiert gewesenen Inquisiten‟ das gesamte Vermögen zur Deckung
+               der Gerichtskosten einzuziehen sei. Gräfin von Lehndorff sollte dafür sorgen, dass
+               das Gericht sein Geld erhält, „damit davon alle Interessenten und in specie Herr
+               Amtmann <persName key="ed_dks_4zh_lpb">Cibrovius</persName>, der einen großen
+               Vorschuss zu Wegbringung der Inquisiten und zur Exekution getan‟, befriedigt werden.
+               Man bot sogar Hilfe an, die Effekten in Angerburg meistbietend für die königliche
+               Kasse zu verauktionieren. <lb/> Nach dem Urteil hatte die Witwe <persName key="ed_myx_lhg_fqb">Anna Louisa König </persName>in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> vier Jahre Dienst zu leisten. Am 13.
+               Februar 1745 wurde ihr das erlassen. Alles, was sie gesponnen hatte, wurde ihr bar
+               bezahlt und auch die in den Hof gebrachte Wolle vergütet. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xw2_nms_1qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, 24. September 1743</dateline>
+               <salute>Hochgeborene Frau <lb/>Höchstzuehrende Frau Gräfin <lb/>Gnädige Frau</salute>
+            </opener>
+            <p>Ew. Hochgeboren Gnaden sollen wir ganz ergebenst und pflichtschuldigst anzeigen, wie
+                    hierselbst 3 Personen am letzteren hiesigen Jahrmarkt inhaftiert worden, welche
+                    zu der im Lande herum vagierenden Spitzbuben-Bande gehören.</p>
+            <p>Da nun unter anderen <seg type="comment">
+                  <orig>in actis</orig>
+                  <note xml:id="ngld_m3s_vqb">in den Akten</note>
+               </seg> ausgemittelt worden, dass die Spitzbuben in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim Krüger <persName key="ed_rkf_52g_fqb">König</persName> sich nicht allein aufgehalten, sondern auch derselbe alle ihre
+               Sachen in Verwahrung behalten, so haben wir Ew. Hochgeboren Gnaden hierdurch ganz
+               ergebenst und in <seg type="comment">
+                  <orig>subsidium juris</orig>
+                  <note xml:id="nnlg_43s_vqb">Rechtshilfe</note>
+               </seg> ersuchen wollen, dem bemeldeten Krüger die ernstliche Ordre zu stellen, das
+               selbter sich sogleich und wenigstens den 26. huius vor ein delegiertes hiesiges
+               Kriminalgericht zu früher Tageszeit unausbleiblich selbst in Person gestellt und auf
+               Befragen von dem Aufenthalt dieser verdächtigen Personen zu Erleichterung unseres
+               Inquisition-Prozesses Rede und Antwort gebe. </p>
+            <p>Es hat zwar schon der hiesige Herr adelige Gerichtsschreiber <persName key="ed_cln_c3r_fkb">Szczepanski</persName> durch den Amts-Wachtmeister <persName key="ed_kjj_bpf_fqb">Ilges</persName> von Amts wegen weil <seg type="comment">
+                  <orig>periculum in mora</orig>
+                  <note xml:id="ne1m_q3s_vqb">Gefahr im Verzug</note>
+               </seg>dem Krüger aufgegeben, sich vor Gericht zu stellen. Er hat aber deshalb, statt
+               dass er erscheinen sollte, viele nachteilige Reden ausgestoßen. Da auch vermutlich
+               die vorgestern hierselbst auf der Custodie <seg type="comment">
+                  <orig>echappierte</orig>
+                  <note xml:id="ny2s_53s_vqb">geflüchtete</note>
+               </seg> und beim Krüger König in Arbeit gestandene Magd <persName key="ed_ugf_x2g_fqb">
+                  <persName key="ed_ugf_x2g_fqb">Anna Catharina Thielin</persName>
+               </persName> sich beim Krüger König wieder befinde, so bitten wir ganz ergebenst,
+               dieselbe daselbst festnehmen und anhero liefern zu lassen.</p>
+            <p>Da nun die Inquisiten, weil sie nichts im Vermögen haben, auf Königl. Kosten
+               hierselbst sitzen, und wir laut den Königlichen Allergnädigsten oft rezitierten und
+               geschärften Verordnungen keine Stunde die Kriminal-Prozesse zu verzögern im Stande,
+               so haben wir Ew. Hochgräfliche Gnaden ganz ergebenst bitten wollen, dem Krüger König
+               um desto bündiger einschärfen zu lassen, dass er unfehlbar in termino erscheinen, je
+               wichtiger und importanter diese Untersuchung sei, die zur Herstellung der ganzen
+               Landessicherheit und Beschützung des publiken und privaten Interesses gereicht. </p>
+            <closer>
+               <salute>Wir versehen uns einer gnädigen Willfährigkeit und ersterben mit aller Hochachtung
+                        <lb/>Ew. Hochgeboren Gnaden ganz ergebenste Diener</salute>
+               <signed>Richter und Assessores e. deleg. Krim. Gerichts <lb/>
+                  <persName key="ed_ksp_n2g_fqb">H.
+                            Benefeldt <lb/>
+                  </persName>
+                  <persName key="ed_jzl_k3g_fqb">Georg
+                            Barscheidt</persName>
+                  <lb/>A. <gap reason="illegible"/>
+                  <lb/>
+                  <persName key="ed_emx_m3g_fqb">J. Zucker</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zs1_gjw_gqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Martin Pluskwa, genannt Neumann, aus Steinort verliert seinen Rechtsstreit
+                    wegen Anfechtung der Erbuntertänigkeit. 8. Februar 1714</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Der Bitte um Aufhebung der Erbuntertänigkeit der <persName key="ed_rmv_lqb_3qb">Gertraud Neumann</persName>, Untertanin aus Stawisken, war am <ref target="lehndorff_q2t_rtt_ytb">14. Oktober 1710</ref> zugestimmt worden. Ihr
+                  Bruder, der mit 17 Jahren seinen Untertaneneid geleistet hatte, war nach dem Tod
+                  des Oberburggrafen mit Oberstleutnant <persName key="ed_z5w_qqb_3qb">Morstein</persName> in die Fremde gegangen und hatte dort geheiratet. Bei
+                  seiner Eheschließung hatte er angegeben, ein freier Mann zu sein. <lb/> Im Februar
+                  1714 hatte die Ehefrau von <persName key="ed_dlx_sqb_3qb">Martin
+                     Pluskwa</persName>, <persName key="ed_u1r_5qb_3qb">Maria van Deick</persName>,
+                  aus Amsterdam gebürtig, geklagt, dass ihr Ehemann unschuldig durch den Grafen von
+                  Lehndorff als Untertan in der Königsberger Hauptwache in Arrest gesetzt worden
+                  sei. Vor dem <orgName key="ed_hln_rnw_mbb">Tribunal- und Hofgericht</orgName> fand
+                  eine Untersuchung statt. Nachdem das Urteil ergangen war, bot Lehndorff Pluskwa
+                  an, ihn gegen Zahlung von 100 Gulden Loskaufgeld innerhalb eines Jahres aus der
+                  Untertänigkeit zu entlassen, jedoch sollte er schwören, so lange in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu bleiben, bis die Summe gezahlt
+                  sei. Der Eid liegt der Akte bei.</p>
+               <p>Anfechtungen der Erbuntertänigkeit waren keine Einzelfälle. <ref target="lehndorff_gzs_nhk_r2b">1722 klagte der Bauernknecht Christoph Rompel um
+                     Befreiung von der Erbuntertätigkeit. </ref>Hierzu auch GStA PK, XX. HA. Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 683: Rechtliche Auseinandersetzungen in
+                  Erbuntertänigkeitsangelegenheiten (1696, 1703-1706, 1715-1722), Nr. 684: Aufnahme
+                  in die Erbuntertänigkeit (1673, 1696, 1723) und Nr. 701: Vereidigung von
+                  Erbuntertanen (1720, 1751, 1772).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 685, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1714-02-08" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zs1_gjw_gqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>In Sachen <persName key="ed_wtg_nyl_2y">Ahasverus Ernst Grafen von
+                  Lehndorff</persName>, Kläger, contra <persName key="ed_dlx_sqb_3qb">Martin
+                  Neumann</persName>, sonst Pluskwa genannt, Beklagten, strittige Untertänigkeit
+               betreffend, wird zu Recht erkannt. Dieweil die im Hofe zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> verhörten Zeugen, nachdem sie vorher der
+               Treue, womit sie ihrer Herrschaft als bäuerliche Untertanen verpflichtet sein, quod
+               hunc actum erlassen worden, dass des Beklagten Vater <persName key="ed_gg5_hrb_3qb">Christian</persName> sich auf ein Bauer-Erbe setzen lassen, ausdrücklich
+               deponiert haben, und die leibliche Schwester des Beklagten, <persName key="ed_rmv_lqb_3qb">Gertrud Krügern</persName>, sowohl eidlich vor dem Amt den
+               29. Jan. a. c. zu <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, als auf der
+               Königl. Amtsstube allhier, <ref target="lehndorff_q2t_rtt_ytb">dass sie von der
+                  Untertänigkeit sich zu befreien, als sie heiraten wollen, alle Jahr einen <ref target="lehndorff_q2t_rtt_ytb/#nijh_vll_gvb">halben Stein Kraftmehl</ref> in
+                  den Hof zu liefern und sonst allezeit zum Kraftmehlmachen auf Erfordern in den Hof
+                  zu kommen sich submittiert</ref>, auch demzufolge einen Stein Kraftmehl, nachdem
+               sie schon ins andere Jahr geheiratet, wirklich in den Hof geliefert, welches sie,
+               wenn sie freier Geburt wäre, nicht nötig gehabt hätte, beständig ausgesagt, auch
+               Beklagter, dass er bei dem seel. Oberburggrafen <persName key="ed_zyw_ncf_2y">Ahasverus Graf von Löhndorff</persName>, als er weggelaufen gewesen, nicht weiter
+               laufen zu wollen sich mit einem Eide verbunden, aber kurz nach des angeregten
+               Oberburggrafen Tode nichts desto weniger abermals entlaufen, als hat Kläger ihn als
+               einen Steinortschen bäuerlichen Untertanen, nachdem er ihn hier angetroffen, in
+               Arrest nehmen zu lassen gute Befugnis gehabt, und soll Beklagter sich nunmehr als
+               einen bäuerlichen Untertanen zu halten, falls ihn Kläger nicht entlassen wollte,
+               schuldig sein, des Beklagten Ehegattin aber, die ihn in <placeName key="ed_p12_4bn_zcb">Amsterdam</placeName> als einen freien Mann geheiratet, steht
+               frei, sich deswegen beim <orgName key="ed_ixf_btp_5qb">Consistorio</orgName>
+               anzugeben. <lb/></p>
+            <p>W. R. B. W. R. W. publ. d. 8. Febr. 1714. Extradii <persName key="ed_ucc_yrb_3qb">Wilhelm Lürsenius</persName> als Commiss.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

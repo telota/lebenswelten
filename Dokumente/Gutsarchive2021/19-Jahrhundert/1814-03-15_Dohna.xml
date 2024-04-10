@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_ch3_mwr_swb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Graf zu Dohna-Schlodien an Friedrich Wilhelm III. König von Preußen wegen des
+                    Edikts vom 14. September 1811.</title><title> Schlodien, 15. März 1814</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 74, Nr. 1327, Bl. 77-78v</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ihk_p1t_scb">Dohna-Schlodien, Carl Ludwig Alexander Burggraf
+                        und Graf zu (1758-1838)</persName>
+                    <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>
+                    <date when="1814-03-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ch3_mwr_swb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Schlodien d. 15. März 1814</dateline>
+					<salute>Mein allergnädigster, teuerster, geliebtester König und Herr!</salute>
+                </opener>
+				<p>Noch haben Ew. Königliche Majestät es mir immer zu gut gehalten und gnädig aufgenommen, wenn
+                    ich aus treuem Herzen ein freimütiges Wort geschrieben, und mich jederzeit mit
+                    einer stets huldreichen, oft ausführlichen Antwort erfreut. <lb/>Ich komme in
+                    Begleitung einer<seg type="comment"><orig> längeren ständischen
+                            Vorstellung</orig><note xml:id="nshm_xjs_swb">Vorstellung der adeligen
+                            und kölmischen Gutsbesitzer des Mohrungenschen Kreises, in der Akte, Bl.
+                            79-80, als Digitalisat beigegeben.</note></seg> zu unserem entfernten
+                    Landesvater! Gewiss hätten wir Ew. Majestät jetzt nicht, vor den Toren von
+                        <placeName key="ed_uyx_nvn_my">Paris</placeName>, mit unseren
+                    Angelegenheiten behelligt, sondern gern den Frieden (den Gott Ihnen und dem
+                    ganzen Europa baldigst schenken wolle) abgewartet - wenn uns nicht indes das
+                    Wasser, durch unaufhaltsame Maßregeln Ihrer Staatsdiener, an die Seele ginge,
+                    wodurch nicht die Ritterschaft allein, sondern alle Stände, Handel und Nahrung
+                    im Lande gefährdet werden. <lb/>Lesen Ew. Majestät um Gotteswillen! das lange
+                    Vorstellen in einer Geschäfte freien Stunde, und prüfen Sie selbst,
+                    allergnädigster Herr! was Männer Ihnen sagen, die die darin enthaltenen
+                    Wahrheiten mit ihrem treuen Blute zu besiegeln bereit sind. Unser Blut ist ja
+                    schon so reichlich für König und Vaterland geflossen. Ich selbst habe meinen
+                    hoffnungsvollen jüngsten Sohn im großen Kampfe verloren, Dohna von Lauck seinen
+                    einzigen Sohn. Ein Dohna aus Schlesien, Kommandant von <placeName key="ed_m4h_t23_ycb">Schweidnitz</placeName>, und der Landwehr-Inspekteur
+                    Kommandant von <placeName key="ed_uyl_j3c_gy">Danzig</placeName>, um den das
+                    Land mit uns klagt, sind aus Liebe zu ihren Waffenbrüdern am Lazarettfieber
+                    gestorben. Alles, was Dohna heißt, steht im Felde, in der Landwehr oder im
+                    Landsturm; wobei ich selbst als Bataillons-Chef angestellt bin, weil ich,
+                    obgleich bejahrt und kränklich, meine lieben Guts-Einsassen, die mir übrig
+                    geblieben, auf keinen Fall verlassen wollte. <lb/>Dies alles sage ich nicht aus
+                    Ruhmsucht und Anmaßung, sondern nur zur Steuer der Wahrheit, auf die Ihr treuer
+                    Adel leben und sterben will, <lb/>„dass wir es treu und redlich mit Vaterland,
+                    König und den Menschen meinen, die Gott uns durch vererbte Pflichten, auch nach
+                    erlangter persönlicher Freiheit, zur gutsherrlichen Fürsorge anvertraut hat.‟
+                    <lb/>Schützen Ew. Majestät uns in freier Ausübung dieser edlen Pflichten um das
+                    Wohl der Menschheit als unser Haupt und König, wofür wir alle streiten, und
+                    wofür Sie selbst und unser treuer Kronprinz nur zu viel Ihr kostbares Leben
+                    wagen. <lb/>Schützen Sie das Eigentum und die Wohlfahrt Ihres Volkes, welches
+                    durch Verblendung irre geleiteter Staatsmänner (die bald, aber zu spät von
+                    diesen Missgriffen, wie von so vielen früheren, zurückkommen werden) in Gefahr
+                    kommt. <lb/>Nicht wir, der Adel allein - nein, allerteuerster König! der
+                    Bauerstand, den man gerade zu heben wähnt, Ihre eigenen Domainen-Bauern, denen
+                    man Eigentum unter unerfüllbaren Bedingungen vorspiegelt, werden jetzt eben
+                    dadurch ruiniert. Untersuchen Sie es in Frieden und strafen Sie uns als Lügner
+                    und Verleumder, wenn wir falsch befunden werden. - Aber jetzt, da alles in
+                    höchster Spannung ist, im Kampf oder mit den Anforderungen aller Art, wo kein
+                    anderer Gedanke statthaben sollte, als jeder, so wie er leibt und lebt, fröhlich
+                    zur Gemein-Sache zu wirken - jetzt befehlen Ew. Majestät Ihren Staatsbeamten
+                    allergnädigst uns Ruhe zu gönnen und uns nicht durch neue unerhörte Formen zu
+                    stören und in Verzweiflung zu bringen. Nur um ein Königliches Machtwort bitten
+                    wir, dass alles so bleibe, wie es jetzund steht, bis wir Ihr freundliches
+                    Angesicht wieder sehen in Frieden, und alsdann unter Ihrem Schutz und Schirm ein
+                    ruhiges und gemeinnütziges Leben fortführen mögen, welches das mächtige Treiben
+                    des Zeitgeistes uns nicht gönnen will. <lb/>Dann wollen wir, wenn Gott uns Ruhe
+                    geschenkt hat, rings umher auch gern dieselben treuen Hände (die sich zur Zeit
+                    der höchsten Gefahr betend und schwörend im Landsturm für die Rettung des teuren
+                    Vaterlandes und Königes erhoben, auch wenn nun diese externen Anstrengungen
+                    Gottlob überflüssig geworden) nicht lässig sinken lassen, sondern williger,
+                    freudiger darbieten zu allem, was für Landesherrn und Untertanen aller Klassen
+                    vorteilhaft und nützlich sein kann. Und wenn Ew. Majestät dann hier in Ihr Land
+                    diesseits der Weichsel kommen, was zuerst die Waffen für Sie und die gute Sache
+                    unter Gottes Beistand ergriffen hat, dann soll Ihnen das treue Völkchen, wenn
+                    auch herabgeschmolzen an Zahl und Wohlstand, doch noch dieselbe Freude machen
+                    als Ihr väterliches Herz ehedem, bei dessen Anblick - wie unvergesslich! -
+                    bezeugte, mit Liebe, Gnade und Wohlgefallen!</p>
+				<closer>
+					<salute>In diesen Gesinnungen ersterbe ich in tiefster Ehrfurcht Ew. Königlichen Majestät
+                        alleruntertänigster treu gehorsamster</salute>
+					<signed>Dohna</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

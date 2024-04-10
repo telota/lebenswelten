@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_dzl_hb4_ftb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Christoph und Martin Rompel schreiben wegen ihrer Untertänigkeit an den König.
+               Mitte des 18. Jahrhunderts</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_fyt_syb_t2b">Rompel, Martin (-)</persName>
+               <persName key="ed_a2s_czb_t2b">Rompel, Christoph (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date notBefore="1750-01-01" notAfter="1750-01-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+            </correspAction>
+            <note>Im Inventar vom <ref target="lehndorff_tkq_b54_5pb">4. April 1718</ref> wird ein
+               Christoph Rompel ale Erbuntertan genannt.  <lb/>Nachdem die königlichen Verordnungen
+               gegen das Entlaufen von Untertanen aus Preußen und Litauen unter Androhung des
+               Galgens erfolglos geblieben waren, waren ab 23. Februar 1743 „zur Vermeidung des
+               Weggehens von Untertanen aus dem Land“ Bevölkerungslisten zu führen, GStA PK, XX. HA
+               EM 4 u, Nr. 5 g, Bl. 740–741v und 763–764v (Patent vom 19. September 1736;
+               geschärftes Edikt vom 26. Dezember 1739); XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort, Nr. 462 (1743). </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_dzl_hb4_ftb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline/>
+               <salute>Allerdurchlauchtigster ppp</salute>
+            </opener>
+            <p>Die höchste Not erfordert, dass wir <persName key="ed_x2r_52f_cy">Ew. Königl.
+                  Majestät</persName> in aller Untertänigkeit vorstellen müssen, wie unser
+               leiblicher Vater, aus <placeName key="ed_imc_mqs_x5b">Martinischken</placeName>
+               Insterburgischen Amts- und Kabillischen Schulzenamts gebürtig gewesen, nachgehends
+               unter der <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff gedient</persName>,
+               auch, nachdem er sich, obwohl eben mit einer freien Person verheiratet und uns allda
+               und andere <gap reason="illegible"/> mehr gezeugt, die gleichfalls von ihr als
+               Untertanen sind gehalten worden, bis da Ew. Königl. Maj. öffentlich von den Kanzeln
+               publizieren lassen, <seg type="comment"><orig>dass ein jeder, so nicht Untertan und
+                     unter den von Adel wohnhaft ist, sich angeben solle</orig><note xml:id="nucf_ydd_5xb">Siehe das Dokument vom <ref target="lehndorff_fxx_s2v_ytb">19. Januar 1711</ref>.</note></seg>, solchem
+               allergnädigsten Befehl haben wir alleruntertänigst nachgelebt, als aber solches die
+               Gräfin erfahren, uns in Eisen schmieden, mit Postronken schlagen lassen und damit
+               gezwungen, dass wir ihr Eid der Treue schwören müssen, in welcher Sklaverei wir bis
+               dato gelebt und daher, uns hierdurch nicht geholfen würde, wir nebst den schon
+               erwachsenen unsrigen Söhnen und Töchtern lebenslang verbleiben müssen. Nehmen dahero
+               unsere Zuflucht zu Ew. Königl. Maj. Bitten und flehen, Sie wollen allergnädigst
+               geruhen, sich unseres Elends zu erbarmen und als Ew. Königl. Untertanen aus Dero
+               Insterburgischen Amts von der Untertänigkeit der Gräfin allergnädigst zu befreien,
+               wir wollen mit dem unsrigen, was wir mit unserer sauren Arbeit erworben, und dem
+               unsrigen, in welchem Amte wir auf Bauer-Erbe gesetzt werden, dienen und leben und
+               sterben,</p>
+            <closer>
+               <salute>Eurer Königl. Majestät alleruntertänigste Untertanen</salute>
+               <signed>
+                  <seg type="comment">
+                     <orig>Christoph Rompel <lb/>Martin Rompel</orig>
+                     <note xml:id="np2f_b24_ftb">dahinter: gezeichnet</note>
+                  </seg>
+                  <lb/>Untertanen von der Gräfin von Lehndorff auf Steinort im Angerburgschen </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

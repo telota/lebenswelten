@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_j5n_3hn_15b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff erhält von einem Baumeister aus Barten Entwürfe für neue
+               Insthäuser. Barten, 22. Mai 1808</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="editorial">
+               <p>Der Brief befindet sich in einem Umschlag mit der Aufschrift <quote>Mehrere
+                     Promemorias und Zeichnungen über verschiedene Baugegenstände, Ideen und Pläne,
+                     gesammelt im Jahre 1819 von früheren Perioden. Lehndorff</quote>. Dem Schreiben
+                  folgen 6 Blatt Skizzen. Weitere Baupläne, Skizzen und Zeichnungen von Steinort in:
+                  StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 249 (1705-1923), ein
+                  undatierte <quote>Promemoria, Bausachen betreffend</quote>, in Nr. 387, Bl. 313.
+                  Das im 20. Jahrhundert aufgestellte Inhaltsverzeichnis für eine <quote>Mappe mit
+                     Plänen und Rissen</quote> von Groß Steinort von 1689 bis 1860 in Nr. 256. Ein
+                  Teil dieser Pläne befand sich im HStA Dresden und wurde 2019 an das StA L
+                  abgegeben und hier dem Bestand 21950 Familienarchiv Lehndorff unter 08.01 Karten
+                  und Pläne zugeordnet. Briefe des Inspektors <persName key="ed_yx5_cbg_nbb">Berent</persName> über die kriegsbedingten Zerstörungen auf den Gütern in den
+                  Vorjahren und eine „Bestandsaufnahme‟ der Güter 1808/09 in: GStA PK, XX. HA, Rep.
+                  54 Gutsarchiv Lehndorff-Steinort, Nr. 139.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 858, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_y5w_wtp_dz">Barten</placeName>
+            <date when="1808-05-22" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Auf seine Anforderung erhält <persName key="ed_k4z_jgl_2y">Graf von
+                  Lehndorff</persName> von einem Baumeister aus <placeName key="ed_y5w_wtp_dz">Barten</placeName> verschiedene <seg type="comment"><orig>Zeichnungen für
+                     Insthäuser</orig><note xml:id="nblf_wtd_nwb">Der Akte liegen verschiedene
+                     kleinere Skizzen bei.</note></seg>. Zur niedrigen Ausführung der Decken bemerkt
+               der Baumeister: „Die Höhe derselben ist nur 7 Fuß, einesteils, um den Leuten ihr
+               Vergnügen an niedrigen Stuben nicht zu nehmen, anderenteils weil die Höhe von 8 Fuß
+               zum äußeren Ansehen wenig fruchtet und die Kosten vermehrt. Den Flur abgerechnet, so
+               ist jede Familie von der anderen ganz separiert mit Wohnung, Küche, Licht und Ofen;
+               das hat hier sehr vieles Gutes, da dadurch den Leuten die Gelegenheit zu Zänkereien
+               möglichst genommen wird, zu der sie ohnehin sehr geneigt sind.‟ Es folgen
+               Beschreibungen des Bauvorhabens, Mauerstärke usw. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_j5n_3hn_15b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

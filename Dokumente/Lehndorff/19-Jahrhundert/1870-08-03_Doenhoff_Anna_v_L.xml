@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_ct2_xvd_gdb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Pauline Gräfin von Dönhoff an Anna Gräfin von Lehndorff. Friedrichstein, 3. August 1870</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 432, Bl. 95-96v</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Fragment</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_xnq_1fm_2y">Dönhoff, Pauline Gräfin von, geb. Gräfin von
+                        Lehndorff (1823-1889)</persName>
+               <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName>
+               <date when="1870-08-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Pauline war verheiratet mit <persName key="ed_cgy_xtf_4y">August von
+                  Dönhoff-Friedrichstein</persName>, 1833 Gesandter in München, 1842
+               Bundestagsgesandter zu Frankfurt am Main. Im Mai 1848 trat er zurück, wurde jedoch
+               schon Anfang September 1848 wieder für die auswärtigen Angelegenheiten in das
+               Ministerium Pfuel berufen, welche Stellung er aber nur kurze Zeit bekleidete. Er
+               wurde im Februar 1849 vom zweiten Gumbinner Wahlbezirk zum Abgeordneten in die Erste
+               Kammer gewählt und von dieser 1850 in das Staatenhaus nach Erfurt entsandt. Im Sommer
+               1850 abermals zum Mitglied der Ersten Kammer gewählt, schloss er sich hier der der
+               rechten Seite angehörenden, aber gemäßigteren Partei Jordan an. 1851 nahm er an dem
+               Landtag der Provinz Preußen teil und wohnte in Berlin der Kammersession von 1851 bis
+               1852 bei. Bei der Umwandlung der Ersten Kammer in das Herrenhaus wurde er vom König
+               zum erblichen Mitglied ernannt. 1861 wurde er Obergewandkämmerer am Hof. Er starb im
+               April 1874. Dessen Briefe aus Berlin und Friedrichstein an die Schwägerin in: APO,
+               Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941611">Nr.
+                  433</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941610"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Friedrichstein, den 3. Aug. 1870</dateline>
+               <salute>Meine geliebte Änny!</salute>
+            </opener>
+            <p>Für zwei liebe Briefchen habe ich zu danken, die ich von Dir erhielt, seitdem die
+                    welterschütternden Ereignisse über uns hereingebrochen sind, wie ein Blitz aus
+                    heiterem Himmel!</p>
+            <p>Als unser <persName key="ed_gwr_4wt_22b">Fritzchen</persName> am 10. Juli zu Euch
+               nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ging, lebten wir noch im
+               tiefen Frieden, und schon am 16. kam die Mobilmachungs-Ordre, welche ihn zu seinem
+               Regiment zurückrief, weil <placeName key="ed_ust_ky4_dz">Frankreich</placeName> uns
+               den Krieg erklärte. Unser lieber Fritz konnte nicht einmal 24 Stunden hierbleiben,
+               und <seg type="comment">
+                  <orig>August</orig>
+                  <note xml:id="ne3y_rd2_gdb">
+                     <persName key="ed_gmh_w2s_d2b">August Karl Graf
+                        Dönhoff-Friedrichstein</persName>. Er war seit 1864 in Bonn beim Militär.
+                     Dessen Briefe an die Tante in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941617">Nr. 439</ref>.</note>
+               </seg> stürmte schon am 18. von <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               fort nach <placeName key="ed_l55_lzt_2cb">Bonn</placeName> in der Sorge, zu spät zu
+               kommen. </p>
+            <p>Wenn es in meiner Macht gestanden, so wäre ich gleich am 17. mit Fritz nach
+                    Berlin gegangen, um bis zum Augenblick des Ausmarsches bei meinen geliebten
+                    Söhnen zu sein, und es wäre mir ein unaussprechlicher Trost gewesen, noch mit
+                    ihnen vereint zum Heiligen Abendmahl zu gehen, vor ihrem Auszug zu dem blutigen
+                    Krieg.</p>
+            <p>Mein <persName key="ed_cgy_xtf_4y">Mann</persName> aber konnte sich nicht
+                    entschließen, mir die Reise zu gestatten, in der Meinung, dass wir uns nur
+                    gegenseitig den Abschied noch erschweren würden - und so musste ich mit
+                    blutendem Herzen darauf verzichten.</p>
+            <p>Die liebe vielgetreue <persName key="ed_xwr_1qp_mfb">Amelie</persName> hat mir
+                    durch ihre liebevolle und unermüdliche Berichterstattung treulich beigestanden
+                    in dieser schweren Zeit und mein bangendes Mutterherz dadurch getröstet, da ja
+                    natürlich unsere lieben Söhne in der Aufregung ihrer Vorbereitung zum Ausmarsch
+                    so kurz und so flüchtig wie möglich schrieben. </p>
+            <p>Unser lieber <persName key="ed_gmh_w2s_d2b">August</persName> schrieb mir, dass
+                    er am 23. Juli in <placeName key="ed_l55_lzt_2cb">Bonn</placeName> noch zum
+                    Tische des Herrn gegangen und dass ist mir ein süßer Trost in meiner
+                    Herzensangst. Er schrieb sehr erbaut von dieser schönen liebenswürdigen Feier,
+                    die er mit mehreren Regimentskameraden begangen zur Vorbereitung auf ihren
+                    Ausmarsch, der am 25. Juli stattgefunden hat. Seitdem bekam ich eine
+                    Korrespondenzkarte von ihm mit der kurzen Notiz vom 27.: „Eben brechen wir aus
+                    unserem zweiten Marschquartier Adenan auf. Unsere Richtung scheint nach
+                        <placeName key="ed_plp_g25_22b">Saarlouis</placeName> zu gehen. Ich und die
+                    Pferde ganz munter.‟ <gap reason="lost"/>
+            </p>
+            <closer>
+               <salute> </salute>
+               <signed> </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

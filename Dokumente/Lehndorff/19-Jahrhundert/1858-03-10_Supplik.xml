@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_y1n_rxn_ftb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Antoinette Freiin von Gallera an </title><title>Anna Gräfin von Lehndorff. Allenstein, 10. März 1858</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_zyw_b14_ftb">Gallera, Antoinette Freiin von (-)</persName>
+               <placeName key="ed_qff_bxl_2y">Allenstein</placeName>
+               <date when="1858-03-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Luise Agnes Friederike Charlotte
+                        Auguste Gräfin von (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Allenstein, d. 10. März 1858</dateline>
+               <salute>Hochgeborene <lb/>Hochzugebietende Frau Gräfin,</salute>
+            </opener>
+            <p>Ihre Hochgeboren werden zu Gnaden halten, wenn ich es wage, meine große Bedrängnis gehorsamst
+                    vorzutragen. <lb/>Um meinem Elende und der fürchterlichen Not ein Ende zu
+                    machen, unternahm ich schon im Monat Oktober v. J. eine Reise nach <placeName key="ed_xrv_gwb_by">Berlin</placeName>, um an des Thrones Stufen unseres
+                    menschenfreundlichen und gerechten Monarchen eine Pflegestelle im Invalidenhause
+                    für meinen blinden Ehegatten, den pensionierten Premier-Lieutenant und
+                    Eskadronenkommandeur Freiherrn <persName key="ed_jct_d14_ftb">Joseph v.
+                        Gallera</persName> zu erbitten. <lb/>Durch die Allmacht Gottes und die Gnade
+                    Ihrer Majestät unser allergnädigsten Königin erhielt meine Bitte Zutritt bei
+                    Hofe, so dass ihm Gerechtigkeit wiederfuhr und seine Verdienste anerkannt durch
+                    Allerhöchste Kabinettsordre vom 1. Januar v. J. eine Pflegestelle im <orgName key="ed_jt1_314_ftb">Invalidenhause zu Stolpe</orgName> angewiesen ist.
+                    <lb/>In der Zwischenzeit meines langwierigen Aufenthalts bin ich auch durch
+                    Krankheit heimgesucht worden; da hatte ich, als ich gesund wurde, das Glück,
+                    meine hohe Gönnerin, die Exellenz Frau <persName key="ed_xnq_1fm_2y">Gräfin v.
+                        Dönhoff</persName> aus <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> zu sehen, welche ihre Wohnung unweit von meinem
+                    Logis in der <seg type="comment">
+                  <orig>Mattheikirchstraße</orig>
+                  <note xml:id="ngrz_q14_ftb">
+                     <ref target="https://berlingeschichte.de/strassen/bez02h/m284.htm">Matthäikirchstraße</ref>
+                  </note>
+               </seg> hatten; gleich einem Engel au
+                    früheren Regionen empfing mich die holdseelige Dame und wünschte mir noch Glück
+                    zu meinem künftigen Fortkommen, gaben mir noch so viel, als ich brauchte, um
+                    mich zu meiner Rückreise vorzubereiten. <lb/>Jetzt sollen und müssen wir schon
+                    Ende dieses Monats uns in Stolpe einstellen, jedoch fehlt es uns noch an etwas
+                    Reisegeld, dasjenige, was uns zugeteilt ist, reicht nicht aus, um meinem blinden
+                    Mann warme Kleidungsstücka anzuschaffen, weil bei unser Dürftigkeit selbiger mit
+                    seinem geflickten Schlafrock da nicht erscheinen, auch die weite Reise bei der
+                    rauhen Winterkälte nicht machen könnte; daher habe ich ihm schon einen Schafpelz
+                    geschafft, es fehlt mir jetzt noch an etwas Reisegeld. <lb/>Da Ihro Hochgeboren
+                    mir im vergangenen Sommer mit himmlischer Engelsgüte so menschenfreundliche
+                    Herberge sowie auch eine Unterstützung von 5 Taler geschenkt, so nehme ich in
+                    Gott vertrauend meine Zuflucht und flehe das Erbarmen Ihrer Hochgeboren Gnaden
+                    untertänigst an, mich mit einer kleinen Unterstützung zu beglücken. Möge der
+                    allein vermögende große Gott Ihre Hochgeboren alle die Wohltaten reichlich
+                    segnend vergelten.</p>
+            <closer>
+               <salute>Mit vorzüglichster Hochachtung habe ich die Ehre mich zu zeichnen als die Ihre
+                        Hochgräflichen Gnaden gehorsamste Dienerin</salute>
+               <signed>Antoinette Freiin v. Gallera, geborne v. Voermanek</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

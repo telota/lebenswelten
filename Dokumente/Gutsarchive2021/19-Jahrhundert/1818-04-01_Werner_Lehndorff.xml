@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_xz3_bj1_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Carl Leopold Werner schreibt an Graf von Lehndorff über die Folgen des Orkans.
+               1./2. April 1818</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 866, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1836)</persName>
+               <date from="1818-04-01" to="1818-04-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe hierzu: Böhme, Karl, Gutsherrlich-bäuerliche Verhältniss ein Ostpreußen
+               während der Reformzeit von 1770 bis 1830, Leipzig 1902, S. 68-75.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xz3_bj1_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline/>
+               <salute>Innigst verehrter Gönner!</salute>
+            </opener>
+            <p>Ihr Schreiben vom 16. v. M. hat mich sehr beglückt, denn es setzt mich <gap reason="illegible"/> deren Gesinnungen gegen mich außer Zweifel. Wollte Gott, ich
+               könnte Ihr Vertrauen bewahren und Ihnen das sein, was ich so gern zu sein wünschte.
+               Doch die Vorsehung wird den guten Willen belohnen und dem Unternehmen, welches aus
+               wahrer Anhänglichkeit an Sie, Herr Graf, und in der Absicht, Ihnen zu nutzen begonnen
+               wird, gutes Gedeihen verleihen. <lb/>Die <seg type="comment"><orig>Unglücksnacht</orig><note xml:id="naqk_gb5_xxb">Vom 18. zum 19. Januar
+                     hatte ein Orkan große Schäden hinterlassen</note></seg>, die Ihre Güter so hart
+               mitgenommen hat, ist vorüber, man kann mit kalter Überlegung den Schaden und die
+               Folgen erwägen; und da findet man denn, dass der Verlust nicht unersetzlich, dass die
+               Abhilfe nicht unmöglich ist. Oh möchte der weise Allvater doch die Gemüter, Geister
+               und Herzen der Führer unseres Vaterlandes leiten, dass auch wir Preußen insgesamt
+               einen glücklichen Morgen anbrechen sehen. <seg type="comment"><orig>So mancher wahre
+                     Patriot ist gezwungen Ihre Ansichten zu teilen, so mancher seufzt nicht allein
+                     über die Last eigener Bürden, mehr über das im Labyrinth verworrene Rats-System
+                     Preußens, dem der Faden zum glücklichen Ausgang fehlt.</orig><note xml:id="nknn_jb5_xxb">Siehe hierzu Werners Schreiben vom <ref target="lehndorff_yl2_cll_htb">17. Januar</ref>. Lehndorffs Antwort darauf
+                     ist nicht überliefert.</note></seg> Die Führer des Ganzen in Verzweiflung, von
+               einer Seite zur anderen tappend, scheinen alle Kraft, den wahren Weg aufzufinden,
+               verloren zu haben. Das Vertrauen des Volks, auf unverantwortliche Art gemissbraucht,
+               ist dahin. Wie ist dieses zu ersetzen? Wie ist es möglich, ohne dieses die großen
+               Übel abzuhelfen. Gott möge die Krisis mildern, dass die große Krankheit, wenn der
+               Kranke genesen soll, vorangehen muss. <lb/>Ich habe mich zum Teil selbst von allem
+               Schaden, den Sie, Herr Graf, durch den Sturm erlitten haben und der Ihnen wohl
+               spezialiter angezeigt sein wird, überzeugt, außer in der <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName> bin ich noch nicht gewesen, diese
+               soll nach der Versicherung des p. <persName key="ed_bmn_41z_z5b">Bliss</persName> am
+               meisten gelitten haben. Dann folgt der <placeName key="ed_xzt_112_gy">Stawisker</placeName> und nach diesem der Hegewald. Der Eichenwald hat dem Sturm
+               Trotz geboten, denn nur einige abgestandene Bewohner mussten der Gewalt weichen. Zur
+               Aufräumung der Waldungen ist schon sehr viel getan, und wäre der Winter nicht schon
+               im Februar fortgegangen, so wäre der Hegewald beinahe ganz geräumt, indessen ist so
+               noch etwas für die künftigen Jahre übrig geblieben. In der Marschallsheide sind noch
+               jetzt Fuhren und Menschen beschäftigt, um den zu Bauholz tauglichen Windbruch in
+               einem Raume neben dem Wohnhaus des <gap reason="illegible"/> auszurücken. 1.500 Stück
+               liegen bereits auf der Stelle und vielleicht eben soviel werden noch hinzukommen.
+               Dieses Holz wird daselbst beschlagen und zum Transport auf die Baustellen bequemer
+               gemacht werden. <lb/>In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und
+                  <placeName key="ed_xjg_d12_gy">Stobben</placeName> ist das zum Bau in diesem Jahre
+               notwendige Holz völlig auf der Baustelle vorhanden und schon beschlagen. In Serwillen
+               haben wir (der alte <persName key="ed_yx5_cbg_nbb">Berent</persName> hatte mich auch
+               zur Auswahl mit aufgefordert) einen Platz für den neuen Schuppen ausgemittelt. Er
+               kommt rechts vom Wohnhaus des Kämmerers, dem alten Speicher gegenüber, mit der Front
+               nach dem Hofe, einem Giebel nach der Scheune und den anderen nach dem Kammerhaus
+               kehrend, zu stehen. <seg type="comment"><orig>Die innere Einrichtung hat Berent
+                     nachstehend entworfen</orig><note xml:id="ng1h_5r1_kvb">Im Brief folgt eine
+                     Skizze, siehe das Digitalisat</note></seg>.</p>
+            <p>Das Gebäude wird 100 Fuß lang, 40 Fuß breit im Lichten. 26 Fuß gehen für den
+               Pferdestall, 14 Fuß für die Kammern ab, und es bleiben 60 Fuß zum Kuhschuppen übrig.
+               In diesem Schuppen läuft rechten durch ein Träger, der von 6 Ständern getragen wird.
+               Der erste Ständer ist 12 Fuß von der Querwand entfernt, alsdann kommt ein Durchgang
+               von 4 Fuß, dann folgt der 2. Ständer. Von diesem bis zum 3. ist wieder ein
+               Zwischenraum von 12 Fuß. Dann kommt wieder ein Durchgang von 4 Fuß usw. Zwischen
+               diesen Ständern werden baugleiche Krippen angebracht, und es stehen 2 Reihen Vieh mit
+               den Köpfen gegen einander. An jeder der Umfassungswände kommt ebenfalls eine Reihe
+               Vieh, so dass 4 Reihen im Stall sehr bequem untergebracht werden können. Diese Bauart
+               scheint mir wie dem Berent zweckmäßiger wie die, wo 2 Träger durchlaufen, und unter
+               jeden 2 Reihen Vieh mit den Köpfen gegenüber angebunden werden, indem bei der
+               ersteren mehr Raum gewonnen wird und bei einem 40 Fuß breiten Gebäude auch ein Träger
+               hinreichende Haltung gewährt. <lb/>In <placeName key="ed_xjg_d12_gy">Stobben</placeName> sind wir mit dem Bauplatz nicht ganz einig. Das Holz ist
+               jedoch auch schon beschlagen und liegt zum Abbunde der Scheuer, welche dieses Jahr
+               nur allein gebaut werden wird, bereit. In <placeName key="ed_nkz_b12_gy">Stawken</placeName> soll mit Zuziehung des Herrn <persName key="ed_qqy_f3h_scb">Schmaltz</persName>, welcher um einen Besuch gebeten ist, die Notwendigkeit der
+               Bauten und der Baustellen ausgemittelt werden. Eine Scheune und ein <seg type="comment"><orig>Insthaus</orig><note xml:id="ntv5_mc5_xxb">Siehe <ref target="https://digilib.bbaw.de/digilib/digilib.html?fn=silo10/lehndorff/bilder/entwuerfe/25_Entwurf-f%C3%BCr-ein-Wohnhaus-in-Stawken.jpg">hier</ref>.</note></seg> in <placeName key="ed_nkz_b12_gy">Stawken</placeName> und eine Scheune in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> muss dieses Jahr notwendig neu gebaut werden. Kann mehr
+               geschehen, so folgt der Bau eines Hofmann-Hauses, einer Instscheune, des Brannthauses
+               und des Maststalls nach. <lb/>Da hier das mehrste Holz fehlt, so ist der Betrag noch
+               nicht ausgemittelt und zu diesem Bau ist das Holz aus der <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName>, welches zum Teil schon
+               beschlagen ist, bestimmt. Vorwerksfuhren allein werden das Ausrücken nicht bestreiten
+               können, und es werden alsdann aus benachbarten Dörfern Hilfsfuhren für Holz oder bare
+               Remuneration angenommen werden, um den notwendigen Bau nicht aufzuhalten. Der
+               Schuppen, von welchem der Sturm das Dach zertrümmert hat, steht schon bis zur
+               Bedachung fertig da. Stroh ist auch hinlänglich Vorrat und so wird dieses Gebäude in
+               14 Tagen ganz komplett fertig sein. Ein großes Übel ist es mit der Mühle aber. Alle
+               Mühe, die ich mir gegeben habe, einen tüchtigen Baumeister aufzutreiben, ist bis
+               jetzt noch vergebens gewesen. In Litauen, wo dergleichen Leute zu Hause gehören, hat
+               der Sturm unter den Windmühlen sehr gewirtschaftet, dass, wie mir mein Korrespondent
+               schreibt, die zu empfehlenden Meister so mit Arbeiten überhäuft sind, dass sie in 2
+               Jahren keine neuen Arbeiten annehmen können, und habe jetzt einen nach der Empfehlung
+               tüchtigen Menschen in der <seg type="comment"><orig>Allenburger Gegend</orig><note xml:id="nj1y_xc5_xxb">Siehe <ref target="https://wiki.genealogy.net/Allenburg">hier</ref>.</note></seg> ausgemittelt. An diesen will ich einen Expressen
+               absenden und ihn sogleich herzitieren. Der Himmel gebe, dass wir durch diesen unsern
+               Zweck erreichen. Nach allen Erkundigungen von Sachverständigen ist eine Bockwindmühle
+               mit 2 Gängen allen übrigen vorzuziehen. Die Kosten derselben würden circa 900 bis
+               1.000 Rtlr. betragen, und der Zweck wird mit einer solchen Mühle ebenso wie mit einer
+               Holländer, die 3.000 bis 4.000 Taler kosten kann, erreicht. Da es nun am
+               zweckmäßigsten für Ihre Wirtschaft und die Lage der Windmühle bei <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist, so ist auch der Bau einer
+               Bockwindmühle mit 2 Gängen beschlossen worden. Es ist zu diesem Bau zwar schon das
+               mehrste Holz nach der Angabe des alten Müller auf der Baustelle gerückt, indessen
+               alles hat noch nicht hergeschafft werden können, da das stärkste Holz erst im Wald
+               beschlagen wird. Sobald wir mit dem Bauprojekt im Reinen sind und den Baumeister zur
+               Stelle haben, werde ich nicht ermangeln, Ihnen, Herr Graf, Riss und Anschlag
+               zuzusenden. Durch einen Eleven des Ober-Mühlenbau-Inspektors <persName key="ed_u5f_dd5_xxb">Pelck</persName> in <placeName key="ed_d5d_v3q_rdb">Wehlau</placeName>, einen Sohn unseres Mühlenbesitzers <persName key="ed_wpp_gd5_xxb">Boltz</persName>, habe ich bereits eine <seg type="comment"><orig>Zeichnung</orig><note xml:id="nelm_rd5_xxb">Siehe <ref target="https://digilib.bbaw.de/digilib/digilib.html?fn=silo10/lehndorff/bilder/13_Plaene/10_Windmuehle_Memel.JPG">hier</ref>.</note></seg> und eine Anschlag zum Bau einer Windmühle, wie wir
+               sie wünschen, erhalten, einen Anschlag habe ich mir von p <persName key="ed_t1f_mgr_gbb">Voigt</persName> abgeschrieben, und wir haben schon Acta in
+               Händen, um den zitierten Baumeister beurteilen und seine Forderungen erwägen zu
+               können. Schlägt auch dieser Versuch fehl, so beabsichtige ich an Herrn Pelck zu
+               Wehlau zu schreiben, und ihn um Hersendung eines Menschen aus seiner Schule zur
+               Leitung des Baus zu bitten. Der Bau wird zwar dadurch etwas kostbarer, indessen man
+               kommt doch zum Ziel und die Mehrkosten stehen doch <gap reason="covered"/> dem
+               Verlust durch die Fehlberechnung des Mahlwerks in keinem
+               Verhältnis.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+            <p>Hinsichts der bäuerlichen Auseinandersetzung, so danke ich Ihnen, Herr Graf, für Ihr
+               Zutrauen, mich mit zu Ihrem Bevollmächtigten zu ernennen. Ich werde alles, was in
+               meinem Kräften steht, anwenden, um Ihre Ideen bei der Auseinandersetzung auszuführen.
+               Schon habe ich <seg type="comment"><orig>Auseinandersetzungs-Akten aus der Güte des
+                     Herrn Kriegsrat <persName key="ed_dlv_cjv_mbb">v.
+                     Farenheit</persName></orig><note xml:id="nz5l_vd5_xxb">Zur Regulierung in den
+                     von Farenheidschen Dörfern: Böhme, Karl, Gutsherrlich-bäuerliche Verhältnisse
+                     in Ostpreußen während der Reformzeit von 1770 bis 1830. Gefertigt nach den
+                     Akten der Gutsarchive zu Angerapp und Gr. Steinort, Leipzig 1902, S. 69 ff.
+                  </note></seg> (in <placeName key="ed_mzz_cff_4y">Dönhoffstädt</placeName> ist noch
+               keine Auseinandersetzung erfolgt) erhalten, vor mir, um das, was auf die <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Verhältnisse passt, auszuziehen, die
+               Gründe, welche bei dieser Auseinandersetzung für und wider angegeben, zu erwägen,
+               neue Gründe aufzusuchen und zur Unterstützung dieser Gründe das bestehende Gesetz in
+               Anwendung zu bringen. Herr von Farenheit geht von der Grundidee aus, sich nicht durch
+               die Hälfte des Landes, sondern durch baren Zins entschädigen zu lassen. Seine
+               Forderung oder die Höhe des Zinses basiert er hauptsächlich nach denen für die
+               Königlichen Bauern seiner Nachbarschaft bei der Eigentumsverleihung festgesetzten
+               Abgaben. Diese sind höher als der Wert der Hälfte des Landes nach dem vom Commissario
+               gefertigten Anschlage, und Herr von Farenheit hat Recht, wenn er in seiner Erklärung
+               sagt, dass bei jeder Auseinandersetzung die Verfahrensweise das preußischen Königs
+               gegen seine Immediateinsassen zu Muster und Norm dienen müsse. <persName key="ed_rqm_zch_1cb">Herr von Sydow</persName> scheint, nach den vorliegenden
+               Akten zu urteilen, die Bauern sehr in Protestion genommen zu haben, denn ihm sind
+               alle Forderungen des Eigentümers zu hoch gespannt. Auch Herr von Farenheit
+               protestierte gegen die fernere <gap reason="illegible"/> der Waldweide. Entschieden
+               ist darüber nichts, allein da selbst das Edikt § 41. lit. c schon bestimmt, dass, wo
+               die Umstände es nur irgend erlauben, dass die Waldweide aufgehoben werden kann,
+               solches zum Besten der Forstwirtschaft geschehen möge; so werden Sie, Herr Graf, wohl
+               mit Ihrem Projekt, den Wald zu verschließen, durchkommen, da nach dem gewesenen Sturm
+               die Anlage einer gänzlichen Schonung der Wälder durchaus Wirtschafts- und selbst
+               Staatsbedürfnis ist. Bin ich recht ganz mit Ihren Ideen im Reinen, Herr Graf, so
+               werde ich mir mit Berückichtigung aller <gap reason="illegible"/> Nachrichten und des
+               Gesetzes schon mit dem alten <persName key="ed_yx5_cbg_nbb">Berent</persName> einen
+               Plan vorzeichnen, nach welchem wir und nicht andere auf die Auseinandersetzung
+               bestehen werden. Die Abschrift Ihres Berichts an Sydow ist noch nicht eingegangen.
+               Nach einer Benachrichtigung des H. p. <persName key="ed_wkv_cd1_4cb">Bitt</persName>
+               trifft der Ökonomie-Commissarius schon im Monat April in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ein, um die Auseinandersetzung der
+                  <placeName key="ed_hrb_hc2_gy">Serwiller</placeName> zu beginnen. Lieb ist es mir,
+               dass mit diesen der Anfang gemacht wird, da hier die Auseinandersetzung mit den
+               wenigsten Schwierigkeiten verbunden sein wird, indessen unlieb ist es mir wieder,
+               dass sie schon sehr bald geschehen soll. Das hat mich nämlich zu einem
+               General-Landtags-Deputierten von Seiten der Städte für den Rheinschen Kreis gemacht.
+               Der Ständische General-Landtag soll nach dem Antrag mit den Landschaftssachen
+               verbunden werden. <gap reason="illegible"/> nimmt bereits den 4. April seinen Anfang,
+               und wenngleich die Haltung eines Ständischen General-Landtages noch nicht genehmigt
+               ist, so kann solche doch vielleicht noch erfolgen, und ich muss nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> um <hi rendition="#u">nichts</hi> zu
+               tun. Da die Resolution auf den Antrag der Räte aber solange ausbleibt, so hoffe ich,
+               dass Sr. Majestät den General-Landtag nicht genehmigen werden, und dass ich, was ich
+               ehrlichst wünsche, zu Hause bleiben kann. <seg type="comment"><orig>Wo wir
+                     Schwierigkeiten zu bekämpfen haben werden, das ist auf <placeName key="ed_xpm_112_gy">Labab</placeName>. </orig><note xml:id="nvxk_l25_xxb">Siehe hierzu Lehndorff <ref target="lehndorff_tc3_skz_nxb">Promemoria</ref>.</note></seg>Das Gesetz lässt zwar eine Versetzung der Bauern
+               zu, indessen wie wird das mit den Gebäuden für die Bauern werden, wenn solche nach
+               einem andern Dorfe kommen sollen? In <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+               werden zwar einige freiwillig ihrer Ansprüche entsagen, indessen fragt es sich, ob
+               nicht diese ihre Entsagung zurücknehmen, sobald sie erfahren, dass die Erben mit
+               Lababber Bauern besetzt werden sollen. <seg type="comment"><orig>Die große Hoffnung
+                     setze ich darauf, dass die Menschen, ihren wahren Vorteil einsehend, ganz auf
+                     die Anstellung als Eigentümer Verzicht leisten, und sich bei den ihnen
+                     gemachten Vergleichsvorschlägen beruhigen werden.</orig><note xml:id="nyyb_x25_xxb">Siehe hierzu die <ref target="lehndorff_n1j_fmz_nxb">Übersicht der Prozesse.</ref></note></seg> Die Ankunft des Commissari wird
+               uns hierüber bald ins Licht setzen. Nach den durchgesehenen Akten werden bei den
+               ersten Verhandlungen bloß die bis jetzt bestandenen gegenseitigen Verpflichtungen
+               festgesetzt, der Zustand der Bauerländereien, des Bauer-Erbes, der Gebäude und was
+               dazu gehört beschrieben, und außerdem die Art und Weise, wie die Auseinandersetzung
+               vom Gutsherrn gewünscht wird, verschrieben, worauf die Bauern ihre Erklärung abgeben.
+               Weiß man nun recht die letztere, so kann man alsdann wohl Gründe zur Begegnung der
+               Einwendungen auffinden. Denn da Sie, Herr Graf, nicht gegen das Gesetz verlangen, so
+               kann auch Ihrem Verlangen nichts Rechtes entgegengesetzt werden. An das <orgName key="ed_cv1_bf5_xxb">Amt Lötzen</orgName> und <orgName key="ed_g4n_bf5_xxb">Wandlacken</orgName> habe ich geschrieben, und mir von diesen besonderen Attest
+               erbeten, wieviel ein vormaliger Bauer, jetziger Eigentümer nach der
+               Eigentumsverleihung jährlich an die Königliche Kasse zahlen muss, um, wenn die vom
+               Commissario gemachten Anschläge von dem Wert der Hälfte der Bauer-Erben niedriger
+               ausfallen, dem Beispiele des Herrn von Farenheit zu folgen, und auf die Barzahlung
+               nach dem Verhältnis, wie die königlichen Bauern besteuert sind, zu bestehen; sind die
+               baren Praestanda der vormaligen Bauern jetzigen Eigentümer zu <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und <placeName key="ed_icf_3tm_zcb">Fürstenau</placeName> niedriger als die zu fertigenden Anschläge solche in Ihren
+               Gütern nachweisen, so macht man Nichtgebrauch von diesen Nachrichten.</p>
+            <p>Der alte <persName key="ed_yx5_cbg_nbb">Berent</persName> ist zu jetzt wieder ganz
+               auf den Beinen und der Himmel erhalte ihn nur dabei, dann wird die Ganze schon gehen.
+               Indessen, auf die Dauer ist seine Anstrengung doch immer echt, und Sie werden, Herr
+               Graf, in jedem Fall auf eine Veränderung denken müssen, Alle Mühe, die ich mir
+               gegeben habe, ein Subjekt für Sie Herr Graf aufzutreiben, ist umsonst. Es gibt viele
+               Männer die Unterkommen suchen, indessen keiner passt für Ihre Verhältnisse. Der
+               Inspektor <persName key="ed_ejj_2xy_4kb">Kurella</persName> wäre der Mann, der ganz
+               im Stande wäre, eine so weitläufige Wirtschaft aufrecht und im Gange zu erhalten,
+               denn in ihm sind Wirtschafts- und wissenschaftliche Kenntnisse vereint, die zusammen,
+               besonders in der gegenwärtigen Zeit, nur einen tüchtigen Inspektor machen können. Ob
+               sein Temperament zu den Verhältnissen mit Ihnen, Herr Graf, passt, muss ich Ihrer
+               alleinigen Beurteilung anheimgeben. Indessen auch nichts ließe sich bei der Klugheit
+               des Mannes beseitigen, wenn er nur zur Annahme des Postens zu bewegen sein wird. Er
+               lebt in seinen gegenwärtigen Verhältnisen zu glücklich, als dass er solches Amt den
+               vielfältigen Unruhen einer ausgedehnteren Wirtschaft und mit dem bedeutenderen Umfang
+               seiner Geschäfte vertauschen sollte. Da indessen nicht <seg type="comment"><orig>periculum in mora</orig><note xml:id="ne25_lf5_xxb">Gefahr im
+                     Verzug</note></seg> ist, so muss man mit Ruhe auf Beseitigung dieses so
+               wichtigen Punktes denken, und es wäre doch zu arg, wenn man in Preußen keinen
+               tüchtigen Wirtschaftsinspektor ausmitteln sollte. Von jeder Aussicht, die ich zu
+               Erfüllung dieses Zwecks erreiche, werde ich Ihnen Herr Graf unverzügliche Nachricht
+               mitteilen. Die Vakanz des Kassenführer <persName key="ed_bp2_vf5_xxb">Prange</persName> wird leichter zu besetzten sein, und es haben sich zu der
+               Stelle schon mehrere Subjekte gemeldet, von denen jedoch nur ein von Herrn <persName key="ed_b4v_4ld_b2b">Schmalz</persName> ganz besonders empfohlener Mann
+               berücksichtigt ist. Berent hat ihm die Verpflichtungen erklärt und sein Herkommen
+               bekannt gemacht, aber noch keine Antwort darauf erhalten. <persName key="ed_thz_qyp_tcb">Steiner</persName> wird schwerer zu ersetzen sein, da er
+               jetzt erst anfängt, den Gütern in wirtschaftlicher Hinsicht <gap reason="illegible"/>
+               zu werden, indem er die Verhältnisse der einzelnen Vorwerker und Wirtschaftsbranchen
+               gegeneinander kennt, und hernach schon mehr als wie ein gewöhnlicher Wirtschafter
+                  <gap reason="illegible"/> kann. Wenn er von seiner <seg type="comment"><orig>Militärverpflichtung</orig><note xml:id="nawx_dl5_xxb">Siehe hierzu die
+                        <ref target="lehndorff_idb_5z5_ytb">Liste</ref> der Eingezogenen, alle Namen
+                     sind nicht aufgeführt.</note></seg> befreit werden könnte, würde er auch, wie
+               ich glaube, an keine Veränderung denken. Da Sie, Herr Graf, auch dem Abgang desselben
+               hier gewiss entraten würden, so ließe sich dieserhalb das Erforderliche alsdann auch
+               abmachen. Der Wachtmeister <persName key="ed_kd2_hg5_xxb">Masuch</persName>, der seit
+               2 Wochen hier ist, scheint ein sehr stiller guter Mann und ganz zur Behandlung der
+               Pferde geboren zu sein. Bei der Wirtschaft könnte er aber doch höchstens in
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gebraucht werden, da das
+               Bereisen der Vorwerker ihn von seinen Hauptgeschäften wenn auch gerade nicht
+               abziehen, so doch Gelegenheit zu Entschuldigungen geben könnte. <seg type="comment"><orig>Der Pächter <persName key="ed_ps5_zkj_hlb">Behrendt</persName> hat mir
+                     einen Brief zum Durchlesen gegeben. Derselbe ist voller Beweise Ihres großen
+                     Vertrauens, was Sie in den Mann setzten, und ich danke Ihnen Herr Graf von
+                     Herzen, dass Sie meiner vorgegangenen Empfehlung zu berücksichtigen die
+                     Gewogenheit gehabt haben. </orig><note xml:id="ncxy_qg5_xxb">Siehe hierzu
+                     Werners <ref target="lehndorff_yl2_cll_htb">Plädoyer</ref>, Behrendt trotz
+                     aller Probleme als Pächter zu behalten.</note></seg>Verzeihen Sie Herr Graf,
+               wenn ich Ihnen bei dieser Gelegenheit aber dennoch Meinung sage. Sie kommt aus meinem
+               Herzen und bloß in der Absicht, Ihnen zu nutzen.</p>
+            <p>Sie haben in Ihrem Schreiben, Herr Graf, zwar die Genehmigung zu allen notwendigen
+               Bauten und dem Pächter Behrendt auch die Leitung der Bauten in Händen gegeben. Wäre
+               es aber nicht besser, wenn Herr Graf bestimmten, was dieses Jahr und was die
+               folgenden Jahre gebaut werden soll? Denn alles, was in <placeName key="ed_xzt_112_gy">Stawisken</placeName> zu bauen nötig ist, kann unmöglich in diesem Jahr fertig
+               werden. Behrendt wird das <gap reason="illegible"/>-gebäude auf Grund der ihm
+               gemachten Versprechungen gebaut verlangen, allein die Scheunen in <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und die Instandsetzung der Insthäuser ist nötiger, indem
+               der Pächter ohne Instleute nicht arbeiten und das Getreide nicht auf dem Felde
+               bleiben kann. Was die Bedenken selbst betrift, so wäre es sehr gut, wenn der Pächter
+               Behrendt die Aufsicht über die Bauten übernehme, indessen wäre es meines Erachtens
+               doch auch durchaus nötig, dass er für den Bau mit Zuziehung eines Bauverständigen und
+               des alten Inspektors Berent, der in dieser Hinsicht viel Erfahrung und Kenntnisse
+               besitzt, einen Bauanschlag anfertigt, in demselben die Bauart der Gebäude beschrieben
+               und auch die Kosten ausgeworfen würden, nach welchen der Pächter Behrendt den Bau
+               auszuführen übernehme. Das Wie? bliebe alsdann allein seine Sache, wenn er einmal den
+               Bau übernimmt. Er könnte kein Wehklagen und keine ernstliche Beschwerde erheben, wenn
+               er nicht auf dem Bau fertig würde <gap reason="insignificant"/>
+            </p>
+            <p>Der alte <persName key="ed_gjf_4j2_b2b">Horn</persName>, der schon verschiedentlich
+               den Gerichtstag gehalten hat, hat ganz die Zufriedenheit des alten <persName key="ed_yx5_cbg_nbb">Berent</persName>. Er ist ein bekannter tüchtiger Jurist,
+               dabei kein junger Mann mehr und als Justitiarius ergraut und ich glaube, er wird auch
+               Ihre Zufriedenheit erhalten. Sobald vor Ihrer Ankunft nach Preußen <gap reason="illegible"/> etwas Bestimmtes verlangt werden sollte, so würde ich von
+               Ihren Bestimmung in dieser Sache Gebrauch machen. Die Ausgleichung hinsichts der
+               Verpachtung mit den Bauern ist noch nicht gerichtlich anerkannt. Beim nächsten
+               Gerichtstage aber soll dieses geschehen. Die Serwiller, welche der Herrschaft nichts
+               schuldig waren, bekommen ihre Verpachtung aus <gap reason="fm"/> und mit diesen habe
+               ich gleich die Sache finaliter abgemacht, da sie die Ausgleichung für richtig
+               annahmen, die Vergütung teils bar, teils in Lieferungsscheinen empfingen und darüber
+                  <seg type="comment"><orig>coram testibar </orig><note xml:id="ns13_g35_xxb">vor
+                     Zeugen erklärten</note></seg>erklärten. </p>
+            <p>Bei Ausfertigung der <seg type="comment"><orig>Schadensstandnachweisung</orig><note xml:id="nssx_m35_xxb">Siehe hierzu GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                     Lehndorff-Steinort, Nr. 866 und Nr. 874.</note></seg> habe ich mein Sentiment
+               auch abgegeben, und die angenommene Summe von 30.314 Rtlr. für Gebäude und 15.000
+               Rtlr. für die Waldungen durch Gründe gehörig unterstützt. Der Sturm hat größesten
+               Schaden angerichtet. Fast alle Windmühlen sind umgestürzt und so auch zum Teil alle
+               Krüge mit Einfahrten. Auch Baron <persName key="ed_a2c_535_xxb">Schenck</persName>
+               hat seine Windmühle verloren, und Ihre Exzellenz die gnädige <persName key="ed_gnc_c1m_2y">Frau Mutter</persName> hat den Krug in <placeName key="ed_epz_y2c_gy">Engelstein</placeName> und <placeName key="ed_lqp_ndf_n2b">Guja</placeName> verloren. Auch die ganze <placeName key="ed_ugy_1pg_hy">Rehsausche</placeName> Schäferei ist dahin und auch nicht ein Schaf leben
+               geblieben. Obgleich in den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName>
+               Gütern der Tod auch eine reiche Ernte gehalten hat, so sind doch im Ganzen noch
+               einige Herden am Leben. Den größten Schaden in hiesiger Gegend hat wohl <persName key="ed_dlv_cjv_mbb">Herr von Farenheit</persName> bei dem Sturm erlitten, indem
+               er ihm 13 englische Zuchstuten <gap reason="illegible"/> erschlagen hat. <gap reason="insignificant"/>
+               <note type="editorial">Farenheit hatte einen massiven Stall in Medunischken erbaut,
+                  der dem Sturm nicht Stand gehalten hatte. Der Sturm müsse mit einem „Erdstoß‟
+                  verbunden gewesen sein, indem ein Brunnen in Stawisken nun wieder Wasser führe.
+                  Für Lehndorffs Anteilnahme am Schicksal seines Bruders bedankt er sich und
+                  berichtet über dessen Lebens- und Krankheitsgeschichte, in der Hoffnung, dass
+                  Lehndorff etwas für ihn tun könne. </note></p>
+            <p>Somit, Herr Graf, empfehle ich Sie dem Schutze des Höchsten und bitte um die
+               Fortdauer Ihrer Gewogenheit, welche stets beglücken wird <lb/>Ihren gewiss
+               aufrichtigen treu gehorsamsten Freund und Diener</p>
+            <closer>
+               <lb/>
+               <signed>Werner</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>Den 2. April 1818 beendigt</p>
+            <p><note type="editorial">Im Nachsatz schreibt Werner über den bevorstehenden Besuch des
+                     <persName key="ed_tl1_nbf_4y">Königs</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, wo er Revue über die Garnison
+                  halten würde, um von dort die Reise nach <placeName key="ed_qvp_nnz_2y">St.
+                     Petersburg</placeName> fortzusetzen. Man rechne mit einer <seg type="comment"><orig>Konferenz des preußischen, russischen und österreichischen
+                        Monarchen</orig><note xml:id="nwjw_tt5_xxb">Siehe hierzu den Brief
+                        Lehndorffs an Berent vom <ref target="lehndorff_cbt_3hg_cdb">1. Novembere
+                           1818</ref></note></seg>.</note></p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

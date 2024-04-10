@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_s2h_3xg_hdb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Paul Freiherr von Röth an Anna Gräfin von Lehndorff. Eydtkuhnen, 7. Oktober
+                    1887</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="keyword"> </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 484. Bl. 27-27v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wkp_frv_g2b">Röth, Paul Freiherr von (-)</persName>
+               <placeName key="ed_cs3_zqv_g2b">Eydtkuhnen</placeName>
+               <date when="1887-10-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Nach seiner Eheschließung mit Fräulein von Kessler bat er Gräfin Lehndorff,
+                    ihr seine Frau bei einem Besuch in <placeName key="ed_bjn_3nh_tbb">Steinort</placeName> vorstellen zu dürfen. Im selben Brief übermittelt er
+                    Grüße der Gräfin von <persName key="ed_h24_krv_g2b">Keyserling</persName>, die
+                    er auf der Rückreise nach <placeName key="ed_iky_35l_cz">Russland</placeName>
+                    begrüßen konnte (Bl. 28-28v, Eydtkuhnen, 25. Oktober 1887).</note>
+         </correspDesc>
+         <abstract>
+            <p>Er bedankt sich für die Einladung nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. Er wäre ihr sehr gern gefolgt, habe aber
+                        <quote>Damen-Dienst</quote>, da <quote>
+                  <seg type="comment">
+                     <orig>Frau von
+                                Bülow</orig>
+                     <note xml:id="nrjj_5sv_g2b">Marie von <persName key="ed_kzj_bcr_kfb">Bülow</persName>, geb. Beccadelli di
+                                Bologna, Principessa di Camporeale</note>
+                  </seg>, die Gattin des
+                        Botschafters von <persName key="ed_kgl_3sv_g2b">Bülow</persName>, der zur
+                        Zeit Exzellenz <persName key="ed_khq_xbs_d2b">Schweinitz</persName>
+                        vertritt</quote>, von ihrer Reise nach <placeName key="ed_qvp_nnz_2y">Petersburg</placeName> zurückkehre und an dem Tag die Grenze passiere.
+                    Würde es sich um einen Herrn handelt, könnte er einen Gendarmen als
+                        <quote>Sauvegarde</quote> hinüberschicken, bei einer Dame müsse er diesen
+                        <quote>Ehrendienst</quote> selbst tun. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941662"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

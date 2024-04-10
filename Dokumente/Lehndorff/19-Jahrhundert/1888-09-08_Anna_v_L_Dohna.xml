@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_ywp_djg_j1b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Anna Gräfin von Lehndorff an Adolf Burggraf und Graf zu Dohna. 8. September
+               1888</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 416, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+               <date when="1888-09-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_d5z_l45_ccb">Dohna-Schlodien, Adolph Burggraf und Graf zu
+                        (1846-1905)</persName>
+            </correspAction>
+            <note>Auf der Waldersee-Versammlung am 28. November 1887 hatte Wilhelm, der Sohn des
+                    Kronprinzen, zum „Einsatz gegen die Verwahrlosung der Massen“ aufgerufen, um
+                    „der drohenden Gefahr von Seiten der Sozialdemokratie und des Anarchismus
+                    entgegenzutreten“. Im Mai 1888 wurde der Evangelisch-Kirchliche Hilfsverein
+                    gegründet in dem, neben allen preußischen Provinzen, <persName key="ed_jhn_y3q_f2b">Ernst von Mirbach</persName>, der Oberhofmeister der
+                    Kronprinzessin <persName key="ed_kvc_gzw_jlb">Auguste Victoria</persName>, für
+                    diese vertreten war. Sie hatte am 4. Mai 1888 von ihrem Schwiegervater <persName key="ed_yzt_s1b_dy">Kaiser Friedrich</persName> das Protektorat über den
+                    Verein erhalten. 1890 entstand aus der Kirchenbau-Kommission (1888) des
+                    Evangelisch-Kirchlichen Hilfsvereins der „Evangelische Kirchenbauverein“, der
+                    1884–1908 allein im damaligen Berlin 38 Kirchenbauten errichtete . Gegen
+                    Bedenken der Kirchen hatte Mirbach wiederholt erklärt, man wolle damit die
+                    Innere Mission der Kirche unterstützen, vgl. <ref target="https://de.wikipedia.org/wiki/Evangelischer_Kirchenbauverein">https://de.wikipedia.org/wiki/Evangelischer_Kirchenbauverein</ref>. Der
+                    Erfolg des Vereins war, neben der Autorität des Kaisers, wesentlich durch die
+                    Geldsammlungen Mirbachs sowie der beiden Vereinsvorsitzenden von Levetzow und
+                        <persName key="ed_c1h_bh3_h2b">von Ziethen-Schwerin</persName> bestimmt. -
+                    Erstaunlicherweise hatte Zieten noch am 28. März 1888 das Projekt für
+                    aussichtslos gehalten. <persName key="ed_cwf_2h3_h2b">Bismarck-Bohlen</persName>, der mit <persName key="ed_xkb_vvc_gy">Stoecker</persName> den Gedanken von Provinzialkirchen in <placeName key="ed_xrv_gwb_by">Berlin</placeName> schon früher erörtert hatte, wobei
+                    Stoecker <quote>die Sache für verfrüht wegen der in Aussicht stehenden weiteren
+                        Organisation der <orgName key="ed_bnt_4lz_ny">Berliner
+                            Stadtmission</orgName>
+               </quote> gehalten habe, setzte sich mit Stoecker <quote>sofort
+                        vertraulich</quote> in Verbindung um dessen Ansicht zu erbitten (Carlsburg,
+                    28. März 1888), in der Akte. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ywp_djg_j1b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>8. September 1888</dateline>
+               <salute>Mein lieber Graf,</salute>
+            </opener>
+            <p>Auf Ihren freundlichen Brief möchte ich Sie bitten mir zu erlauben, erst in
+                    einigen Tagen definitive Antwort geben zu können, wenn ich von dem Herrn
+                    Hofprediger <persName key="ed_xkb_vvc_gy">Stoecker</persName>, dem ich den Fall
+                    vorgelegt, Antwort erhalten haben werde. Mit Ihnen bin ich der Ansicht, dass es
+                    gewiss besser wäre, wenn die Vereinigung der Vereine stattfindet. Ich bin für
+                    meine Person gern dazu bereit, der Herr Hofprediger hat mich aber ganz speziell
+                    gebeten, als ich im Winter nach der Übernahme des Protektorats seitens der
+                    damaligen Kronprinzessin die Sache mit ihm besprach, unseren Verein neben dem
+                    anderen bestehen zu lassen, weil die Einnahmen für unsere beiden Stadtmissionen
+                    in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und <placeName key="ed_xrv_gwb_by">Berlin</placeName> sonst immer unsicherer werden
+                    dürften. Ich habe ihm nun Ihre Ansicht mit Befürwortung meinerseits mitgeteilt
+                    und erwarte seine Antwort, da ich ihm damals versprochen, an dem besprochenen
+                    Verein bis auf weiteres festhalten zu wollen. Sobald ich Nachricht habe, teile
+                    ich Ihnen Definitives mit, mein lieber Graf, und bin dann gerne bereit, die
+                    Listen der bisherigen Geber und etwa noch vorhandene Gelder einzusenden. An
+                    meinem Teil habe ich übrigens für den <seg type="comment">
+                  <orig>Verein der
+                            Kaiserin</orig>
+                  <note xml:id="nmwl_xyw_jlb">Den Vaterländischen
+                            Frauen-Verein.</note>
+               </seg> schon einen Beitrag mit 100 Mark im Frühjahr
+                    eingesandt, außerdem Beiträge in unseren Provinzial-Verein. Übrigens hat Herr
+                    Hofprediger versprochen, hier wieder eine Missionstour zu machen, die Herzen für
+                    dies wichtige Werk zu erwärmen. </p>
+            <closer>
+               <salute>Mit den herzlichsten Grüßen für die liebe Gräfin, verbleibe ich mein bester Graf, Ihre sehr ergebene</salute>
+               <signed>A. Lehndorff Hahn</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>NB. Die Aktien der <seg type="comment">
+                  <orig>Spielhagen Bank</orig>
+                  <note xml:id="nqvn_vh3_h2b">Gemeint ist die 1864 gegründete Preußische
+                            Hypotheken-Actien-Bank bzw. die 1886 errichtete Tochtergesellschaft
+                            „Deutsche Grundschuldbank‟, Namensgeber war der erste Direktor
+                            Spielhagen.</note>
+               </seg> sind noch in unserem Besitz und ruhen noch
+                    immer beim Bankier <orgName key="ed_iml_ywz_gbb">Meyer Cohn</orgName> unter den
+                    Linden.</p>
+            <p>Mit Baron <persName key="ed_a5r_tfk_gy">Cohn</persName> in <placeName key="ed_dz5_2kn_4y">Dresden</placeName> habe ich nie etwas zu tun gehabt,
+                    auch keine Aktien der Bank weggegeben. </p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

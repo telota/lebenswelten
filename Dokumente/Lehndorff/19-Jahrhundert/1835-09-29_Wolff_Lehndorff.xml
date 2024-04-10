@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_n1j_2xz_frb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Johann Wolff an Carl Friedrich Ludwig Graf von Lehndorff</title><title>. Berlin, 29. September 1835</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 79, Bl. 105-106</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_zt1_15h_3rb">Wolff, Johann Eduard (1786-1866)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1835-09-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Aus einem weiteren <ref target="lehndorff_dym_lfx_xrb">Brief vom 21.
+                        August</ref> geht hervor, dass Johann <persName key="ed_zt1_15h_3rb">Wolff</persName> die Bilder in <placeName key="ed_xrv_gwb_by">Berlin</placeName> wohlbehalten erhalten und die Eckstücke der Rahmen dem
+                    Bildhauer <persName key="ed_szx_5th_3rb">Schmidt</persName> zur weiteren
+                    Beförderung nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> übergeben
+                    habe. Schmidt sollte bei der Rückkehr der Rahmen nach Steinort prüfen, ob diese
+                    Beschädigung erlitten hätten und diese ggf. in Ordnung bringen. Wolff erwähnt
+                    einen Karton „Madonna mit dem Kinde‟, den er Graf Emil von <persName key="ed_q32_qn2_b2b">Dönhoff</persName> zur Übergabe an Lehndorff gegeben
+                    habe. Dönhoff habe ihm dafür 50 Stück Friedrichsdor gegeben.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Berlin, 29. September 1835</dateline>
+               <salute>Hochgeborener Graf, gnädiger Graf und Herr!</salute>
+            </opener>
+            <p>Ew. Exzellenz erlaube ich mir gehorsamst mitzuteilen, dass die Bilder in gutem Zustande hier
+                    angelangt sind. Das männliche Bildnis ist gut auf der Akademie aufgestellt, von
+                    der Kunstkammer vorteilhaft beurteilt, und von denen, die Ew. Exzellenz
+                    persönlich kennen, als sprechend ähnlich gefunden worden. <lb/>Der König ließ
+                    sich vor einigen Tagen vom Direktor <persName key="ed_xmd_f1g_h1b">Schadow</persName> in der Akademie umherführen, blieb vor Ihrem Bilde
+                    stehen, nannte Ihren Namen und fragte, wo dieses Bild gemacht worden wäre.
+                    Andere wunderten sich, dass solch ein Bild in Preußen gemalt werden konnte.
+                    <lb/>Was das Bild der Frau Gräfin <persName key="ed_qr1_j2g_4y">Reichenbach</persName> betrifft, so werden Ew. Exzellenz sich erinnern,
+                    dass dasselbe in den letzten 3 Wochen zur Ausstellung kommen sollte, um
+                    nötigenfalls die Köpfe nochmals zu retouchieren. Indessen ist mir das Glück
+                    nicht zuteil worden, die Frau Gräfin hier anwesend zu finden. Hierzu ist mir
+                    auch jede Hoffnung geschwunden, da nach dem Briefe, welchen ich von der Gräfin
+                    am 23. dieses erhielt, dieselbe nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu gehen sich bestimmt hat. Aus diesem Grunde werde
+                    ich das Bild, da der Rahmen fertig ist, bei der nächsten Gelegenheit aufstellen
+                    lassen und die weitere Verfügung sodann von der Gräfin erwarten. Letztere
+                    hiervon in Kenntnis zu setzen hindert mich die Ungewissheit des gegenwärtigen
+                    Aufenthalts der Frau Gräfin, und ich bitte daher Ew. Exzellenz, bei der
+                    Gegenwart der Frau Gräfin dieselbe davon in Kenntnis zu setzen. Zudem bitte ich
+                    gehorsamst noch zu bemerken, dass ich den Rahmen zu dem Bilde neu bronzieren
+                    lassen, teils, weil die höchsten Herschaften sich gegenwärtig solcher Rahmen
+                    bedienen, teils, weil die echte Vergoldung noch nachträglich bronziert werden
+                    kann, ohne dass der ganze Kostenbetrag dadurch erhöht wird, und der Rahmen auch
+                    dadurch viel Solidität gewinnt. Sollte der Rahmen im bronzierten Zustandeb
+                    bleiben, so kostet er 170 Rtlr., welche ich bereits, da der Vergolder mich nicht
+                    kennt, habe auslegen müssen. Eine noch nachträgliche echte Vergoldung würde noch
+                    25 Rtlr. mehr kosten, und alsdann der Rahmen exklusive der Vergoldungskosten 95
+                    Rtlr. kosten. <lb/>Bis jetzt habe ich mich entschlossen, hier zu bleiben und in
+                    meiner Angelegenheit die Resultate abzuwarten. Außer dem Grafen <persName key="ed_cgt_t5s_kfb">Otto Schlippenbach</persName>, dessen Hochzeit dieser
+                    Tage gefeiert wird, habe ich noch nicht die Ehre gehabt, jemanden von Hochdero
+                    Familie vorgestellt zu sein. Der Graf Otto machte mir die Hoffnung, dass er die
+                        <persName key="ed_cxf_1tc_d2b">Gräfin Hahn</persName> vermögen werde, sich
+                    von mir malen zu lassen, doch die längere Bekanntschaft der Gräfin mit dem Maler
+                        <seg type="comment">
+                  <orig>Ternite</orig>
+                  <note xml:id="nmrq_jjx_xrb">Friedrich <ref target="https://de.wikipedia.org/wiki/Wilhelm_Ternite">Wilhelm Ludewig Ternite</ref> (1786-1871) war ein deutscher
+                            Porträt- und Miniaturmaler sowie Lithograf. Er war darüber hinaus
+                            Berliner Hofmaler und königlicher Galerieinspektor.</note>
+               </seg> lässt
+                    mich an einem günstigen Erfolg zweifeln. Den Grafen Otto habe ich während meines
+                    Hierseins bereits zu malen begonnen. <lb/>Die Skizze von dem Grafen
+                    Schlippenbach, die ich nach seinem Tode aufgenommen habe, ist noch von niemandem
+                    gesehen worden, da die hiesigen Familienmitglieder des Verewigten gegenwärtig
+                    noch nicht anwesend sind. Auch denke ich diese Skizze noch in den Nebensachen
+                    mehr auszuführen.</p>
+            <closer>
+               <salute>Ew. Exzellenz und Hochdero Frau Gemahlin mich ehrerbietigst empfehlend, bitte ich um
+                        die Genehmigung mich unterzeichnen zu dürfen <lb/> als Ew. Exzellenz
+                        untertänigster Diener</salute>
+               <signed>Joh. Wolff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

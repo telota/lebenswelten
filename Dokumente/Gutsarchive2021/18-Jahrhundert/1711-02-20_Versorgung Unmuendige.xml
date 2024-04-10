@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_epz_5x2_4rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bestellung von Vormündern für die Kinder des Jägers Dziondowski durch die
+                    Herrschaft. Reichertswalde, 20. Februar 1711</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Dokument vom <ref target="lehndorff_sqx_yq2_4rb">2. Dezember
+                     1721</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 12, Bl. 79-84</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1711-02-20" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Nach dem Tod des Jägers <persName key="ed_rqf_rcy_ssb">Fabian Dziondowski</persName>
+               und seiner Ehefrau an der Pest im Juli 1710 bestellt die Herrschaft für die Söhne
+                  <persName key="ed_og2_wcy_ssb">Friedrich</persName>, 3 Jahre, und <persName key="ed_b2y_wcy_ssb">Christoph</persName>, 3/4 Jahr, den Schulmeister zu
+               Silberbach und den Hofbrauer zu Reichertswalde als Vormünder, damit die Kinder
+               „besser versorgt und christlich erzogen werden‟. Die Verlassenschaft wird in
+               Gegenwart der Gerichtsgeschworenen von <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName> am 14. Januar 1711 aufgenommen. Der Wert beträgt 69 Fl., 9
+               Gr. zzgl. 12 Fl. für einen Rodacker, die der Schulze zu Silberbach dem Jäger noch
+               hätte zahlen müssen, davon an barem Geld 4 Fl. 8 Gr. Die Schulden belaufen sich auf 3
+               Fl. Ein Teil des Hausrats wird nicht taxiert, sondern den Vormündern ausgehändigt.
+               Die taxierten Stücke sollen zum Nutzen der Unmündigen verkauft werden. Sollte ein
+               höherer Preis erzielt werden, sollen sie bedenken „dass sie es hier vor der Gnädigen
+               Herrschaft und dermaleinst vor Gott zu verantworten‟ haben. Der jüngere Sohn
+               Christoph wird zur Schwester des Verstorbenen nach <placeName key="ed_qkj_pyy_ssb">Güldenboden</placeName> gegeben, damit diese ihn, bis er 6 Jahre alt ist,
+               aufziehe, die dafür jährlich ein Quantum an Getreide zu Brot und Getränk und 3 Fl.
+               für Kleidung erhält. Den älteren Sohn nimmt der Schulmeister zu Silberbach bis zu
+               dessen 18. Lebensjahr zu sich, der ihn beschulen und später das Schneiderhandwerk
+               erlernen lassen soll. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_epz_5x2_4rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

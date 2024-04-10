@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_idc_g2w_gqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff instruiert seinen neuen Wirtschaftsgehilfen Hamm. Ca. 1812
+            </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch die <ref target="lehndorff_w45_fj1_3qb">Aufgaben eines Kämmerers</ref>.
+                  <lb/>Ein <ref target="lehndorff_gjk_zzr_gbb">Verzeichnis aller vom Gutsverwalter
+                     einzureichenden Berichte</ref> wurde erst ca. 1827 aufgestellt. Siehe auch eine
+                  die <ref target="lehndorff_epw_xln_wtb">Chronologische Übersicht der vom Grafen
+                     von Lehndorff seit dem 1. Januar 1830 gegebenen Befehle und
+                     Instruktionen,1830/31</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 508, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1812-01-01" notAfter="1812-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_idc_g2w_gqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Instruktion für den Wirtschaftsgehilfen Herrn <persName key="ed_dgv_nyb_3qb">Hamm</persName>
+            </p>
+            <p>Herr Hamm ist als Wirtschaftsgehilfe zur Unterstützung und Erleichterung der
+                    Geschäfte des Inspektors angestellt, worunter sich von selbst versteht, dass er
+                    nur im Sinne des Wirtschafts-Vorstandes, also des Inspektors, handeln kann,
+                    weshalb eine genaue Rücksprache mit demselben bei allen Handlungen vorausgehen
+                    muss, indem eigentlich alle Arbeiten und Handlungen vom Inspektor ausgehen
+                    müssen. <lb/>Herr Hamm hat sich also alle Abende beim Inspektor zu melden, um
+                    alle Angelegenheiten anzuzeigen und nähere Bestimmungen einzuholen. <lb/>Bei den
+                    Revisionen auf den Vorwerken ist hauptsächlich zu beobachten.<list>
+                  <item>1. Arbeitstätigkeit der Gespanne sowie der sämtlichen Arbeiter.</item>
+                  <item>2. Eine regelmäßige und vorschriftsmäßige Fütterung bei allem
+                            Vieh.</item>
+                  <item>3. Eine große Sparsamkeit bei allem Futter, sowohl Stroh und Heu und
+                            was dahin gehört, auch auf vorrätige Streu.</item>
+                  <item>4. Eine große Ordnung in allen Dingen auf dem Hofe im Allgemeinen,
+                            beim Wagengerät und überhaupt beim Inventarium, in den Ställen, beim
+                            Dünger. Jedes Ding muss einen bestimmten Platz bekommen und alle Geräte
+                            so viel als möglich unter Dach kommen.</item>
+                  <item>5. Nach Krankheiten des Viehs ist zu erkundigen und etwaige Abhilfe
+                            anzuwenden und Anzeige zu machen. </item>
+                  <item>6. Auch Mängel am Getreide sind zu berücksichtigen und zu
+                            berichten.</item>
+                  <item>7. Alles zu schlachtende Vieh wird vom Inspektor bestimmt, so auch die
+                            kranken Schafe.</item>
+                  <item>8. Auf Wege und Brücken ist stets Rücksicht zu nehmen, damit etwaige Mängel
+                     gleich abgeholfen werden.</item>
+                  <item>9. Der H. Hamm ist auch verpflichtet, öfter des Abends nach den
+                            Vorwerken zu reiten um zu sehen, dass alle Kammern, Scheunen, Ställe,
+                            Speicher etc. ordentlich verschlossen sind, auch dem Vieh das ihm
+                            gebührende Futter gegeben ist, dass nicht Garben gefüttert
+                            werden.</item>
+                  <item>10. Dem H. Hamm liegt die Führung des Speicher-Manuals, der
+                            Schäferei-Rechnung, des lebenden und toten Inventariums, der Deputat-,
+                            Aussaat-, Ernte- und Futter-Register ob. Ein Extrakt aus dem
+                            Speicher-Manual ist jeden Monat bis zum 4. dem Inspektor abzuliefern,
+                            eine Nachweisung über den Schäferei-Bestand am 13. April und 13. Oktober
+                            und die übrigen Nachweisungen bis zum 14. November jeden Jahres.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

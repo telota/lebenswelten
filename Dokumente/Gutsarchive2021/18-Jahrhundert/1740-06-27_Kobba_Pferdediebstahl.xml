@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_k2v_ycq_2qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der </title><title>entlaufene Gutsuntertan Hans Kobba aus Landkeim begeht einen Pferdediebstahl und
+               wird verhaftet. Balga, 27. Juni 1740 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Am 4. Juli 1740 erstattete das <orgName key="ed_lsv_pht_qwb">Amt Balga</orgName>
+                  Bericht an den König. Dieser entschied am 12. Juli, dass die Gräfin von Lehndorff
+                  ihren entlaufenen Untertan vom Amt abzuholen und für die dort entstanden Kosten
+                  seiner Festsetzung aufzukommen hätte. Es geschah nichts. Am 19. Oktober 1740
+                  musste der König feststellen, dass die Gräfin „zuwider unserer zweifachen, unterm
+                  12. Jul. und 10. Aug. a. c., an ihre Curatores ergangenen Verordnungen, ihren
+                  aldort in Verhaft genommene Untertanen Hans Kobba nicht abholen lassen‟. Ihr wurde
+                  eine Frist von 14 Tagen gegeben, die Sache durch ein delegiertes Gericht
+                  untersuchen und ihm den Prozess machen zu lassen, damit er nicht „fernerweit
+                  unverantwortlich‟ in der Festung einsitze, jedoch dürfe sie ihn nicht eher ziehen
+                  lasen, bis das Hofgericht auch alle Kosten ermittelt habe, die notfalls durch
+                  Exekution beizutreiben wären. Der Delinquent wurde dem Gericht zu Heiligenbeil
+                  übergeben. Welche Strafe ihm zugemessen wurde, geht aus der Akte nicht hervor.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 245, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ijc_xkq_2qb">Balga</placeName>
+            <date when="1740-06-27" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_k2v_ycq_2qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Balga, den 27. Jun. 1740</p>
+            <p>Die Königl. Dorfschaft <placeName key="ed_jjf_hrp_tdb">Bledau</placeName> hat in dem
+               abgewichenen 25. Jun. a. c. einen unbekannten wütenden Kerl im Dorf angehalten und
+               selbigen, da er wegen seines schlechten Habits und veränderlichen fürchterlichen
+               Gebärden den Verdacht eines Pferde-Diebstahls auf sich gezogen, auf frischer Tat
+               ergriffen und festgenommen, auch E. Königl. Amte in die hiesige Fron-Feste zur
+               sicheren Verwahrung überliefert, welcher denn <seg type="comment">
+                  <orig>extante copore delicti ex custodia</orig>
+                  <note xml:id="nu2d_dsp_5qb">wegen der Straftat aus dem Gefängnis</note>
+               </seg> hervorgefördert und im Beisein des Herrn Amts-Rats <persName key="ed_frn_rkx_2qb">Ramnicks</persName> als Jurisdictionarii behörig examiniert,
+                  <seg type="comment">
+                  <orig>facta ad monitione de veritata dicenda</orig>
+                  <note xml:id="ndjy_hsp_5qb">ermahnt, die Wahrheit zu sagen</note>
+               </seg> folgendes aussagt: <persName key="ed_mj1_gkx_2qb">
+                  <lb/>Hans Kobba</persName>, wisse nicht sein Alter, katholischer Religion, könne
+               die zehn Gebote, auch das siebente, aber nicht gedruckt lesen, noch weniger
+               schreiben, hielte sich zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> in
+               der Katholischen Kirche jährlich drei Mal zum Nachtmahl und zum letzten diese
+               Pfingsten da gewesen. Sei ein geborener Untertan aus denen Gräfl. von Lehndorff
+               Steinort-Landkeimschen Gütern, von da er vor einer geraumer Zeit weggelaufen und sich
+               bei Herrn Kreisrat von <persName key="ed_js2_zkx_2qb">Brumsee</persName> nach
+                  <placeName key="ed_isb_blx_2qb">Maraunen</placeName> hinbegeben, endlich aber
+               wieder extradiert und von seiner Herrschaft nach <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> als Mietsmann gesetzt worden, allein Delinquent schon vor 10
+               Jahren ein Weib genommen und mit derselben
+               <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>zweenen<?oxy_custom_end?>
+               Jungens und ein Margelle erzeugt, die er nunmero in Landkeim habe im Stich gelassen.
+               Es sei nur das eine Pferd, welches er aufgegriffen, und mehrere Diebstähle will
+               Delinquent nicht verübt [haben], will die Wahrheit sagen. <lb/>Vergangenen Freitag
+               als den 24. Juni a. c. wäre Delinquent gegen Frühstückszeit von <placeName key="ed_enz_4vz_g1b">Landkeim</placeName> abgegangen und hätte sich gerade weges
+               durch <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> nach dem Königl. Dorfe
+                  <seg type="comment">
+                  <orig>
+                     <placeName key="ed_csh_hlx_2qb">Tiefenthal</placeName> Kobbelbudschen
+                     Amtes</orig>
+                  <note xml:id="nmnh_qlx_2qb">Heute im <ref target="https://de.wikipedia.org/wiki/Wyssokoje_(Kaliningrad,_Bagrationowsk)">Oblast Kaliningrad</ref>.</note>
+               </seg> zugewendet, allwo er mit Sonnenuntergang glücklich angekommen und sich eines
+               von der Dorfschaft Pferde, welche hinter dem Dorfe geweidet, ergriffen, gleich davon
+               geritten, auch seinen Weg die ganze Nacht bis <placeName key="ed_evq_ylx_2qb">Hanswalde</placeName> bei den dortigen Schäfer<persName key="ed_vx1_dmx_2qb">
+                  Hans Hagenau</persName> fortgesetzt, den er von vielen Jahren her wegen seiner
+               vormaligen verübten Schäferprofession gekannt; das Pferd hätte er dem gemeldeten
+               Schäfer nicht zum Kauf geboten. Von Hanswalde wäre Delinquent ohngehindert bis Bledau
+               geritten, allwo er das gestohlene Pferd einem Bauern zum Kauf gesetzt, der es aber
+               nicht kaufen wollen, sondern Delinquenten frei unter die Augen gesagt, dass er das
+               Pferd gestohlen habe, worauf dann Delinquent festgenommen und allhier gefänglich
+               eingebracht worden. Seine Intention sei eigentlich gewesen, wenn er das Pferd
+               verkauft nach Maraunen zurückzugehen und seines Weibes Schwester zu besuchen; wäre
+               aber in seinem <seg type="comment">
+                  <orig>propos</orig>
+                  <note xml:id="na3x_ksp_5qb">Vorhaben</note>
+               </seg> durch der Bauern Anstalten gehindert worden. <lb/>
+               <gap reason="illegible"/>: Warum Delinquent stillschweigend von Landkeim weggegangen
+               und sein Weib und Kinder alldorten hinterlassen? <gap reason="illegible"/> Er wäre
+               nicht heimlicher Weise fortgegangen, sondern der Arrendator in <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>
+               <persName key="ed_ovm_hmx_2qb">H. Gronert</persName> hätte ihm die expresse Erlaubnis
+               gegeben, seine Freunde ein Maraunen zu besuchen, auch hätte sein Weib ihn angehalten,
+               dass er bei ihrer Schwester hingehen und etwas Linnen-Zeug zum Kittel mitbringen
+               möchte. Delinquent hätte in Landkeim nicht Böses verübt, dass er aus Furcht der
+               Strafe entwichen, sondern seine große Not und Armseligkeit, die mit vielen Zinsern
+               und Scharwerk noch nebenbei beschwert gewesen, hätte ihn gezwungen, sich anderweitig
+               was zu verdienen; wie er noch a part meldet, dass er den auf seinem Leibe tragenden
+                  <unclear reason="illegible" cert="high">grünen</unclear> zerlumpten Rock von des
+               Arrendatores Dienst-Knecht <persName key="ed_nw2_mmx_2qb">Hans Puschke</persName>
+               erlehnt habe. <seg type="comment">
+                  <orig>Defensionis loco propter comissum furtum</orig>
+                  <note xml:id="ngs2_rsp_5qb">sich verteidigend</note>
+               </seg> schützt Delinquent seinen höchst müh- und armselige Zustand vor, weilen er von
+               seiner Herrschaft dorten in Landkeim kein Brot bekommen und fast Hungers ohne
+               Erbarmen sterben müssen. Dahero seine Intention gewesen, sich von dem aus dem
+               erbeuteten Pferde gelösten Gelde Brotkorn und Kleider anzuschaffen, so ihm aber sehr
+               misslungen. Weiß nichts mehr zu sagen, und wird dem Torwächter <persName key="ed_wyc_pmx_2qb">Tiedmann</persName>
+               <seg type="comment">
+                  <orig>praelecto examine et ratihabito</orig>
+                  <note xml:id="ndlf_5sp_5qb">nach Prüfung und Unterschrift</note>
+               </seg> wieder zur genauen Aufsicht <seg type="comment"><orig>ad carceres</orig><note xml:id="nxzt_nn5_txb">ins Gefängnis</note></seg> übergeben.</p>
+            <p>
+               <persName key="ed_hy1_rmx_2qb">Johann Christoph Laxdehn</persName>
+               <lb/>als Actuarius</p>
+         </div>
+      </body>
+   </text>
+</TEI>

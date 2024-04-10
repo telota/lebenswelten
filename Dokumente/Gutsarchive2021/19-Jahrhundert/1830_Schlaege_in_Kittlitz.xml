@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_jrh_km1_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Fruchtfolge für Kittlitz</title><title>. 1830</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch den <ref target="lehndorff_pjz_gd5_qxb">Entwurf der Schläge für
+                     Stawisken</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 273, Bl. 35-35v</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>No. 12. Original</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1830-01-01" to="1830-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jrh_km1_3qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+            <p>Kittlitz<table rows="13" cols="2">
+                  <row role="label">
+                     <cell>1831</cell>
+                     <cell>1832</cell>
+                  </row>
+                  <row>
+                     <cell>Schlag</cell>
+                     <cell>Schlag</cell>
+                  </row>
+                  <row>
+                     <cell>1. Mistbrache. Winterung eingesät</cell>
+                     <cell>1. Winterung</cell>
+                  </row>
+                  <row>
+                     <cell>12. Winterung</cell>
+                     <cell>12. Sommerung mit eingesätem Klee</cell>
+                  </row>
+                  <row>
+                     <cell>11. Sommerung mit Klee</cell>
+                     <cell>11. Klee, roten, Ernte</cell>
+                  </row>
+                  <row>
+                     <cell>10. Klee-Ernte</cell>
+                     <cell>10. Hafer</cell>
+                  </row>
+                  <row>
+                     <cell>9.  Alter Klee</cell>
+                     <cell>9. Mistbrache, zum Teil mit Grünfutter zu Heu nach
+                                Wintereinsaat</cell>
+                  </row>
+                  <row>
+                     <cell>8. Hafer - nach der Haferbrache extra Mist</cell>
+                     <cell>8. Sollte Winterung sein, da aber nach dem Hafer des Vorjahres
+                                keine Winterung gesät werden konnte, so Kartoffeln und andere
+                                Sommerung in Dung</cell>
+                  </row>
+                  <row>
+                     <cell>7. Mistbrache</cell>
+                     <cell>7. Sollte Hackfrüchte sein, ist aber Winterung und muss im Jahr
+                                1833 Sommerung tragen und zur Weide abgesät werden</cell>
+                  </row>
+                  <row>
+                     <cell>6. Winterung</cell>
+                     <cell>6. Sommerung und zur Weide abgesät</cell>
+                  </row>
+                  <row>
+                     <cell>5. Hackfrüchte</cell>
+                     <cell>5. Weide</cell>
+                  </row>
+                  <row>
+                     <cell>4. Sommerung abgesät</cell>
+                     <cell>4. Weide</cell>
+                  </row>
+                  <row>
+                     <cell>3. Weide</cell>
+                     <cell>3. Weide</cell>
+                  </row>
+                  <row>
+                     <cell>2. Weide</cell>
+                     <cell>2. Mistbrache</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <note type="editorial">Es folgt ein </note>„<ref target="lehndorff_epw_xln_wtb">Projekt zur künftigen Rotation für <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, welche jedoch zuvor einer näheren Bestimmung
+                  bedarf</ref>‟. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,516 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_jpx_lfm_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Nachweisung der in den Steinortschen Gütern befindlichen Losleute. 1824</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Gesuch der Bauern Gellech vom <ref target="lehndorff_dsl_331_grb">8.
+                     August 1824</ref> sowie das <ref target="lehndorff_ktg_fyx_2tb">Verzeichnis der
+                     Bauern 1824</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 756, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1824-01-01" to="1824-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jpx_lfm_2tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachweisung der auf den Gräflich Steinortschen Vorwerken befindlichen Losleute im
+                    Jahr 1824</p>
+            <p>
+               <table rows="33" cols="4">
+                  <row>
+                     <cell/>
+                     <cell cols="2">Benennung</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>des Vorwerks</cell>
+                     <cell>der Losleute</cell>
+                     <cell><seg type="comment"><orig>Remarque</orig><note xml:id="nlnf_5rh_yxb">Bemerkung</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName>
+                     </cell>
+                     <cell>Losm. <persName key="ed_sqn_sjl_1vb">Bartnick</persName>
+                     </cell>
+                     <cell>bei Inst <persName key="ed_wfc_yzh_yqb">Scheimann</persName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_r1n_bkl_1vb">Neumann</persName>
+                     </cell>
+                     <cell>bei dem Hirt <persName key="ed_c5f_vzf_1vb">Schönfeldt</persName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_dzc_jkl_1vb">Gellesch</persName>
+                     </cell>
+                     <cell>bei Instmann <persName key="ed_d2z_4zh_yqb">Gellesch</persName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_dqm_1ll_1vb">Gwiasda</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>Maurer <persName key="ed_un5_skl_1vb">Uwis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">Zimmermann <persName key="ed_ypr_y4f_1vb">Schweiger</persName>
+                        </del>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell/>
+                     <cell>Schneider <persName key="ed_zrt_nkl_1vb">Gwiasda</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell/>
+                     <cell>desgl. <persName key="ed_w12_dll_1vb">Bartnick</persName>
+                     </cell>
+                     <cell>bei Tischler <persName key="ed_fkx_qjj_2qb">Scheimann</persName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_swm_nll_1vb">Scheimann</persName>
+                     </cell>
+                     <cell>bei dem <persName key="ed_rnc_m13_yqb">Katzmarzig</persName>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+                     </cell>
+                     <cell>Schneider <persName key="ed_alr_wll_1vb">Römer</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell/>
+                     <cell>Losmann <persName key="ed_vdc_zll_1vb">Schneider</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ckl_fml_1vb">Sobottka</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_t15_3ml_1vb">Kordack</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ksm_lml_1vb">Römer</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell>Losmann <persName key="ed_uqw_4ml_1vb">David
+                                Rompel</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_uz5_tml_1vb">Georg Jarreck</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell/>
+                     <cell>Gänsehirt <persName key="ed_nb5_wml_1vb">Jarreck</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>Losmann <persName key="ed_gfq_zml_1vb">Gwiasda</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>Altsitzer <persName key="ed_c4n_cnl_1vb">Uwis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell/>
+                     <cell>Schneider <gap reason="illegible"/>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell/>
+                     <cell>Radmacher <persName key="ed_jfp_fnl_1vb">Erdmann</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell>Losmann <persName key="ed_bzc_3nl_1vb">Matth.
+                                Kuckel</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_a3q_mnl_1vb">Joh. Schack</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ej3_pnl_1vb">Joh. Scheimann</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ynk_snl_1vb">Uwis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_qz4_5nl_1vb">Mich. Kuckel</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ccs_xnl_1vb">Fried. Lullis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_npv_14l_1vb">Joh. Gus</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_ibk_d4l_1vb">Georg Kuckel</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_xsc_g4l_1vb">Carl Lullis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_bcw_h4l_1vb">Gottfried Timm</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_e2p_j4l_1vb">Jacob Schack</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12.</cell>
+                     <cell/>
+                     <cell>Losmann <persName key="ed_olg_m4l_1vb">Bartel</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_t5z_n4l_1vb">Schelsay</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>14.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_srr_p4l_1vb">Mich. Masuch</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>15.</cell>
+                     <cell/>
+                     <cell>Gänsehirt <persName key="ed_mq5_r4l_1vb">Schuja</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>16.</cell>
+                     <cell/>
+                     <cell>Altsitzer <persName key="ed_pkd_v4l_1vb">Dawid
+                                Uwis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>17.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_kmb_y4l_1vb">Joh. Masuch</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>18.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_bd4_1pl_1vb">Mich. Masuch</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>19.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_fmp_cpl_1vb">Christoph Uwis</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>20.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_mnm_hpl_1vb">Smolenga</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>21.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_fpr_jpl_1vb">Schackin</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>22.</cell>
+                     <cell/>
+                     <cell>
+                        <unclear reason="illegible" cert="low">Schänder
+                                Sain</unclear>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>23.</cell>
+                     <cell/>
+                     <cell>Radmacher <persName key="ed_mqt_mpl_1vb">Kahnert</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>24.</cell>
+                     <cell/>
+                     <cell>Radmacher <persName key="ed_a5r_ppl_1vb">Moczarski</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>25.</cell>
+                     <cell/>
+                     <cell>Losmann <persName key="ed_zh1_5pl_1vb">Mich.
+                                Matzig</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell>desgl. <persName key="ed_i1j_xpl_1vb">Stanischewski</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_k1l_ktl_1vb">Christ.
+                                Scheimann</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_och_ptl_1vb">Schmadtke</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_vrg_stl_1vb">Gwiasda</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>" <persName key="ed_srm_vtl_1vb">Dannehl</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell/>
+                     <cell>Altsitzer <persName key="ed_t5q_xtl_1vb">Carl
+                                Gwiasda</persName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                     <cell>-  -</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell cols="2">Rekapitulatio</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>Groß Steinort</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Klein Steinort</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>Labab</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>Taberlack</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">6</hi>
+                     </cell>
+                     <cell>
+                        <hi rendition="#u">Serwillen</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">11</hi>
+                     </cell>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>Elf Fischerfamilien</cell>
+                  </row>
+                  <row>
+                     <cell>62</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_zt2_23k_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet aus Steinort, u. a. über Getreidelieferungen,
+               Viehzucht und Bauvorhaben. Steinort, 28. Mai 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1811-05-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe auch den Brief vom <ref target="lehndorff_czx_vqk_4qb">18. Mai
+               1811</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zt2_23k_ctb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 28. Mai 1811</dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p>Dass ich Ew. Hochgeboren dadurch, dass ich es nicht möglich machen konnte, dass die
+               Fuhren mit Erbsen Mittwoch Mittag in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> waren, einiges Missvergnügen erregt habe, geht mich sehr
+               nahe, nur Mangel an Aufmerksamkeit war es nicht. Hätten Hochdieselben nur ein Wort in
+               Dero Schreiben erwähnt, dass die Erbsen noch Donnerstag zur Zeit kommen, so würde in
+               der Nacht geschickt haben, es wäre mir sehr lieb gewesen, teils, um Platz auf dem
+               Speicher zu bekommen, teils,um Geld in die Kasse, es ist kein Taler mehr darin
+               vorrätig und es arbeiten so viel Handwerker, und Sonnabend ist der 1. Juni, wo zur
+               Bezahlung der Dienstleute wenigstens 200 Rtlr. erfordert werden. <lb/>In den Gütern
+               ist alles noch gut und gesund, und ich werde so viel nur immer in meinen Kräften
+               steht suchen, sowohl die mir bei der Abreise hinterlassenen, als die im letzten Brief
+               erteilten Befehle nach Vorschrift auszuführen. <lb/>Der Kondukteur teilt morgen das
+               letzte Feld in <placeName key="ed_xzt_112_gy">Stawisken</placeName> und dann werden
+               wir <placeName key="ed_xjg_d12_gy">Stobben</placeName> regulieren. <placeName key="ed_hyn_yzd_gy">
+                  <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+               </placeName> ist auch bereits auf der Karte berechnet und vorläufig eingeteilt und
+               trifft in jedem Felde circa 56 kulmische Morgen rein Säland, die 16 bis 20 Morgen
+               Gärten machen etwas im Lokale Schwierigkeiten, die noch ausgeglichen werden müssen.
+               Bei <placeName key="ed_s3k_b12_gy">Taberlack</placeName> habe ich vorläufig eine
+               Berechnung machen lassen auf 12 Bauern jedem 3 Morgen kulmisch, zur Weide 8 Morgen.
+               Instleute, Schmied, Schulmeister jeder 1 Morgen und dem Krug in jedem Felde 2 Morgen,
+               und es kommt für die Bauern und andere Leute da in der Brache an der Stawiskenschen
+               Grenze kein Feld heraus. Ich habe also bis zur Landstraße zum Vorwerk genommen, von
+               da ab den Bauern jedem 1 1/4 Huben in 3 Felder berechnen lassen incl. alles, und die
+               letzte Grenze trifft recht passend. Ich bin auch überzeugt, dass die Bauern nicht
+               mehr auch nicht weniger gehabt haben, weil ich die Aussaat des Vorwerks danach genau
+               berechnet habe, dann bleiben circa in jedem Felde 200 Schfl Aussaat und es ist alles
+               aufm Papier gezeichnet und berechnet. Es kommt nur also auf Dero Genehmigung an, dann
+               kann entweder jetzt gleich, oder künftiges Jahr mit der Auseinandersetzung der Anfang
+               gemacht werden. Am besten wäre es jetzt, damit vielleicht der Hof aufs Jahr was hat,
+               denn wenn Ew. Hochgeboren die Bauern beibehalten wollen, so müssen Sie ihnen aufs
+               Jahr doch ernähren, <seg type="comment"><orig>denn vom Wintergetreide baut mancher
+                     nicht viel mehr wie die Saat</orig><note xml:id="ncxs_gzt_qxb">Eine Übersicht
+                     für Taberlack, Stawisken und Labab aus dem Jahr 1719 weist große Unterschiede
+                     auf. Die Spannbreite reichte von 6 Schfl. bis 15 Schfl., die Mehrzahl der
+                     Bauern baute 8 bis 9 Schfl an. GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                     Lehndorff-Steinort, Nr. 741. Siehe hier auch Notizen von 1723 und 1777, wieviel
+                     Getreide produziert, verbraucht bzw. zur Saat genommen wurde. </note></seg>,
+               auf <placeName key="ed_xpm_112_gy">Labab</placeName>, <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+               und der 3. Teil von <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und
+                  <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> liefert sehr miserabel, auch
+               auf <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName> ist schon in vielen
+               Jahren nicht so schlechtes Wintergetreide gewesen wie jetzt, wenn nur jetzt bald
+               Regen käme, dann könnte bald vom Sommergetreide, besonders von den Erbsen, was
+               werden. <lb/>Die Schafe waren eben in der Schur, wie Dero Brief ankam. Die Spanische
+               sind nicht geschoren, aber ein Mal schon gewaschen, die diesjährigen Lämmer und die
+               Hammel von der Spanischen Generation sind auch noch nicht geschoren, nur die
+               vorjährigen Schafe sind geschoren. Ihre Wolle ist aber separiert von der anderen.
+               <lb/>Der Mastochse ist abgeholt, und morgen hört unsere Brauerei auf. <lb/>Die Bauten
+               gehen nun vorwärts, zum <placeName key="ed_xnn_d12_gy">Kittlitzschen</placeName>
+               Stall hat der Landbaumeister zwar einen anderen Grundriss endlich geschickt, allein
+               es sind viele Fehler darin, so dass der Zimmermann durchaus eine andere Balkenlage
+               machen musste. Die fehlenden Balken habe ich ihm von hier geben müssen, und das
+               andere fehlende Holz werde ich von der roten Brücke holen lassen. Wenn ich nun auf
+               den Vorwerken die Zäune im Stand habe, die <gap reason="illegible"/> Gerste und Lein
+               zugesät, dann werde ich gleich anfangen, Mist zu fahren. In <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName> habe ich bereits zu 40 Schfl. Aussaat
+               schon ausgefahren, auch untergepflügt, auch fast schon die halbe Brache abgeeggt.
+               <lb/>Vorigen Sonntag fanden wie unseren Pferdehirten auf dem Felde tot, Herr
+                  <persName key="ed_oxt_jzb_tcb">Kaiser</persName> sagte bei seiner Untersuchung,
+               dass er am Schlagfluss gestorben ist. Ich muss also einen Mann zum Pferdehirten
+               nehmen, einer hütet die Ochsen, 6 Mann dreschen, und also habe ich nur noch 4 Mann
+               beim Dünger fahren und pflügen; den Maurer muss ich auch alle Steine zum
+               Schweinestall noch einmal anfahren lassen, in Kittlitz habe ich ihm wenigstens noch
+               100 <seg type="comment"><orig>Fuder.</orig><note xml:id="nczc_nqs_wxb">Ein Fuder kann
+                     mit einer Fuhre oder einer Ladung übersetzt werden. Die Menge umfasste so viel
+                     Getreide, Heu oder Mist wie die Ladung eines zweispännigen Wagens, der von
+                     Pferden gezogen wurde. Je nach Region umfasste sie 800 bis 1800
+                  Liter.</note></seg> Steine müssen anfahren lassen. Der Fährbauer wird vielleicht
+               diese Woche auch fertig, ich habe ihm alle Tage auch 3 Mann geben müssen. <lb/>Der
+                  <seg type="comment">
+                  <orig>Kohlenschweler</orig>
+                  <note xml:id="nu2z_yqk_ctb">Siehe <ref target="https://www.dwds.de/wb/dwb/kohlenschweler">hier</ref>
+                  </note>
+               </seg> ist auch hier, ich habe ihm das Holz müssen anfahren lassen 3 Tage, alle Tage
+               3 Mann und wenigstens 14 Tage muss ich ihm einen Mann geben. Aus allen diesem werden
+               Ew. Hochgeboren gnädigst ersehen, dass ich viele Tage aus Mangel an Menschen nichts
+               bei der Wirtschaft vornehmen kann, ich werde müssen alles aufbieten, dass ich vor dem
+               Klee August dieses Jahr den Dünger hier werde herausfahren können. <lb/>Ew.
+               Hochgeboren erinnere ich an die Ausgeberei, und da jetzt doch in aller Hinsicht auch
+               eine im Inneren zu machende Veränderung notwendig obwaltet, so wäre mein Rat, wenn
+               Hochdieselben sich schon eine Person wählten, da sie doch eben im Hofe wohnt, auch
+               das Ganze führen kann, meine Frau wird ihr gewiss beim Anfange mit Rat und Tat zur
+               Hand gehen, auch vorjetzt noch, bis eine ankommt, die Wirtschaft führen. <lb/>Ich
+               habe mit letzter Post einen Brief vom Wirtschafter aus <placeName key="ed_txh_hrk_ctb">Wicken</placeName> erhalten, dass ich 1 <seg type="comment"><orig>Schock</orig><note xml:id="nt5p_qqs_wxb">60 Stück</note></seg> Karpfen
+               und Seiblinge von dorten abholen lassen soll, bei der jetzigen Witterung ist es wohl
+               keine Möglichkeit, im April und spät im Herbst lassen sich diese Fische wohl einige
+               Meilen lebendig transportieren, <seg type="comment">
+                  <orig>aber so weit auch schwerlich</orig>
+                  <note xml:id="nvxx_nrk_ctb">
+                     <ref target="http://www.ostpreussen.net/ostpreussen/orte.php?bericht=1126">Wicken, im Besitz des Grafen zu Eulenburg, lag im Kreis
+                     Bartenstein</ref>.</note>
+               </seg>, und wir müssen uns alsdann auch noch Fischkästen machen lassen. Ich habe Ihm
+               geantwortet, dass ich bei der jetzigen warmen Witterung die Abholung nicht
+               unternehmen werde.</p>
+            <closer>
+               <salute>Mit allem Respekt habe die Ehre mich zu unterzeichnen Ew. Hochgeboren untertänigster
+                        Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

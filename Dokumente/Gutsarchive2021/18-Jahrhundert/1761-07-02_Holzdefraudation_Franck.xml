@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_qss_3zq_cqb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gegen den Waldhüter Christoph Franck wird vor dem Patrimonialgericht in Steinort
+               wegen Holzdiebstählen in der Marschallsheide verhandelt. 2. Juli 1761</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 135:
+                  Bestellung von Waldhütern für die Wälder der Güter Pristanien, Stawken, Serwillen,
+                  Taberlack sowie für die Drengfurter und die Marschallsheide (1734-1774), weitere
+                  Verträge in Nr. 754 (1735-1773, 1855). In Nr. 135 der Vertrag mit Christoph Franck
+                  als Waldhüter der Drengfurter Heide (Marschallsheide) vom 1. Mai 1760 sowie die
+                  Pro-Forma-Eidesformel, die ein Waldhüter zu schwören hatte. <lb/>Vor Franck war
+                  1713-1718 <persName key="ed_u35_zws_fqb">Jacob Neumann</persName>, von 1742-1746
+                  der Salzburger <persName key="ed_bhv_vgj_f3b">Simon Wiemar</persName> Waldhüter in
+                  der Marschallsheide, GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                  447 und StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 288. </p>
+               <p>Bereits 1749 hatte sich ein Drengfurter Bürger, <persName key="ed_n11_pvb_3qb">Kraftzig</persName>, wegen Holzdefraudation in den Lehndorffschen Wäldern zu
+                  verantworten. Wenige Jahre nach der Verhandlung gegen Franck, 1771, kam es erneut
+                  zu Holzdiebstählen in der <placeName key="ed_op5_ngz_g1b">Marschallsheide,</placeName> und auch diesmal wurden Bürger aus Drengfurt,
+                     <persName key="ed_glj_tvb_3qb">Johann Eckell jun.</persName>, <persName key="ed_rxm_vvb_3qb">Christoph Baltrusch</persName>, <persName key="ed_sy4_xvb_3qb">Michael Lucas</persName> und <persName key="ed_atk_bwb_3qb">Friedrich Kraftzig</persName>, vor dem Patrimonialgericht
+                  in Steinort verhört, GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                  696 und 906. Inwieweit es dabei eine Rolle spielte, dass die Grenze in der
+                  Marschallsheide zwischen <placeName key="ed_pxt_cnh_1y">Steinort</placeName>,
+                     <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> und der Stadt <placeName key="ed_h35_jqh_my">Drengfurt</placeName> zwischen 1754 und 1757 Gegenstand
+                  eines Rechtsstreits zwischen der Gräfin <persName key="ed_q4s_xyl_2y">Maria Luisa
+                     von Lehndorff</persName> und dem Oberstleutnant von <persName key="ed_aqv_wch_scb">Buddenbrock</persName> war, bleibt zu untersuchen ( GStA
+                  PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 320).</p>
+               <p>Aber auch in den anderen Wäldern war es immer wieder zu Holzdiebstählen gekommen.
+                  Hier waren u. a. gegen die Waldhüter <persName key="ed_bh3_d5s_fqb">Gottfried
+                     Gaser</persName> in Serwillen, <persName key="ed_ubv_g5s_fqb">Joachim
+                     Zobel</persName> in Taberlack und <persName key="ed_y51_35s_fqb">Christoph
+                     Lan</persName> in Stawken Untersuchungen eingeleitet wurden, GStA PK, XX. HA,
+                  Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 700; zu weiteren Verfahren Nr. 694, 697
+                  und 699.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 436, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1761-07-02" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qss_3zq_cqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p><note type="editorial">Nach einem Verdacht auf Holzdiebstahl wurde der zu den
+                  Gräflich Steinortschen Gütern gehörende Wald der bei Drengfurt gelegenen
+                     <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName> durch <persName key="ed_jxf_qym_s2b">Christoph Poltzien</persName>, <persName key="ed_tdt_jqs_fqb">Christian Briese</persName>, <persName key="ed_d53_4qs_fqb">David Gus</persName>, Schulze aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, und <persName key="ed_olp_tqs_fqb">Christoff Wilewski</persName>, Schulze aus <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, revidiert. Sie fanden mehr als 400 frische Stubben, die
+                  sie genau spezifizieren. Der Waldhüter Christoph Franck wurde inhaftiert und durch
+                  den Justitiar der Güter wegen des Holzdiebstahls zu seiner Tat befragt. Da er
+                  einen Eid als Waldhüter abgelegt hatte, wurde er auch des Meineids beschuldigt.
+                  <lb/>Nach einem Verhör in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und
+                  einem Verhör der Drengfurter Bürger vor dem dortigen Magistrat fand der nächste
+                  Termin, an dem das Urteil verkündet wurde, in Steinort am 30. September 1761
+                  statt. Der Vorwurf der Holzdefraudation wurde als Recht erkannt. Franck habe seine
+                  Aufgabe als Waldhüter „treulos und mit der größten negligance‟ ausgeführt, „sich
+                  Unterschleife bedient‟ und Geschenke angenommen. Dies sei hart zu bestrafen.
+                  <lb/>Da er bereits seit 1/4 Jahr in der Kustodie eingesessen habe, wurde dies
+                  angerechnet. Auch hatte er das Holz, das man bei den Drengfurtern gefunden hatte,
+                  mit 24 Fl. 6 Gr. zu bezahlen und für die Prozesskosten aufzukommen, insgesamt 32
+                  Fl. 18 Gr. 9 D, solange aber im Eigentum der Herrschaft zu verbeiben, bis er die
+                  Summe abgezahlt hatte.</note>
+            </p>
+            <p>
+               <note type="editorial">Im Verhör gibt Franck an:</note>
+            </p>
+            <p>
+               <gap reason="insignificant"/> er hieße <persName key="ed_p3t_wps_fqb">Christoff
+                  Franck</persName>, Alter: 61, luth. Relig., sei seit einem Jahr Waldhüter im Walde
+                  <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName> genannt gewesen, und
+               habe den Waldhüter-Eid bei Antritt seines Dienstes abgelegt, hätte dahero auch zwar
+               mit seinem Wissen keine Defraudation unternommen, wohl aber wäre es geschehen, dass
+               die nachbenannten Holzdefraudenten dieses Holz aus dem Walde geholt, welche, wenn er
+               sie angetroffen, teils eingewendet, sie hätten das Holz aus einem anderen Wald
+               geholt, teils, wenn er sie wirklich in diesem herrschaftlichen Wald gefunden, ihm
+               versichert, sie hätten dieses Holz vom Jäger verhandelt und würden ihm den
+               Holz-Zettel nachher bringen, wodurch es beredet und dahin gebracht sei, dass er
+               sowenig die Defraudenten gepfändet als dieselben angegeben. </p>
+            <p>
+               <note type="editorial">Er benennt dem Justitiar der Steinortschen Güter, dem Richter
+                  und Stadtschreiber <persName key="ed_qtt_prs_fqb">J. Schmidt</persName> aus
+                     <placeName key="ed_y5w_wtp_dz">Barten</placeName>, neun Bürger aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> und die Mengen an Bauholz, Brennholz
+                  bzw. Zahl der Stämme, die sie abgeholzt haben. Die Genannten habe er tatsächlich
+                  angetroffen. Da die Diebstähle in der Nacht geschehen seien und er nicht zugleich
+                  an allen Orten sein konnte, können es auch weitere Personen gewesen sein. <note type="editorial">Es seien auch Leute aus <placeName key="ed_lqp_ndf_n2b">Groß
+                        Guja</placeName> und <placeName key="ed_agn_hhl_wcb">Bajoren</placeName> im
+                     Wald gewesen, die er nicht namentlich angeben könne. </note>Er habe die
+                  Diebstähle weder erlaubt, noch sei er dafür bezahlt worden oder hätte Geschenke
+                  erhalten. Es seien jedoch auch 39 Stämme für herrschaftlichen Gebrauch, nämlich
+                  für die Kirchen in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und
+                     <placeName key="ed_h35_jqh_my">Drengfurt</placeName> geschlagen worden, was
+                  durch Administrator <persName key="ed_vqd_qss_fqb">Heinrichs</persName> und Jäger
+                     <persName key="ed_tdt_jqs_fqb">Briese</persName> bestätigt wird, jedoch weist
+                  der Jäger die ihn betreffenden Behauptungen zurück. <lb/>Der 77-jährige vormalige
+                  Waldhüter <persName key="ed_nh3_5ss_fqb">Andreas Jahn</persName>, der bei Franck
+                  wohnt, wird verhört. Er gibt an, dass er des öfteren Leute auch aus Guja und
+                  Bajohren, selbst aus <placeName key="ed_cdw_zss_fqb">Wolfsdorf</placeName> bei
+                  Franck gesehen habe, die ihm etwas gebracht hätten, z. B. Bier. Dessen Ehefrau
+                  hätte sich auch des öfteren Geld geborgt. Er selbst hätte Leute pfänden wollen,
+                  diese hätten ihm aber entgegnet, er sei nicht der Waldhüter, dies hätte er Franck
+                  und dessen Frau gesagt, er sei jedoch gescholten worden, warum er sich einmische.
+                  <lb/>Francks Tochter wird ebenfalls verhört. Da ihr Mann im Kriegsdienst sei, habe
+                  sie bei dem Vater und der Stiefmutter gewohnt, könne aber die Vorwürfe nicht
+                  bestätigen. Sie habe sich von ihrer Hände Arbeit kümmerlich ernährt. <lb/>Die
+                  Ehefrau bestätigt, dass sie die von ihrem Mann benannten Leute im Wald gesehen
+                  habe, er habe sie jedoch nicht pfänden können und davongejagt. Daraufhin habe sie
+                  und ihren Mann der Schmied aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> bedroht. Sie seien unschuldig. <lb/>Franck wird mit den
+                  Aussagen des Jahn konfrontiert, worauf er erwidert, er selbst habe Jahn
+                  aufgefordert, auf den Wald zu achten, dieser jedoch erwidert, das ginge ihn nichts
+                  an.</note>
+            </p>
+            <p>Der <persName key="ed_nh3_5ss_fqb">Andreas Jahn</persName> sagt dem Franck in die
+               Augen, dass auf seine Anzeige, wie der Krüger aus <placeName key="ed_lqp_ndf_n2b">Guja</placeName> und der Köllmer aus <placeName key="ed_agn_hhl_wcb">Bajoren</placeName> im Wald gewesen, er, Franck, ihn deshalb geschimpft und nach
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> klagen gehen wollen, nach
+               einer halben Stunde aber ihn gebeten, still zu schweigen, und was den Wolfsdorfschen
+               Mann betrifft, hätte Franck zwar gesagt, er würde ihn schon kriegen, sei aber nicht
+               sogleich dahin gegangen, sondern so lange gewartet, bis derselbe weg gewesen wie auch
+               das Holz mit sich genommen, der Beklagte hingegen negiert dieses beständig <gap reason="insignificant"/>, <note type="editorial">weshalb in der Sache kein Urteil
+                  ergehen kann, bis die Drengfurter Bürger durch den dortigen Magistrat vernommen
+                  sind. Der Drengfurter Magistrat fällte nach eingehendem Verhör am 18. September,
+                  in dem die Beschuldigten angaben, Franck hätte ihnen gegen Geschenke und Geld die
+                  freie Abfuhr von Holz angeboten, ein Urteil. Alle werden zu Geldstrafen
+                  verurteilt. Der Magistrat stellt das Urteil (gegen 10 Gr. Gebühr für die
+                  Abschrift) der <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName>
+                  zu.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hvj_sc2_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inventar der von dem Pächter Georg Knetsch in Labab zurückgelassenen Sachen.
+               Labab, 12. November 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe die Anmerkungen zum Dokument vom <ref target="lehndorff_u2d_htv_wpb">25.
+                     August 1742</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 267, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xpm_112_gy">Labab</placeName>
+            <date when="1742-11-12" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hvj_sc2_ctb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Inventarium von denen Sachen, welche der <persName key="ed_yrq_4nf_fqb">Georg
+                        Knetsch</persName> in <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    zurückgelassen, in Gegenwart des geschworenen Dorfschulzen <persName key="ed_x23_tnf_fqb">N. Schaack</persName> und dem itzigen Arrendator
+                        <persName key="ed_u5j_wnf_fqb">N. Meyer</persName> aufgezeichnet</p>
+            <p>Ein groß gemachtes Schaff mit zwei Türen und behörigem Eisenwerk <lb/>Ein klein
+               Schaff ohne Schloss und eiserne Bänder <lb/>Ein großer rot und schwarz gemahlter
+               ovaler Tisch mit zwei Schubladen mit Schlösser <lb/>Ein Tannen Brett <lb/>Eine lange
+                  <unclear reason="illegible" cert="low">Tastel</unclear> mit seinem Fuß <lb/>Eine
+               kleine längliche Lade mit zwei eisernen Bändern und Form eine <gap reason="illegible"/>
+               <lb/>Ein Butter Troch <lb/>Zwei ganze hölzerne Stühle <lb/>Zwei hölzerne Stühle an
+               welchen die Lehnen entzwei <lb/>Ein dito ohne Lehne <lb/>Ein geflochtener halber <gap reason="illegible"/>
+               <lb/>Ein geflochten Viertel <lb/>Ein schlecht weiß Schaff mit 2 paar Krickbänder, ein
+               Überwurf, 2 Haspen und Ringschloss <lb/>Ein schlechter vierkantigter Tisch mit seinem
+               Fuß, ohne Leisten <lb/>Ein langer Kasten mit seinem verdeckten Schloss von einer
+               Seite, an der anderen aber 1 eiserner Überwurf, zwei Haspen und 1 Vorlegeschloss
+               <lb/>Ein großer Backtroch <lb/>Ein groß Bett mit einem offenen Himmel, ohne untere
+               Bretter <lb/>Ein Weberstuhl mit allem Zubehör, imgl. 3 Haspeln <lb/>Ein Wasch<unclear reason="illegible" cert="high">tonne</unclear> mit zwei Bänder <lb/>Eine große
+                  <gap reason="illegible"/>tonne mit 6 Bänder <lb/>Eine Biertonne, woran 3 Bänder
+               fehlen <lb/>Eine Haspel, das Garn abzuhaspeln <lb/>Ein Seilen Wagen, Strang zu machen
+               <lb/>Eine große neue Mangel, der <gap reason="illegible"/> von Eisen, die Mangel von
+               Lindenholz <lb/>Eine alte Tischlerbank ohne alles Eisen <lb/>Ein Spannbett ohne Sack
+               <lb/>Ein Tannenbrett auf der Lucht <lb/>Ein Maisch <unclear reason="illegible" cert="high">Küren</unclear> mit 5 Bänder <lb/>Ein Kühlfass mit 9 Bänder <lb/>Eine
+               hölzerne Wage <lb/>Eine zerrissene Klappe <lb/>Ein zerbrochener Stuhl <lb/>Ein großer
+               Puffwagen, an welchem die Räder brauchbar, derselbe hat 8 Ringe, 8 Büchsen, 4 Bleche,
+               die durch und durch gehen, 4 Tragringe, 1 Langwagenringe, 3 Armringe, 1 eiserner
+               Wachtnagel, kein Spannnagel <lb/>Ein kleiner zweispänniger Wagen mit zwei Leitern und
+               noch brauchbare Rädern. Derselbe hat 8 Ringe, 8 Büchsen, 8 Bleche, 4 Tragringe, 2
+               Langwagenringe, 3 Armringe, 1 eiserner Wachtnagel, 1 hölzerner Spannnagel, 2
+               Eisstöcke mit eisernen Ringen <lb/>Ein guter beschlagener Holzschlitten mit
+               Polsterringe, vorne mit Kufen und eisernen Deichselkreuz nebst 2 Haspen <lb/>Ein
+               beschlagener Holzschlitten an welchem 4 kleine Ringe und eisernea Deischselkreuz mit
+               2 Haspen <lb/>Eine Teertonne<lb/>
+               <lb/>
+            </p>
+            <p>Labab, d. 12. Nov. 1742</p>
+            <lb/>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

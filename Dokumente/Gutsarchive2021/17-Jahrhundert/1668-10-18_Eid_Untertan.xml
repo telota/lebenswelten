@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wwc_yts_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eid der Erbuntertanen des Grafen von Schwerin auf Wildenhoff. 18. Oktober
+                    1668</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Nach Friedrich Wilhelm Henning, Herrschaft und Bauernuntertänigkeit. Beiträge zur
+                  Geschichte der Herrschaftsverhältnisse in den ländlichen Bereichen Ostpreußens und
+                  des Fürstentums Paderborn vor 1800, Würzburg 1964, S. 128, wurde der Untertaneneid
+                  erst mit den Edikten des Jahres 1719 allgemein gebräuchlich, hatte aber auch dann
+                  nur eine deklatorische Bedeutung, begründete also selbst kein
+                  Untertänigkeitsverhältnis. </p>
+               <p>Siehe hierzu den Eid eines Erbuntertanen in Steinort vom <ref target="lehndorff_bvg_zhz_hqb">2. Dezember 1689</ref> und vom <ref target="lehndorff_qfw_43d_vpb">4. September 1741.</ref>
+               </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 381 Familienarchiv Schwerin, Nr. 190, Bl. 23-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1668-10-18" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wwc_yts_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Eid der Untertanen</p>
+            <p>Wir geloben und schwören hiermit zu Gott dem Allmächtigen einen körperlichen Eid,
+               dass wir nunmehr dem Hochwürdigen, Hochwohlgeborenen Herrn Herrn <persName key="ed_xy2_4zp_rdb">Otto Freiherrn von Schwerin</persName>, Herren auf altem <seg type="comment">
+                  <orig>Landerbe <placeName key="ed_z1v_zsn_my">Wildenhoff</placeName> p.</orig>
+                  <note xml:id="nn53_qv4_krb">Die Begüterung Wildenhoff war ihm am 16. August 1668
+                     vom Großen Kurfürsten verliehen worden. Damit begann die Ära Schwerin in
+                     Wildenhoff. </note>
+               </seg> wie auch desselben Erben und Erbnehmern vor unsere gebührende Obrigkeit
+               erkennen, ihnen untertänig, gehorsam und treu sein, allemal unsere schuldigen Dienste
+               und Pflichten zu rechter Zeit völlig leisten, niemals ohne ehrhafte Ursache zu spät
+               in den Dienst, noch frühzeitig unangesagt aus dem Dienst treten, auch unsere Pächte
+               nach aller Möglichkeit entrichten, unserer gnädigen Herrschaft Schaden nach bester
+               Möglichkeit verhüten, Nutzen und Frommen aber in allem, so viel an uns ist,
+               befordern, und in Summa uns also gegen unserer Gnädigen Herrschaft oder Beamten und
+               Bedienten jederzeit bezeigen wollen als gehorsamen und getreuen Untertanen wohl
+               ansteht und gebührt, so war uns Gott helfe durch seinen Sohn Jesum Christum Amen.</p>
+            <p>Den 18. Oktobr. ao. 1668 haben nachfolgende Untertanen ihren schuldigen Eid
+               nachfolgendermaßen in Gegenwart des Amtmanns und Herrn <persName key="ed_hgx_vv4_krb">Mönicke</persName> geleistet und abgelegt. <lb/>
+               <note type="editorial">Es folgen 15 Namen, drei wurden gestrichen.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

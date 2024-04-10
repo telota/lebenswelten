@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_is5_ypl_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gutsverwalter Kollmann beschwert sich vor dem Patrimonialgericht</title><title>, dass ihm der Pächter Malinowski die Magd Christina vorenthalte. Schönberg, 17.
+               September 1785</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Weitere Klagen in Gesindesachen in der Akte.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 970, Bl. 33-34</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1785-09-17" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=970"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Schönberg, den 17. September 1785</p>
+            <p>Der Arrendator <persName key="ed_qbl_wtx_5sb">Kollmann</persName> beschwerte sich
+               über den Pächter <persName key="ed_dhz_ztx_5sb">Malinowski</persName>, dass er ihm
+               die <persName key="ed_qhk_d5x_5sb">Magd Christina</persName> auf <seg type="comment"><orig>Martini</orig><note xml:id="ngrf_fbg_vxb">11. November</note></seg> c.
+               vorenthalten wolle. Der Malinowski beteuert, dass die Christina nicht den Dienst
+               aufsagt. Kollmann versichert, dass die Christina solches behauptet und bei Erhaltung
+               des Mietspfennigs den Dienst schon über etliche Tage versprach. <lb/>Christina
+               Boltzin, vorgefordert gesteht, dass sie sich zwar bei dem Kollmann aufs künftige Jahr
+               von Martini c. vermietet, auch wäre an den Dienstschein gedacht, desgl. gesteht sie,
+               dass sie dem Kollmann gesagt, dass sie den Dienst aufgesagt. Sie habe aber nur der
+               Tochter des Malinowski gelegentl. einst entdeckt, dass sie nicht bleiben würde im
+               ferneren Dienst. Solchergestalt müsse sie sich entschließen, im Dienst beim
+               Malinowski zu verbleiben und den erhaltenen <seg type="comment"><orig>Mietpfennig</orig><note xml:id="nw23_kbg_vxb">Zur Bedeutung <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=mietpfennig&amp;firstterm=mietpfaffe">hier</ref>.</note></seg> a 30 Gr. der Kollmannin zurückzugeben. Auf
+               Befragen gesteht die Boltzin, dass sie zwar wisse, dass sie um <seg type="comment"><orig>Johanni</orig><note xml:id="nxcp_mbg_vxb">24. Juni</note></seg> den
+               Dienst aufsagen sollen, indessen wäre sie von anderen Leuten überredet, dass sie sich
+               beim Kollmann vermieten soll, und dabei habe sie an das Aufsagen des Dienstes nicht
+               gedacht. <lb/>Kollmann bittet, dass Boltzin bestraft werde. <lb/>Dieser Rezess wurde
+               vorgelesen, genehmigt und unterschrieben.</p>
+            <p>Michael Kollmann</p>
+            <p>Johann Malinowski</p>
+            <p>xxx Christina Poltzin hat diese 3 x eigenhändig gemacht, attestieren <gap reason="illegible"/>
+               <persName key="ed_o2s_m5x_5sb">C. G. Moler</persName> Act.</p>
+            <p>Bescheid</p>
+            <p>Die Boltzin bleibt im Dienst des Malinowski, selb. muss aber mit 1/2 stündigem <seg type="comment">
+                  <orig>spanischen Fidel-Tragen</orig>
+                  <note xml:id="novm_v5x_5sb">Zu dieser Strafe siehe  <ref target="https://books.google.de/books?id=m7AOAAAAYAAJ&amp;pg=PA114&amp;lpg=PA114&amp;dq=spanische+Fidel+Strafe&amp;source=bl&amp;ots=ACRQt_5H1i&amp;sig=ACfU3U1NXRlgHsMtSrGe-KLPIjAtGbNvrA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjL667s57b2AhUkQfEDHe4iDrQQ6AF6BAg6EAM#v=onepage&amp;q=spanische%20Fidel%20Strafe&amp;f=false">hier.</ref></note>
+               </seg> bestraft werden, auch hat selbe <seg type="comment">
+                  <orig>12 Gr. [zu bezahlen] </orig>
+                  <note xml:id="nkwz_d3m_trb">Hier bricht der Text ab.</note>
+               </seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

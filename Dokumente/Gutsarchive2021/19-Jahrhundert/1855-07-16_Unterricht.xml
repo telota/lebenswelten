@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_azr_zz3_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Einrichtung von Näh- und Handarbeitsunterricht in der Schule zu Taberlack.
+                    Drengfurt, 16. Juli 1855 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 541, Bl. 24-24v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_jqq_kxj_d2b">Otterski, Ernst Julius (1812-1883)</persName>
+               <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+               <date when="1855-07-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Luise Agnes Friederike Charlotte
+                        Auguste Gräfin von (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Siehe hierzu das Dokument vom <ref target="lehndorff_ky4_zkj_ycb">14. Juli
+                  1856</ref>. - 1861 erhielten durch Lehrer Puschke fünf Lehrerfrauen sieben Taler
+               15 Sgr. halbjähriges Gehalt für das Halten von „Industrieschulen vom Herrn Rendanten
+               Pfeifer‟ in der Steinorter Begüterung, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940851">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 541</ref>, Bl. 26.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940851"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Drengfurt, 16. Juli 1855</dateline>
+               <salute>Hochgeborene Frau Gräfin!</salute>
+            </opener>
+            <p>Ihre Hochgeboren beehre ich mich auf das geehrte Schreiben vom 3. d. M. ganz
+               ergebenst zu erwidern, dass ich mit großem Vergnügen von dem vielversprechenden
+               segensreichen Projekt Kenntnis genommen habe, in der Schule zu <placeName key="ed_s3k_b12_gy">Taberlack</placeName> für die weibliche Jugend
+               Nähschulunterricht und für die Knaben Handarbeitsstunden einzuführen, und trage keine
+               Bedenken, meine freudig dankbare Zustimmung zu geben und die Genehmigung der Königl.
+               Regierung mit voller Gewissheit in Aussicht zu stellen. <lb/>Mit dem Lehrer <unclear reason="illegible" cert="high">Kuersner</unclear> aus Taberlack, dessen Frau,
+               falls ihre Kränklichkeit es zulässt, zur Erteilung des Nähschulunterrichts sich sehr
+               eignen dürfte, habe ich bereits Rücksprache darüber genommen, lege aber die
+               Ausführung selbst verantwortungsvoll in die in solcher Kunst geübten und erfahrenen
+               Hände Ihrer Hochgeboren. <lb/>Mit dem Wunsche, dass bei diesem Projekte der Segen des
+               Herrn nicht ausbleiben möge, und mit dem Ausdruck tiefgefühlter Ehrerbietung gebe ich
+               mir die Ehre mich zu zeichnen</p>
+            <closer>
+               <salute>Ihrer Hochgeboren ganz ergebenster</salute>
+               <signed>Otterski</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

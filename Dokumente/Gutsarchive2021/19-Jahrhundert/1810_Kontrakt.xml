@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_n4q_rwv_p5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entwurf des Grafen von Lehndorffs für Verträge mit Instleuten in Pristanien und
+               Stawken. Steinort, 1810</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Das Konzept ist sehr schwer lesbar, fehlende Passagen lassen sich mit dem <ref target="lehndorff_qzj_vp2_ctb">allgemeinen Entwurf</ref> ergänzen. Am <ref target="lehndorff_afr_2vc_nxb">10. Juli 1817</ref> wurden die Kontrakte
+                  geschlossen.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 327, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1810-01-01" to="1810-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_n4q_rwv_p5b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Kontrakt für die Instleute in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               und <placeName key="ed_nkz_b12_gy">Stawken</placeName></p>
+            <p>Instmann N. N. erhält </p>
+            <p>A. Einen Morgen kulmisch Land inklusive ein Stückchen Wiese in jedem Felde. Diesen
+               Acker bearbeitet er mit herrschaftlichen Ochsen, eggt aber mit eigenem <unclear reason="illegible" cert="high">Pferd</unclear>.  Zur Ernte erhält er Wagen und
+               Pferde, zur Mistausfuhr Wagen und Ochsen oder Pferde. <lb/>Außerdem erhält er noch 1
+               Fuder Heu von der Herrschaft, welches er sich selber nehmen und mit herrschaftlichem
+               Gespann anfahren kann, wofür er 1 Rtlr. bezahlt.<lb/></p>
+            <p>B. An Vieh darf er auf herrschaftlicher Weide halten <lb/>ein Pferd <lb/>eine Kuh
+               <lb/>zwei Gänse nebst Gößel <lb/>zwei Schafe (in Pristanien aber keine <gap reason="illegible"/>)<lb/>zwei Schweine (in Stawken aber keine Schweine und statt
+               denselben 2 Schafe mehr oder vier Pferde) <lb/>vier Schafe <lb/>In Stawken kann sich
+               zwar der Instmann ein oder zwei Schweine zum <gap reason="illegible"/> ausfuttern, es
+               muss aber im Stall geschehen oder im Sommer das Schwein so an einen Platz gebunden
+               sein, dass es schlechterdings nicht im Schaden gehen kann, wird das Schwein, es sei
+               im Sommer Herbst Frühjahr oder Winter, auf der Saat oder dem Klee getroffen, so wird
+               es tot geschossen, wogegen Instmann nichts einwenden kann.</p>
+            <p>C. An Taglohn erhält von Ostern bis <seg type="comment"><orig>Michaelis</orig><note xml:id="nebg_34l_wxb">29. September</note></seg> der Mann 9 Gr das Weib 6 Gr.
+               von Michaelis bis Ostern der Mann 7 1/2 Gr. das Weib 4 Gr.</p>
+            <p>D. Den Drescherverdienst erhält der Mann mit dem 11. Scheffel.</p>
+            <p>E. Wohnung, Stall und einen Garten von 50 Quadratruten Gemüse- und Kartoffelland
+               neben freier Wohnung, wofür er 2 Rtlr. jährliche Miete bezahlt und verbunden ist, für
+               die Instandhaltung der Wohnung nach Möglichkeit und in allen Stücken, die keine baren
+               Geldkosten erfordern, zu sorgen, als um das Abgraben der Wohnung, dass keine
+               Feuchtigkeit und Verschmutzung kommen, Estrich auf den Boden bringen, auf ihn
+               entfällt den Lehm oder <gap reason="illegible"/> beizeiten herbei zu schaffen, die
+               Handarbeit, die bei einer größeren Reparatur wegen fester Mauern oder Zimmern
+               gebraucht wird, leistet er unentgeltlich, sowie die Handlanger beim <gap reason="illegible"/>.</p>
+            <p>F. Er erhält freies Holz zum Brennen und ist verbunden, im Herbst und nach der
+               Umbrechung des Winterfeldes zum Sommerfeld Stubben zu roden, wogegen er 8 Tage lang
+               frei erhält. Kann er (wenn er von den Arbeiten entbehrt werden kann) in den
+               allgemeinen Holztagen am <gap reason="illegible"/>- und Leseholz teilnehmen, außerdem
+               erhält er in den Monaten Dezember, Januar, Februar 2 mal in jedem Monat ein Fuder
+               Backholz, welches zusammen ein Achtel betragen muss, und die Fuhren mit eigenem
+               Pferden leistet, er ist aber auf diese Art verbunden, seinen Holzvorrat so
+               einzurichten, dass er im <gap reason="illegible"/> genug hat, da im Laufe des Sommers
+               schlechterdings er unter keinem Vorwande in den Wald gelassen würde.</p>
+            <p>Instmann N.N. hat dagegen nachstehende Abgaben und Verpflichtungen:</p>
+            <p>A. für den Morgen kulmisch Land in jedem Felde tut er Scharwerkstage und <gap reason="illegible"/> zahlt er Geld und Gespinst.</p>
+            <p>B. Er ist verbunden, für den festgesetzten Tagelohn sowohl er als sein Weib, und wenn
+               diese nicht kann eine Magd, wenn es verlangt wird und ein <gap reason="illegible"/>,
+               auch im Winter in Arbeit zu gehen, weshalb er gut tun wird, sich eine Magd oder
+               Jungen zu halten. </p>
+            <p>C. Er ist den Königl. Bestimmungen gemäß den Kommunallasten unterworfen, als <gap reason="illegible"/> bei Circulairen oder bei Truppenmärschen oder Bestellungen,
+               wobei eine <gap reason="illegible"/> existiert. <lb/>Die Kommunalsteuern, soviel nach
+               Billigkeit auf ihn repartiert wird, unentgeltlich mit einbehalten, da sie der
+               Unterhaltung seines Viehs mit dienen. Bei <gap reason="illegible"/> Wegebesserungen
+               der Landstraße und Brücken gleich den Bauern, doch nach Maßgabe seines Viehbestandes,
+               helfen und solche Dienste, welche königl. Onera sind und auf Angespann repartiert
+               werden, mittun, auch sich bei Wolfsjagden anstellen, da er ja auch Vieh hat. </p>
+            <p>D. Im Übrigen die Onera und Abgaben, welche hier jetzt bestanden haben, als dies
+               sind: <lb/>an Naturallieferungen Metzgetreide, in Ermangelung desselben <gap reason="empty"/><lb/>1/4 Schfl. Eicheln, 1/4 Schfl. Hopfen, 1 St. Leinwand, in
+               Ermangelung dessen 15 Sgr. für jedes <gap reason="illegible"/>
+               <lb/>wenn er mehr als 2 junge Gänse hat ein <gap reason="illegible"/><lb/>Gespinst 10
+               Stück, wogegen er 4 bis 6 Pfund Hede erhält, wenn er nicht spinnt 40 Gr. <lb/>an
+               Scharwerkstagen er 6, sein Weib 6<lb/></p>
+            <p>, </p>
+         </div>
+      </body>
+   </text>
+</TEI>

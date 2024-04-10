@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_y1p_wbk_4qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet aus Steinort, u. a. über die Viehwirtschaft. Steinort,
+               16. März 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <date when="1811-03-16" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </correspAction>
+            <note>Im Brief vom 22. März schreibt Berent, dass auch die Brennerei nicht möglich ist.
+               Sie hätten noch 40 Ohm Branntweinvorräte, nicht genügend Gerät und das Wasser sei zu
+               warm. <lb/>Auch für das Dreschen waren die milden Temperaturen schlecht, so dass er
+               die Instleute keinen Tag wegschicken konnte. Da die für die Sommerbestellung nötigen
+               Pferde auf den Vorwerken inzwischen in die Ställe gebracht waren, hatten die beiden
+               Knechte mit dem Füttern der Pferde und des Viehs viel Arbeit. Einen weiteren Knecht
+               konnte Berent nicht bekommen, weshalb er vorschlug, „den Gritzka von Labab‟ zu
+               nehmen, „da eine Wohnung in Kittlitz ist, der hat auch zu Hause noch einen großen
+               Jungen von 15 Jahren‟.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_y1p_wbk_4qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 16. März 1811</dateline>
+               <salute>Gnädigster Herr Graf</salute>
+            </opener>
+            <p>Ew. Hochgeboren Schreiben durch den <persName key="ed_erx_yj3_wqb">Fleischer</persName> habe ich Mittwoch erhalten. Diesen Mann kenne ich schon
+               lange, er ist ein bloßer Verkäufer und lebt bloß vom Profit. Er hat mich im Anfange
+               einen Preis geboten, den kein rechtlicher Mann tun konnte, bloß 30 Rtlr. und das nur
+               bloß für 15 Stück. 6 wollte er gar nicht nehmen. Nach langem Drängen ging er dann bis
+               36 Rtlr. und ich ließ ihm diese 15 Stück, wenn er sie gleich abnehme, schon für 39
+               Rtlr., ohnerachtet 14 Stück davon beim Aufstellen 31 Rtlr. kosten und zu taxieren
+               waren. <seg type="comment">
+                  <orig>Meines Erachtens wäre bei diesen elenden Preisen doch das Äußerste, mit dem
+                     Verkauf abzuwarten,</orig>
+                  <note xml:id="nc14_h3k_4qb">Einen anderen Käufer, den Lehndorff geschickt hatte,
+                     musste Berent deshalb wegschicken. Grund für den übereilten Verkauf waren
+                     Briefe, die Berent von Lehndorff aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> erhalten hatte, mit Nachrichten über die dortigen
+                     schlechten Marktpreise für Ochsen und der Aufforderung, die Tiere vor Ort zu
+                     verkaufen. Von den 6 Ochsen konnte Berent 4 an Kleinstädter, 3 zu 25 Rtlr., 1
+                     zu 20 Rtlr., verkaufen. Für das Geld kaufte er zwei junge Ochsen.</note>
+               </seg> denn die Fischereien haben jetzt auch aufgehört und viele tausende Mahlzeiten
+               werden daher mit Fleisch gemacht. Den schwarzbunten Ochsen musste ich schlachten
+               lassen, er wollte gar nicht mehr fressen. Von der hintersten Reihe habe ich 3 Stück,
+               die noch gut im Pflug gehen, auf Mist stehen lassen, und die können auch ziehen. Auf
+               diese Art brauchen wir keinen Ochsen nach <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> zu kaufen. 4 Stück kann der <placeName key="ed_xpm_112_gy">Lababsche</placeName> Kämmerer abgeben, 2 Stück vom Bauern <persName key="ed_gsp_kk3_wqb">Uwisschen</persName> werde ich kaufen und 3 Stück vom
+               Brandstall. Pferde werden aber auch 2 oder 3 Stück fehlen, da 7 Stück Stuten tragend
+               sind und eins in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und 2 in
+                  <placeName key="ed_xpm_112_gy">Labab</placeName> sehr schlecht und schwerlich
+               egden werden. Vielleicht werden Ew. Hochgeboren aber auf der <ref target="lehndorff_czx_vqk_4qb">Reuschenschen Auktion</ref> diese ankaufen lassen. </p>
+            <p>In den Gütern ist noch alles gesund und gut, bei der Wirtschaft ist nicht viel zu
+               machen. Der Weg ist bei uns so grundlos, dass man kaum das Getreide von den Vorwerken
+               kann hier nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> transportieren
+               lassen. Bei diesem bisschen Frost hab ich hier noch 3 Tage Dünger fahren lassen, wo
+               es sich tun ließ etwas Schirrholz und nach <placeName key="ed_xjg_d12_gy">Stobben</placeName> aus dem Hegewald <seg type="comment">
+                  <orig>30 Stück Bauholz</orig>. <note xml:id="nwpp_z3k_4qb">Im Brief vom 21. März
+                     schreibt Berent, mit dem Holzbeschlagen müsse der Anfang gemacht werden, der
+                     Maurer sei auch schon da. Der Landbaumesser werde für die Vermessung
+                     erwartet.</note></seg>
+            </p>
+            <p>Die Gerätschaften nach <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> sollen
+               gewiss dann, wenn sie gebraucht werden, fertig sein. Ich werde den <persName key="ed_gfp_yk3_wqb">Schwikowski</persName> beim ersten Reinmachen aufhören lassen
+               zu dreschen, damit er mit dem <seg type="comment">
+                  <orig>
+                     <persName key="ed_f4s_dl3_wqb">Lisch</persName>
+                  </orig>
+                  <note xml:id="nrmk_1l3_wqb">Liss</note>
+               </seg> das Nötige besorgen kann.</p>
+            <p>Die kleine Bollen habe ich im Arbeitsstall und sie werden gut gefüttert, und der
+                    große Boll bekommt alle Tage 1 Metze gekocht Korn. </p>
+            <p>Das Kalb bekommt alle Tage seine gehörige Milch und 2 Stück Eier. Die schwarze
+                    Sau lebt noch, ist aber immer beim alten. </p>
+            <p>Die kleinen Kälber und Fohlen sind alle recht gesund und gut, die ersten sind in drei
+               Abteilungen und werden unter Aufsicht des <persName key="ed_pkh_3gv_mbb">Poltzien</persName> gut gefüttert.</p>
+            <p>Die Schäferei befindet sich im besten Stande, von den echt spanischen sind 40
+                    Lämmer exkl. zwei, die verunglückt sind; von den anderen sind 143 Stück Lämmer,
+                    von den echt spanischen werden wohl noch einige kommen.</p>
+            <p><seg type="comment"><orig>Das größte Übel ist der Transport des Getreides nach
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName></orig><note xml:id="nxy2_psl_wxb">Siehe den Brief vom <ref target="lehndorff_pyf_21n_kqb">15. Januar</ref>.</note></seg>, allein da wird doch auch Rat werden, denn
+               wir haben Futter! und können, so bald der Weg trocken wird, entweder vor oder nach
+               der Erbsen-Aussaat fahren, da wir noch so früh im Jahr sind. </p>
+            <p>Die <placeName key="ed_jpk_w4f_cy">Rosengarter</placeName> haben unter sich mit
+                    Zuziehung und Genehmigung der früheren Behörde den Verein geschlossen, sich den
+                    Wald zu verteilen, nach meiner Einsicht glaube ich, dass Ew. Hochgeboren auch
+                    Anspruch auf den Teil Wald, den der Krug erhält, machen können, da im
+                    Erbkaufkontrakt gar an den Wald nicht gedacht ist.</p>
+            <p>Das Kontributionsamt zu <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> hat
+                    wegen Bezahlung der rückständigen 2 monatlichen Kontribution moniert, droht mit
+                    Exekution und Auspfändung, der künftige Monat April ist der letzte
+                    Bezahlungsmonat vor dem Jahresschluss.</p>
+            <p>Wegen recht guten frischen Kleesamen werden Ew. Hochgeboren wohl in Zeiten sich
+                    dorten bemühen müssen, indem wir von unserem eigenen kaum so viel erbauen
+                    werden, wie wir hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    brauchen, und in dieser Gegend ist vielleicht hernach keiner zu bekommen.</p>
+            <closer>
+               <salute>Herr <persName key="ed_tc2_stm_zcb">Gaehler</persName> ist etwas krank, lässt
+                  sich mit mir und meiner Frau untertänigst empfehlen, und ich unterzeichne mich mit
+                  allem Respekt <lb/>Ew. Hochgeboren untertänigster Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

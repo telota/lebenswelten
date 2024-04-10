@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_bmg_4n1_zpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit dem Kämmerer Lehnhardt
+                                        einen Pachtvertrag über den Krug in Steinort. Steinort, 5.
+                                        Mai 1768</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                                <note type="keyword">
+                                        <p>Kategorie: Bäuerlicher Alltag</p>
+                                </note>
+                                <note type="keyword">
+                                        <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+                                </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p> Lehnhardt hatte den Krug bis 1771 zur Pacht, die Abrechnungen liegen der Akte
+                                                bei. Ihm folgte der Schmied <persName key="ed_wht_2ns_33b">Christoph Peslack</persName>
+                                                von 1771-1774, GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                                Lehndorff-Steinort, Nr. 388. Ob Lehnhardt mit dem
+                                                Zimmermeister <persName key="ed_ebd_1ys_fqb">Matheus
+                                                  Lehnhardt</persName> verwandt war, der 1754-1757
+                                                den Krug in Taberlack zur Pacht erhielt, ließ sich
+                                                nicht feststellen, ebd. Nr. 372.</p>
+               <p>Als Anlage liegt dem Vertrag eine <ref target="lehndorff_xhp_rls_33b">Beschreibung
+                                                  des Kruges in Steinort </ref> bei, der in Fachwerk
+                                                errichtet und mit Stroh gedeckt war. Der Krug war in
+                                                schlechtem Zustand, das Dach alt und vermoost, der
+                                                First reparaturbedürftig. Der Eingang von der Straße
+                                                aus hatte eine zweiflüglige Tür, die Tür in Richtung
+                                                der Felder war brüchig. Auch die Fenster waren zum
+                                                Teil beschädigt. Eine Kammer diente als Pferdestall.
+                                                Nach oben führte eine Leiter an Stelle einer Treppe.
+                                                Der Schornstein war massiv gemauert, die Küche war
+                                                offen. In die Krugstube führte eine separate Tür,
+                                                der Boden bestand aus Lehm und war mit Dielen
+                                                belegt. Der Ofen in der Krugstube war neu, daneben
+                                                gab es noch eine alten Kamin. Das Mobiliar bestand
+                                                aus einer langen Tafel mit zwei Bänken und hölzernen
+                                                Stühlen. In den Keller führte eine Falltür mit zwei
+                                                Flügeln und eine steinerne Treppe. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 271, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1768-05-05" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bmg_4n1_zpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Da Ihro <persName key="ed_q4s_xyl_2y">Hochreichsgräfl. Gnaden</persName> den
+                    Kämmerer <persName key="ed_svl_zls_33b">Lehnhardt</persName> zum Krüger in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName> anzunehmen gnädigst
+                    geruht, so wird mit demselben in dato folgender Kontrakt auf ein Jahr und zwar
+                    vom 5. Mai 1768 bis dahin 1769 errichtet, als</p>
+            <p>1. Wird dem Krüger Lehnhardt der Krug in Steinort benebst einem Garten
+                    eingeräumt, ordentlich übergeben und deshalb ein Inventarium angefertigt und
+                    diesem Kontrakt inseriert werden.</p>
+            <p>2. In dem Krug muss Er kein fremdes Bier oder Branntwein bei schwerer Strafe
+                    verzapfen, beides, Bier und Branntwein, soll er unverfälscht behalten, dass
+                    darüber keine Klagen entstehen, auch hat er die Biergefäße rein und dicht zu
+                    halten, damit das Bier nicht verschale und ungeschmack werde. </p>
+            <p>3. Die in den Krug kommenden Bier und Branntwein-Gäste müssen von ihm und seiner
+                                        Ehegattin allemal freundlich aufgenommen und besonders die
+                                        fremdem höflich tractiert werden.</p>
+            <p>4. Von verdächtigem und üblem Gesindel muss der Krug beständig frei bleiben,
+                    damit durch selbtes denen Hereinkommenden nichts entwendet werde.</p>
+            <p>5. Krüger muss allemal richtiges Bier und Branntwein-Maß halten, damit niemand über
+                                        Vervorteilung zu klagen Ursache habe.</p>
+            <p>6. Die Verborgung von Bier und Branntwein hat er auf alle Art und Weise zu vermeiden
+                                        und dafür zu sorgen, dass er das ausgenommene richtig
+                                        bezahlt, Gestalt demselben nichts mehr als 2 Stof Bier und 4
+                                        Stof Branntwein geborgt werden sollen.</p>
+            <p>7. Die hiesigen Hofbedienten müsse durchaus nicht länger als bis 10 Uhr Abends und
+                                        bei Tage nur zu gelegener Zeit im Krug dulden, damit der
+                                        Herrschaftsdienst nicht versäumt werde, anderenfalls mit
+                                        einer festzusetzenden Hospitalstrafe belegt werden soll. Wie
+                                        denn auch das Backen und Kochen derer Hofbedienten im Krug
+                                        auf das ausdrücklichste verboten wird, und sollen
+                                        diejenigen, so sich von ihm nichts bedeuten lassen und vor
+                                        10 Uhr nicht aus dem Krug gehen wollen, oder was zu backen
+                                        oder kochen sich unterstehen sollten, der Herrschaft zur
+                                        Bestrafung angezeigt werden.</p>
+            <p>8. Die Krugstube sowohl als das Vorhaus muss jederzeit reinlich und die Stube zur
+                    Winterzeit warm gehalten werden. Das Dach auf dem Krug muss Krüger ausstopfen,
+                    den Mist fleißig herausbringen und solchen nicht an das Gebäude, sondern 4 Fuß
+                    davon ablegen, auch muss Krüger</p>
+            <p>9. den Schornstein wöchentlich reinigen, den Ofen<gap reason="illegible"/>, auch auf
+                                        Feuer und Licht ein wachsames Auge haben, dass weder durch
+                                        ihn und die Seinigen noch durch Fremde kein Unglück
+                                        entstehen, sonsten er vor allen Schaden haften muss. </p>
+            <p>10. Im August muss Krüger, wie dessen <seg type="comment"><orig>Antezessores</orig><note xml:id="nntq_ksw_vxb">Vorgänger</note></seg>
+                                        getan, 6 Tage Hilfe leisten und das ordinäre Gespinst
+                                        prästieren.</p>
+            <p>11. Muss er genau Acht haben, dass die Zäune am Krug und in der Allee von
+                    niemandem ruiniert oder etwas davon genommen werde.</p>
+            <p>12. Bezahlt er jährlich den Kopf- und Schoss von den habenden Personen und Vieh,
+                    trägt auch die Mühlen-, Kirchen- und Schul-Abgaben, von den übrigen Unpflichten
+                    aber ist er befreit.</p>
+            <p>13. Zur Feuerung wird dem Krüger freies Holz akkordiert, doch muss er solches aus
+                    dem Ort, wo es ihm angewiesen werden wird, holen.</p>
+            <p>14. Wenn Krüger aus dem Krug wieder ziehen wollte, so muss er solches ein halb Jahr
+                                        vorher gehörig ankündigen, doch muss die Wechselung nicht zu
+                                        einer ungelegenen Zeit geschehen.</p>
+            <p>15. Wird dem Krüger Lehnhardt das Stück Acker benebst der <gap reason="illegible"/>
+                                        Wiesen, vom <unclear reason="illegible" cert="low">Krieb</unclear> bis an die Schmiede, welches er
+                                        aber selbst besäen und alsdann jährlich auch, wenn es brach
+                                        ist, nutzen kann, versprochen, wofür er jährlich 4 Rtlr.,
+                                        sage vier Taler, an die Hohe Herrschaft abzutragen hat. </p>
+            <p>Womit dieser Kontrakt geschlossen.</p>
+            <p>So geschehen Steinort, den 5. Mai 1768</p>
+            <p>gez. verwittibte <persName key="ed_q4s_xyl_2y">Gräf. von Lehndorff</persName>
+            </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

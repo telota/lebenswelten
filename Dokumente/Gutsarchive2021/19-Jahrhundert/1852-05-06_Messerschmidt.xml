@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_wky_fdb_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verwalter Messerschmidt berichtet über die Lage in Steinort. Steinort, 6. Mai
+               1852</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 869, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_db2_gvp_dz">Messerschmidt, Heinrich Leopold
+                        (1814-1898)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1852-05-06" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wky_fdb_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 6. Mai 1852</dateline>
+               <salute>Euer Exzellenz</salute>
+            </opener>
+            <p>beehre ich mich respektvoll anzuzeigen, dass bei dem noch anhaltend kalten Wetter die
+               Vegetation sehr wenig vorgeschritten; trotzdem aber augenblicklich die Wintersaaten
+               mit Einschluss der Rübsen und Klee noch alle Hoffnung zu einer ergiebigen Ernte
+               schließen lassen. Seit dem gestrigen Tage hat die Witterung einen etwas mildern
+               Charakter angenommen, so dass ich in den Mittagsstunden die Schafe grasen zu lassen
+               begonnen habe. Die Kleefelder sind größtenteils begießt und die Sommereinsaat, zu der
+               die Äcker sich vortrefflich bearbeiten lassen, ist so weit fortgeschritten, dass
+               sämtliches Rundgetreide, ein großer Teil Hafer, Grünfutter, sämtlicher Sommer-Roggen,
+               Sommer-Weizen und etwas Kartoffeln bereits in die Erde gebracht. <lb/>Die
+               Gartenarbeiten werden ununterbrochen fortgesetzt. <lb/>In hippologischer Beziehung
+               zeige ich respektvoll an, dass die Kastration des Whisker-Hengstes von <persName key="ed_ggg_cbm_2y"><persName key="ed_sjx_pfm_2y">Grafen
+                  Georg</persName></persName> sowie der Füllen schon seit 8 Tagen glücklich
+               vollführt worden, der <gap reason="illegible"/> Hengst dagegen konnte erst heute
+               kastriert werden, da nach der ersten Operation gerade an dem Tage, als der Befehl zum
+               Legen des <gap reason="illegible"/> Hengstes einging, der Tierschneider in der
+               Ansicht sich entfernt hatte, eine in der Nachbarschaft zugesagte Operation
+               bewerkstelligen zu wollen, um dann Tags darauf gleich wieder hier zurückzukehren,
+               doch wie die Versicherungen dergleichen Leute nie Festigkeit haben, so war es auch in
+               diesem Falle, denn der Tierschneider kehrte erst gestern zurück. so dass heute die
+               Operation mit dem <gap reason="illegible"/> Hengst nun erst bewerkstelligt werden
+               konnte, die aber glücklich ausgefallen. Das kranke Füllen von der Miss Mary, worüber
+               ich schon berichtet, starb vor einigen Tagen. <lb/>Herr Graf Georg schrieb vor ein
+               paar Tagen an mich und wünschte den Roma Wallach zugesandt zu haben, wozu ich jedoch
+               erst Euer Exzellenz Befehle entgegensehe. Der Tandem Wallach wird von p. <persName key="ed_okq_mcq_dz">Schober</persName> in der befohlenen Weise geritten. Von den
+               Stuten die tragend hat nur noch eine, die Urania, <gap reason="illegible"/>. <lb/>Vor
+               einigen Tagen traf, und zwar gerade während ich nicht einheimisch war, ein
+               Pferdehändler aus Sachsen hier ein, ein Schwager des Herrn <persName key="ed_qnk_y1b_3vb">Vogel</persName> mit Namen <seg type="comment"><orig>Bieler</orig><note xml:id="ncbj_2bb_3vb">Möglicherweise der
+                     mecklenburgische Pferdezüchter <persName key="ed_ss1_fvl_wcb">von
+                        Biel</persName>.</note></seg>, in der Absicht, Pferde zu kaufen, der sich
+               dahin <gap reason="illegible"/> haben soll, auf seiner Rückreise von Litauen, die
+               ungefähr spätestens, wie p. Vogel mir mittelte, Sonntag hier zu erwarten steht, noch
+               einmal hier Nachfrage wegen verkäuflicher Pferde zu halten. In dieser Folge ich mich
+               veranlasst fühle, für den Fall Euer Exzellenz an diesen Mann Pferde überhaupt
+               verkaufen zu wollen gestatten, wegen der  Preise der nachstehend namhaft gemachten
+               Pferde mich hochgeneigtest bescheiden zu wollen.<list>
+                  <item>1. Telegraph (Vollbluthengst)</item>
+                  <item>2. Hertha (Wallach)</item>
+                  <item>3. Roma (Wallach)</item>
+                  <item>4. Loreley (Wallach 4jährig)</item>
+               </list>
+            </p>
+            <p>Der neue Ziegler ist bereits in Funktion und hat bis jetzt mit seinen Leuten bei der
+               Aufräumung und Planierung aller Wege und Steige von und zwischen den
+               Ziegelei-Gebäuden gearbeitet, wobei derselbe sehr viel Intelligenz gezeigt, denn
+               jetzt hat die ganze Wirtschaft auf der Ziegelei erst das Bild einer geregelten
+               Einrichtung. Die Wege sind alle herrlich gewölbt und überall, auch an den Scheunen,
+               mit Abzugsgräben versehen, so dass der Einfluss einer anhaltend nassen Witterung
+               nicht so leicht störend einwirken kann, wie es bisher geschehen, überhaupt sind die
+               bei einer Königlichen Ziegelei bestehenden Einrichtungen zur Norm genommen. Wann mit
+               den Ziegelarbeiten begonnen wird, lässt sich noch nicht bestimmen, da die Witterung
+               darüber entscheidet. <lb/>Die bis dato eingegangenen Postfuhren, bestehend in 3
+               Briefen, erlaube ich mir in der <seg type="comment"><orig>Anlage</orig><note xml:id="ncsq_ssb_3yb">Anlagen liegen dem Brief nicht bei.</note></seg>
+               beizufügen.</p>
+            <closer>
+               <salute>Mit dem tiefsten Respekt Euer Exzellenz untertänigster Diener</salute>
+               <signed>Messerschmidt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_zsp_dfp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Hegemeister Bliss berichtet über die Forstwirtschaft in Steinort. Steinort, 19.
+               Juli 1816</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_bmn_41z_z5b">Bliss, Hegemeister (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1816-07-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zsp_dfp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, d. 19. Juli 1816</dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p>Auf die von Ew. Hochgeboren an mir durch den Herrn <persName key="ed_yx5_cbg_nbb">Berent</persName> gemachte Frage erwiedere hiermit untertänigst. Auf dem Werder
+                  <placeName key="ed_h1w_jc2_gy">Upalten</placeName> sind im Frühjahr 44 Stück
+               Apfel- und Kirschen-Bäume gepflanzt und gegen 1.000 Stück Pappelreiser gesteckt. Die
+               Apfelstämme sind unechte, die ich auf dem Werder selbst aus den Gesträuchen
+               ausgegraben und daselbst gepflanzt habe, weil der Boden sehr schlecht ist, und daher
+               auf gutem Boden keine fortkommen mögen, die Kirschen-Bäume sind aus <placeName key="ed_jpk_w4f_cy">Rosengarten.</placeName> Bis jetzt ist noch keine einziger
+               Stamm davon ausgegangen, selbige können nach einem Jahr durch <seg type="comment"><orig>Pfropfen und Okulieren</orig><note xml:id="np2z_psr_xxb">Siehe <ref target="https://www.pomologen-verein.de/media/user_upload/Veredelungsleitfaden_2019.pdf">hier</ref>.</note></seg> echt gemacht werden. Ich habe dieses auf Anraten
+               des Gärtners in <placeName key="ed_igr_4kd_gy">Friedrichstein</placeName> getan, an
+               welchen ich mich wegen echter Stämme gewandt hatte. Dieser Mann, welcher in seinem
+               Fache viele Erfahrungen gemacht hat, sagte dass es vergeblicher Kosten- und
+               Zeitaufwand sein würde, mit echten aus gutem Boden gezogenen Obststämmen. <lb/>Von
+               den Pappelreisern können gegen 200 Stück ausgegangen sein, die übrigen scheinen gut
+               fortkommen zu wollen. In <placeName key="ed_s3k_b12_gy">Taberlack</placeName>,
+                  <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> sind auch Pappelreiser gesteckt, wovon
+               kein einziges ausgegangen ist. Was die Pflanzung von anderen Holzarten betrifft, habe
+               ich auf dem <placeName key="ed_hrb_hc2_gy">Serwiller</placeName> Feld ohngefähr 2/3
+               Morgen mit Eschen-, Ahorn- und auch etwas Eichensamen besät, aller Samen ist gut
+               aufgegangen und wenn es nur öfters regnen möchte, so könnte wohl der Wille Ew.
+               Hochgeboren in Erfüllung gehen, dadurch Stämme zum Setzen an die Wege zu erhalten.
+               <lb/>Mit der Teichgräberarbeit bin ich seit 8 Tage fertig, es ist das sogenannten
+               Eichenbruch an der roten Brücke im <placeName key="ed_nkz_b12_gy">Stawker</placeName>
+               Revier abgegraben, wovon ich Ew. Hochgeboren schon früher erwähnt habe. Es hat
+               größere Kosten verursacht, der Zweck ist aber erreicht, dann das Bruch ist trocken,
+               so dass man jetzt schon allenthalben durchgehen kann. Der Graben ist 636 Ruten lang
+               und die Rute hat 15 Gr. gekostet zu graben, mithin eine Ausgabe von 106 Rtlr.
+               <lb/>Den Brettervorrat zu schaffen gebe mir alle mögliche Mühe, bis jetzt aber noch
+               ohne großen Erfolg, und schneiden gegenwärtig 2 Eisen und sind ohngefähr 200 Bretter
+               in Vorrat, auch habe ich 100 Stück aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gekauft. Fremde Brettschneider aufzutreiben ist nicht
+               möglich gewesen. Es sind bei den diesjährigen Bauten sehr viele Bretter aufgegangen,
+               und dann haben die Brettschneider auch nicht immer bei den Brettern bleiben können,
+               weil 90 Stück Baumstämme, 20 Stück Schneideholz zu Latten, und 10 Stück Eichen zu
+               Bohlen haben geschnitten werden müssen. <lb/>Die vorjährige Einnahmen bei der
+               Forstkasse ist gewesen <lb/>
+               <table rows="8" cols="2">
+                  <row>
+                     <cell>für verkauftes Holz</cell>
+                     <cell>1.333 Rtlr. 32 Gr. 9 D.</cell>
+                  </row>
+                  <row>
+                     <cell>an Kassenbestand aus der 1814/15 Rechnung</cell>
+                     <cell>190 Rtlr. 4 Gr. 15 D.</cell>
+                  </row>
+                  <row>
+                     <cell>an Posten aus derselben Rechnung</cell>
+                     <cell>9 Rtlr. 60 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>für gestohlenes Holz pro 1815/16</cell>
+                     <cell>7 Rtlr. 63 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>für verkaufte Borcke</cell>
+                     <cell>13 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>für verkauftes Wildbret</cell>
+                     <cell>7 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>für extraordinär</cell>
+                     <cell>27 Rtlr. 64 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Summa der ganzen Einnahmen</cell>
+                     <cell>1.588 Rtlr. 8 Gr. 6 D.</cell>
+                  </row>
+                  <row>
+                     <cell>Die Ausgabe pro 1815/16 ist in Summe gewesen </cell>
+                     <cell>508 Rtlr. 30 GR. 13 1/2 D.</cell>
+                  </row>
+                  <row>
+                     <cell>Kassenbestand d. 15. Juni 1816 </cell>
+                     <cell>1.080 Rtlr. 55 Gr. 10 1/2 D.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Neues ist bei den Forsten nichts vorgefallen, Kiefern und Tannenholz ist nichts
+                    abgestanden.</p>
+            <closer>
+               <salute>Mit dem tiefsten Respekt zeichne mir Ew. Hochgeboren
+                        untertänigster</salute>
+               <signed>Bliss</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

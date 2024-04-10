@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_bdh_121_yrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Rendant Werner berichtet über den Erwerb des Jarreckschen Bauernerbes in
+                    Taberlack. Angerburg, 25. Mai 1830</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 109, Bl. 4-5v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1836)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1830-05-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941248"/>
+      
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, den 25. Mai 1830</dateline>
+            </opener>
+            <p>
+               <gap reason="insignificant"/> Von den <seg type="comment"><orig>Jarreckschen Erben
+                     modo Uwis</orig><note xml:id="nfvf_2yh_yxb">Siehe hierzu das Verzeichnis vom
+                        <ref target="lehndorff_ktg_fyx_2tb">August 1824</ref>. Der Name Jarreck
+                     taucht bei Labab auf, der Besitz endete zum 1. Aptil 1824. Der Name Uwis taucht
+                     in Taberlack mehrfach auf.</note></seg> habe ich das Erbe in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> erstanden und somit den Anfang zur
+               Realisierung Ihrer Wünsche und meines Bestrebens gemacht. Das Erbe liegt an der
+               Serwiller Seite, am schwarzen Brachschlage der Vorwerksländereien, und kann also
+               gleich mit aufgenommen werden; obgleich es mir lieber gewesen wäre, wenn es in der
+               Mitte gelegen hätte, wo die beiden anderen Besitzer <gap reason="illegible"/> und
+                  <seg type="comment"><orig>Gellesch</orig><note xml:id="nzdt_kyh_yxb">Gellesch muss
+                     das Erb erst nach <ref target="lehndorff_ktg_fyx_2tb">1824</ref> bekommen
+                     haben.</note></seg> um so leichter zu Nachgiebigkeit gebracht sein würden.
+               Jetzt liegen die beiden Erben nebeneinander, und es wird den beiden <gap reason="illegible"/> dadurch leichter, sich zu erhalten. <persName key="ed_y4t_bxg_yqb">Lindenau</persName> wird aber dafür sorgen, dass denselben
+               ihr Zustand verleidet werde! <lb/>Ich habe das Erbe unter folgenden Bedingungen
+               erstanden: <lb/>1. Von der Schuld des Uwis incl. der Rente bis <seg type="comment"><orig>Michaeli</orig><note xml:id="nij5_nyh_yxb">29. SEptember</note></seg>
+               1830, welche 64 Rtlr. 11 Sgr. 11 D. beträgt, werden nur 25 Rtlr. bezahlt und dem
+               Verkäufer allein 39 Rtlr. 11 Sgr. 11 D. erlassen, welche als Kaufgeld anzunehmen
+               sind. <lb/>2. Dem <persName key="ed_jkp_rvh_wqb">Michael Jarreck</persName> als
+               eigentlicher Erbnehmer werden, solange er, nur wenn er sich verpflichtet, so lange
+               seine Frau lebt, 3 Morgen Land in 3 Feldern, das heißt 1 Morgen zur Winter-, ein
+               Morgen zur Sommersaat und 1 Morgen an die Brache, zum Nutznieße verliehen, entweder
+               da, wo gegenwärtig das Land der <persName key="ed_z3s_tyh_yxb">Morzahnschen</persName> liegt (an der Stobbenschen Grenze) oder an den
+               Vorwerksgrenzen oder wo Winterung Sommerung und Brache trifft. <lb/>3. Freie Weide
+               für 2 Pferde und 2 Stück Rindvieh, erstere unter den Pferden der Morzahnschen wo sie
+               hingewiesen wurden, letztere unter dem herrschaftlichen Vieh. Schafe und Schweine
+               dürfen nicht zur Weide gebracht werden. <lb/>4. Ein Fuder Heu zur Winterfutterung.
+               <lb/>5. Ernte <gap reason="illegible"/> in dem Gebäude, welches sie jetzt <gap reason="illegible"/>, oder wenn eine Vakanz der Altenteiler eintritt auch dort,
+               und die Benutzung der Hälfte der Gärten. <lb/>6. Ferner <gap reason="illegible"/> und
+               Leseholz. <lb/>7. Ein ganz gleiches Altenteil für die Mutter des Erbnehmers, jetzt
+               verehelichte Uwis, aber nur so lange sie lebt. Bei ihrem Tode fällt die Hälfte der
+               Gärten und der Häuser an die Gutsherrschaft zurück. <lb/>Die Leute waren unter
+               keinerlei Vorwand und unter keinem Versprechen zu bewegen, ein Erbe in <placeName key="ed_xjg_d12_gy">Stobben</placeName>, viel weniger in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> anzunehmen, und da ich aber dem
+               Häuflein unmündiger Kinder der verehelichten Uwis <gap reason="illegible"/>
+               notwendigen Verkauf <gap reason="illegible"/> auf Schwierigkeiten von <gap reason="illegible"/> wegen gestoßen wäre, so zog ich es vor, die Angelegenheit auf
+               diese Art zu beendigen, indem der alte Uwis nicht lange leben kann, und durch den Tod
+               des Waschke eine <gap reason="illegible"/>stelle offen gewesen ist. Uwis erntet noch
+               sein Sommer- und Winterfeld, fährt von seinem Dünger aber nur den Mist auf seine
+               Morgen und streut auch dorthin nur seine Untersaat. Nach meinem Dafürhalten ist der
+               Kauf des Grundstücks vorteilhaft geschlossen, und ich wünschte nur, dass wir mit den
+               beiden anderen bald fertig würden. <lb/>
+               <gap reason="insignificant"/>
+            </p>
+            <closer>
+               <salute>Mit inniger Verehrung <lb/>Ihr treu <gap reason="illegible"/> und Diener</salute>
+               <signed>Werner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

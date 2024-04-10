@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_nzw_3ml_xdb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Zeugnis der Klosterschule Roßleben. Frühjahr 1929</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="print">
+               <msIdentifier>
+                  <institution>GDW</institution>
+                  <idno>aus: Archiv der Klosterschule Roßleben (Kopie)</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_y2j_yll_xdb">Rossleben</placeName>
+            <date notBefore="1929-04-01" notAfter="1929-05-01" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <persName key="ed_eq5_1t1_dy">Heinrich Graf Lehndorff</persName>.</p>
+            <p>Er kam, nachdem seine Erziehung durch mancherlei Hände gegangen war, in U III zu
+                    uns. Er erwies sich als ein mindestens durchschnittlich begabter Schüler. Seine
+                    Schulpflichten erfüllte er unregelmäßig. Er war lange Zeit im Verhältnis zu
+                    seinen Altersgenossen unreif, tollpatschig, poltrig, naiv. Er erliegt leicht
+                    jedem Einfluss. Er ist voll guter Vorsätze, aber schwach im Halten. Lebensfroh,
+                    sorglos, unbekümmert lebt er in den Tag hinein. Er lässt sich leicht verführen
+                    und war bis zu seiner Zurückstellung von der Reifeprüfung (Ostern 1929) bei
+                    jedem dummen Streich dabei.</p>
+            <p>Trotz durchaus genügender Begabung hat er keine höheren Interessen. Er ist ein
+                    Mensch, der nicht mit Problemen ringt. Er ist ein Landkind, liebt das Land, die
+                    Landwirtschaft, die Tiere, das Jagen und das Reiten.</p>
+            <p>Er zeigt Interesse für jeden Sport und leistet darin Achtbares.</p>
+            <p>In der Oberprima brachte er im ersten Jahr nicht den nötigen Fleiß und Ernst auf,
+                    um das zur Zulassung zur Reifeprüfung notwendige Maß von Können aufzuweisen. Er
+                    musste Ostern 29 zurückgestellt werden. Diese Zurückstellung hatte einen
+                    heilsamen Einfluss. Er hat sich im letzten Jahr zu größerer Reife entwickelt,
+                    die auch in seinen Schularbeiten zum Ausdruck kommt, so dass er in allen Fächern
+                    Genügendes und Besseres leistet. Auch dass man ihn seiner mangelnden
+                    Selbstdisziplin wegen nicht für würdig hielt, Alumnatsinspektor zu werden, ihn
+                    dadurch also jüngeren Schülern unterordnete, hat ihn zu einer gewissen
+                    Selbstbesinnung geführt, wenn auch sein Stolz etwas leidet und manchmal eine
+                    oppositionelle Einstellung im Alumnat fühlbar wird.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_jcf_j3h_g5b" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Friedrich August Stüler an Graf von Lehndorff. Königsberg, 5. April 1855</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 254, Bl. 12-13v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lt4_fcp_dz">Stüler, Friedrich August (1800-1865)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1855-04-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm Heinrich Graf
+                  von (Königsberg, 20.10.1826-Riola bei Bologna, 28.10.1883))</persName>
+            </correspAction>
+            
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jcf_j3h_g5b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Königsberg, d. 5. April 55</dateline>
+               <salute>Euer Hochgeboren!</salute>
+            </opener>
+            <p>Sehr geehrtem Auftrag gemäß, habe ich die mir übersandten <seg type="comment"><orig>Anschläge nebst der Materialienberechnung zum Bau eines Erbbegräbnisses
+                     in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> einer Prüfung
+                     unterworfen und das Resultat in beiden mit roter Tinte vermerkt</orig><note xml:id="nwx4_xxy_svb">Bl. 6-7, 8-9</note></seg>. Dass sich die Anschlagsumme um
+               1.128 Rtlr. 29 Gr. auf 941 Rtlr. 14 Gr. 1 D. ermäßigt hat, hat seinen Grund in den
+               unrichtigen Dimensionen der Gegenstände, welche der Anschlag enthält. Gegen die
+               Preise habe ich nichts zu erinnern gefunden. <lb/>Indem ich nicht unterlasse,
+               beikommend den Anschlag, die Materialberechnung und <seg type="comment"><orig>zwei
+                     Blatt Zeichnungen</orig><note xml:id="nu5n_cyy_svb">Bl. 14-15v</note></seg>
+               Euer Hochgeboren hiermit ganz ergebenst zurückzureichen, erlaube ich mir, über das
+               Bauprohjekt noch folgende Bemerkungen zu machen. <lb/>Die Entwässerung der Dächer der
+               beiden Flügel sowie des Mittelbaus kann nur höchst ungenügend bewerkstelligt werden,
+               im Winter massenhafte Anhäufung des Schnees hinter der Ballustrade, dessen Abgang
+               erschwert wird und nachteilig einwirkt. Diese Übelstände führen den schleunigen Ruin
+               der Gesimse, Ballustrade und Ecktürme herbei und sind geeignet, auch auf das Gewölbe
+               nachteilig einzuwirken, was namentlich bei der Kuppel, die die bedeutende Last des
+               Turmes zu tragen hat, Gefahr verursachen kann. <lb/>Die Kuppel kann ohne solide
+               Ringverankerung durch Schraubenbolzen nicht auf dem Turm befestigt werden. Anschlag
+               und Zeichnung schweigen aber darüber ganz. <lb/>Wie sollen die achteckigen
+               Pfeilervorlagen von 1 1/2 bis 2 Fuß Stärke ohne Hau- oder Formsteine hergestellt
+               werden, wenn nicht die monumentale Bestimmung des Gebäudes verfehlt werden soll? Aus
+               gleichen Gründen ist auch die Bekleidung der Turmspitze und Ecktürme mit Zink nicht
+               so empfehlenswert, als Spitzen von Gusseisen, Zur Vermeidung dieser Übelstände würde
+               es zweckmäßig sein, das Dach so hoch zu legen, dass die Traufe über der Oberkante der
+               Ballustrade zu liegen kommt, wie ich solches in der Zeichnung an einem Flügel
+               angedeutet habe. Der Schönheit wird dadurch kein Abruch getan. <lb/>Das Kuppelgewölbe
+               muss mit einer gehörigen Ringverankerung versehen werden, damit die Ringmauern und
+               Widerlagsmauern fest genug werden, um die Last des Turmes zu tragen. Zu den Türmchen
+               und Ecktürmen werden Formsteine zu verarbeiten sein, da gewöhnliche verhauene Ziegel
+               bei der beabsichtigten <gap reason="illegible"/>band der Witterung nicht widerstehen
+               werden. Schließlich erlaube ich mir meine <seg type="comment"><orig>Liquidation</orig><note xml:id="np2m_5zy_svb">Liegt nicht
+                  bei.</note></seg> ergebenst beizufügen, indem ich die Ehre habe mich zu zeichnen
+               als </p>
+            <closer>
+               <salute>Euer Hochgeborne ganz ergebenster</salute>
+               <signed>Stüler</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

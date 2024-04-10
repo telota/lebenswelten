@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_jdv_qmb_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf zu Dohna will künftig die Schulzen von Reichertswalde, Silberbach und
+               Abrahamsfelde selbst bestimmen. Reichertswalde, 14. April 1841</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 680, Bl. 1-2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1841-04-14" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jdv_qmb_3rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Currende an die bäuerlichen Wirte in <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>, <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName>, <placeName key="ed_sq5_mfc_3rb">Goldbach</placeName>, <placeName key="ed_pbr_fvw_5sb">Abrahamsheide</placeName>
+            </p>
+            <p>zu Händen an die Schulzen der genannten Orte</p>
+            <p>Seit ungefähr 10 Jahren habe ich den Wirten meiner Bauerndörfer die Wahl ihrer
+                    Schulzen erlaubt und nachgegeben, indem ich die Gewählten nachträglich
+                    bestätigte.</p>
+            <p>Da es sich im Laufe der Zeit ergeben hat, dass die Wahl öfters auf unbrauchbare,
+                    untüchtige und unwissende Leute fällt, welche das Schulzenamt nicht zu verwalten
+                    verstehen, so hebe ich diese Anordnung hiermit auf, werde die unbrauchbaren
+                    Schulzen ihres Amtes entheben und andere brauchbare an deren Stelle ernennen.
+                    Mit Rücksicht hierauf wird.</p>
+            <list type="ordered">
+               <item>Der Schulze <persName key="ed_r2m_zzs_vsb">Böttcher</persName> in <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName> wegen bewiesener Amtsuntüchtigkeit
+                  des Schulzenamts enthoben und der Krugbesitzer <persName key="ed_xlb_d1t_vsb">Martin Schröter</persName> zum Schulzen in Silberbach, wie hierdurch
+                  geschieht, bestellt.</item>
+               <item>Der Schulze <persName key="ed_jq4_f1t_vsb">Neuber</persName> in <placeName key="ed_sq5_mfc_3rb">Goldbach</placeName> wird seine Amtsverrichtung
+                        solange fortsetzen, bis mit ihm die nötigen Verabredungen getroffen sind der
+                        von ihm gewünschten Niederlegung seines Amtes wegen.</item>
+               <item>Wegen der Schulzen in Reichertswalde und Abrahamsheide behalte ich mir die
+                        erforderlichen Bestimmungen vor.</item>
+            </list>
+            <p>Hierbei wird es für die Zukunft sein Bewenden haben, um diejenigen Übelstände zu
+                    vermeiden, welche aus den anderweiten, von mir bisher versuchsweise angeordneten
+                    Verfahren hervorgegangen sind.</p>
+            <p>Um den Einreden wegen Annahme und Nichtannahme des Schulzenamtes sowie anderen
+               Weitläufigkeiten zu begegnen, füge ich in Abschrift die hierhin gehörigen
+               Gesetzesstellen bei, welche von den btroffenen Personen im Allgemeinen Landrecht
+               nachgelesen werden können.</p>
+            <p>Reichertswalde den 14. April 1841</p>
+            <p>
+               <persName key="ed_lyr_1g5_c2b">Dohna</persName>
+            </p>
+            <p> </p>
+            <p>Abschrift</p>
+            <p>Allgemeines Landrecht 2. Teil t. Titel pag. 46</p>
+            <p>Der Schulze oder Dorfrichter ist der Vorsteher der Gemeinde pag. 47, er wird von der
+               Gutsherrschaft ernannt, die aber dazu ein angesehenes Mitglied der Gemeinde, so lange
+               es darunter an einer mit den erforderlichen Eigenschaften versehenen Personen nicht
+               ermangelt, bestellen muss.</p>
+            <p>§. 48</p>
+            <p>Ist dieses Amt mit dem Besitz eines bestimmten Gutes verbunden, so muss der neue
+               Besitzer eines solchen Gutes vor Antritt seines Amtes der Gerichtsobrigkeit zur
+               Prüfung und Bestätigung vorgestellt werden.</p>
+            <p>§ 49</p>
+            <p>Fehlt es ihm an den erforderlichen Eigenschaften und Fähigkeiten, so ist die
+               Herrschaft einen Stellvertreter zu ernennen berechtigt.</p>
+            <p>§ 50</p>
+            <p>Diesem muss für seine Unternehmung des Amts eine billige Belohnung ausgesetzt und von
+               dem Lohn- oder Erbschulzen entrichtet werden.</p>
+            <p>§ 57</p>
+            <p>Wer zum Schulzenamte bestellt werden soll, muss des Lesens und Schreibens
+                    notdürftig kundig und von untadelhaften Sitten sein.</p>
+            <p>§ 75</p>
+            <p>Das von der Behörde ihm aufgetragene Schulzen- und Schöppenamt kann ein Mitglied der
+               Gemeine nur aus solchen Gründen ablehnen, die ihn von der Annahme einer Vormundschaft
+               entschuldigen würden </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

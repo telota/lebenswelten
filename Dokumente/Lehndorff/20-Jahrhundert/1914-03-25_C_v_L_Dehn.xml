@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_mbv_yng_my">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Carol Graf von Lehndorff an Gutsverwalter Julius Dehn. Berlin, 25. März
+               1914</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName><forename>Philipp</forename><surname>Linß</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 40, Bl. 155-156</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ik3_ckz_2y">Lehndorff-Steinort, Carol Meinhard Graf von
+                        (1870-1936)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1914-03-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_cqc_h4g_my">Dehn, (-)</persName>
+            </correspAction>
+            <note>Maschinenschriftlicher Durchschlag, die erwähnten Dokumente liegen nicht
+                    bei.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941230"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Berlin, Siemensstraße 10, 25. März 1914</dateline>
+               <salute>An den Gräflichen Administrator Herrn Dehn, Steinort (Ostpreußen)
+                    </salute>
+            </opener>
+            <p>Anbei zur diskreten Kenntnisnahme der Bericht meiner Forstverwaltung.</p>
+            <p>Korrekterweise schicke ich desgleichen Ihren Brief an meinen Oberförster Herrn
+                        <persName key="ed_hkh_3pg_my">Walter</persName>. </p>
+            <p>Die Folge könnte sein, dass Sie beide mir nicht mehr so offen entgegenkommen, was ich im
+                    allerseitigen Interesse ehrlich bedauern müsste. </p>
+            <p>Es scheint fast, als ob ich selbst an den verschiedenen sogenannten Missverständnissen schuld
+                    sein müsste. Ich werde also sobald nicht wieder etwas mündlich erledigen.
+                    Bestehen seitens der Administration gegen Forstverwaltung oder Schloss Zweifel
+                    oder Missverständnisse, so bitte ich künftig unter allen Umständen um einen
+                    schriftlichen Antrag. Zunächst bleibt es dabei, dass der Forstarbeiter <persName key="ed_xvc_kpg_my">Lalla</persName> als Forstarbeiter auf der Brachstube
+                    wohnen bleibt; will er das nicht, wird er, trotzdem er ein sehr ordentlicher
+                    Mann ist, entlassen und darf unter keinen Umständen von der Administration
+                    engagiert werden. </p>
+            <p>
+               <seg type="comment">
+                  <orig>Ob er, wie ich es auch wünsche, noch kurze Zeit in der Wirtschaft
+                            helfen darf, hängt von Herrn Oberförster Walter ab.</orig>
+                  <note xml:id="nmrz_xpg_my">Bl. 161-162 eine bis hier identische Fassung, die
+                            fortsetzet: Ich empfehle, einige fremde Arbeiter mehr zu engagieren, da
+                            ich, um gegenseitigen Krakeel zu vermeiden, die Forstarbeiter ohne meine
+                            ausdrücklich schriftliche Ordre nicht mehr in der Wirtschaft helfen
+                            lassen werde trotzdem es billiger ist, um Komplikationen zu vermeiden,
+                            die, wie scheint, durch kleinliche Reibereien unvermeidbar sind. Ich
+                            habe keine Veranlassung, nachdem ich die <placeName key="ed_pxt_cnh_1y">Steinorter</placeName> Wirtschaft nach Möglichkeit aller Sachen
+                            entlastet habe, die Sie mir oder der Schlossverwaltung aufbürden
+                            konnten, in diesen Punkten noch weiter zu gehen. </note>
+               </seg> Um
+                    Reibereien zu vermeiden empfehle ich trotz der Mehrkosten einige fremde Arbeiter
+                    zu engagieren und bemerke dazu, dass in den verschiedenen Wirtschaften
+                    Hinterpommerns, die ich in diesen Tagen besucht habe, galizische und russische
+                    Arbeiter schon seit dem 15. Januar, 1. und 5. Februar unter billigen Bedingungen
+                    zur Arbeit angetreten sind und bemerke außerdem, dass ich sämtliche Steinorter
+                    Forstarbeiter nur auf kurze Zeit und gegen ausdrückliche schriftliche Ordre
+                    meinerseits in der Wirtschaft helfen lassen werde. </p>
+            <p>Ich bedaure mich hierzu genötigt zu sehen </p>
+            <closer>
+               <salute>Mit vorzüglicher Hochachtung</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

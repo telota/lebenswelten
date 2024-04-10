@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_gmy_145_wpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Pächter von Serwillen, Albrecht Wilewski, setzt sein Testament auf.
+               Serwillen, 27. Februar 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Zu Wilewskis Pacht siehe auch die Dokumente von <ref target="lehndorff_x4h_lx1_pvb">Ostern 1737</ref> und vom <ref target="lehndorff_shn_3pq_wsb">22. Mai 1737</ref>. <lb/>Der Akte liegen
+                  zahlreiche Abrechnungen der Pacht-Zahlungen für Serwillen bei.</p>
+               <p>Am 12. März 1742 verstarb Wilewski. Da er sich um die Vormundschaft für seine
+                  Töchter nicht mehr hatte kümmern können, schlug die Gräfin von Lehndorff am 21.
+                  März dem Pupillen-Kollegium <persName key="ed_zxr_jlz_2qb">David Metz</persName>,
+                  Besitzer des Gutes Masehnen, und <persName key="ed_lfz_qlz_2qb">Georg
+                     Klatt</persName>, Stadtältester und Mälzenbrauer der Stadt Drengfurt, vor, wie
+                  sie es dem Vater versprochen hatte, siehe hierzu GStA PK, XX. HA, Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 455: Bestimmung von Vormündern für die Kinder
+                  des Wilewski aus Angerburg (1742).</p> Die Zeit zwischen Testament und Tod hatten
+               Wilewskis Bruder, die Haushälterin und der Stadtchirurg <persName key="ed_xyn_ylz_2qb">Crantz</persName> aus Angerburg jedoch genutzt, um das den
+               Kindern vermachte Erbe zu veruntreuen. Zur Untersuchung wurde im April 1742 ein
+               delegiertes Gericht aus Drengfurt nach Serwillen bestellt. Am 23. Juni 1742 fand die
+               Übergabe Serwillens nach dem „Traditions-Rezess d. d. Serwillen vom 21. Juni 1735‟
+               statt. Neben den Taxatoren <persName key="ed_yvl_pd3_lpb">Michel
+               Fleischer</persName>, Schulze von Rosengarten, <persName key="ed_xdn_jmz_2qb">Martin
+                  Scheimann</persName>, Schulze aus dem Dorf Pristanien und <persName key="ed_bdr_mmz_2qb">Michael Scheffler</persName>, Dorfgeschworener aus Fürstenau,
+               und dem <ref target="lehndorff_u4z_kq2_xrb">neuen Arrendator <persName key="ed_wfv_2f2_2qb">Wiedtke</persName>
+               </ref> war der Geheime Rat <persName key="ed_cqq_tmz_2qb">Neander</persName>
+               zugezogen worden, um das Inventar aufzunehmen und zu taxieren. Die Pferde waren
+               bereits taxiert und nach Steinort übernommen worden. Gegen das Ergebnis klagte die
+               Gräfin, wurde aber vom Vize-Präsidenten des Hofgerichts <persName key="ed_jjl_ysq_rdb">von der Groeben</persName> beschieden, dass alles seine
+               Richtigkeit habe. - Fortsetzung der Akte: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort-Steinort, Nr. 239: Tod des Pächters Albrecht Wilewski, Vorwerk
+               Serwillen (1743-1745), Nr. 352: Verpachtung des Gutes Serwillen (1730-1756), sowie
+               APO, Bestand 382 Familienarchiv Lehndorff, Nr. 51: Akte die Verpachtung Serwillen
+               betreffend (1742-1870). Siehe auch GStA PK, XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort-Steinort, Nr. 350: Übergabe des Gutes Serwillen an den Pächter
+               Albrecht Wilewski für die Jahre 1735-1738, Nr. 349: Belege zu den Pachtrechnungen des
+               Pächters Wilewski auf Serwillen (1739-1743) sowie Nr. 160: Inventar des Gutes
+               Serwillen ( 1748/49). </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 238, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+            <date when="1742-02-27" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gmy_145_wpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im adelichen Hofe <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> den
+                    27. Febr. 1742.</p>
+            <p>Nachdem Herr <persName key="ed_nwl_cf2_2qb">Albrecht Wilewski</persName>, Arrendator
+               von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, unter Ihro Hochgräfliche
+               Gnaden Frau Obristlieutenantin <persName key="ed_q4s_xyl_2y">Lehndorff</persName> auf
+               Steinort p. alt und krank worden, hat er in Betrachtung, dass Gott mit ihm auch
+               leicht Feierabend machen und von dieser Sterblichkeit zu sich nehmen könnte, mit
+               seinen dreien bereits mutterlosen Kindern Richtigkeit machen, und damit ihnen nach
+               seinem Absterben kein Unrecht geschehe oder etwas entwendet werden könnte, all sein
+               Vermögen an Vater- und Mutterteils spezifizieren und in ein Inventarium bringen
+               lassen. Zu dem Ende mich <persName key="ed_sjt_dnj_2qb">Johannes Andreas
+                  Borchert</persName>, Stadtschreiber in Drengfurt, nebst dem <seg type="comment">
+                  <orig>Ratsverwandten Herrn <persName key="ed_wwn_gnj_2qb">Michael
+                        Kösling</persName>
+                  </orig>
+                  <note xml:id="nbyh_gfx_gqb"> Ob Kösling mit dem Amtmann <persName key="ed_e34_zxx_5qb">Johann Christian Kösling</persName> verwandt war, der
+                     1735/36 das Gut Doben gepachtet hatte, ließ sich nicht nachweisen. Die
+                     Pachtakte in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 244.
+                  </note>
+               </seg> im Beisein seines leiblichen Bruders <persName key="ed_omn_f5g_bqb">David
+                  Wilewski</persName>, Schulze in <placeName key="ed_xjg_d12_gy">Stobben</placeName>, nach <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+               erfordern lassen. </p>
+            <p>Die Kinder sind: </p>
+            <p>1. <persName key="ed_znr_pnj_2qb">Maria Louisa</persName> im 10. Jahr</p>
+            <p>2. <persName key="ed_ifn_qnj_2qb">Sophia Dorothea</persName> im 8. und</p>
+            <p>3. <persName key="ed_nyj_rnj_2qb">Augustina Henrietta</persName> im 5. Jahr.</p>
+            <p>Diesen unmündigen Kindern sind noch zur Zeit keine Vormünder gesetzt, welches der
+                    Herr Arrendator, wenn ihn Gott noch stärken und Kräfte geben sollte, besorgen
+                    will, jedoch weil Herr Arrendator zu dem Drengfurtschen Herrn Kaplan <persName key="ed_ns4_xnj_2qb">Zwinkowski</persName> ein gut Vertrauen hat, dieser
+                    auch dem Herrn Arrendator sowohl mündlich als schriftlich versprochen, die
+                    Auferziehung seiner Kinder zu besorgen, so übergibt Herr Arrendator gedachtem
+                    Herrn Kaplan seine Kinder in festem Vertrauen, er werde die Stelle eines Vaters
+                    vertreten, die Kinder im Christentum und guten Tugenden erziehen, entweder
+                    selbsten in seinem Hause oder an solche Leute geben, wo sie Gottesfurcht und
+                    Tugend lernen, damit sie ihr Brot künftig erwerben können. Die dazu
+                    erforderlichen Unkosten werden die Vormünder aus den Interessen der Kinder ihres
+                    Kapital zu entrichten verpflichtet sein.</p>
+            <p>Womit also in Gottes Namen der Anfang gemacht<list>
+                  <item>160 Fl. an 20 Stück Dukaten, darunter ein Drittel <add place="right">ist alles in einem Beutel mit 2 Siegel besiegelt</add>
+                  </item>
+                  <item>
+                     <hi rendition="#u">6 Fl. </hi> ein französisches
+                            Pistolet</item>
+                  <item>166 Fl. <lb/>
+                  </item>
+                  <item>105 Fl. 35 Stück <gap reason="illegible"/> Rtlr.</item>
+                  <item>21 Fl. an Aufgeld a 18 Gr.</item>
+                  <item>
+                     <hi rendition="#u">266 Fl.</hi> an 133 St. 2/3 <lb/>392 Fl. an
+                            Courant-Geld</item>
+                  <item>
+                     <lb/>200 Fl. in einem Beutel ungezählt, welcher 2 Siegel besiegelt
+                            worden</item>
+                  <item>500 Fl. in einem versiegelten Beutel</item>
+                  <item>
+                     <hi rendition="#u">300 Fl.</hi> in dem versiegelten schmalen
+                            Beutel</item>
+                  <item>2000 Fl.</item>
+               </list>
+            </p>
+            <p>An Silber und Pretiosen</p>
+            <p>
+               <list>
+                  <item>6 Fl. 1 Löffel 6 <seg type="comment"><orig>Schott</orig><note xml:id="nhwv_nzv_txb">Bedeutung unklar</note></seg></item>
+                  <item>27 Fl. 6 Stck. Löffel a 4 1/2 Schott a 30 Gr.</item>
+                  <item>15 Fl. kleine <seg type="comment">
+                        <orig>verguldte</orig>
+                        <note xml:id="nnc2_sm2_s5b">vergoldete</note>
+                     </seg> Becher</item>
+                  <item>15 Fl. noch ebenso <seg type="comment">
+                        <orig>in verguldten</orig>
+                        <note xml:id="nibc_tm2_s5b">innen vergoldete</note>
+                     </seg>
+                            Becher</item>
+                  <item>9 Fl. 15 Gr. ein silber Zuckerkorb 9 1/2 Schott</item>
+                  <item>8 Fl. 8 Schott ein längliches Körbchen</item>
+                  <item>17 Fl. eine silberne Taschen Biegel mit einem silbernen Beitel</item>
+                  <item>4 Fl. 2 ungarische Wasser Dosen</item>
+                  <item>3 Fl. ein Zahnstocher, Ohrlöffel etc.</item>
+                  <item>2 Fl. 15 Gr. ein Zahnstocher mit dem Wolfszahn</item>
+                  <item>1 Fl. 15 Gr. ein Flöte</item>
+                  <item>15 Gr. ein gar kleines Balsam-Döschen</item>
+                  <item>20 Fl. ein paar goldene Ohr-Gehenke mit einem Deamant</item>
+                  <item>12 Fl. ein goldener Ring 1 1/2 Dukaten</item>
+                  <item>
+                     <lb/>NB. Ein klein goldener Ring mit 3 kleinen Deamanten-Stein ist um 30
+                            Fl. von der Frau Pfarrerin <persName key="ed_ms4_hzv_q2b">Boretius</persName> aus <placeName key="ed_epz_y2c_gy">Engelstein</placeName> versetzt <lb/>
+                     <lb/>141 Fl. <lb/>
+                     <hi rendition="#u">30 Fl.</hi> 2 silberne Brüste-Stück
+                            und ein silberner Palatin</item>
+                  <item>171 Fl. <lb/>
+                     <lb/>Obspezifiziertes Geld und Silber nebst allen im
+                            Inventario befindlichen Mobilien ist bei dem Arrendatori unter der
+                            Obsicht der Jungfer <persName key="ed_x5n_g4j_2qb">Reichenbachin</persName> geblieben.</item>
+               </list>
+            </p>
+            <p>An Frauen-Kleider</p>
+            <p>
+               <list>
+                  <item><list rendition="#rightBraced">
+                  <item>1 silberne stoffene </item>
+                  <item>1 rot seidene mit der golden Spitze</item>
+                  <item>1 rot seidene mit der silbernen Spitze</item></list>Frauenhauben</item>
+                  <item><list rendition="#rightBraced">
+                     <item>1 grün seidene</item>
+                  <item>1 gelbe mit violetten streifigen </item>
+                  </list>Joppen</item>   
+               </list>
+            </p>
+            <p>Leinwand<list>
+                  <item>8 Fl. 1 Stück breite Leinwand</item>
+                  <item>7 Fl. 1 Stück 5/4 breit</item>
+                  <item>18 Fl. 3 Stück 5/4 breit <seg type="comment"><orig>heden</orig><note xml:id="nd2w_4zv_txb"><ref target="https://de.wikipedia.org/wiki/Werg">Werg</ref></note></seg></item>
+                  <item>9 Fl. 1 Stück 6/4 breite rohe Leinwand</item>
+                  <item>3 Fl15 Gr. 1 Stück klein heden</item>
+                  <item>8 Fl. 2 Stück ohne gebleicht klein heden</item>
+                  <item>2 Fl. 1/2 Stück klein heden</item>
+                  <item>2 Fl. 15 Gr. 1 Stück grob heden</item>
+                  <item><hi rendition="#u">18 Ellen große</hi></item>
+                  <item>58 Fl.</item>
+               </list></p>
+            <p>
+               <list>
+                  <item><list rendition="#rightBraced">
+                        <item>8 Tafel-Laken</item>
+                        <item>4 neue Handtücher</item>
+                        <item>1 Dutz. feine</item>
+                        <item>1 Dutz. grob Servietten</item>
+                        <item>5 Kissen <gap reason="illegible"/> feine</item>
+                        <item>2 grobe dito</item>
+                        <item>5 Bett<gap reason="illegible"/>, darunter 1 feine</item>
+                        <item>8 Bettlaken, darunter 1 mit Spitzen</item>
+                        <item>1 Leichenband 3 breite 6/4 Leinwand </item>
+                        <item> </item>
+                     </list>weil dieses jetzo nicht weiß ist, wird Jungfer Reichenbachin selbige
+                     weiß abgeben</item>
+               </list>
+            </p>
+            <p>Bette<list>
+                  <item>1 Unterbett mit blauen Streifen</item>
+                  <item>3 Zudeck mit blauen Streifen</item>
+                  <item>1 Unterbett mit blauen Sreifen der große Christoff schläft darauf</item>
+                  <item>8 Kissen</item>
+                  <item>1 <gap reason="illegible"/> Diese Stücke sind schon unter dem Weißzeug
+                     benannt</item>
+               </list></p>
+            <p>Kupfer<list>
+                  <item>1 großer Kessel 1 3/4 Thon ist eingemauert und kann noch nicht gewogen
+                     werden</item>
+                  <item>11 Fl. ein Kessel von 11 Lot</item>
+                  <item>3 Fl. 15 Gr. 3 Stück Teekessel 3 1/2 Lot zusammen</item>
+                  <item>2 Fl. 22 1/2 Gr. 9 Castron</item>
+                  <item>1 Fl. ein messing Pfann mit Eisen Füße</item>
+                  <item>23 1/2 dito </item>
+                  <item>ein alt geflickter messingener Kessel ist nicht taxiert</item>
+                  <item>15 Gr. ein alt Kupferkessel ohne Füße</item>
+                  <item>8 Fl. 8 Lot ein Topf</item>
+                  <item><hi rendition="#u">3 Fl. </hi>ein alter kleiner Kessel</item>
+                  <item>30 Fl. 15 Gr.</item>
+               </list></p>
+            <p>Messing<list>
+                  <item>2 Fl. ein klein Mörsel 3 Lot</item>
+                  <item><hi rendition="#u">3 Fl. 15 Gr. </hi>ein klein Platteisen</item>
+                  <item>3 Fl. 15 Gr.</item>
+               </list></p>
+            <p> </p>
+            <p>Zinn<list>
+                  <item>3 Fl. 22 Gr. 7 1/2 <gap reason="illegible"/> 3 St. zinnerne
+                            Schüsseln</item>
+                  <item>1 Fl. 22 Gr. 12 <gap reason="illegible"/> 1 Dutz. Scheiben</item>
+                  <item>1 Fl. 2 Leuchter</item>
+                  <item>2 zinnerne Teekännchen</item>
+                  <item>1 Stück holländische kleine Schüsseln</item>
+                  <item>1 töpferne kalte <gap reason="illegible"/> Schüssel</item>
+                  <item>6 Paar Tee-Taschen</item>
+                  <item>1 Spiegel mit dem schwarzen Rahmen oben</item>
+                  <item>
+                     <hi rendition="#u">eine Cron</hi>
+                  </item>
+                  <item>12 Fl. 12 Gr.</item>
+               </list>
+            </p>
+            <p>Eisen Zeug<list>
+                  <item>
+                     <list rendition="#rightBraced">
+                        <item>3 <gap reason="illegible"/> Hacken</item>
+                        <item>ein Bratspieß</item>
+                        <item>1 Dreifuß</item>
+                        <item>1 Rost</item>
+                        <item>1 Hackmesser</item>
+                        <item>1 Elle </item>
+                     </list>ohn taxiert </item>
+                  <item>
+                     <lb/>
+                     <lb/>1 Fl. ein Zimmer <gap reason="illegible"/>
+                  </item>
+                  <item>18 Gr. ein <unclear reason="illegible" cert="low">Schiphau</unclear></item>
+                  <item><list rendition="#rightBraced">
+                        <item>24 Gr.</item>
+                        <item>18 Gr.</item>
+                     </list>2 Holz<gap reason="illegible"/></item>
+                  <item>15 Gr. ein Schiphau</item>
+                  <item>24 Gr. ein Handbeil</item>
+                  <item>15 Gr. ein Zimmerbohrer</item>
+                  <item>24 Gr. eine Holzsäge</item>
+                  <item>15 Gr. eine Winkeleisen</item>
+               </list>
+            </p>
+            <p>Hölzern Zeug<list>
+                  <item>18 Fl. 1 Kantor-Schaff zu Linnenzeug der Louischen</item>
+                  <item>4 Fl. ein klein eichen Weißzeug-Schaff der Sophia</item>
+                  <item>6 Fl. ein Speise-Schaff Tannenholz</item>
+                  <item>6 Gl. ein Linden Kleider-Schaff der Augustina</item>
+                  <item>1 Fl. 6 Gr. 1 runder Tisch</item>
+                  <item>1 Fl. 6 Gr. dito 4 kantige</item>
+                  <item>3 Fl. ein Winkel-Schaff</item>
+                  <item>6 hölzerne Stühle rot</item>
+                  <item>5 grüne Stühle</item>
+                  <item>
+                     <hi rendition="#u">3 Bettstellen</hi>
+                  </item>
+                  <item>39 Fl. 12 Gr,</item>
+               </list>
+            </p>
+            <p>Inventarium vom Vieh<list>
+                  <item>1 Boll</item>
+                  <item>48 Kühe</item>
+                  <item>11 St. Arbeitsochsen sage 11 Stück</item>
+                  <item>4 St. junge Ochsen 4 bis 6-jährig</item>
+                  <item>1 Boll</item>
+                  <item>6 Ochsen 3-jährig</item>
+                  <item>3 Ochsen Kälber 2-jährig</item>
+                  <item>1 Kuh </item>
+                  <item>4 Ochsen Kälber 1-jährig</item>
+                  <item>6 Kühe</item>
+                  <item>
+                     <hi rendition="#u">12 Stück </hi>zugelegte Kälber von diesem
+                            Winter</item>
+                  <item>103 Stück, davon der Besatz abzugeben</item>
+               </list>
+            </p>
+            <p>Pferd<list>
+                  <item>7 Wallache</item>
+                  <item>3 Stuten</item>
+                  <item>3 Stuten auf dem Hof</item>
+                  <item>
+                     <hi rendition="#u">3 Stuten </hi>3-jährig</item>
+                  <item>10 Stück, davon der Besatz abzugeben</item>
+               </list>
+            </p>
+            <p>Schaf<list>
+                  <item>31 Stück item</item>
+               </list>
+            </p>
+            <p>Schwein<list>
+                  <item>19 Stück alte und</item>
+                  <item>
+                     <hi rendition="#u">5 Stück</hi> jährliche</item>
+                  <item>24 item</item>
+               </list>
+            </p>
+            <p>An Wagen-Geschirr<list>
+                  <item>1 große beschlagene Kalesche auf 4 Pferd nebst 1 hinter</item>
+                  <item>1 kleine beschlagene Kalesche auf 2 Pferd mit einer hinter</item>
+                  <item>noch 4 beschlagene Bracken auf dem Hof auf dem Söller</item>
+                  <item>3 beschlagene Holz-Schlitten</item>
+                  <item>1 beschlagener Jagd-Schlitten mit dem
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Commen<?oxy_custom_end?></item>
+                  <item>1 großer grüner angestrichener Familien-Schlitten</item>
+                  <item>1 rot klein angestrichener Jagd-Schlitten</item>
+                  <item>2 vierspännige Wagen</item>
+                  <item>8 alte Räder und vier alte Wagen </item>
+                  <item>Achsen</item>
+                  <item>1 <gap reason="illegible"/> mit 28 abgebrauchte Zinken</item>
+                  <item>1 <gap reason="illegible"/> mit 27 abgebrauchte Zinken</item>
+                  <item>1 Wasch<gap reason="illegible"/>
+                  </item>
+                  <item>4 Zochen</item>
+                  <item>4 Stück Kuh-Leder<list>
+                        <item>etzliche Bunde ungebrechtes Flachs</item>
+                        <item>etzliche Bunde ungebrechtes Hanf</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <item>2 Paar Geschirr-Sielen, mit Vorder- und Hinterzeug nebst lederner
+                            Jagdleine</item>
+                  <item>1 Paar lederne Hals-Sielen mit einer Kette</item>
+                  <item>2 Paar neue Sielen a 3 Fl. das Paar <lb/>
+                     <lb/>Kredit-Schulden gibt Herr Arrendator<list>
+                        <item>300 Fl. Herr Akzise-Einnehmer <persName key="ed_st4_ml3_s5b">Gisevius</persName> in Angerburg</item>
+                        <item>
+                           <list rendition="#rightBraced">
+                              <item>100 Fl. Kapital</item>
+                              <item>12 Fl. Interesse <persName key="ed_s44_sl3_s5b">Georg
+                                    Rückwart</persName> von <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                              </item>
+                              <item>16 Fl. für Getreide</item>
+                           </list>
+                        </item>
+                        <item>30 Fl. <persName key="ed_l3t_pl3_s5b">Michael
+                                        Erdmann</persName> von <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+                        </item>
+                        <item>30 Fl. die Frau Pfarrerin <persName key="ed_ms4_hzv_q2b">Boretius</persName> von <placeName key="ed_epz_y2c_gy">Engelstein</placeName>
+                        </item>
+                        <item>119 Fl. Meister <persName key="ed_xdl_zl3_s5b">Wittke</persName> von Drengfurt</item>
+                        <item>9 Fl. der Schulmeister <persName key="ed_dmz_bm3_s5b">Lucas</persName> von Drengfurt</item>
+                        <item>15 Fl. <persName key="ed_obj_km3_s5b">Christoff Bliss
+                                        Junior</persName> von Drengfurt</item>
+                        <item>21 Fl. Herr Amtmann <persName key="ed_w2m_nm3_s5b">Sidau</persName> in <placeName key="ed_asn_jyz_ncb">Blaustein</placeName>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Rekapitulation aller taxierten Mobilien samt dem baren Geld<list>
+                  <item>166 Fl. an Dukaten</item>
+                  <item>392 Fl. ab species Rtlr. und zwei Drittel Stück</item>
+                  <item>2000 Courant Geld</item>
+                  <item>171 an Silber</item>
+                  <item>58 Fl. Leinwand</item>
+                  <item>30 Fl. 15 Gr. Kupfer der große Kesser ist noch nicht taxiert</item>
+                  <item>3 Fl 15 Gr. Messing</item>
+                  <item>12 Fl. 12 Gr. Zinn</item>
+                  <item>6 Fl. 3 Gr. Eisen Zeug</item>
+                  <item>
+                     <hi rendition="#u">39 Fl. 12 Gr. </hi>Holzen Zeug</item>
+                  <item>2,878 Fl. 27 Gr.</item>
+                  <item>
+                     <hi rendition="#u">642 Fl. Kredit </hi>Schulden</item>
+                  <item>3,520 Fl. 27 Gr. sage Dreitausend fünfhundert und zwanzig Fl. 27 Gr. davon
+                     etwa noch 200 Fl. Arrende zu zahlen schuldig</item>
+               </list>
+            </p>
+            <p>Dann gibt Herr Arrendator Wilewski an, dass seiner Meinung nach vorrätiges
+                    Getreide sein würde, aber nicht über Maßen<list>
+                  <item>5 Brot Korn</item>
+                  <item>1 - 24 Schfl. Weizen</item>
+                  <item>1 - 30 Schfl. Erbsen, worunter die Saat</item>
+                  <item>3 - Gerste ohne die Saat</item>
+                  <item>4 - Haber ohne die Saat</item>
+                  <item>1 Last Gerste noch zu Dreschen zur Saat</item>
+                  <item>2 Last Korn zu Dreschen</item>
+                  <item>1 - 20 Schfl. Haber zur Saat</item>
+               </list>
+            </p>
+            <p>Dass dieses alles richtig verschrieben worden, attestieren anno et die ut
+                    supra</p>
+            <p>
+               <persName key="ed_x5n_g4j_2qb">Maria Dorothea Reichenbachin</persName>
+            </p>
+            <p>
+               <persName key="ed_sjt_dnj_2qb">Johannes Andreas Borchert</persName>
+               <lb/>Stadtschreiber in Drengfurt</p>
+            <p>
+               <persName key="ed_wwn_gnj_2qb">Michael Kösling</persName> Rats V. W.</p>
+            <p>
+               <persName key="ed_omn_f5g_bqb">David Wilewski</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

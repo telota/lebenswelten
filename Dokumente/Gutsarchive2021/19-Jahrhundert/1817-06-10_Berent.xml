@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_k3v_kkp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet über die Lage in Steinort, u. a. über die
+               Auseinandersetzung mit den Bauern. Steinort, 10. Juni 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-06-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 7.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_k3v_kkp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>No. 7. Steinort den 10. Juni 1817</dateline>
+               <salute>Sehr gnädigster Herr Graf</salute>
+            </opener>
+            <p>Seit der Ankunft den 15. Febr. in <placeName key="ed_mzz_jfr_gbb">Sedan</placeName>
+               habe ich von Ew. Hochgeboren keine Nachricht, ohnerachtet ich 3 Briefe über wichtige
+               Gegenstände angefragt habe. Ich wage es also, dieses Schreiben abgehen zu lassen, und
+               hoffe doch, dass es in Dero Hände geraten wird. In den Gütern ist im Ganzen noch
+               alles gut. Ich habe zwar am gelben Geschwulst 4 Stück Arbeitspferde verloren und bei
+               anderen, wie zum Exempel bei allen dreien von Angerappscher Race die im Stall
+               standen, haben sich die <gap reason="illegible"/> sehr vergrößert und die große
+               braune von der Trakehnschen hat blöde Augen bekommen. Ich habe sie nach <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> geschickt und <persName key="ed_xyb_x3g_hwb">Steinert</persName> glaubt sie zu kurieren. Indessen bei
+               allen diesen Ereignissen wurde von Seiten der Menschen nichts versehen. Die übrigen
+               jungen Pferde sind alle gesund. <gap reason="insignificant"/> Die Schafe sind gesund
+               und nun vorige Woche geschoren. Ich habe aber die Wolle schon verkauft und habe für
+               die veredelte und spanische zusammen 25 Rtlr. p. <seg type="comment"><seg type="comment"><orig>Stein</orig><note xml:id="nlzt_srs_xxb">Königsberg: 1
+                        großer Stein = 33 Pfund (berlin.) = 1.5428 Gramm; 1 kleiner Stein = 20 Pfund
+                        (berlin.) = 9350 Gramm</note></seg>
+               </seg> von einem für englische Rechnung handelnden Kaufmann erhalten. <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> habe ich auch verpachtet. Herr <persName key="ed_b4v_4ld_b2b">Schmalz</persName> war so gefällig und brachte mir einen
+               Pächter aus <placeName key="ed_z15_pdp_tcb">Litauen</placeName> namens <persName key="ed_ps5_zkj_hlb">Behrendt</persName>, scheint ein sehr tätiger und
+               ordnungsliebender Mann zu sein, circa 38 Jahre alt. Es war auch jetzt die
+               allerhöchste Zeit, dass die Vorwerker in andere Hände kommen, denn die ganze
+               Wirtschaftsführung gleicht der des verewigten Hengstmeisters, denn davon und
+               besonders von ihr könnte man einige Bogen schreiben. Da ich solche nun vorgestern
+               übergeben habe, ist alles noch nicht in Ordnung, auch die Rechnungen noch nicht
+               abgenommen, So werde nächstens auch von dem hiesigen Ertrage einen umständlichen
+               Bericht abstatten. Ich bemerke bloß, dass ich diesem Mann die Vorwerke auf sechs
+               Jahre verpachtet habe, die ersten zwei Jahre gibt er 1.200 Rtlr., die letzten 4 Jahre
+               1.500 Rtlr. Erfüllt er alle Punkte die Sie aufgesetzt haben, außer die Handlangerei
+               bei Bauten nicht. 700 Rtlr. habe ich mir zur Kaution stellen lassen durch eine
+               sichere Obligation. Der Mann hat 6 St. gute Pferde, 10 Kühe, 15 St. schönes Jungvieh,
+               4 St. große und 2 St. kl. Beschlag-Wagen und sehr schöne Möbel und Wirtschaftsgerät
+               mitgebracht. Die Übergabe wurde mit aller nur möglichsten Vorsicht vollzogen und die
+               ihm übergebenen Inventarienstücke werden doch wohl beinahe 3.000 Rtlr. taxiert sein.
+                  <placeName key="ed_xjg_d12_gy">Stobben</placeName> ist auch an <persName key="ed_j5c_dkj_hlb">Gramatzki</persName> vorige Woche übergeben und alles
+               beobachtet, was nur möglich war. Zugesät ist auf allen Vorwerken und auch im ganzen
+               recht gut, die Winterfelder stehen so mittelmäßig und auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> auch recht gut, die Sommerfelder besonders bei mir und in
+                  <placeName key="ed_xpm_112_gy">Labab</placeName> außerordentlich gut. Der Klee bei
+               mir in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, auch <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> steht sehr gut, in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> steht er am schlechtesten und den alten
+               musste ich umpflügen lassen. Diese Jahr konnte ich nicht sehr viel säen, indem ich
+               keine Saat bekam. <seg type="comment"><orig>Zur Übersicht lege ich einen Zettel von
+                     der Aussaat ein. </orig><note xml:id="nwrx_yzk_lwb">Liegt bei.</note></seg> So
+               weit, gnädigster Herr Graf, wäre noch alles gut, aber nur der Umstand mit den Bauern,
+               wie wird das nun werden? <seg type="comment"><orig>In <placeName key="ed_xpm_112_gy">Labab</placeName> ist unser Projekt vereitelt, die Bauern haben mir bei der
+                     Regierung verklagt, die Regierung hat an den General-Kommissarius geschrieben,
+                     und dieser frägt mir an, ob ich die Vollmacht habe, die Bauern
+                     auseinandersetzen zu lassen. </orig><note xml:id="nubg_tss_xxb">Siehe <ref target="lehndorff_evy_2mk_2tb">Lehndorffs Ideen zu Veränderungen in den
+                        Gütern</ref>.</note></seg>Wenn nicht, so soll ich dieses Ew. Hochgeboren
+               berichten und sie sollen auf den 1. August den General-Bevollmächtigten setzen, mit
+               dem sie unterhandeln können. Ich habe ihm geantwortet, dass ich zwar Bevollmächtigter
+               wäre, <seg type="comment"><orig>allein bei Dero Abreise wären von Seiten der Bauern
+                     keine Anträge gemacht,</orig><note xml:id="nukf_f55_xxb">Der Antrag zu den
+                     Auseinandersetzungen in Labab und Serwillen wurde erst am <ref target="lehndorff_hlg_4jz_nxb">10. August 1818</ref> gestellt, siehe auch
+                     die Beschreibung der Auseinandersetzungen zwischen Gutsherrschaft und Bauern in
+                     den Steinortschen Gütern vom <ref target="lehndorff_pgv_kvd_nxb">14. August
+                        1818</ref>.</note></seg> und also wäre über diesen Gegenstand nichts
+               verabredet worden. Ich tat dieses bloß deswegen, um Zeit zu gewinnen, mich mit
+               Hochdenenselben zu besprechen, wie es mit den Bauern in Labab zu machen sein wird,
+               indem dieselben von da nicht herausgehen wollen, und sie deswegen mir bei der
+               Regierung verklagten, und diese hat dem General-Kommissarius <persName key="ed_rqm_zch_1cb">Sydow</persName> dieses aufgetragen, der schreibt nun</p>
+            <p>„übrigens wird noch bemerkt, dass mit den Bauern eigenmächtig keine Veränderung von
+               Seiten des Gutsherrn vorgenommen werden darf und dieselbe in ihren Verhältnissen
+               belassen werden müssen.‟</p>
+            <p>Setzen Sie mich wenigstens <persName key="ed_afr_tvf_2y">Werner</persName> oder
+                  <persName key="ed_abl_pyy_4kb">Werse</persName> zur Seite und bestimmen, wie
+               ohngefähr die Bauern in <placeName key="ed_xpm_112_gy">Labab</placeName> schadlos
+               gehalten werden sollen, denn sie haben bessere Gebäude, Acker und Wiesen wie die
+               anderen und gar kein Vergleich gegen <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>. Ich habe unbeschreiblichen Ärger und Verdruss mit den
+               Bauern und <persName key="ed_stv_2dt_xxb">Willimzig</persName> gehabt, die Pristanger
+               mussten durch Zwangsmittel zu ihrer Schuldigkeit angehalten werden. Jetzt aber sind
+               sie alle ruhig und ich habe mit die Pristanger einen schriftlichen Kontrakt gemacht
+               auf Hochzins, nämlich 24 Rtlr. Geld, 20 Schfl. nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu fahren und 2 Achtel schlagen und anfahren. Einer in
+               Labab hat auch einen Kontrakt gemacht, die anderen drei scharwerken, die <placeName key="ed_hrb_hc2_gy">Serwiller</placeName> tun auch ihr Scharwerk. Die <placeName key="ed_s3k_b12_gy">Taberlacker</placeName>, <placeName key="ed_xzt_112_gy">Stawisker</placeName> und <placeName key="ed_xjg_d12_gy">Stobber</placeName>
+               blieben ganz ruhig, nur einige sind auch so schwach, dass sie gar kein Sommergetreide
+               für den Hof bestellen konnten. Vor drei Wochen hatte ich noch einen Rest Weizen von
+               300 Schfl. nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> geschickt und
+               bekam noch 4 Rtlr., jetzt will ich mit den stärksten Bauern fahren und etwa 250
+               Schfl. Korn laden, denn es gibt noch über 5 Fl. <lb/><seg type="comment"><orig>Mit
+                     den Bauten geht es zwar seinen Gang</orig><note xml:id="nuk5_3cv_xxb">Siehe
+                        <ref target="lehndorff_bhs_ck4_ftb">hier</ref>.</note></seg>, nur da im
+               Winter nicht viel bei dem so außerordentlichen bösen Wege an Materialien angefahren
+               werden konnte, so macht mir das außerordentliche Schwierigkeiten. In <placeName key="ed_xpm_112_gy">Labab</placeName> ist der Schuppen größententeils abgebunden,
+               allein das Fundament, da es so außerordentlich hoch kommt, noch lange nicht fertig.
+               Auch der Pächter in <placeName key="ed_nkz_b12_gy">Stawken</placeName> hat mich
+               gebeten, Ew. Hochgeboren anzufragen, in welcher Art das ihm versprochene Brandhaus
+               gebaut werden soll; er bittet sehr, ihm doch solches soviel wie möglich auf die
+               vorteilhafteste Art einzurichten, da er doch zugleich eine Wohnung für den Brauer und
+               einen Maststall dabei wünscht. Nun bleibt aber die große Frage, wo soll es hingebaut
+               werden, oben ist kein Wasser und da, wo er es wünscht, ist ein schlechter Ort und
+               gibt dem Vorwerk ein schlechtes Aussehen. Er will es hinter die Scheunen am Teich im
+               Felde haben. Mein Vorschlag wäre in den Garten linker Hand von seinem Wohnhause, da
+               müsste man versuchen, einen Brunnen zu machen oder den kleinen Teich am Hause
+               auszufahren und einen Damm zu schütten. <seg type="comment"><orig>Der Mann ist ein
+                     guter verständiger Wirt und seine Wirtschaft geht recht gut, nur er gefällt
+                     sich nicht. Ich habe es erfahren, dass er in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gesagt hat, er will gern 600 Rtlr. für den Abzug
+                     geben, die landschaftliche Taxe hat ihn zu sehr mit dem Heuertrage getäuscht,
+                     sie haben bei <placeName key="ed_nkz_b12_gy">Stawken</placeName> 160 Fuder
+                     angenommen und er hat dieses Jahr nur 70 Fuder gebaut. </orig><note xml:id="nphw_jws_xxb">Pachtunterlagen zu Stawken in: <ref target="https://namensindex.org/bestand.php?aid=42&amp;id=382">APO, Bestand
+                        382 Familienarchiv Lehndorff</ref>, Nr. 50 und 52, Lehndorffs Vorstellungen
+                     wegen Neueinrichtung der Pacht in: GStA PK, XX. HA Rep. 54 Gutsarchiv
+                     Lehndorff-Steinort, Nr. 829, Anschläge in Nr. 828, Pachtberechnungen Nr. 375.
+                     Da Behrendt weiter Pächter blieb, scheint man eine Lösung gefunden zu
+                     haben.</note>
+               </seg>Er hat es mir selbsten gesagt, dass, wenn er seinen Acker gehörig bearbeiten
+               soll, so muss er die Kuhpacht abschaffen, sonsten ernährt er sein Angespann nicht.
+               Mir sieht er gewiss als den Urheber seines Unglücks an, ich hoffe aber, Ew.
+               Hochgeboren werden, wenn Sie in der Zukunft sehen werden, dass es nicht geht, ins
+               Mittel treten. <lb/>Dass dieses Jahr nichts gebaut und repariert ist, können Ew.
+               Hochgeboren an der Bezahlung der Handwerker erssehen. Ich habe bloß an Mauer und
+               Zimmermann 946 Rtlr. bezahlt, und noch habe ich mit dem Pächter wegen der Reparaturen
+               keine Berechnung gehabt. <lb break="no"/>Die Getreidepreise stehen noch immer gut,
+               der beste Weizen 9 Fl., Roggen 2 Rtlr. und darüber, Haber 1 Rtrl. 12 Gr., Erbsen 6
+               und 5 Fl. Nur ein Unglück, dass nicht viel zu verkaufen sein wird, denn in unserer
+               Gegend findet ein jeder in der Scheune viel weniger, wie er auf dem Felde glaubte zu
+               haben. <seg type="comment"><orig><persName key="ed_tc2_stm_zcb">Gaehler</persName>
+                     gefällt sich in seiner Kondition bei <persName key="ed_vtd_bys_xxb">H. v.
+                        Tettau</persName> sehr gut und er wird auf dem 27. Xbr. seine Hochzeit
+                     feiern.</orig><note xml:id="nfs4_pys_xxb">Siehe den Brief vom <ref target="lehndorff_hfh_qjp_3tb">14. Februar 1817</ref>. Am <ref target="lehndorff_m4x_pkp_3tb">8. August</ref> scheieb Berent: „Gaehler ist
+                     nach Klimken und hat nicht geheiratet, er sucht noch immer eine Stelle, da
+                     diese nicht seinen Wünschen entspricht.‟ </note></seg> Mit dem Ankauf der
+               Pfandbriefe geht es gar, da sie schon über 90 Rtlr. stehen, und Lieferungsscheine
+               zahlen keine Zinsen, wenn sie in der zweiten Hand stehen, und weiß Gott, wann eher
+               sie bezahlt werden. <persName key="ed_jbs_trn_s3b">Holstein</persName> ist noch
+               gesund, kann aber gar nicht fischen, Mit dem Holzverkauf geht es noch für jetzt gar
+               nicht.</p>
+            <closer rend="paragraph">
+               <salute>Meine Frau mit mir empfehlen sich zur ferneren Gnade und ich ersterbe mit
+                  allem Respekt <lb/>Ew. Hochgeboren untertänigster Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+            <closer> </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

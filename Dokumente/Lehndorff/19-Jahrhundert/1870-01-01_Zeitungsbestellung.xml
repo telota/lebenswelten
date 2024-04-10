@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_ajs_hgn_2cb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Zeitungsbestellung. 1870</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+            <note type="editorial">
+               <p>Die <ref target="https://de.wikisource.org/wiki/Berliner_Revue">Berliner Revue.
+                     Social-politische Wochenschrift</ref> war nur bis 1858 (Bd. XIII) bezogen
+                  worden, GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 430, n. f.
+                  (Wilhelm Koch an Graf von Lehndorff, 17. Februar 1858).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 262, passim (diverse Quittungsbelege und Notizen)</idno>
+               </msIdentifier>
+               <p/>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1870-01-01" notAfter="1870-03-31" cert="high"/>
+         </creation>
+         <abstract>
+            <p>1870 wurden u. a. folgende Zeitungen nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geliefert: Ostpreußische Zeitung, Litauische Zeitung,
+               Königsberger Hartungsche Zeitung, Neue Preußische Zeitung, Norddeutsche Allgemeine,
+               Sporn, Preußischer Volksfreund, Waidmann, Evangelische Kirchenzeitung, Volksblatt für
+               Stadt und Land, Post, Deutsches Magazin für Gartenbau, Daheim, Kriegerheil, <seg type="comment">
+                  <orig>Zeitschrift für Homöopathie.</orig>
+                  <note xml:id="noxg_d3c_ycb">Ob es die von dem Hausarzt Lehndorffs herausgegebene
+                     Zeitschrift ist, konnte nicht festgestellt werden. Hierüber schrieb Pfarrer
+                        <persName key="ed_myw_dfy_ybb">Borkowski</persName> 1859: <quote>Johannes
+                           <persName key="ed_rdr_r4z_d2b">Lehmann</persName>, Hausarzt des Grafen
+                        Lehndorff und homöopathischer Tierarzt, so nennt er sich in der Probenummer
+                        eines von Fehlern strotzenden und <hi rendition="#u">heidnischen</hi>
+                        Blattes, das er hat drucken lassen, wird von aller Welt gesucht. Von weit
+                        her kommen Menschen nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, sich kurieren zu lassen. Ob er allen helfen
+                        wird?</quote>, APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941720">Nr. 576</ref>, Bl. 5-6v. <persName key="ed_wms_mh2_cy">Anna von
+                        Lehndorff</persName> war der Behandlungsmethode sehr zugetan, stand in
+                     Kontakt mit dem Homöopathen S. <persName key="ed_gzn_mss_s2b">Schmidt</persName> aus <placeName key="ed_ip1_5vz_g2b">Riola</placeName> in
+                     Spanien, gab der Familien, weiteren Verwandten und Freunden (Agnes <persName key="ed_cxf_1tc_d2b">Hahn</persName>, Marie <persName key="ed_fj1_zn2_3fb">Dönhoff</persName>, Pauline <persName key="ed_tcp_g3l_2y">Lehndorff</persName>, Baronin <persName key="ed_plw_nlg_ccb">Romberg</persName>, Baronin <persName key="ed_vfj_g42_3fb">Hüllesem</persName>, Gräfin <persName key="ed_f5w_2fm_2y">Borcke</persName>, Baronin <persName key="ed_wjt_nwh_h2b">Wrangel</persName>,
+                     sogar Fürst <persName key="ed_atc_ls2_cy">Bismarck</persName> Hinweise zur
+                     Behandlung und erweiterte die Bibliothek um eine Vielzahl medizinischer
+                     Fachbücher, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                     591 (homöopathische Behandlung) und Nr. 740 (Bibliotheksinventar). </note>
+               </seg>
+            </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

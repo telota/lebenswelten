@@ -1,0 +1,1175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_tkq_b54_5pb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inventar der Lehndorffschen Erbuntertanen in Steinort, Labab, Taberlack,
+               Serwillen Pristanien und Stawken. </title><title>4. April 1718</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="editorial">
+               <p>Das Inventar ist identisch mit GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 216: Untertanen auf den Gütern Labab, Taberlack,
+                  Serwillen, Pristanien und Stawken (1718). <lb/>Siehe auch <ref target="lehndorff_ajm_l2s_33b">Nr. 307: Nachweisung der Einkünfte aus Steinort
+                     und Pristanien und namentliches Verzeichnis der Bauern (1730</ref>), Nr. 318:
+                     <ref target="lehndorff_fww_zj2_ctb">Liste der Einwohner auf den Gütern
+                     Steinort, Taberlack, Stawisken, Labab, Stawken, Stobben, Serwillen (ca.
+                     1743)</ref>, Nr. 139: <ref target="lehndorff_u45_z24_gqb">Seelen-Tabelle der
+                     Gräflich Steinortschen Güter (Herbst 1808)</ref> und Nr. 188: <ref target="lehndorff_d55_sz4_5pb">Nachweisung sämtlicher in den Steinortschen
+                     Gütern in Lohn und Deputat stehenden Personen. Namentliche Aufstellung von
+                     Bedienten und Untertanen auf den Gütern Gr. Steinort, Labab, Stawisken,
+                     Taberlack, Serwillen, Stobben, Stawken, Marschallsheide (1810).</ref>
+                  <lb/>Zu den Erbuntertanen der Landkeimschen Güter: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941321">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 198 (1777)</ref>. <lb/>Weitere
+                  Einwohnerlisten in: StA L, Bestand 21950 Familienarchiv Lehndorff, <ref target="lehndorff_xj4_x12_gy">Nr. 51 (1795)</ref>, <ref target="lehndorff_ojk_td2_gy">Nr. 53 (1830)</ref>.</p>
+               <p>Am <ref target="lehndorff_zmn_2fb_4fb3">27. April 1724</ref> teilten <persName key="ed_swz_dbp_mbb">Gerhard Ernst Graf von Lehndorff</persName> und <persName key="ed_wtg_nyl_2y">Ernst Ahasverus von Lehndorff</persName> die Domestiken
+                  unter sich auf und vereinbarten, dass diese bei den Gütern entsprechend der
+                  Kontrakte verbleiben sollen. </p>
+               <p>Für die Reichertswaldeschen Güter gab es ein „Leibeigenenbuch‟, ein Fragment  in:
+                  APO, Bestand 384 Familienarchiv Dohna, Nr. 673 (1766-1768).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 456, n. f.</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Mit Blei und Tinte wurden später Anmerkungen zugesetzt, die sich auf das
+                     Entlaufen oder den Tod von Personen beziehen. Sie sind überwiegend unleserlich
+                     und wurden, da sie sich auf den späteren Status der Personen beziehen, nicht
+                     übernommen. </p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1718-04-04" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_tkq_b54_5pb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Hochgräflichen Hause <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    den 4. April 1718</p>
+            <p>Nachdem Sr. Erlaucht Herr <persName key="ed_swz_dbp_mbb">Gerhard Ernst</persName> und
+               Herr <persName key="ed_wtg_nyl_2y">Ernst Ahasverus</persName> Grafen von Lehndorff zu
+               mehrerer Explikation des unter ihnen getroffenen brüderlichen Vergleichs und um allen
+               Disput wegen des Punkts von denen Untertanen zu heben gut gefunden, die in ihren
+               beiderseitigen Gütern befindliche Erbuntertanen untersuchen und inventieren zu lassen
+               und dieser wegen einmal für allemal festzusetzen, zu welchem Teil Güter einer oder
+               der andere gehört, weil in der Zeit, da selbige gemein gewesen, eine ziemliche
+               Verwechselung geschehen, als ist solches hierdurch bewerkstelligt solcher Gestalt,
+               dass diejenigen so beweibt von dem Ort, wohin sie hierdurch gesetzt, als wirkliche
+               Erbuntertanen nebst Weib, Kindern und allen Nachkommen verbleiben, diejenigen aber,
+               so noch unverheiratet, vor jetzo aber dienen, gehen nach verflossener Dienstzeit auf
+               Begehren ihrer Herrschaft dahin zurück, allwo sie geboren, und wollen die Herren
+               Gebrüder bei dieser gemachten Einrichtung steif und fest verbleiben. </p>
+            <p>Sind also als wirkliche Erbuntertanen gesetzt:</p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               </hi>
+            </p>
+            <p>
+               <ref target="lehndorff_gzd_2bn_2bb"><persName key="ed_fqf_yjk_gbb">Jacob
+                     Nowack</persName>, Hofmann, sein Weib</ref>
+               <lb/>3 Söhne, <persName key="ed_ykw_llq_lpb">Georg</persName>, <persName key="ed_gtw_qjb_hkb">Michael</persName>, <persName key="ed_cg5_54h_bqb">Ahasverus</persName>
+               <lb/>1 Tochter <persName key="ed_vp5_w4h_bqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_v34_z4h_bqb">Jacob Liss</persName>, Hofknecht, von <placeName key="ed_xzt_112_gy">Stawisken</placeName> bürtig</p>
+            <p>
+               <persName key="ed_rwy_cph_bqb">Catharina Skowroda</persName>, Hofmagd, von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> bürtig</p>
+            <p>
+               <persName key="ed_msf_kph_bqb">Albrecht Bartnick</persName>, sein Weib, ist jetzo
+                    Hirt in <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+               <lb/>2 Söhne, <persName key="ed_qqk_nph_bqb">Martin</persName> dient beim
+                        <persName key="ed_pds_pph_bqb">Plesska</persName> in <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <persName key="ed_gcn_lzw_hkb">Jan</persName> dient in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> beim <persName key="ed_lss_rph_bqb">Casimir</persName>
+               <lb/>2 Töchter, <persName key="ed_u3f_wph_bqb">Dorothea</persName>, <persName key="ed_rl5_wph_bqb">Maria</persName> dient beim <persName key="ed_jkn_vph_bqb">Christian Bartnick</persName> in <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+            </p>
+            <p>
+               <persName key="ed_sxp_zph_bqb">Andreas Küttel</persName>, sein Weib <lb/>1
+                    Tochter <persName key="ed_fz2_1qh_bqb">Maria</persName> dient in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            </p>
+            <p>
+               <persName key="ed_l1x_cqh_bqb">Gregor Kopitkow</persName>, sein Weib <lb/>1
+                    Stiefsohn <persName key="ed_pwm_fqh_bqb">Johann Suppa</persName> dient in
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               <lb/>1 Stieftochter <persName key="ed_qyz_fqh_bqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_hc2_kqh_bqb">Maria Schusche</persName> oder Uwissche genannt
+                    <lb/>2 Söhne, <persName key="ed_g3f_4qh_bqb">Johann</persName> ist Fischer in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <persName key="ed_iks_4qh_bqb">Michael</persName> dient im <placeName key="ed_s3k_b12_gy">Taberlackschen</placeName> Hof</p>
+            <p>
+               <persName key="ed_vhl_tqh_bqb">Christoph Waschke</persName>, Fischer, sein Weib
+                    <lb/>1 Sohn <persName key="ed_nt1_wqh_bqb">Christoph</persName> dient in
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> beim Arrendator <lb/>2
+                    Töchter, <persName key="ed_wtz_wqh_bqb">Maria</persName> ist in <placeName key="ed_xjg_d12_gy">Stobben</placeName> beim <persName key="ed_nnh_2rh_bqb">Jacob Kopitkow</persName>, <persName key="ed_nxc_grh_bqb">Catharina</persName> ist in <placeName key="ed_xpm_112_gy">Labab</placeName> bei <persName key="ed_imz_3rh_bqb">Georg
+                        Gellesch</persName>
+            </p>
+            <p>
+               <persName key="ed_cgg_mrh_bqb">Maria Kuckwiesesche</persName>
+               <lb/>1 Sohn <persName key="ed_ygv_4rh_bqb">Georg</persName> dient im Hof <lb/>2
+                    Töchter, <persName key="ed_xdk_prh_bqb">Kascha</persName> dient beim <persName key="ed_sxp_zph_bqb">Andreas Küttel</persName>, <persName key="ed_ijx_prh_bqb">Maria</persName> dient beim <persName key="ed_eys_trh_bqb">Boteck</persName> in <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+            </p>
+            <p>
+               <persName key="ed_azy_vrh_bqb">Jacob Masuch</persName>, sein Weib, Hirt <lb/>3
+                    Söhne, <persName key="ed_fzk_bsh_bqb">Michael</persName> ist Vorreiter in
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <persName key="ed_edm_xrh_bqb">Jacob</persName> dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim <persName key="ed_frj_dnr_vqb">Moczarski</persName>, <persName key="ed_jgg_hsh_bqb">Bartel</persName> dient im <placeName key="ed_hrb_hc2_gy">Surwillenschen</placeName> Hof <lb/>1 Tochter <persName key="ed_sj1_ksh_bqb">Elisabeth</persName> dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim <persName key="ed_frj_dnr_vqb">Moczarski</persName>
+               <lb/>
+            </p>
+            <p>
+               <persName key="ed_phy_3m1_2qb">Jacob Nowack</persName>, sein Weib, Waldhüter
+                    <lb/>2 Töchter, <persName key="ed_lrj_hm1_2qb">Maria</persName>, <persName key="ed_kgs_ssh_bqb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_pfz_zsh_bqb">Georg Rautenberg</persName>, sein Weib, Waldhüter
+                    <lb/>1 Sohn <persName key="ed_bcn_1th_bqb">Andreas</persName> dient in <placeName key="ed_xpm_112_gy">Labab</placeName> im Hof <lb/>2 Töchter, <persName key="ed_mwp_cth_bqb">Marie</persName> dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <persName key="ed_xmb_dth_bqb">Dorothea</persName> ist entlaufen</p>
+            <p>
+               <persName key="ed_vhg_3th_bqb">Anna Tiburtsche</persName> ist jetzo in <placeName key="ed_nkz_b12_gy">Stawken</placeName> Gärtner <lb/>2 Söhne, <persName key="ed_qmc_mth_bqb">Hans</persName> dient in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> beim <persName key="ed_gx4_kth_bqb">Michel
+                        Blum</persName>, der andere dient in <placeName key="ed_w3l_pth_bqb">Salzbach</placeName> beim Hirten</p>
+            <p>
+               <persName key="ed_wlw_tth_bqb">Johann Raabe</persName>, sein Weib <lb/>3 Söhne,
+                  <persName key="ed_gf2_wth_bqb">Johann</persName>, <persName key="ed_ths_wth_bqb">Georg</persName>
+               <add place="intralinear">Der Georg ist aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> 1721 entlaufen</add> dient in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> beim <persName key="ed_dr2_j5h_bqb">Rautenberg</persName>, <persName key="ed_y4c_c5h_bqb">Christoph</persName>
+               <lb/>2 Töchter, <persName key="ed_rfz_d5h_bqb">Elisabeth</persName>, <persName key="ed_dj5_c5h_bqb">Anna</persName> dient beim Gärtner <persName key="ed_ebr_h5h_bqb">Gresch</persName> in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName>
+            </p>
+            <p>
+               <persName key="ed_ugs_k5h_bqb">Michael Grütz</persName>, Jäger</p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_ds4_sbc_2qb">David Wilewka</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_p1h_vbc_2qb">Johann</persName>, <persName key="ed_gcv_vbc_2qb">Albrecht</persName>
+               <lb/>3 Töchter <persName key="ed_lls_ybc_2qb">Barb</persName>, <persName key="ed_o1h_zbc_2qb">Eleonora</persName>, <persName key="ed_es3_1cc_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_hr3_hcc_2qb">Valtin Wilewka</persName>, sein Weib <lb/>5
+                    Töchter <persName key="ed_wy2_kcc_2qb">Maria</persName>, <persName key="ed_fqv_mcc_2qb">Eleonora</persName> ist im Steinortschen Hof, <persName key="ed_o1c_pcc_2qb">Catharin</persName>, <persName key="ed_nsc_rcc_2qb">Barb</persName> ist beim Schulzen zu <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <persName key="ed_a5y_tcc_2qb">Anna</persName> ist
+                    beim <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Hofmann</p>
+            <p>
+               <persName key="ed_yy3_hdc_2qb">Michael Kopitkow</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_csw_kld_2qb">Christoph</persName>
+               <lb/>1 Tochter <persName key="ed_j1f_mld_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_vfy_sld_2qb">Jacob Warda</persName>, sein Weib <lb/>1 Tochter
+                        <persName key="ed_gyy_xld_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_oh3_bmd_2qb">Georg Bartnick</persName>, sein Weib</p>
+            <p>
+               <persName key="ed_pds_pph_bqb">Daniel Plesska</persName>, sein Weib <lb/>1
+                    Tochter <persName key="ed_xgg_gmd_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_v2d_kmd_2qb">Paul Gus</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_a4p_mmd_2qb">Christoph</persName>
+               <lb/>3 Töchter <persName key="ed_ujj_nmd_2qb">Eleonora</persName> ist in den
+                        <placeName key="ed_wkm_lx5_sy">Beynunischen</placeName> Gütern, <persName key="ed_phx_nmd_2qb">Maria Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_oyw_5md_2qb">Johann Gonneck</persName>, sein Weib <lb/>2
+                    Töchter <persName key="ed_icw_vmd_2qb">Anna</persName>, <persName key="ed_pb4_wmd_2qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_nnh_2rh_bqb">Jacob Kopitkow</persName>, sein Weib <lb/>1 Sohn
+                    Michael <lb/>3 Töchter <persName key="ed_ilp_l4d_2qb">Maria</persName>, dient
+                    beim <persName key="ed_pds_pph_bqb">Plesska</persName>, <persName key="ed_i4b_p4d_2qb">Barb</persName>, <persName key="ed_ihp_p4d_2qb">Dorothea</persName>
+               <lb/>
+            </p>
+            <p>
+               <persName key="ed_n12_v4d_2qb">Johann Kordack</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_ak1_x4d_2qb">Johann</persName>, <persName key="ed_x4p_y4d_2qb">Christoph</persName>
+               <lb/>1 Tochter <persName key="ed_wsq_x4d_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_vxg_fpd_2qb">Friedrich Braunfeld</persName>, sein Weib <lb/>2 Söhne
+                  <persName key="ed_k4y_gpd_2qb">Albrecht</persName>, <persName key="ed_xnx_hpd_2qb">Christoph</persName> ist zu den <placeName key="ed_ohv_kf2_gy">Pristanischen</placeName> gegeben <lb/>2 Töchter <persName key="ed_yfw_3pd_2qb">Dorothea</persName>, <persName key="ed_mhk_jpd_2qb">Euphrosina</persName>
+            </p>
+            <p>
+               <persName key="ed_t1l_tpd_2qb">Johann Kiworra</persName>, sein Weib <lb/>5 Söhne
+                        <persName key="ed_tsm_5pd_2qb">Johann</persName>, <persName key="ed_z4f_vpd_2qb">Georg</persName>, <persName key="ed_q55_xpd_2qb">Valtin</persName>, <persName key="ed_m55_vpd_2qb">Gottfried</persName>,
+                        <persName key="ed_wwk_wpd_2qb">Toffel</persName>
+               <lb/>2 Töchter <persName key="ed_bt4_ypd_2qb">Maria</persName>, <persName key="ed_xy2_zpd_2qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_vqv_kqd_2qb">Masuchsche</persName> hat <lb/>3 Söhne <persName key="ed_ahl_mqd_2qb">Johann</persName>, <persName key="ed_itq_mgq_lpb">Georg</persName>, <persName key="ed_wfq_nqd_2qb">Michael</persName> ist beim
+               Schmied in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <lb/>3 Töchter <persName key="ed_lfy_4qd_2qb">Dorothea</persName>, <persName key="ed_k2z_pqd_2qb">Eleonora</persName>, <persName key="ed_hmn_pqd_2qb">Catharina</persName> ist im <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Hof</p>
+            <p>
+               <persName key="ed_sqv_5rd_2qb">Michael Jarreck</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_hgf_wrd_2qb">Georg</persName>
+            </p>
+            <p>
+               <persName key="ed_g4p_zrd_2qb">Michael Schack</persName>, sein Weib <lb/>4
+                    Stiefsöhne <persName key="ed_cfl_2sd_2qb">Valtin</persName>, <persName key="ed_y4t_gsd_2qb">David</persName>, <persName key="ed_r3r_fsd_2qb">Michael Bartnick</persName> dient in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> beim <persName key="ed_dr2_j5h_bqb">Rautenberg</persName>, <persName key="ed_nhh_ctd_2qb">Christian</persName>
+                    ist entlaufen <lb/>2 Stieftöchter <persName key="ed_wkx_ksd_2qb">Maria</persName>, <persName key="ed_cqh_lsd_2qb">Elisabeth
+                        Bartnick</persName>
+               <lb/>2 Töchter <persName key="ed_gml_nsd_2qb">Eleonora</persName>, <persName key="ed_n5v_nsd_2qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_izc_htd_2qb">Albrecht Küttel</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_qh3_3td_2qb">Michael</persName>
+               <lb/>1 Tochter <persName key="ed_bcs_3td_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_z5f_ntd_2qb">Johann Klimmecke</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_hcb_ptd_2qb">Christoph</persName>
+               <lb/>1 Tochter <persName key="ed_lkr_4td_2qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_jmy_vtd_2qb">Christoph Bartnick</persName>, sein Weib <lb/>3
+                    Söhne <persName key="ed_v1l_ytd_2qb">Albrecht</persName>, <persName key="ed_h5v_ytd_2qb">Valtin</persName>, <persName key="ed_psg_ztd_2qb">Christoph</persName> ist weggelaufen <lb/>2 Töchter <persName key="ed_opj_c5d_2qb">Dorothea</persName>, <persName key="ed_d4t_c5d_2qb">Barbara</persName>
+            </p>
+            <p>
+               <persName key="ed_vx2_k5d_2qb">Adam Skowroda</persName>, ein Knecht, ist von
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> bürtig, dient beim
+                        <persName key="ed_vfy_sld_2qb">Warda</persName>
+            </p>
+            <p>
+               <persName key="ed_cjz_s5d_2qb">Christoph Schack</persName>, ist von <placeName key="ed_xzt_112_gy">Stawisken</placeName> bürtig, dient beim<persName key="ed_oh3_bmd_2qb"> Georg Bartnick</persName>, hat <lb/>1 Sohn <persName key="ed_vh3_x5d_2qb">Christoph</persName>
+            </p>
+            <p>
+               <persName key="ed_nqs_bvd_2qb">Eva Masuch</persName>, dient beim <persName key="ed_vfy_sld_2qb">Warda</persName>
+            </p>
+            <p>
+               <persName key="ed_hqh_gvd_2qb">Anna Gritzka</persName>, dient bei ihrem Bruder
+                        <persName key="ed_izc_htd_2qb">Kittel</persName>
+            </p>
+            <p>
+               <persName key="ed_jfj_kvd_2qb">Georg Sack</persName>, Zieglers Sohn, dient beim
+                        <persName key="ed_oh3_bmd_2qb">Georg Bartnick</persName>
+            </p>
+            <p>
+               <persName key="ed_glm_4vd_2qb">Jan Kotte</persName>, sein Weib <lb/>3 Töchter
+                        <persName key="ed_xfn_pvd_2qb">Maria</persName> dient beim <persName key="ed_pds_pph_bqb">Plesska</persName>, <persName key="ed_hyt_pvd_2qb">Elisabeth</persName>, <persName key="ed_qkx_qvd_2qb">Barbara</persName>
+            </p>
+            <p>
+               <persName key="ed_nsy_wvd_2qb">Christian Guseck</persName>, der Mann ist entlaufen, hat <lb/>2 Söhne
+                        <persName key="ed_a25_zvd_2qb">Valtin</persName>, <persName key="ed_s2j_1wd_2qb">Hans</persName> ist in <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName>
+               <lb/>2 Töchter <persName key="ed_xy4_kwd_2qb">Maria</persName> ist beim
+                        <persName key="ed_oh3_bmd_2qb">Georg Bartnick</persName> von <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <persName key="ed_o4k_lwd_2qb">Catharina</persName> ist in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> beim <persName key="ed_gx3_3wd_2qb">Georg
+                        Bartnick</persName>
+            </p>
+            <p>
+               <persName key="ed_q3n_qwd_2qb">Christoph Preiß</persName>, dient beim <persName key="ed_nnh_2rh_bqb">Jacob Kopitkow</persName>
+            </p>
+            <p>
+               <persName key="ed_cfd_5wd_2qb">Alexander Triscola</persName>, ist beim Schulzen
+                    als Knecht</p>
+            <p>
+               <persName key="ed_u34_zwd_2qb">Georg Klimecke</persName>, dient beim <persName key="ed_z5f_ntd_2qb">Bruder</persName>
+            </p>
+            <p>
+               <persName key="ed_wvb_gxd_2qb">Maria Schotkovna</persName>, eine Magd, dient beim
+                        <persName key="ed_z5f_ntd_2qb">Johann Klimmecke</persName>
+            </p>
+            <p>
+               <persName key="ed_lgy_3xd_2qb">Kivorsche</persName>
+            </p>
+            <p>
+               <persName key="ed_nnv_lxd_2qb">Georg Wilewka</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_r1x_nxd_2qb">David</persName>, <persName key="ed_ovc_pxd_2qb">Georg</persName>
+            </p>
+            <p>
+               <persName key="ed_izd_xh1_5qb">Anna Gerollsche</persName> hat <lb/>1 Schwester
+                        <persName key="ed_anm_wxd_2qb">Christina</persName>
+               <lb/>1 Sohn <persName key="ed_pjy_wxd_2qb">Michael</persName> ist im Hofe
+                    allhier</p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_cpk_wsw_2qb">Michael Schrippeck</persName>, sein Weib <lb/>3
+                    Söhne <persName key="ed_hnj_xsw_2qb">Michael</persName>, <persName key="ed_sbz_ysw_2qb">Jacob</persName>, <persName key="ed_ddf_ysw_2qb">Georg</persName>
+               <lb/>2 Töchter <persName key="ed_alr_zsw_2qb">Marina</persName>, <persName key="ed_amk_1tw_2qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_gx3_3wd_2qb">Georg Bartnick</persName>, sein Weib <lb/>hat
+                    keine Kinder</p>
+            <p>
+               <persName key="ed_jpp_rtw_2qb">Christoph Masuch</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_hbt_stw_2qb">Michael</persName>
+               <lb/>1 Tochter <persName key="ed_ff2_ttw_2qb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_b11_3qg_bqb">Christoph Schönfeldt</persName>, sein Weib <lb/>3
+                    Söhne <persName key="ed_rdn_5qg_bqb">Christoph</persName> dient in <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> beim Bruder, <persName key="ed_cwr_w4g_bqb">Michael</persName>, <persName key="ed_qzn_l5w_2qb">Andreas</persName>
+               <lb/>2 Töchter <persName key="ed_rrn_q5w_2qb">Maria</persName>, <persName key="ed_s2y_q5w_2qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_afs_w5w_2qb">Michael Borck</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_p3m_x5w_2qb">Peter</persName>, <persName key="ed_ak5_x5w_2qb">Johann</persName>, <persName key="ed_nlc_y5w_2qb">Gottfried</persName>, <persName key="ed_prx_y5w_2qb">Christoph</persName>
+                    ist in <seg type="comment">
+                  <orig>Krimlack</orig>
+                  <note xml:id="navv_lvw_2qb">
+                     <ref target="https://de.wikipedia.org/wiki/Krym%C5%82awki">Vorwerk in der
+                                Gemeinde Dönhoffstädt im Landkreis
+                    Rastenburg</ref>.</note>
+               </seg>
+            </p>
+            <p>
+               <persName key="ed_p5z_5vw_2qb">Regina Tiburtz</persName>, ein Los-Weib, dient
+                    beim <persName key="ed_b11_3qg_bqb">Schönfeldt</persName>
+               <lb/>1 Tochter</p>
+            <p>
+               <persName key="ed_xkj_1ww_2qb">Esther Jarreck</persName>, ein Los-Weib <lb/>2 Söhne
+                  <persName key="ed_rpg_bww_2qb">Christoph Jarreck</persName> dient im Hof zu
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <persName key="ed_pms_bww_2qb">Martin Jarreck</persName> dient beim <persName key="ed_gx3_3wd_2qb">Bartnick</persName>
+               <lb/>3 Töchter <persName key="ed_kc5_cww_2qb">Maria</persName> dient beim <persName key="ed_gx3_3wd_2qb">Bartnick</persName>, <persName key="ed_xjc_dww_2qb">Annortha</persName> dient in <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+               beim Schulzen, <persName key="ed_ef4_dww_2qb">Esther</persName> dient im Hof
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>
+               <persName key="ed_szj_bxw_2qb">Maria Broschen</persName>, der Mann ist entlaufen
+                    <lb/>2 Söhne <persName key="ed_w41_2xw_2qb">Jacob</persName>, <persName key="ed_kw3_2xw_2qb">Johann</persName> dient beim <persName key="ed_imz_3rh_bqb">Gellesch</persName> in <placeName key="ed_xpm_112_gy">Labab</placeName>
+               <lb/>1 Tochter <persName key="ed_zl5_2xw_2qb">Cathrin</persName>
+            </p>
+            <p>
+               <persName key="ed_b5d_4xw_2qb">Barbara Grabus</persName>, dient beim <persName key="ed_cpk_wsw_2qb">Scripeck</persName>
+            </p>
+            <p>
+               <placeName key="ed_hyn_yzd_gy">
+                  <hi rendition="#u">Klein
+                    Steinort</hi>
+               </placeName>
+            </p>
+            <p>
+               <persName key="ed_ag2_1yw_2qb">Matthes Warda</persName>, Schäfer, sein Weib
+                    <lb/>2 Töchter <persName key="ed_d1x_dyw_2qb">Cathrin</persName> ist bei der
+                        F<persName key="ed_src_lyw_2qb">r. Capit. von der Mülbe</persName>,
+                        <persName key="ed_jkh_2yw_2qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_n1v_pyw_2qb">Johann Grabus</persName>, Gärtner, sein Weib
+                    <lb/>1 Tochter</p>
+            <p>
+               <persName key="ed_cvx_tyw_2qb">Michael Kordack</persName>, sein Weib, ist jetzo
+                    der Gärtner in <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+               <lb/>5 Söhne <persName key="ed_ubz_t1x_2qb">Georg</persName> dient beim
+                        <persName key="ed_e51_bzw_2qb">Kordack</persName> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <persName key="ed_knz_hzw_2qb">Adam</persName>, <persName key="ed_h2j_3zw_2qb">Martin</persName>,
+                        <persName key="ed_ojt_51x_2qb">Christoph</persName>, <persName key="ed_vqg_v1x_2qb">Johann</persName> ist weggelaufen <lb/>3 Töchter
+                        <persName key="ed_sjx_v1x_2qb">Maria</persName>, <persName key="ed_atz_w1x_2qb">Eva</persName>, <persName key="ed_ct5_x1x_2qb">Catharina</persName>
+            </p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_xpm_112_gy">Labab</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_k2w_x33_gqb">Michael Scheimann</persName>, sein Weib <lb/>3
+                    Söhne <persName key="ed_y2d_z33_gqb">Michael</persName>, <persName key="ed_fyp_z33_gqb">Christoph</persName>, <persName key="ed_hqn_1j3_gqb">Johann</persName>
+            </p>
+            <p>
+               <persName key="ed_nxm_fj3_gqb">Johann Bugga</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_hc3_hj3_gqb">Martin</persName>
+               <lb/>3 Töchter <persName key="ed_rmq_hj3_gqb">Eleonora</persName>, <persName key="ed_kxv_3j3_gqb">Anna</persName>, <persName key="ed_qbc_3j3_gqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_dc1_qj3_gqb">Andreas Brosch</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_eh1_sj3_gqb">Johann</persName>, <persName key="ed_evj_rj3_gqb">Andreas</persName>
+               <lb/>3 Töchter <persName key="ed_xq5_sj3_gqb">Maria</persName>, <persName key="ed_gpd_tj3_gqb">Anna</persName>, <persName key="ed_qzj_tj3_gqb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_xk4_1k3_gqb">Bartnicke Wittibe</persName>
+               <lb/>1 Schwester <persName key="ed_d4r_dk3_gqb">Barb Ledwicke</persName>
+               <lb/>1 Sohn <persName key="ed_fkg_gk3_gqb">Matthes</persName>
+               <lb/>1 Tochter <persName key="ed_z4x_gk3_gqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_bwb_mk3_gqb">Andreas Gonneck</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_chn_4k3_gqb">Andreas</persName>, <persName key="ed_c5l_pk3_gqb">Jacob</persName>
+               <lb/>2 Töchter <persName key="ed_etc_qk3_gqb">Anna</persName>, <persName key="ed_xjy_qk3_gqb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_jff_gl3_gqb">Jacob Dorwinski</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_jqz_hl3_gqb">Martin</persName>, <persName key="ed_bpk_3l3_gqb">Johann</persName>
+               <lb/>1 Tochter <gap reason="illegible"/> ist blind</p>
+            <p>
+               <persName key="ed_q5v_nl3_gqb">Friedrich Gellesch</persName>, sein Weib <lb/>3
+                    Stiefsöhne, <persName key="ed_bz2_wl3_gqb">Michael Gwiasda</persName> dient beim
+                        <persName key="ed_bh1_2m3_gqb">Michael Liss</persName> zu <placeName key="ed_xzt_112_gy">Stawisken</placeName>, <persName key="ed_o32_zl3_gqb">Christoph</persName>, <persName key="ed_hxm_zl3_gqb">Albrecht</persName>
+                    Gwiasda dient in <placeName key="ed_xpm_112_gy">Labab</placeName> beim Schulzen
+                    <lb/>2 Söhne <persName key="ed_sy2_pm3_gqb">Friederich</persName>, <persName key="ed_jch_rm3_gqb">Johann</persName>
+               <lb/>2 Stieftöchter, <persName key="ed_zfn_5m3_gqb">Maria</persName> hat 1
+                    Tochter, <persName key="ed_e3r_wm3_gqb">Lehne</persName> dient beim Gellesch
+                    allhier</p>
+            <p>
+               <persName key="ed_ezy_fn3_gqb">Michael Gwiasda</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_alv_ln3_gqb">Michael</persName>, <persName key="ed_fvt_nn3_gqb">David</persName>, <persName key="ed_eyr_pn3_gqb">Christian</persName>, <persName key="ed_xvj_4n3_gqb">Albrecht</persName>
+               <lb/>2 Töchter <persName key="ed_gdv_wp3_gqb">Dorothea</persName>, <persName key="ed_fbc_wp3_gqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_jxc_dq3_gqb">Georg Schack</persName>, sein Weib <lb/>2 Töchter
+                        <persName key="ed_idx_gq3_gqb">Louisa</persName>, <persName key="ed_rrm_hq3_gqb">Barbara</persName>
+            </p>
+            <p>
+               <persName key="ed_imz_3rh_bqb">Georg Gellesch</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_jnk_4q3_gqb">Michael</persName>
+               <lb/>1 Tochter <persName key="ed_b4m_pq3_gqb">Maria</persName>
+            </p>
+            <p>
+               <hi rendition="#u">Lose Leute</hi>
+            </p>
+            <p>
+               <persName key="ed_mph_wq3_gqb">Maria Kordacken</persName>, dient beim <persName key="ed_k2w_x33_gqb">Scheimann</persName>
+            </p>
+            <p>Das Weib <persName key="ed_rhh_hr3_gqb">Plessche</persName> hat <lb/>2 Söhne
+                        <persName key="ed_ak3_jr3_gqb">Jacob</persName> beim Hirt zu <placeName key="ed_hrb_hc2_gy">Surwillen</placeName>, <persName key="ed_er2_kr3_gqb">Johann</persName> bei der Mutter </p>
+            <p>1 Knecht <persName key="ed_jdz_2r3_gqb">Fabian Grabus</persName> dient bei der
+                        <persName key="ed_xk4_1k3_gqb">Bartnickschen</persName>
+            </p>
+            <p>1 Weib <persName key="ed_wjw_4r3_gqb">Zomsche</persName> hat <lb/>2 Söhne
+                        <persName key="ed_cvz_qr3_gqb">Georg</persName> ist im Hof zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <persName key="ed_om1_sr3_gqb">Johann</persName> ist in <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                    beim Schulzen <lb/>1 Tochter <persName key="ed_sk3_sr3_gqb">Esther</persName>
+                    ist in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> beim <persName key="ed_uhm_bs3_gqb">Johann Liss</persName>
+            </p>
+            <p>2 Mägde <persName key="ed_c3m_2s3_gqb">Maria Bartnick</persName>, <persName key="ed_cjj_ks3_gqb">Eva</persName>, ein Hurenkind von der Köchin <persName key="ed_n5w_ls3_gqb">Elsa</persName>, dienen im Hof</p>
+            <p>
+               <persName key="ed_qzv_ps3_gqb">Johann Grabus</persName>, sein Weib, Gärtner
+                    <lb/>3 Söhne <persName key="ed_a4x_ss3_gqb">Johann</persName> ist in <placeName key="ed_xzt_112_gy">Stawisken</placeName> beim <persName key="ed_q2j_xs3_gqb">Harrasch</persName>, <persName key="ed_p4y_zs3_gqb">Jacob</persName>, <persName key="ed_nzl_1t3_gqb">Christian</persName>
+               <lb/>2 Töchter <persName key="ed_sbj_ht3_gqb">Maria</persName>, <persName key="ed_kpr_ht3_gqb">Eleonora</persName>
+            </p>
+            <p>
+               <persName key="ed_i2x_mt3_gqb">Peter Gritzka</persName>, sein Weib, Hirt<lb/>1
+                    Tochter <persName key="ed_rmj_qt3_gqb">Eva</persName> dient in <placeName key="ed_xjg_d12_gy">Stobben</placeName> bei <persName key="ed_g4p_zrd_2qb">Michael Schack</persName>
+            </p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_q2j_xs3_gqb">Georg Harrasch</persName>, sein Weib <lb/>hat
+                    keine Kinder <lb/>1 Halbschwester ist aus den Gütern, er hat aber vor sie <seg type="comment">
+                  <orig>caviert</orig>
+                  <note xml:id="nhsh_c53_gqb">gebürgt</note>
+               </seg>
+            </p>
+            <p>
+               <persName key="ed_bh1_2m3_gqb">Michael Liss</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_hzw_n5z_tqb">Michael</persName>, <persName key="ed_qqj_s5z_tqb">Gottfried</persName>
+               <lb/>4 Töchter <persName key="ed_p5n_t5z_tqb">Anna</persName> dient beim
+                        <placeName key="ed_s3k_b12_gy">Taberlackschen</placeName> Arrendator,
+                        <persName key="ed_xzn_x5z_tqb">Maria</persName> beim <placeName key="ed_nkz_b12_gy">Stawkeschen</placeName> Arrendator, <persName key="ed_kcf_y5z_tqb">Dorothea</persName>, <persName key="ed_ktg_bvz_tqb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_eys_trh_bqb">Gregor Boteck</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_lv4_svz_tqb">Valtin</persName>, <persName key="ed_rlp_5vz_tqb">Michael</persName> dient beim <persName key="ed_q2j_xs3_gqb">Harrasch</persName>
+               <lb/>4 Töchter <persName key="ed_myw_yvz_tqb">Kascha</persName> dient in
+                        <placeName key="ed_xpm_112_gy">Labab</placeName> beim <persName key="ed_ezy_fn3_gqb">Gwiasda</persName>, <persName key="ed_n1k_1wz_tqb">Dorothea</persName> beim <persName key="ed_bwb_mk3_gqb">Gonneck</persName>
+                    in <placeName key="ed_xpm_112_gy">Labab</placeName>, <persName key="ed_igk_zvz_tqb">Elsa</persName>, <persName key="ed_lb5_zvz_tqb">Eva</persName> ist entlaufen <add place="left">Die Kascha und Elsa sind
+                        auch entlaufen</add>
+               <lb/>1 Stieftochter <persName key="ed_kc2_xwz_tqb">Cathrin Harrasch</persName>
+                    ist aus der <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Küche
+                    entlaufen</p>
+            <p>
+               <persName key="ed_sxd_2xz_tqb">Adam Schack</persName>, sein Weib <lb/>4 Töchter
+                        <persName key="ed_nfy_gxz_tqb">Catharina</persName>, <persName key="ed_tzf_3xz_tqb">Dorothea</persName>, <persName key="ed_wdt_3xz_tqb">Anna</persName>, <persName key="ed_pzk_jxz_tqb">Maria</persName> dient in
+                        <placeName key="ed_sz3_kqp_tcb">Thiergarten</placeName>
+            </p>
+            <p>
+               <persName key="ed_jjf_vxz_tqb">Johann Smolenga</persName>, sein Weib <lb/>1
+                    Stiefsohn <persName key="ed_a5f_pyz_tqb">Johann Bluhm</persName>
+               <lb/>
+               <persName key="ed_sy5_xxz_tqb">1 Sohn</persName>
+               <lb/>1 Tochter <persName key="ed_amr_yxz_tqb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_qqv_syz_tqb">Johann Liss</persName>, sein Weib <lb/>1 Tochter
+                        <persName key="ed_t42_wyz_tqb">Maria</persName>
+               <lb/>1 Sohn <persName key="ed_i44_wyz_tqb">Michael</persName>
+            </p>
+            <p>
+               <persName key="ed_c3h_fzz_tqb">Paul Rabe</persName>, sein Weib <lb/>5 Söhne
+                        <persName key="ed_afy_hzz_tqb">Michael</persName>, <persName key="ed_tyj_3zz_tqb">Christoph</persName>, <persName key="ed_rmw_3zz_tqb">Georg</persName>, <persName key="ed_l3p_jzz_tqb">Jacob</persName> dient
+                    beim <persName key="ed_eys_trh_bqb">Gregor Boteck</persName>, <persName key="ed_pbk_5zz_tqb">Johann</persName> ist entlaufen <lb/>3 Töchter
+                        <persName key="ed_bmg_yzz_tqb">Catharina</persName>, <persName key="ed_emt_yzz_tqb">Maria</persName>, <persName key="ed_ppg_zzz_tqb">Esther</persName> dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> bei <persName key="ed_pfz_zsh_bqb">Georg
+                        Rautenberg</persName>
+            </p>
+            <p>
+               <persName key="ed_t4b_k11_5qb">Johann Seska</persName>, sein Weib <lb/>2 Söhne
+                  <persName key="ed_qzh_gb1_5qb">Bartel</persName>, <persName key="ed_snr_gb1_5qb">Fabian</persName> dient auf dem <seg type="comment">
+                  <orig>neuen Vorwerk</orig>
+                  <note xml:id="nebm_5b1_5qb">Welches Vorwerk gemeint ist, ist unklar.</note>
+               </seg>
+               <lb/>3 Töchter <persName key="ed_ufw_lb1_5qb">Buscha</persName>, <persName key="ed_s3k_mb1_5qb">Dorothea</persName>, <persName key="ed_jm1_nb1_5qb">Eva</persName>
+            </p>
+            <p>
+               <persName key="ed_frs_wb1_5qb">Jan Schack</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_jzh_yb1_5qb">Christian</persName>, <persName key="ed_jxd_zb1_5qb">Michael</persName>, <persName key="ed_qyk_zb1_5qb">Gottfried</persName>, <persName key="ed_if5_1c1_5qb">David</persName>
+               <lb/>2 Töchter <persName key="ed_qpn_dc1_5qb">Dorothea</persName>, <persName key="ed_eld_2c1_5qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_dm5_rc1_5qb">Martin Liss</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_agg_sc1_5qb">Martin</persName>
+               <lb/>1 Tochter <persName key="ed_rpv_5c1_5qb">Catharina</persName>
+               <add place="right">ist gestorben</add>
+            </p>
+            <p>Gärtner<lb/>
+               <persName key="ed_pmm_bd1_5qb">Georg Masuch</persName>, sein Weib
+                    <lb/>2 Söhne <persName key="ed_jnk_dd1_5qb">Georg</persName>, <persName key="ed_ncg_fd1_5qb">Johann</persName> dient auf dem neuen Vorwerk <lb/>1
+                    Tochter <persName key="ed_sht_3d1_5qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_bbw_sd1_5qb">Alte Smolengasche</persName>
+               <lb/>3 Söhne <persName key="ed_fqk_vd1_5qb">Martin Smolenga</persName> dient in
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName> beim <persName key="ed_wz3_mxp_lpb">Jan</persName>, <persName key="ed_djv_vd1_5qb">Woyteck</persName> dient beim <persName key="ed_jjh_r21_5qb">Bruder</persName> in <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                        <persName key="ed_iqh_wd1_5qb">Fabian</persName> dient bei <seg type="comment">
+                  <orig>seinem Bruder hier </orig>
+                  <note xml:id="nnbb_2f1_5qb">Johann Smolenga, Bruder des Smolenga in Stawken</note>
+               </seg>
+               <lb/>1
+                    Tochter <persName key="ed_uk4_1f1_5qb">Barbara</persName> dient beim <persName key="ed_sxd_2xz_tqb">Adam Schack</persName>
+            </p>
+            <p>
+               <persName key="ed_rmv_lqb_3qb">Neumannsche</persName> hat <lb/>1 Sohn <add place="superlinear">
+                  <persName key="ed_f13_tg1_5qb">Gürge
+                        Neumann</persName>
+               </add> dient beim <persName key="ed_k2w_x33_gqb">Scheimann</persName> zu <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>Eine Magd, <persName key="ed_jyc_hh1_5qb">Maria Controssen</persName>, von
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName> bürtig, dient beim
+                        <persName key="ed_dm5_rc1_5qb">Martin Liss</persName>
+            </p>
+            <p>
+               <persName key="ed_egt_lh1_5qb">Catharina Grabuschke</persName> dient beim
+                        <persName key="ed_q2j_xs3_gqb">Harrasch</persName>
+            </p>
+            <p>
+               <persName key="ed_cb5_ph1_5qb">Gerollsche</persName>, ein Inst-Weib, hat <lb/>2
+                    Stieftöchter <persName key="ed_izd_xh1_5qb">Anna</persName>, ein Los-Weib, ist
+                    zu <placeName key="ed_nkz_b12_gy">Stawken</placeName> mit ihrem Kinde, <persName key="ed_anm_wxd_2qb">Christina</persName>, Hofmagd, ist zu <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            </p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_thv_1j1_5qb">David Masuch</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_wkt_2j1_5qb">David</persName>
+               <lb/>3 Töchter <persName key="ed_ayy_fj1_5qb">Catharina</persName>, <persName key="ed_x23_gj1_5qb">Maria</persName>, <persName key="ed_u4s_gj1_5qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_r3x_tj1_5qb">Hans Kopitkow</persName>, sein Weib <lb/>1 Tochter
+                        <persName key="ed_b4h_wj1_5qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_ewd_fk1_5qb">Michael Gus</persName>, sein Weib <lb/>3 Söhne
+                        <persName key="ed_px3_hk1_5qb">Jacob</persName>, <persName key="ed_cwp_hk1_5qb">Martin</persName>, <persName key="ed_lcx_hk1_5qb">David</persName>
+               <lb/>1 Tochter <persName key="ed_avg_pk1_5qb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_yl2_xlz_tqb">Michel Wilewka</persName>, sein Weib <lb/>2
+                    Töchter <persName key="ed_yzf_zk1_5qb">Maria</persName>, <persName key="ed_md5_1l1_5qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_hd5_3l1_5qb">Hans Klein</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_gxj_ll1_5qb">Christoph</persName>, <persName key="ed_kpt_ll1_5qb">Jacob</persName> dient in Stawken, <persName key="ed_i1x_kl1_5qb">Hans</persName> ist im Dorf beim <persName key="ed_a1c_wgn_ypb">Bartel Katzmarzig</persName>
+            </p>
+            <p>
+               <persName key="ed_xgk_xl1_5qb">David</persName>
+               <lb/>3 Töchter <persName key="ed_zr3_1m1_5qb">Catharina</persName>, <persName key="ed_zhb_bm1_5qb">Anna</persName>, <persName key="ed_ann_bm1_5qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_sgm_rn1_5qb">Georg Wilewka</persName>, sein Weib <lb/>1
+                    Stiefsohn <persName key="ed_t2q_241_5qb">Hans Kuckel</persName>
+               <lb/>1 Sohn <persName key="ed_qgw_tn1_5qb">Hans Wilewka</persName>
+               <lb/>2 Stieftöchter <persName key="ed_zwx_yn1_5qb">Maria</persName> dient beim
+                        <persName key="ed_dr2_j5h_bqb">Rautenberg</persName> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <persName key="ed_d3y_141_5qb">Dorothea</persName> ist in <placeName key="ed_ky2_nvw_2qb">Krimlack</placeName>
+               <lb/>1 rechte Tochter <persName key="ed_p3c_341_5qb">Maria</persName>
+            </p>
+            <p>
+               <seg type="comment">
+                  <orig>Jan Katzmarzig, sein Weib</orig>
+                  <note xml:id="nld3_v5w_5pb">1721 war Katzmarzig entlaufen. Der Schulze
+                                <persName key="ed_lsw_sgn_ypb">Jan Matzick</persName> nahm dessen
+                            Bauern-Erbe für seinen Sohn <persName key="ed_v5c_gp1_5qb">Toffel</persName> an.</note>
+               </seg>
+               <lb/>2 Söhne <persName key="ed_ht3_lp1_5qb">Jacob</persName>, <persName key="ed_rxl_mp1_5qb">Gottlieb</persName>
+            </p>
+            <p>
+               <persName key="ed_x3w_1q1_5qb">Hans Matzick</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_ok2_dq1_5qb">David</persName>, <persName key="ed_mg1_2q1_5qb">Christoph</persName>, <persName key="ed_vbq_2q1_5qb">Michael</persName>, <persName key="ed_vzl_dq1_5qb">Martin</persName> ist
+                    entlaufen <lb/>2 Töchter <persName key="ed_jrd_lq1_5qb">Dorothea</persName>,
+                        <persName key="ed_bks_lq1_5qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_cbt_ts1_5qb">Georg Preiß</persName>, sein Weib <lb/>1 Stiefsohn
+                        <persName key="ed_gcv_vbc_2qb">Albrecht Wilewka</persName> dient beim
+                        <persName key="ed_yy3_hdc_2qb">Michael Kopitkow</persName>
+               <lb/>3 Stieftöchter <persName key="ed_xq1_ys1_5qb">Esther</persName> ist in
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName> beim Michael Kopitkow,
+                        <persName key="ed_wbk_zs1_5qb">Maria</persName>, <persName key="ed_zrt_zs1_5qb">Cathrin</persName>
+            </p>
+            <p>
+               <persName key="ed_mdh_3fb_5qb">Adam Liss</persName>, seine <persName key="ed_j3q_jfb_5qb">Mutter</persName>
+               <lb/>1 Bruder <persName key="ed_vhw_rfb_5qb">Jacob Liss</persName>
+               <lb/>3 Schwestern <persName key="ed_bc1_lfb_5qb">Dorothea</persName> ist in
+                        <placeName key="ed_cdw_zss_fqb">Wolfsdorf</placeName>, <persName key="ed_oxh_lfb_5qb">Anna</persName>, <persName key="ed_jvp_lfb_5qb">Euphrosina</persName>
+            </p>
+            <p>
+               <persName key="ed_h2t_zfb_5qb">Valtin Masuch</persName> sen., sein Weib, die
+                    Kinder sind ausgegeb.</p>
+            <p>
+               <persName key="ed_vrc_dgb_5qb">Christoph Rautenberg</persName>, sein Weib <lb/>2
+                    Söhne <persName key="ed_zk4_fgb_5qb">Adam</persName>, <persName key="ed_yjy_fgb_5qb">David</persName>
+            </p>
+            <p>
+               <persName key="ed_gvz_cnz_tqb">Fabian Gwiasda</persName>, sein Weib <lb/>3 Söhne
+                        <persName key="ed_hxm_zl3_gqb">Albrecht</persName>, <persName key="ed_elv_chb_5qb">Fabian</persName>, <persName key="ed_j1f_ghb_5qb">Georg</persName> dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim <persName key="ed_wnc_4gb_5qb">Albrecht
+                        Gwiasda</persName>
+               <lb/>2 Töchter <persName key="ed_nlc_jhb_5qb">Catharina</persName>, <persName key="ed_ssn_jhb_5qb">Dorothea</persName>
+            </p>
+            <p>
+               <persName key="ed_a2s_czb_t2b">Christoph Rompel</persName>, sein Weib <lb/>2 Söhne
+                  <persName key="ed_tbr_tz4_5qb">Andreas</persName>, <persName key="ed_fyt_syb_t2b">Martin</persName> dient beim <persName key="ed_a5h_wnz_tqb">Hans Liss</persName>
+               in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               <lb/>1 Tochter <persName key="ed_ydq_zhb_5qb">Barbara</persName>
+            </p>
+            <p>
+               <persName key="ed_a1c_wgn_ypb">Bartel Katzmarzig</persName>, sein Weib <lb/>1
+                    Sohn <persName key="ed_ix3_23b_5qb">Adam</persName>
+               <lb/>1 Tochter <persName key="ed_mh2_d3b_5qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_a5h_wnz_tqb">Hans Liss</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_uhm_bs3_gqb">Johann</persName>
+               <lb/>2 Töchter <persName key="ed_cyp_43b_5qb">Maria</persName>, <persName key="ed_p3y_43b_5qb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_ad3_z3b_5qb">Valtin Masuch</persName> jun., sein Weib <lb/>3
+                    Söhne <persName key="ed_zzk_bjb_5qb">Christian</persName>, <persName key="ed_sv5_bjb_5qb">Michael</persName>, <persName key="ed_l3s_cjb_5qb">Valtin</persName>
+               <lb/>3 Töchter <persName key="ed_qkj_pjb_5qb">Dorothea</persName>, <persName key="ed_hzw_mjb_5qb">Anna</persName>, <persName key="ed_m5f_njb_5qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_tyd_yjb_5qb">Jacob Kordack</persName>, sein Weib <lb/>4 Töchter
+                        <persName key="ed_bvt_1kb_5qb">Maria</persName>, <persName key="ed_ztc_bkb_5qb">Dorothea</persName>, <persName key="ed_vnq_bkb_5qb">Barbara</persName>, <persName key="ed_al1_ckb_5qb">Anna</persName>
+            </p>
+            <p>
+               <hi rendition="#u">Instleute und Gärtner</hi>
+            </p>
+            <p>
+               <persName key="ed_rxr_dgc_5qb">Wilhelm Pollaschke</persName>, Maurer, sein Weib
+                    <lb/>1 Sohn <persName key="ed_djc_fgc_5qb">Georg</persName>
+            </p>
+            <p>
+               <persName key="ed_jyg_lgc_5qb">Matthes Masuch</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_plt_ngc_5qb">David</persName> ist im Taberlackschen Hofe
+                    <lb/>3 Töchter <persName key="ed_wpk_pgc_5qb">Anna</persName>, <persName key="ed_fvy_pgc_5qb">Regina</persName>, <persName key="ed_psg_qgc_5qb">Barbara</persName>
+            </p>
+            <p>
+               <persName key="ed_zr5_1hc_5qb">Maria</persName>, ein Los-Weib, <persName key="ed_yl5_dhc_5qb">Christoph Matzicks</persName> Wittibe <lb/>3 Töchter
+                        <persName key="ed_o51_hhc_5qb">Elisabeth</persName>, <persName key="ed_tdv_hhc_5qb">Catharina</persName> dient beim <persName key="ed_r3x_tj1_5qb">Hans Kopitkow</persName>, <persName key="ed_kkl_3hc_5qb">Dorothea</persName> ist zu Hause</p>
+            <p>Matthes <persName key="ed_nt5_qhc_5qb">Zeffsick</persName>, sein Weib</p>
+            <p>
+               <persName key="ed_yls_thc_5qb">Sophia Charlotte Abramowska</persName>, dient im
+               Hofe</p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_od2_33c_5qb">Jacob Masuch</persName>,
+                            Arrendator, </orig>
+                  <note xml:id="nvbs_mvw_5pb">Bis zu seinem Tod am 16.
+                            April 1716 war dessen Vater, <persName key="ed_q53_l3c_5qb">David
+                                Masuch</persName>, Arrendator von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>. Der Sohn, der die Arrende übernommen hatte,
+                            war bis zum 2. Mai 1716 1138 Fl. 1 Gr. 9 D. Arrende schuldig geblieben.
+                            GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 116</note>
+               </seg>sein Weib
+                    <lb/>3 Söhne <persName key="ed_q3g_q3c_5qb">David</persName>, <persName key="ed_onb_s3c_5qb">Gerhard</persName>, <persName key="ed_qsp_s3c_5qb">Ahasverus</persName>
+               <lb/>2 Töchter <persName key="ed_gfh_w3c_5qb">Justina</persName>, <persName key="ed_agr_w3c_5qb">Maria</persName>
+               <lb/>1 <persName key="ed_dll_gjc_5qb">Mutter David Masuchsche</persName>
+               <lb/>1 Jung <persName key="ed_ngh_ljc_5qb">Michael</persName> im Hofe, ist ein
+                    Hurenkind</p>
+            <p>
+               <persName key="ed_wgk_5jc_5qb">Michael Raabe</persName>, sein Weib <lb/>4 Söhne
+                        <persName key="ed_gpq_wjc_5qb">Johann</persName>, <persName key="ed_fpx_wjc_5qb">Michael</persName>, <persName key="ed_nd2_xjc_5qb">David</persName>, <persName key="ed_lck_xjc_5qb">Paule</persName>
+            </p>
+            <p>
+               <persName key="ed_zjs_jkc_5qb">Daniel</persName>, der Hirt, sein Weib <lb/>2
+                    Söhne <persName key="ed_pdx_lkc_5qb">Michael</persName> und <persName key="ed_xsg_mkc_5qb">Hans</persName>
+            </p>
+            <p>
+               <persName key="ed_wxg_qkc_5qb">Georg Solna</persName>, ist Gärtner beim
+                        <persName key="ed_a1c_wgn_ypb">Bartel Katzmarzig</persName>
+               <lb/>3 Söhne, <persName key="ed_gzw_1lc_5qb">Jacob</persName> ist entlaufen,
+                        <persName key="ed_fmh_blc_5qb">Georg</persName>, <persName key="ed_jbq_blc_5qb">Adam</persName> dient beim <persName key="ed_rfl_ykc_5qb">Jacob Rautenberg</persName> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+            </p>
+            <p>
+               <persName key="ed_tvq_glc_5qb">Christian Schotka</persName>, dient beim <persName key="ed_r3x_tj1_5qb">Hans Kopitkow</persName>
+            </p>
+            <p>
+               <persName key="ed_ny4_klc_5qb">Ahasverus Schotka</persName> dient bei dem
+                        <persName key="ed_trp_plz_tqb">Moczarski</persName> in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p>
+               <persName key="ed_f14_4lc_5qb">Michael Schotka</persName> ist entlaufen vom
+                        <persName key="ed_a2l_rlc_5qb">Dimmermann</persName> aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p>
+               <persName key="ed_x3p_5lc_5qb">Hans Skowroda</persName> dient bei <persName key="ed_bcv_z41_5qb">Jan Katzmarzig</persName>
+            </p>
+            <p>
+               <persName key="ed_mdt_bmc_5qb">Maria Masuch</persName> dient beim <persName key="ed_h2t_zfb_5qb">Valtin Masuch</persName>
+            </p>
+            <p>
+               <persName key="ed_qjm_gmc_5qb">Dorothea Kotte</persName> wohnt beim <persName key="ed_tyd_yjb_5qb">Jacob Kordack</persName>
+               <lb/>1 Tochter <persName key="ed_zpg_3mc_5qb">Maria</persName> dient beim Töpfer in
+                  <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+            </p>
+            <p>Der <persName key="ed_l1g_nmc_5qb">Catharinen Kopitcken</persName>, so Amme bei
+                    der Gräfin <persName key="ed_jzc_5mc_5qb">Amelie Dönhoff</persName> gewesen,
+                        <persName key="ed_idj_pmc_5qb">Sohn</persName>, so sie vom Soldaten <gap reason="illegible"/> gehabt <gap reason="illegible"/>
+            </p>
+            <p/>
+            <p>
+               <hi rendition="#u">Noch sind folgende Erbuntertanen entlaufen, so zu den
+                        Steinortschen Gütern gehören</hi>
+            </p>
+            <p>
+               <persName key="ed_ym3_knc_5qb">Albrecht Uwis</persName>, sein Weib. <persName key="ed_vnz_mnc_5qb">Wilhelm Uwis</persName>. <persName key="ed_d42_snc_5qb">Jacob Uwis Söhne</persName>. <persName key="ed_cg4_wnc_5qb">Anna</persName>, Elsa, <persName key="ed_gkg_d4c_5qb">Maria
+                        Grabuschen</persName> sollen in <placeName key="ed_ub5_v4k_wcb">Osterode</placeName> sein.</p>
+            <p>
+               <persName key="ed_ghd_m4c_5qb">Adam</persName> und <persName key="ed_gkm_n4c_5qb">Seran</persName>, aus den <placeName key="ed_wkm_lx5_sy">Beynunischen</placeName> Gütern, beide Mittel-Knecht, ohngefähr vor 15
+                    Jahren.</p>
+            <p>
+               <persName key="ed_zqs_34c_5qb">Christoph Gus</persName>, ein Knecht, so mit der
+                    Mutter hausgehalten.</p>
+            <p>
+               <persName key="ed_jzd_w4c_5qb">Jan Warda</persName>, sein Weib, 2 Söhne <persName key="ed_rdl_x4c_5qb">Jan</persName> und <persName key="ed_hsk_z4c_5qb">Adam</persName>, 1 Tochter <persName key="ed_dbn_1pc_5qb">Barbara</persName>.</p>
+            <p>
+               <persName key="ed_qrm_fpc_5qb">Jan Vizorck</persName> nebst der Mutter und
+                    Schwester.</p>
+            <p>
+               <persName key="ed_wjp_3pc_5qb">Andreas Katzmarzig</persName>, hatte Sohn <gap reason="illegible"/>
+            </p>
+            <p>
+               <persName key="ed_hbt_stw_2qb">Michael Masuch</persName> von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, nebst zwei Töchter</p>
+            <p>
+               <persName key="ed_fgy_qpc_5qb">Christian Gus</persName>, vom Weib 1706 entlaufen,
+                    aus <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+            </p>
+            <p>
+               <persName key="ed_udf_5pc_5qb">Greger Bartnick</persName> nebst seiner Tochter, soll
+               in <placeName key="ed_dhr_xpc_5qb">Gr. Rehden</placeName> unter dem Herrn <persName key="ed_u3m_jqc_5qb">Baron von Hoverbeck</persName> sein</p>
+            <p>
+               <persName key="ed_zsv_lqc_5qb">Czecura</persName> nebst dem Weibe und 2 Kindern,
+               sollen alle tot sein</p>
+            <p>
+               <persName key="ed_k4c_qqc_5qb">Christoph Masuch</persName> von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>
+               <persName key="ed_ob2_xqc_5qb">Michael Uwis</persName>, ein Knecht vom <persName key="ed_yy3_hdc_2qb">Michael Kopitkow</persName> aus <placeName key="ed_xjg_d12_gy">Stobben</placeName>, anno 1711</p>
+            <p>
+               <persName key="ed_bmn_2rc_5qb">Kuckowa</persName> nebst Weib und 2 Kindern Anno
+                    1711, hat in <placeName key="ed_nkz_b12_gy">Stawken</placeName> gewohnt, soll in
+                        <placeName key="ed_ryp_3bt_fkb">Szozin</placeName> sein</p>
+            <p>
+               <persName key="ed_lmv_hrc_5qb">Christoph Masuch</persName> nebst Weib und 2
+                    Kinder, ist Gärtner in <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    gewesen</p>
+            <p>
+               <persName key="ed_ldc_4rc_5qb">Christoph Matzick</persName> aus <placeName key="ed_xzt_112_gy">Stawisken</placeName>, anno 1710 vom Weibe</p>
+            <p>
+               <persName key="ed_sy3_hlz_tqb">Jan Liss</persName> von <placeName key="ed_xzt_112_gy">Stawisken</placeName> von seinem Weibe <add place="right">ist zurück</add>
+            </p>
+            <p>
+               <persName key="ed_kmn_zrc_5qb">Jacob Tiburtz</persName> von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, item von seinem Weibe</p>
+            <p>
+               <persName key="ed_q1y_2sc_5qb">Michael Kuckowa</persName>, ein Knecht von
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>
+               <persName key="ed_ctn_msc_5qb">Christoph Gritzka</persName> von <placeName key="ed_s3k_b12_gy">Taberlack</placeName> nebst seinem Weibe und Sohn</p>
+            <p>
+               <persName key="ed_emf_psc_5qb">Jan Kubaschk</persName> von <placeName key="ed_s3k_b12_gy">Taberlack</placeName> bürtig, soll im Rastenburgischen
+                    sein</p>
+            <p>
+               <persName key="ed_qcn_ssc_5qb">Josteck</persName> nebst Weib und zwei Kindern</p>
+            <p>
+               <persName key="ed_zmw_5sc_5qb">Jan Brosch</persName> vom Weibe anno 1712</p>
+            <p>
+               <persName key="ed_o5p_xsc_5qb">Michael Dotzeck</persName> nebst Weib und 2
+                    Kindern</p>
+            <p>Eine Magd <persName key="ed_hxj_2tc_5qb">Dorothea</persName> vom <persName key="ed_vfz_btc_5qb">Fabian Kuckowa</persName> entlaufen</p>
+            <p>
+               <persName key="ed_nds_gtc_5qb">Georg Kostrewa</persName> nebst einem Sohn anno
+               1713</p>
+            <p>
+               <persName key="ed_xsw_3tc_5qb">Lißsche</persName> von <placeName key="ed_xzt_112_gy">Stawisken</placeName> mit einer Tochter</p>
+            <p>
+               <persName key="ed_zwn_ptc_5qb">Anna</persName> und <persName key="ed_x4b_stc_5qb">Elsa</persName>, Schwestern des Michel Masuch, von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+            </p>
+            <p>
+               <persName key="ed_r3p_xtc_5qb">Kascha</persName>, <persName key="ed_wbk_wtc_5qb">Fabian Dorwinski</persName> Tochter</p>
+            <p>Vorm Jahr</p>
+            <p>
+               <persName key="ed_djg_d5c_5qb">Jan Siwitzka</persName>, ein Knecht, von Kittlitz
+                    bürtig</p>
+            <p>
+               <persName key="ed_psg_ztd_2qb">Christoph Bartnick</persName>, aus dem <placeName key="ed_ohv_kf2_gy">Pristanienschen</placeName> Hof entlaufen</p>
+            <p>
+               <persName key="ed_gkg_d4c_5qb">Maria Grabus</persName>, ist aus dem Hof
+                    entlaufen</p>
+            <p/>
+            <p>Ferner sind als Erbuntertanen zu denen Gütern <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                    und <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> geschlagen als</p>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_lss_rph_bqb">Friederich Casimir</persName>, sein Weib <lb/>1
+                    Tochter <persName key="ed_odj_hvc_5qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_qdb_pvc_5qb">Martin Preiß</persName>, sein Weib <lb/>3 Söhne
+                        <persName key="ed_hqh_rvc_5qb">Martin</persName>, <persName key="ed_xbj_svc_5qb">Michael</persName> dient zu <placeName key="ed_pkd_xvc_5qb">Wessolowen</placeName>, <persName key="ed_h25_svc_5qb">Bartel</persName>
+               <lb/>3 Töchter <persName key="ed_s1q_cwc_5qb">Maria</persName>, <persName key="ed_hky_cwc_5qb">Euphemia</persName>, <persName key="ed_n3g_dwc_5qb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_cwr_w4g_bqb">Michael Schönfeldt</persName>, sein Weib <lb/>1
+                    Sohn <persName key="ed_zhh_mwc_5qb">Albrecht</persName>
+               <lb/>2 Töchter <persName key="ed_gpn_4wc_5qb">Erdmuth</persName>, <persName key="ed_uvy_4wc_5qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_dr2_j5h_bqb">Hans Rautenberg</persName>, sein Weib <lb/>hat
+                    keine Kinder</p>
+            <p>
+               <persName key="ed_kcd_ffj_3qb">Michael Bluhm</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_c52_cxc_5qb">Ahasverus</persName>, <persName key="ed_dmn_dxc_5qb">Jacob</persName>
+               <lb/>1 Tochter <persName key="ed_tgb_kxc_5qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_rfl_ykc_5qb">Jacob Rautenberg</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_nyg_4xc_5qb">Valtin</persName>
+               <lb/>2 Töchter <persName key="ed_utm_qxc_5qb">Maria</persName>, <persName key="ed_jtw_qxc_5qb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_xwk_vxc_5qb">Abraham Geraschke</persName>, sein Weib <lb/>1
+                    Sohn <persName key="ed_ipv_xxc_5qb">Martin</persName>
+               <lb/>1 Tochter <persName key="ed_ckn_yxc_5qb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_sk5_dyc_5qb">Adam Masuch</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_rtr_fyc_5qb">Jacob</persName>, <persName key="ed_g1c_hyc_5qb">Christoph</persName>
+               <lb/>2 Töchter <persName key="ed_klq_nyc_5qb">Maria</persName>, <persName key="ed_dwy_nyc_5qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_fn2_syc_5qb">Hans Grütz</persName>, sein Weib, Schulze <lb/>4
+                    Söhne <persName key="ed_c3t_5yc_5qb">Christian</persName>, <persName key="ed_iqj_vyc_5qb">David</persName>, <persName key="ed_cb5_vyc_5qb">Hans</persName>, der 4. Sohn <persName key="ed_ugs_k5h_bqb">Michael</persName> ist nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geschlagen</p>
+            <p/>
+            <p>
+               <hi rendition="#u">Gärtner</hi>
+            </p>
+            <p>
+               <persName key="ed_lsc_pzc_5qb">Christoph Soll</persName>, sein Weib <lb/>2
+                    Töchter <persName key="ed_jbr_rzc_5qb">Anna</persName>, <persName key="ed_nbz_rzc_5qb">Maria</persName> dient beim <persName key="ed_jxc_dq3_gqb">Schacken</persName> in <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>
+               <persName key="ed_pd1_yzc_5qb">Hans Waschke</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_txs_zzc_5qb">Christoph</persName>
+               <lb/>1 Tochter <persName key="ed_ip2_11d_5qb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_rgm_k1d_5qb">Jacob Plesska</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_svx_m1d_5qb">Jacob</persName>, <persName key="ed_ong_n1d_5qb">Friedrich</persName>
+               <lb/>1 Tochter <persName key="ed_sxn_n1d_5qb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_wv3_v1d_5qb">Greger Grabus</persName>, sei Weib <lb/>1 Sohn
+                        <persName key="ed_ohp_x1d_5qb">Greger</persName>
+            </p>
+            <p>
+               <persName key="ed_bxk_1bd_5qb">Anna</persName>, Hofmagd, ist aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> bürtig</p>
+            <p>
+               <persName key="ed_kp3_2bd_5qb">Hans Scheimann</persName>, aus <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bürtig <lb/>
+               <persName key="ed_cpz_gbd_5qb">Anna</persName>, dessen Schwester, aus <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bürtig</p>
+            <p>
+               <persName key="ed_skn_mbd_5qb">Maria Michelsche</persName>
+               <lb/>2 Söhne <persName key="ed_xdp_4bd_5qb">Hans</persName> und <lb/>1 <persName key="ed_u5g_qbd_5qb">Tochter</persName>, dient beim Radmacher in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>
+               <persName key="ed_wv5_xbd_5qb">Jacob Schönfeldt</persName>, sein Weib, Hirt</p>
+            <p>
+               <persName key="ed_mw2_ccd_5qb">Christoph Muscul</persName>, sein Weib <lb/>2
+                    Töchter <persName key="ed_u32_2cd_5qb">Maria</persName>, <persName key="ed_dzm_2cd_5qb">Elisabeth</persName>
+            </p>
+            <p/>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               </hi>
+            </p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_sxf_4pq_vqb">Fabian Duschik</persName>
+                  </orig>
+                  <note xml:id="nj1r_mpq_vqb">Duschig</note>
+               </seg>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_fkz_sqz_tqb">Fabian</persName>
+               <lb/>3 Töchter <persName key="ed_a4b_tpq_vqb">Cathrin</persName>, <persName key="ed_rd4_5pq_vqb">Marie</persName>
+            </p>
+            <p>
+               <persName key="ed_fym_w3p_5qb">Christoph Kuckel</persName>, sein Weib <lb/>3
+                    Töchter <persName key="ed_wzr_cqq_vqb">Anna</persName>, <persName key="ed_rxb_dqq_vqb">Maria</persName>, <persName key="ed_vvk_dqq_vqb">Elisabeth</persName>
+            </p>
+            <p>
+               <persName key="ed_eh3_wqq_vqb">Georg Scheimann</persName>, sein Weib <lb/>6 Söhne
+                        <persName key="ed_cb4_crq_vqb">Hans</persName>, <persName key="ed_nrh_1rq_vqb">Christoph</persName> dient in <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <persName key="ed_dc2_hrq_vqb">Georg</persName>, <persName key="ed_g4t_lrq_vqb">Jacob</persName>,
+                        <persName key="ed_ppc_qwp_5qb">Andreas</persName>, <persName key="ed_uwv_mrq_vqb">Michael</persName>
+               <lb/>3 Töchter <persName key="ed_v2p_llr_vqb">Anna</persName> hat der <seg type="comment">
+                  <orig>Rautenberg</orig>
+                  <note xml:id="nfnq_tlr_vqb">Es gab
+                            zwei Rautenberg in Serwillen.</note>
+               </seg> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <persName key="ed_iff_mlr_vqb">Elisabeth</persName>, <persName key="ed_jp2_nlr_vqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_yzz_3qq_vqb">Johann Kuckel</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_dsw_lqq_vqb">Michael</persName>, <persName key="ed_cp3_mqq_vqb">Georg</persName>
+               <lb/>2 Töchter <persName key="ed_ohr_mqq_vqb">Cathrin</persName>
+            </p>
+            <p>
+               <persName key="ed_btl_mrz_tqb">Michael Mitzka</persName> , sein Weib <lb/>3 Töchter
+                  <persName key="ed_zj1_1mr_vqb">Sybilla</persName>, <persName key="ed_dvx_1mr_vqb">Marie</persName>
+            </p>
+            <p>
+               <persName key="ed_epj_jmr_vqb">Christoph Bliss</persName>, sein Weib <lb/>2 Söhne
+                  <persName key="ed_sy2_kmr_vqb">Friedrich</persName>, <persName key="ed_z5p_kmr_vqb">[N. N.]</persName>
+            </p>
+            <p>
+               <persName key="ed_xrw_pmr_vqb">Georg Hansulzig</persName>, sei Weib <lb/>1
+                    Tochter</p>
+            <p>Albrecht <unclear reason="illegible" cert="low">Biasela</unclear>, sein Weib
+                    <lb/>2 Töchter Maria, [N. N.]</p>
+            <p>
+               <persName key="ed_fdl_xmr_vqb">Georg Rautenberg</persName>, sein Weib <lb/>hat
+                    keine Kinder</p>
+            <p>
+               <persName key="ed_frj_dnr_vqb">Martin Moczarski</persName>, sein Weib <lb/>1
+                    Sohn</p>
+            <p>Georg Sch<gap reason="illegible"/>, sein Weib <lb/>1 Sohn Christoph</p>
+            <p>
+               <persName key="ed_opj_2sz_tqb">Zimmermann Liss</persName>, sein Weib <lb/>1
+                    Tochter <persName key="ed_u5t_lnr_vqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_hnh_yrz_tqb">Martin Gellesch</persName>, sein Weib <lb/>3 Söhne
+                        <persName key="ed_a1g_5nr_vqb">Martin</persName>, <persName key="ed_y35_b4r_vqb">Christoph</persName>
+            </p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_ljr_bsz_tqb">Fabian Schwikoffski</persName>
+                  </orig>
+                  <note xml:id="nkqx_24r_vqb">Zwikowski</note>
+               </seg>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_q4j_njp_5qb">Michael</persName> und <persName key="ed_djl_j4r_vqb">Johann</persName>
+               <lb/>2 Töchter <persName key="ed_q35_m4r_vqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_ewx_44r_vqb">Platon</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_thw_p4r_vqb">David</persName>
+            </p>
+            <p>
+               <persName key="ed_n4f_54r_vqb">Wilhelm Mitzka</persName>, sein Weib <lb/>2 Söhne,
+                  <persName key="ed_nty_v4r_vqb">Fabian</persName>, dient beim Jacob in der Heide,
+                  <persName key="ed_l2j_w4r_vqb">Wilhelm</persName>
+               <lb/>2 Töchter</p>
+            <p>Gärtner <persName key="ed_bw5_dpr_vqb">
+                  <lb/>Gregor Grabus</persName>, sein Weib
+                    <lb/>1 Sohn <lb/>1 Tochter</p>
+            <p>
+               <persName key="ed_trw_hpr_vqb">Michael Zusick</persName>, sein Weib <lb/>2 Söhne
+                        <persName key="ed_bnk_kpr_vqb">Michael</persName>
+               <lb/>1 Tochter <persName key="ed_w4z_kpr_vqb">Barbara</persName> dient beim
+                    Schulzen in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+            <p>
+               <persName key="ed_wzw_4pr_vqb">Andreas Gellesch</persName>, sein Weib <lb/>2
+                    Stiefsöhne <lb/>1 rechter Sohn</p>
+            <p>
+               <persName key="ed_z4t_tpr_vqb">Michael Scheimann</persName>, hat in <unclear reason="illegible" cert="low">Arsen</unclear> geheiratet und ist von hier
+                    entlaufen</p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_nds_gtc_5qb">Kostzreba</persName>
+                  </orig>
+                  <note xml:id="nkc1_3qr_vqb">Kostrewa</note>
+               </seg>, ist entlaufen nebst einem Sohn <lb/>1 Tochter dient in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> beim <seg type="comment">
+                  <orig>Matzick</orig>
+                  <note xml:id="nlqg_mqr_vqb">Es gab mehrere Matzick in Taberlack.</note>
+               </seg>
+            </p>
+            <p>
+               <persName key="ed_wnj_4qr_vqb">Anna Zoicke</persName>, dient im Hof zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+            <p>
+               <persName key="ed_znb_sqr_vqb">Maria Zipawkowna</persName>, hält sich jetzo in
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> auf</p>
+            <p>
+               <persName key="ed_lwk_xqr_vqb">Dorothea Zoicksche</persName>
+               <lb/>1 Sohn <persName key="ed_dzr_zqr_vqb">Georg</persName> dient beim
+                        <persName key="ed_f5d_hrr_vqb">Kuckel</persName> in <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+               <lb/>2 Töchter, <persName key="ed_xqr_3rr_vqb">Sybilla</persName> dient beim
+                    Gärtner <persName key="ed_cg4_wnc_5qb">
+                  <persName key="ed_bw5_dpr_vqb">Grabus</persName>
+               </persName>, <gap reason="illegible"/> beim <persName key="ed_hnh_yrz_tqb">Gellesch</persName> in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p>
+               <persName key="ed_xrv_wrr_vqb">Barbara Scheimann</persName>, dient beim <persName key="ed_lss_rph_bqb">Casimir</persName> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+            </p>
+            <p>
+               <persName key="ed_eyq_zrr_vqb">Wilhelm Ziplitz</persName>, dient beim <persName key="ed_xrw_pmr_vqb">Hansulzig</persName> in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p>
+               <persName key="ed_uzq_bsr_vqb">Sybilla Ziplitz</persName>, dient im <placeName key="ed_ohv_kf2_gy">Pristanienschen</placeName> Hof</p>
+            <p/>
+            <p>
+               <hi rendition="#u">In <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+               </hi>
+            </p>
+            <p>
+               <persName key="ed_f5d_hrr_vqb">Georg Kuckel</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_myv_3sr_vqb">Ahasverus</persName>
+            </p>
+            <p>
+               <persName key="ed_u3g_nsr_vqb">Johann Mozarzik</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_cmt_psr_vqb">Christoph</persName>
+               <lb/>2 Töchter <persName key="ed_mwg_qsr_vqb">Dorothea</persName>, <persName key="ed_lsw_qsr_vqb">Anna</persName>
+            </p>
+            <p>
+               <persName key="ed_rcw_ysr_vqb">Friedrich Seska</persName>, sein Weib <lb/>3
+                    Töchter <persName key="ed_rwq_zsr_vqb">Anna</persName>, <persName key="ed_vpz_zsr_vqb">Elisabeth</persName>, <persName key="ed_cgl_1tr_vqb">Maria</persName>
+            </p>
+            <p>
+               <persName key="ed_owj_gtr_vqb">Johann Bartsch</persName>
+               <lb/>1 Sohn <persName key="ed_zs5_htr_vqb">Michael</persName>
+            </p>
+            <p>
+               <persName key="ed_jjc_mtr_vqb">Michael Smolenga</persName>, sein Weib <lb/>1 Sohn
+                        <persName key="ed_rg2_4tr_vqb">Jacob</persName>
+            </p>
+            <p>
+               <persName key="ed_ptp_rtr_vqb">Michael Rautenberg</persName>
+               <lb/>3 Söhne <persName key="ed_o4p_ttr_vqb">Johann</persName>, <persName key="ed_my4_5tr_vqb">Christoph</persName>, <persName key="ed_xjf_wtr_vqb">Andreas</persName>
+               <lb/>1 Tochter <persName key="ed_afc_vtr_vqb">Anorthe</persName>
+            </p>
+            <p>
+               <persName key="ed_xjr_rlz_tqb">Martin Zwikowski</persName>
+               <lb/>3 Söhne <persName key="ed_nbb_n5r_vqb">Christoph</persName>, <persName key="ed_yr5_l5r_vqb">Johann</persName>, <persName key="ed_jk2_m5r_vqb">Michael</persName>, Christoph dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim <persName key="ed_fym_w3p_5qb">Christoph
+                        Kuckel</persName>
+               <lb/>3 Töchter <persName key="ed_wkw_55r_vqb">Anna</persName> dient im
+                        <placeName key="ed_nkz_b12_gy">Stawkenschen</placeName> Hof, <persName key="ed_f4h_v5r_vqb">Vrona</persName>, <persName key="ed_c15_v5r_vqb">Catharina</persName>
+            </p>
+            <p>
+               <persName key="ed_ot5_cvr_vqb">Christoph Masuch</persName>, sein Weib, Tischler
+                    <lb/>4 Söhne <persName key="ed_omb_fvr_vqb">Ahasverus</persName>, <persName key="ed_zkv_fvr_vqb">Christoph</persName>, <persName key="ed_a2l_gvr_vqb">Johann</persName>, <persName key="ed_h4m_fvr_vqb">Gerhard</persName>
+            </p>
+            <p>
+               <persName key="ed_lnr_4vr_vqb">Andreas Masuch</persName>, sein Weib, Gärtner
+                    <lb/>Sohn <persName key="ed_nwx_qvr_vqb">Michael</persName>
+            </p>
+            <p>
+               <persName key="ed_rkt_1wr_vqb">Christoph Duschig</persName>, sein Weib, ist jetzo
+                    in <placeName key="ed_xpm_112_gy">Labab</placeName> Gärtner <lb/>1 Sohn
+                        <persName key="ed_w44_dwr_vqb">Michael</persName>
+               <lb/>3 Töchter <persName key="ed_mrz_2wr_vqb">Dorothea</persName>, <persName key="ed_a1g_2wr_vqb">Maria</persName> dient in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, <persName key="ed_oyx_dwr_vqb">Catharina</persName>
+            </p>
+            <p>Johann Gellesch, sein Weib, ist jetzo in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> wohnend <lb/>1 Sohn Wilhelm dient beim Bauer Schack in
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>1 Los-Weib <persName key="ed_hjv_lwr_vqb">Esther Seska</persName>
+               <lb/>1 Sohn <persName key="ed_bxf_4wr_vqb">Christoph</persName>, ist hier beim
+                  <persName key="ed_rcw_ysr_vqb">Friedrich Seska</persName>
+               <lb/>2 Tochter <persName key="ed_gvw_twr_vqb">Anna</persName>, dient in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> beim <persName key="ed_jpp_rtw_2qb">Masuch</persName>, <persName key="ed_zf4_vwr_vqb">Kascha</persName> ist in
+                  <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+            </p>
+            <p>
+               <persName key="ed_f5g_zwr_vqb">Paulsche</persName>
+               <lb/>1 Sohn <persName key="ed_u34_bxr_vqb">Christoph</persName>, ist im Dorfe
+                    beim Brettschneider <lb/>1 Tochter <persName key="ed_vby_bxr_vqb">Anna</persName>, dient in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> beim <persName key="ed_xrw_pmr_vqb">Hansulzig</persName>
+            </p>
+            <p>Ein Los-Weib <persName key="ed_cns_gxr_vqb">Louisa</persName>
+            </p>
+            <p>
+               <persName key="ed_s2c_jxr_vqb">Kascha Bubertzowna</persName>
+               <add place="right">od. Gelevovna genannt</add>
+               <lb/>
+               <persName key="ed_w44_dwr_vqb">Michael Duschig</persName>, dienen beim <seg type="comment">
+                  <orig>Moczarski</orig>
+                  <note xml:id="nhzs_4xr_vqb">Es gab zwei
+                            Moczarski in Stawken.</note>
+               </seg>
+            </p>
+            <p>Sybilla <gap reason="illegible"/>, dient beim <persName key="ed_rcw_ysr_vqb">Seska</persName>
+            </p>
+            <p/>
+            <p>Noch sind folgende Erbuntertänige entlaufen, welche zu den Gütern <placeName key="ed_hrb_hc2_gy">Surwillen</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+               gehören.</p>
+            <p>
+               <persName key="ed_y4l_5xr_vqb">Greger Surday</persName> nebst Weib und 2 Kindern,
+                    von <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            </p>
+            <p>
+               <persName key="ed_a1g_5nr_vqb">Martin Gellesch</persName>, von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <p>
+               <persName key="ed_plb_yxr_vqb">Martin Surday</persName>, ein Knecht, ao. 1707 von
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            </p>
+            <p>
+               <persName key="ed_gn2_jyr_vqb">Fabian Seska</persName>, ao. 1711 vom Weibe
+                    entlaufen, aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> bürtig</p>
+            <p>
+               <persName key="ed_tq1_nyr_vqb">Michael Makoschei</persName>, nebst seinem Weibe und 2
+               Kindern ao. 1711 von <placeName key="ed_nkz_b12_gy">Stawken</placeName>, soll in
+                  <placeName key="ed_n12_4vl_ddb">Oletzko</placeName> sein</p>
+            <p>
+               <persName key="ed_y35_syr_vqb">Johann Kuckel</persName> von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, ist aus <placeName key="ed_xpm_112_gy">Labab</placeName> ao. 1712 entlaufen, der <gap reason="illegible"/>, dass er bei <placeName key="ed_xjx_vyr_vqb">Liebemühl</placeName> sei, wo das Glashaus gewesen, bei seines Vaters
+                    Bruder</p>
+            <p>
+               <persName key="ed_hsf_2zr_vqb">Hans Wilewski</persName> nebst Weib und Kindern
+                    ao. 1710, ist von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                    bürtig</p>
+            <p>
+               <persName key="ed_vyj_jzr_vqb">Dorothea Kucklin</persName>, eine Magd, mit dem
+                    Knecht <persName key="ed_pck_mzr_vqb">Christoph Casimir</persName> von
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            </p>
+            <p>
+               <persName key="ed_tkj_qzr_vqb">Fabian Mitzka</persName> nebst seinem Weibe,
+                    gewesener Brauer in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, den 6.
+                    März 1717</p>
+            <p>
+               <persName key="ed_axk_5zr_vqb">Jan Schwikowski </persName>mit Weib und Kindern,
+                    von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> bürtig</p>
+            <p/>
+            <p>Dass die in obiger Inventierung bei jedem Teil Güter benannten Leute daselbsten
+               verbleiben, von uns als wirkliche Erb-Untertanen dahin destiniert und wir uns
+               desfalls solchergestalt vereinigt, dass weder einer noch der andere desfalls den
+               geringsten Disput zu erregen <gap reason="illegible"/>, die <gap reason="illegible"/>
+               aber, so in brüderlichem Vergleich berührt, ausgenommen bleiben, welcher wegen wir
+               uns nachgehend vergleichen wollen, haben zu mehrere Festhaltung mit eigenhändiger
+               Unterschrift und Unterdrückung unserer <seg type="comment">
+                  <orig>Petschaften</orig>
+                  <note xml:id="no4f_hyv_5pb">Die Siegel sind erhalten</note>
+               </seg> bekennen wollen. Steinort den 6. April 1718</p>
+            <p> G. v. Lehndorff E. A. G. v. Lehndorff </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_mh2_chd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>G. H. Cibrovius an den Kriegs- und Domänenrat Aschersleben in der Streitsache
+                    um die kölmischen Hufen des Paul Dolenga in Rosengarten. Angerburg, 26. November
+                    1738</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 248, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_dks_4zh_lpb">Cibrovius, G. H. (-)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1738-11-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_tsb_mzh_lpb">Aschersleben, (-)</persName>
+            </correspAction>
+            <note>Am 14. November 1738 hatte sich Gräfin von Lehndorff an den Kriegs- und Domänenrat
+               Aschersleben gewandt und sich beschwerte, dass ihrem Schmied in Stawisken ein aus
+               Rössel gebürtiger Lehrjunge von dem Schulzen <persName key="ed_yvl_pd3_lpb">Fleischer</persName> aus Rosengarten „aus bloßer Animosität‟ vorenthalten werde,
+               auch sei bei der Versteigerung der 1 1/2 kölmischen Hufen des <persName key="ed_g3j_tzh_lpb">Paul Dolenga</persName> im Dorf Rosengarten, die sie für das
+               dortige <rs type="term" key="ed_pqq_g4d_gy">Hospital</rs> wollte, ihr Wunsch vom
+               Schulzen hintertrieben worden. <lb/> Auf Cibrovius Anfrage, wie er sich verhalten
+               solle, antwortete der Kriegsrat: „So viel möglich ist der Fr. Gräfin zu helfen und zu
+               dienen, unterdessen will gar nicht, dass das Recht einem anderen gebeugt soll
+               werden.‟ Aschersleben entschied, dass der Schulze zu dulden hätte, dass der Lehrjunge
+               auslernt. Er sei jedoch Untertan des königlichen Amtes und müsse gehen, wenn er dort
+               benötigt werde. In der Hubensache erschien ihm der Kauf gültig, da der Krüger bereits
+               die Kaufsumme hinterlegt hatte. <lb/> Dem war nicht so, da kein öffentliches
+               Lizitationsverfahren stattgefunden hatte. Die Angelegenheit kam vor das Hofgericht.
+               In der Zwischenzeit bewirtschaftete der Käufer <persName key="ed_yvs_5zh_lpb">Busella</persName> die Hufen sehr schlecht. 1745 fand deshalb die Versteigerung
+               statt, da niemand ein höheres Gebot als 143 Rtlr. abgab, fielen die Hufen nun doch
+               der Gräfin von Lehndorff zu. <lb/> Zwischen 1735 und 1738 war <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> an die Pächter Ortha und Krieger
+               verpachtet. Zwischen 1745-1751 waren <persName key="ed_g3j_tzh_lpb">Paul
+                  Dolenga</persName> (!), <persName key="ed_u54_yrq_cqb">Georg Hollstein</persName>
+               und <persName key="ed_fwx_1sq_cqb">Johann Molter</persName> Pächter, GStA PK, XX. HA,
+               Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 153 und 393. Pächter des Kruges in
+               Rosengarten waren vor Busella <persName key="ed_ofn_2sq_cqb">Hans David</persName>
+               und <persName key="ed_gwp_gsq_cqb">Johann Kerstein</persName>, danach war er an
+                  <persName key="ed_emy_3sq_cqb">Jorck Holstein</persName> verpachtet, ebd., Nr. 386
+               (1723-1747, 1768/69). <lb/> Wegen nicht entrichteter Kontributionen kamen 1754/1755
+               drei kölmische Hufen der Bauern <persName key="ed_vqx_msq_cqb">Goldack</persName> und
+                  <persName key="ed_arb_4sq_cqb">Werner</persName> in Rosengarten zur Versteigerung,
+               ebd., Nr. 412, und in den selben Jahren gab es Grenzstreitigkeiten der Gräfin von
+               Lehndorff mit den Bewohnern des Dorfes Rosengarten um eine Wiese, ebd., Nr. 590. <p/>
+               <lb/> Siehe auch im <ref target="lehndorff_dh5_xw5_s2b">Archivplan Nr. 9: Acta die
+                  Huben des <persName key="ed_bg3_jcx_clb">Paul Dolenga</persName> in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> betreffend</ref>. Siehe zur
+               Streitsache auch: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 691
+               (Sitzung des Patrimonialgerichts, Rosengarten, 19. Oktober 1745).</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_mh2_chd_vpb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, 26. November 1738</dateline>
+               <salute>Hochwohlgeborener Herr. Hochgebietender Herr Kriegs- und Domänenrat.
+                        Gnädiger Herr.</salute>
+            </opener>
+            <p>Ew. Hochwohlgeboren berichte auf Dero unterm 18. huius in der <persName key="ed_g3j_tzh_lpb">Dolengaschen</persName> Affaire mir erteilten gnädigen
+               Instruktion Folgendes untertänigst und pflichtschuldigst, dass alle Mittel angewendet
+               habe, die Dorfschaft und insonderheit den Krüger <persName key="ed_yvs_5zh_lpb">Busella</persName> zu bewegen, dass sie von ihrem Sinn abstehen und der Frau
+                  <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName> Hochgeb. Gnaden die
+               Huben überlassen möchten; allein ich habe nichts effektieren können, vielmehr
+               deklarieren sie alle sämtlich der Frau Gräfin Hochgeb. Gnaden, weil sie ohne den
+               Krüger kein Naherecht zu diesen Huben hat, keinen Fußbreit in ihrer Dorfschaft
+               Jurisdiktion zu lassen, und offeriert der Krüger Busella auf die von der Frau Gräfin
+               Hochgeb. Gnaden als milden Käuferin gebotenen 30 Fl. nachzuzahlen, mit untertänigster
+               Bitte, ihm die 1 1/2 Huben quaestionis rechtlich vor das gebotene Kaufpretium zu
+               adjudizieren und ihm solche zu übergeben. Ich habe also diese Resolution Ew. Hochgeb.
+               vorhero, ehe was in der Sache beschließen wollen, untertänigst zu kommunizieren vor
+               gut befunden mit demütiger Bitte, Ew. Hochwohlgeb. wollen mir gnädige Antwort darauf
+               erteilen, ob ich dem Busella die gebetene Adjudikation gewähren soll, insonderheit
+               aus dieser erheblichen Ursache, dass sowohl die ganze Dorfschaft <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, als auch das Amt künftig keinen <seg type="comment"><orig>Molest</orig><note xml:id="nyyf_ql5_txb">Belästigung</note></seg> von der Fr. Gräfin Hochgeb. Gnaden nicht erdulden
+               möchte. Ich versichere mich von E. Hochwohlgeb. hierauf eine gnädige Antwort, </p>
+            <closer>
+               <salute>als der ich mit tiefem Respekt ersterbe <lb/>Ew. Hochwohlgeb. Krieges- und
+                  Domänenrats ganz gehorsamster Knecht </salute>
+               <signed>G. H. <persName key="ed_dks_4zh_lpb">Cibrovius</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

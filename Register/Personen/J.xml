@@ -1,0 +1,953 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_gyt_mlh_scb">
+                    <idno type="uri">http://d-nb.info/gnd/117028487</idno>
+                    <persName type="reg">
+                        <surname>Jablonski</surname>
+                        <forename>Paul Ernst</forename>
+                    </persName>
+                    <birth>1693</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_n1n_kcz_ssb">
+                    <persName type="reg">
+                        <surname>Jäckel</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Amt Schönberg (1735)</note>
+                </person>
+                <person xml:id="ed_kw2_4fz_ssb">
+                    <persName type="reg">
+                        <surname>Jäckel</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hufenwirt, Reichertswalde (1737)</note>
+                </person>
+                <person xml:id="ed_j4t_h4j_hlb">
+                    <idno type="uri">https://d-nb.info/gnd/118556312</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Friedrich Heinrich</forename>
+                    </persName>
+                    <birth>1743</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_o2r_1dj_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118556436</idno>
+                    <persName type="reg">
+                        <surname>Jacobi</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_qwy_vwh_my">
+                    <persName type="reg">
+                        <surname>Jacobson</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fachtechnisches Büro für Obstbau und Obstverwertung (1912)</note>
+                </person>
+                <person xml:id="ed_s3x_3kh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/136169163</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Friedrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1771</birth>
+                    <death>1857</death>
+                </person>
+                <person xml:id="ed_lzd_zhr_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117610828</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Gustav von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_lyj_ylf_mjb">
+                    <idno type="uri">https://d-nb.info/gnd/136223516</idno>
+                    <persName type="reg">
+                        <surname>Jagow</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1770</birth>
+                    <death>1825</death>
+                </person>
+                <person xml:id="ed_nh3_5ss_fqb">
+                    <persName type="reg">
+                        <surname>Jahn</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth>1684</birth>
+                    <death/>
+                    <note>Waldhüter, Marschallsheide (1761)</note>
+                </person>
+                <person xml:id="ed_xw5_hy1_zqb">
+                    <persName type="reg">
+                        <surname>Jahnert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1808 Radmacher, Labab (1808)</note>
+                </person>
+                <person xml:id="ed_dpm_zjc_zqb">
+                    <persName type="reg">
+                        <surname>Jahnert</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawisken (1808)</note>
+                </person>
+                <person xml:id="ed_uns_fmq_lpb">
+                    <persName type="reg">
+                        <surname>Jan</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht, Labab (1748)</note>
+                </person>
+                <person xml:id="ed_wz3_mxp_lpb">
+                    <persName type="reg">
+                        <surname>Jan </surname><forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Stawisken (1674)</note>
+                </person>
+                <person xml:id="ed_syk_myp_lpb">
+                    <persName type="reg">
+                        <surname>Jan </surname><forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_wsy_typ_lpb">
+                    <persName type="reg">
+                        <surname>Jan</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_b1n_3wp_lpb">
+                    <persName type="reg">
+                        <surname>Jan </surname><forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Labab (1674)</note>
+                </person>
+                <person xml:id="ed_yzh_kwp_lpb">
+                    <persName type="reg">
+                        <surname>Jan </surname><forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Labab (1674)</note>
+                </person>
+                <person xml:id="ed_tfb_3x3_ycb">
+                    <persName type="reg">
+                        <surname>Jankowski</surname>
+                        <forename>Wilhelmine</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kirsch</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Dorfschullehrers Carl Jankowski (geb. 1798), Stobben</note>
+                </person>
+                <person xml:id="ed_ph2_xcc_ffb">
+                    <persName type="reg">
+                        <surname>Jansen</surname>
+                        <forename>Gustav Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1877</death>
+                    <note>Rechtsanwalt und Notar im Bezirk des königlichen Kammergerichts Berlin
+                        (1877)</note>
+                </person>
+                <person xml:id="ed_w3r_ydj_f3b">
+                    <persName type="reg">
+                        <surname>Janson</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fuhrmann, Memel (1739), Ehemann von <persName key="ed_vcn_fdj_f3b">Dorothea Grabus</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_oxc_x33_lpb">
+                    <persName type="reg">
+                        <surname>Janson</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Grabuschin</surname>
+                        <forename>Helena Dorothea</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Grabus</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertanin, Steinort, vor 1739 entflohen</note>
+                </person>
+                <person xml:id="ed_rcb_pm3_lpb">
+                    <persName type="reg">
+                        <surname>Janson</surname>
+                        <forename>Johann Joachim</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehemann der Eleonora Janson (1739)</note>
+                </person>
+                <person xml:id="ed_cdq_4tx_hhb">
+                    <persName type="reg">
+                        <surname>Jantzen</surname>
+                        <forename>Johann Friedrich</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Janzen</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Taberlack und Pristanien (1765-1771), Serwillen (1773)</note>
+                </person>
+                <person xml:id="ed_mgb_hdj_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/117612022</idno>
+                    <persName type="reg">
+                        <surname>Jariges</surname>
+                        <forename>Philipp Joseph von </forename>
+                    </persName>
+                    <birth>1706</birth>
+                    <death>1770</death>
+                </person>
+                <person xml:id="ed_glg_gkv_wsb">
+                    <persName type="reg">
+                        <surname>Jarosch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Richter, Drengfurt (1772)</note>
+                </person>
+                <person xml:id="ed_eq4_p1j_myb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_rtt_qgv_yxb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hospitalitin, Serwillen (1854)</note>
+                </person>
+                <person xml:id="ed_isf_lyr_vsb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht, Deputatsempfänger, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_d4l_vw1_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer (1808), Instmann (1821), Labab</note>
+                </person>
+                <person xml:id="ed_nb5_wml_1vb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1824 Losmann, Gänsehirte, Labab (1824)</note>
+                </person>
+                <person xml:id="ed_qzs_3yh_yqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Steinort (1808, 1821)</note>
+                </person>
+                <person xml:id="ed_qqg_wgt_fqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Stawisken (1807, 1808)</note>
+                </person>
+                <person xml:id="ed_izr_ys3_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stawken (1808)</note>
+                </person>
+                <person xml:id="ed_c3z_kcj_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_gp4_ksg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Pristanien (1744)</note>
+                </person>
+                <person xml:id="ed_p5v_bwg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawisken (1744)</note>
+                </person>
+                <person xml:id="ed_ysp_2vc_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Albrecht</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_s2j_fz1_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Labab (1808)</note>
+                </person>
+                <person xml:id="ed_vmb_xvg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawisken (1744)</note>
+                </person>
+                <person xml:id="ed_xjc_dww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Annortha</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Esther Jarreck; Magd beim Schulzen in Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_rpg_bww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Esther Jarreck; Knecht, Stawken (1718), Bauer, Stawisken
+                        (1736)</note>
+                </person>
+                <person xml:id="ed_dh4_w5c_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_zwf_zrg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Magd, Stobben (1744)</note>
+                </person>
+                <person xml:id="ed_xkj_1ww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Esther</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertanin, Losfrau, Kittlitz (1718)</note>
+                </person>
+                <person xml:id="ed_ef4_dww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Esther jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Esther Jarreck; Magd im Hof zu Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_nbm_ssg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pristanien (1744)</note>
+                </person>
+                <person xml:id="ed_vvb_gjq_5qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stobben (1740)</note>
+                </person>
+                <person xml:id="ed_uz5_tml_1vb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Labab (1824)</note>
+                </person>
+                <person xml:id="ed_hgf_wrd_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Michael Jarreck; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_th4_vz1_zqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Deputant, Steinort (1799), Instmann, Labab (1808)</note>
+                </person>
+                <person xml:id="ed_ghs_jns_vsb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königlicher Musketier, 3. Musketier-Regiment, 7. Kompanie, Invalide
+                        (1834)</note>
+                </person>
+                <person xml:id="ed_kc5_cww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Esther Jarreck; Magd, Kittlitz (1718)</note>
+                </person>
+                <person xml:id="ed_pms_bww_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Esther Jarreck; Knecht, Kittlitz (1718)</note>
+                </person>
+                <person xml:id="ed_sqv_5rd_2qb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_jkp_rvh_wqb">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1818-1830)</note>
+                </person>
+                <person xml:id="ed_uj3_bfg_j5b">
+                    <persName type="reg">
+                        <surname>Jarreck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Junge beim Hofmann in Steinort (1738)</note>
+                </person>
+                <person xml:id="ed_nhs_5sc_zqb">
+                    <persName type="reg">
+                        <surname>Jasch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_lrj_mxg_j5b">
+                    <persName type="reg">
+                        <surname>Jasch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Labab (1744)</note>
+                </person>
+                <person xml:id="ed_rkp_pvc_zqb">
+                    <persName type="reg">
+                        <surname>Jasch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hirte, Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_ukv_bnz_z5b">
+                    <persName type="reg">
+                        <surname>Jasch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen, 1818 eingezogen</note>
+                </person>
+                <person xml:id="ed_j51_4pp_5qb">
+                    <persName type="reg">
+                        <surname>Jascheck</surname>
+                        <forename>Joreck</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Kalmuck</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner, Labab, soll 1740 wüsten Hof in Serwillen übernehmen</note>
+                </person>
+                <person xml:id="ed_uvy_fw3_d2b">
+                    <persName type="reg">
+                        <surname>Jaski</surname>
+                        <forename>Emilie von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Köhn von Jaski</surname>
+                        <forename>Emilie Caroline</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Ancker </name>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1903</death>
+                    <note>Heirat: <persName key="ed_hwn_j15_g2b">Theodor Franz Friedrich Köhn von
+                            Jaski </persName>
+                    </note>
+                </person>
+                <person xml:id="ed_gkx_qyp_lpb">
+                    <persName type="reg">
+                        <surname>Jedann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_akw_ygn_j5b">
+                    <persName type="reg">
+                        <surname>Jeglofski</surname>
+                        <forename>Anton</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Diener, Steinort (1789)</note>
+                </person>
+                <person xml:id="ed_ows_ccx_fhb">
+                    <persName type="reg">
+                        <surname>Jeleschowna</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawken (1742)</note>
+                </person>
+                <person xml:id="ed_bfv_m45_22b">
+                    <persName type="reg">
+                        <surname>Jelf</surname>
+                        <forename>Emmy</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schlippenbach, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: Richard William Jelf (1798-1871), 4. Vorsteher des King's College
+                        in London <ref target="https://en.wikipedia.org/wiki/Richard_William_Jelf"/></note>
+                </person>
+                <person xml:id="ed_rkd_q45_22b">
+                    <persName type="reg">
+                        <surname>Jelf</surname>
+                        <forename>Mary</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von Emmy und Richard William Jelf (1871)</note>
+                </person>
+                <person xml:id="ed_f4f_5tp_tdb">
+                    <persName type="reg">
+                        <surname>Jennings</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>englischer Kaufmann, Hamburg (1767)</note>
+                </person>
+                <person xml:id="ed_h4k_tpv_22b">
+                    <persName type="reg">
+                        <surname>Jentsch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pfarrer, 1874 emeritiert</note>
+                </person>
+                <person xml:id="ed_i2h_qyg_j5b">
+                    <persName type="reg">
+                        <surname>Jerominski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1744)</note>
+                </person>
+                <person xml:id="ed_isc_z1j_zqb">
+                    <persName type="reg">
+                        <surname>Jerominski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schänder, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_lfz_nmg_wqb">
+                    <persName type="reg">
+                        <surname>Jerominski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> Krüger in Steinort (1799, 1808)</note>
+                </person>
+                <person xml:id="ed_pnr_jqw_mbb">
+                    <persName type="reg">
+                        <surname>Jerominski</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan, Serwillen (1784)</note>
+                </person>
+                <person xml:id="ed_vcv_5dv_ysb">
+                    <persName type="reg">
+                        <surname>Jerosch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Richter, Drengfurt (1772)</note>
+                </person>
+                <person xml:id="ed_ovk_245_scb">
+                    <persName type="reg">
+                        <surname>Jerosch</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Richters Jerosch, Drengfurt (1784)</note>
+                </person>
+                <person xml:id="ed_nrx_thy_nxb">
+                    <persName type="reg">
+                        <surname>Jezorke</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Pristanien (1817)</note>
+                </person>
+                <person xml:id="ed_fbp_drs_vsb">
+                    <persName type="reg">
+                        <surname>Johannes</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major, Königsberg (1834)</note>
+                </person>
+                <person xml:id="ed_upy_s5s_vsb">
+                    <persName type="reg">
+                        <surname>John</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gänsehirte (1836)</note>
+                </person>
+                <person xml:id="ed_qbl_mbj_zqb">
+                    <persName type="reg">
+                        <surname>Johnatus</surname>
+                        <forename>jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_hth_kbj_zqb">
+                    <persName type="reg">
+                        <surname>Johnatus</surname>
+                        <forename>sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_h5r_dd5_2z">
+                    <idno type="uri">http://d-nb.info/gnd/11910007X</idno>
+                    <persName type="reg">
+                        <surname>Jordan</surname>
+                        <forename>Charles Etienne</forename>
+                    </persName>
+                    <birth>1700</birth>
+                    <death>1745</death>
+                </person>
+                <person xml:id="ed_kds_gpv_22b">
+                    <idno type="uri">https://d-nb.info/gnd/117182761</idno>
+                    <persName type="reg">
+                        <surname>Jordan</surname>
+                        <forename>Max</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1906</death>
+                </person>
+                <person xml:id="ed_ulg_fxl_j5b">
+                    <persName type="reg">
+                        <surname>Jordowna</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Magd, Stawisken (1750)</note>
+                </person>
+                <person xml:id="ed_ssz_2vr_vsb">
+                    <persName type="reg">
+                        <surname>Jossin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wäschefrau, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_ipl_3wr_vsb">
+                    <persName type="reg">
+                        <surname>Jossin</surname>
+                        <forename>Louisa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Deputatsempfängerin, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_qcn_ssc_5qb">
+                    <persName type="reg">
+                        <surname>Josteck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_dgq_5gp_tdb">
+                    <persName type="reg">
+                        <surname>Junck</surname>
+                        <forename>Johann Andreas von</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1789</death>
+                    <note>preußischer Legationsrat, Resident in Danzig</note>
+                </person>
+                <person xml:id="ed_lmv_cjf_j5b">
+                    <persName type="reg">
+                        <surname>Jünger</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_x2l_djf_j5b">
+                    <persName type="reg">
+                        <surname>Jünger</surname>
+                        <forename>Heinrich Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_svv_bjf_j5b">
+                    <persName type="reg">
+                        <surname>Jünger</surname>
+                        <forename>Louisa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_uml_y3f_j5b">
+                    <persName type="reg">
+                        <surname>Jünger</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Michael Jünger; Steinort (1741, 1750)</note>
+                </person>
+                <person xml:id="ed_amp_vtg_bqb">
+                    <persName type="reg">
+                        <surname>Jünger</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneider, Steinort (1741, 1750)</note>
+                </person>
+                <person xml:id="ed_x11_c3f_s3b">
+                    <idno type="uri">https://d-nb.info/gnd/11928264X</idno>
+                    <persName type="reg">
+                        <surname>Jungingen</surname>
+                        <forename>Konrad von</forename>
+                    </persName>
+                    <birth>um 1355/1360</birth>
+                    <death>1407</death>
+                </person>
+                <person xml:id="ed_h2d_fhf_cy">
+                    <persName type="reg">
+                        <surname>Junkuhn</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth>1869</birth>
+                    <death>1910</death>
+                    <note>1899-1910 Pfarrer in Rosengarten <ref target="https://www.wikiwand.com/de/Christk%C3%B6nigskirche_(Radzieje)"/></note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

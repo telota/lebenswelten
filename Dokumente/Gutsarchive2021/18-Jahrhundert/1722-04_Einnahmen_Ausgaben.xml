@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_hjw_yfd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Buchführung über Einnahmen und Ausgaben der Güter Pristanien, Stawken und
+               Serwillen, geführt vom Verwalter Johann Caspar Fischer. Ostern 1722 bis Ostern
+               1723</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Bis 1718/19 war die Rechnungslegung durch <persName key="ed_scq_sqr_1qb">Reinhold
+                     Grünhagen</persName>, Sekretär der gräflichen Familie, erfolgt. </p>
+               <p>Siehe auch die laufenden Einnahmen- und Ausgaben-Rechnungen der Vorwerke
+                  Pristanien, Stawken und Serwillen der Jahre <ref target="lehndorff_wy4_db5_qxb">1718/19</ref>, 1719/20, 1720/21, 1721/22, 1723/24, 1724/25, 1725/26 ebd., Nr.
+                  214, 218-222 und 225 (mit namentlicher Nennung der Zinspflichtigen). Einnahmen und
+                  Ausgaben, Erträge und Bestände für die Jahre 1718-1726, 1764-1799, 1841 auch in:
+                  StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 265. </p>
+               <p>Die Einzelrechnungen der Vorwerke flossen zusammen in einer Jahres-Rechnung
+                  sämtlicher Einnahmen bzw. Ausgaben der Güter, die in mehreren Exemplaren
+                  ausgefertigt wurden, diese in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941422">Nr. 61</ref> und <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941332">Nr. 209</ref> (1790/91), <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941333">Nr. 210</ref> (1792/93), <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941334">Nr. 211</ref> (1793/94). Da die Nummern 209-211 als fünfte, sechste und
+                  siebente Jahres-Rechnung verzeichnet sind, gab es diese Buchführung schon 1787/88.
+                  Parallel gab es buchhalterischen Aufzeichnungen für die Landkeimschen und die
+                  Rehsauschen Güter, die Akten dazu ebenfalls im APO. </p>
+               <p>Daneben gab es separate Rechnungsführungen zu verschiedenen Einkunftsarten (aus
+                  Getreide, Branntwein, Fischerei etc.,) die in unterschiedlichem Umfang für die
+                  einzelnen Vorwerke überliefert sind.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 217, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_y2q_qwh_lpb">Fischer, Johann Caspar (-)</persName>
+            <date notBefore="1722-04-05" notAfter="1723-03-28" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Die von dem Verwalter <persName key="ed_y2q_qwh_lpb">Johann Caspar Fischer</persName>
+               geführte Rechnung weist für die Lehndorffschen Güter <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName> und
+                  <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> für den Zeitraum Oktober 1722
+               bis Oktober 1723 als Einnahmen von den namentlich aufgeführten Bauern den Huben-Zins
+               in Höhe von 25 Rtlr. (Pristanien und Stawken) bzw. 30 Rtlr. (Serwillen) und
+               zahlreiche weitere Einnahmen wie Gans- und Kapaunen-Geld, Hauszins, Strafen,
+               Arrende-Pensionen, Kuh- und Schafmilchpacht aus, sowie die Einnahmen aus verkauftem
+               Getreide, Honig, Bier- und Branntwein, Wolle, Heu, Viehverkauf, Fischerei, Verkauf
+               von Leinwand und Ziegeln. <lb/>Dem gegenüber stehen Ausgaben für bar bezahlte
+               Lieferungen, das Deputat und den Lohn für das namentlich aufgeführte Gesinde, den
+               General-Huben-Schoss, den Kirchen-Decem und das Witwen-Gehalt, Kosten der Brauerei in
+                  <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, der Fischerei, für
+               angekauftes Getreide, Heu und Stroh, für Viehankäufe, für Baumaterial und Kalk, für
+               Gewerke wie Maurer, Zimmerleute, Ziegler, Schmiede, Radmacher, Töpfer, Gemeinkosten
+               der Dörfer sowie Ausgaben für das Salzdeputat. <lb/>Die Summe der Einnahmen belief
+               sich auf 4.553 Fl. 26 Gr. 9 1/2 D. Die Summe der Ausgaben betrug 3.750 Fl. 10 Gr. 9
+               D. Nach Abzug der „Restanten-Liquidation‟ verblieb eine bare Summe von 163 Fl. 1 Gr.
+               17 D. <lb/> Es folgt eine Aufstellung der Differenzen zwischen dem ausgegebenen
+               Saatkorn und den Einnahmen aus dem Ertrag von Korn (Weizen, Gerste, Hafer), weißen
+               und grauen Erbsen, Bohnen und Leinsaat.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hjw_yfd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

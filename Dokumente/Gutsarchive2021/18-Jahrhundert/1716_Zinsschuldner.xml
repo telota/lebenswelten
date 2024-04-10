@@ -1,0 +1,1043 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_q5q_kzy_hqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der Zinsschuldner in den Lehndorffschen Gutsdörfern. 1716</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch die Rechnung über Zinseinnahmen von den Bauern auf den Gütern Stobben,
+                  Labab, Taberlack, Stawisken, Pristanien sowie über die Ausgaben auf den Gütern
+                  (1703-1707) sowie das Zinsregister der Bauern in den Gütern/Vorwerken Pristanien,
+                  Stobben, Kittlitz, Labab, Stawisken, Taberlack, Serwillen, Stawken (1740), in:
+                  GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 339 und 281. <lb/> Der
+                  „Extrakt aus den Quittbüchern, was die Pauern an Zinsresten schuldig geblieben
+                  sind u. an Kühen, Schafen, Federvieh u. Naturalien‟ (1732-1734), in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940856">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 546</ref>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 258, Bl. 3-4v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1716-01-01" notAfter="1716-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_q5q_kzy_hqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="50" cols="9">
+                  <row role="label">
+                     <cell cols="4">Zins-Restanten de Ao. 1716</cell>
+                     <cell cols="3">Was sie darauf vor Arbeit getan</cell>
+                     <cell cols="2">und annoch restieren</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">
+                           <placeName key="ed_xpm_112_gy">Labab</placeName>
+                        </hi>
+                     </cell>
+                     <cell/>
+                     <cell>Fl.</cell>
+                     <cell>Gr.</cell>
+                     <cell/>
+                     <cell>Fl.</cell>
+                     <cell>Gr.</cell>
+                     <cell>Fl.</cell>
+                     <cell>Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_ek4_1jz_tqb">Jan Szeuja</persName>
+                     </cell>
+                     <cell/>
+                     <cell>33 </cell>
+                     <cell>10</cell>
+                     <cell>5 Tage à 8 Gr. </cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell>16 </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_dc1_qj3_gqb">Andreas Brosch</persName>
+                     </cell>
+                     <cell/>
+                     <cell>2 </cell>
+                     <cell>20</cell>
+                     <cell>8 Tage</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_azz_hjz_tqb">Jacob Tarwinski</persName>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>59 Tage</cell>
+                     <cell>15</cell>
+                     <cell>22</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_xrb_ljz_tqb">Jorek
+                                            Jelesch</persName>
+                           </orig>
+                           <note xml:id="nljh_kjz_tqb">Gellesch</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>61 Tage</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_bwb_mk3_gqb">Gonnek</persName>
+                           </orig>
+                           <note xml:id="na3c_qjz_tqb">Gonneck</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>9 Tage</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_qs1_sjz_tqb">Jorek
+                                            Schak</persName>
+                           </orig>
+                           <note xml:id="nnx3_tjz_tqb">Schack</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>4 Tage</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell>139 </cell>
+                     <cell>10</cell>
+                     <cell>266 Tage </cell>
+                     <cell>70</cell>
+                     <cell>28</cell>
+                     <cell>68</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">
+                           <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                        </hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_cbm_vjz_tqb">Mathes Gritzka</persName>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>60 Tage</cell>
+                     <cell>16</cell>
+                     <cell/>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_sxd_2xz_tqb">Adam
+                                            Schak</persName>
+                           </orig>
+                           <note xml:id="nthf_yjz_tqb">Schack</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>61 </cell>
+                     <cell>16</cell>
+                     <cell>8</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_jjf_vxz_tqb">Johann
+                                            Smolenia</persName>
+                           </orig>
+                           <note xml:id="nbkf_gkz_tqb">Smolenga</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>18</cell>
+                     <cell>10</cell>
+                     <cell>56 <lb/>vor einen Ritt nach <placeName key="ed_qcj_1qf_hy">Seehesten</placeName>
+                     </cell>
+                     <cell>14 <lb/>1</cell>
+                     <cell>28 <lb/>6</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_cjz_s5d_2qb">Christoph
+                                            Schak</persName>
+                           </orig>
+                           <note xml:id="nifv_gkz_tqb">Schack</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>54 </cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>18</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_c3h_fzz_tqb">Paul
+                                            Raab</persName>
+                           </orig>
+                           <note xml:id="nczj_rkz_tqb">Rabe</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>62</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_frs_wb1_5qb">Jan
+                                            Schak</persName>
+                           </orig>
+                           <note xml:id="nry5_5kz_tqb">Schack</note>
+                        </seg> Zimmermann u. <gap reason="illegible"/>knecht</cell>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>21</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_ojf_blz_tqb">Seska</persName>
+                     </cell>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>10</cell>
+                     <cell>63</cell>
+                     <cell>16</cell>
+                     <cell>24</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_sy3_hlz_tqb">Jan
+                                            Lisch</persName>
+                           </orig>
+                           <note xml:id="ndgd_mlz_tqb">Liss</note>
+                        </seg> vor Wiesen</cell>
+                     <cell/>
+                     <cell>4 </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell>197</cell>
+                     <cell>21</cell>
+                     <cell>360</cell>
+                     <cell>96</cell>
+                     <cell/>
+                     <cell>101</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">Stawken</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_trp_plz_tqb">Michael Moczarski</persName>
+                     </cell>
+                     <cell/>
+                     <cell>13</cell>
+                     <cell/>
+                     <cell>18 Tage</cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_xjr_rlz_tqb">Martin Zwikowski </persName>
+                        <gap reason="illegible"/>
+                     </cell>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">15</del>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">15</del>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_yl2_xlz_tqb">Michel Wilewka</persName>
+                     </cell>
+                     <cell/>
+                     <cell>14</cell>
+                     <cell>20</cell>
+                     <cell>31 Tage a 8 Gr.</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_l11_nmz_tqb">Jürgen Wilewka</persName>
+                                sen.</cell>
+                     <cell/>
+                     <cell>1 </cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_sv4_xmz_tqb">Jürgen
+                                            Preis</persName>
+                           </orig>
+                           <note xml:id="nmb2_xmz_tqb">Preiß</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>15</cell>
+                     <cell/>
+                     <cell>41 Tage</cell>
+                     <cell>11</cell>
+                     <cell>6</cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <persName key="ed_gvz_cnz_tqb">Fabian Gwiasda</persName>
+                        <lb/>z. Gänsegeld </cell>
+                     <cell/>
+                     <cell>20</cell>
+                     <cell/>
+                     <cell rows="2">41</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">28</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">2</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_a1c_wgn_ypb">Bartel Kazmarzig</persName>
+                     </cell>
+                     <cell/>
+                     <cell>29</cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>29</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_a5h_wnz_tqb">Hans
+                                            Lis</persName>
+                           </orig>
+                           <note xml:id="ndsy_5nz_tqb">Liss</note>
+                        </seg> Rademacher</cell>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>28</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_mbc_c4z_tqb">Jürgen Wilewka</persName> jun. </cell>
+                     <cell/>
+                     <cell>19</cell>
+                     <cell>10</cell>
+                     <cell rows="2">39</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">9</cell>
+                     <cell rows="2">28</cell>
+                  </row>
+                  <row>
+                     <cell>Gänsegeld</cell>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <persName key="ed_b3j_k4z_tqb">Albrecht Gwiasda</persName>
+                        <lb/>noch 9 Fl. vom vorigen Jahr </cell>
+                     <cell/>
+                     <cell>30</cell>
+                     <cell/>
+                     <cell rows="2"/>
+                     <cell rows="2"/>
+                     <cell rows="2"/>
+                     <cell rows="2">39</cell>
+                     <cell rows="2"/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>9</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Schneider <persName key="ed_c3n_44z_tqb">Mathes</persName>
+                     </cell>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>70</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Mäurer <persName key="ed_dyf_r4z_tqb">Wilhelm</persName>
+                     </cell>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Summe</cell>
+                     <cell/>
+                     <cell>164</cell>
+                     <cell>8</cell>
+                     <cell>153</cell>
+                     <cell>40</cell>
+                     <cell>24</cell>
+                     <cell>132</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">Stobben</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_jlj_v4z_tqb">Jan
+                                            Kordak</persName>
+                           </orig>
+                           <note xml:id="nyyl_w4z_tqb">Kordack</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>24</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_vxg_fpd_2qb">Friedrich
+                                Brunfeld</persName>
+                     </cell>
+                     <cell/>
+                     <cell>27</cell>
+                     <cell>16</cell>
+                     <cell>49</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>14</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_g4p_zrd_2qb">Michel
+                                            Schak</persName>
+                           </orig>
+                           <note xml:id="nyw2_gpz_tqb">Schack</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>21</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>9</cell>
+                     <cell>18</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible"/>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_oyh_npz_tqb">Kittel</persName>
+                           </orig>
+                           <note xml:id="nrsw_c5z_tqb">Küttel?</note>
+                        </seg>
+                     </cell>
+                     <cell/>
+                     <cell>9</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Summe</cell>
+                     <cell/>
+                     <cell>60</cell>
+                     <cell>22</cell>
+                     <cell>102</cell>
+                     <cell>27</cell>
+                     <cell>6</cell>
+                     <cell>33</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">Kittlitz</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_jpp_rtw_2qb">Christoph Masuch</persName>
+                     </cell>
+                     <cell/>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>15 Tage a 8 Gr.</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_afs_w5w_2qb">Borck</persName> vor Heu von
+                                Wiesen</cell>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <del rendition="#s">Schmied <persName key="ed_n4z_dqz_tqb">Friedrich</persName> vor Heu</del>
+                     </cell>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">4</del>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">4</del>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <del rendition="#s">
+                           <persName key="ed_edc_nqz_tqb">Schitko</persName> vor Haus und Garten</del>
+                     </cell>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">6</del>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <del rendition="#s">6</del>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <del rendition="#s">NB. Ist ein <unclear reason="illegible" cert="high">Decker</unclear> und muss daher
+                                arbeiten</del>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">Pristanien</hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_fkz_sqz_tqb">Fabian
+                                            Dusi</persName>
+                           </orig>
+                           <note xml:id="njqv_vqz_tqb">Duschig</note>
+                        </seg> Garnknecht</cell>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_ahp_zqz_tqb">Gergen
+                                            Szuja</persName>
+                           </orig>
+                           <note xml:id="nuvj_brz_tqb">Szeuja</note>
+                        </seg> Garnknecht</cell>
+                     <cell/>
+                     <cell>25</cell>
+                     <cell/>
+                     <cell>31 Tage </cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>16</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_cfn_frz_tqb">Christopk Kuckel</persName> Garnknecht</cell>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_btl_mrz_tqb">Michel Mitzka</persName>
+                                Garnknecht</cell>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_bwq_qrz_tqb">Andreas Moczarski</persName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell>10</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_hnh_yrz_tqb">Martin Gellesch</persName>
+                                Radmacher und Garnknecht</cell>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_ljr_bsz_tqb">Fabian Zwikowsky</persName>
+                                Garnknecht</cell>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <seg type="comment">
+                           <orig>
+                              <persName key="ed_opj_2sz_tqb">Martin Lis</persName>
+                           </orig>
+                           <note xml:id="newk_dsz_tqb">Liss</note>
+                        </seg> Krüger <lb/>Ist der Zimmermann und muss ihm an seiner getanen Arbeit
+                           <seg type="comment">
+                           <orig>decutiert</orig>
+                           <note xml:id="nngl_rhz_tqb">abgezogen</note>
+                        </seg> werden</cell>
+                     <cell/>
+                     <cell>30</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>30</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>das Dorf zusammen der 1. Schnitt <gap reason="illegible"/>
+                     </cell>
+                     <cell/>
+                     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                     <cell><?oxy_custom_end?>12<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></cell>
+                     <?oxy_custom_end?>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>12</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell>93</cell>
+                     <cell>20</cell>
+                     <cell>31</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>85</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Summarischer Schluss der restierenden Zinsen de Ao. 1716</cell>
+                     <cell>
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>21</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell>27</cell>
+                     <cell>6</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>33</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>24</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>132</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell>96</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>101</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell>70</cell>
+                     <cell>28</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>68</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell>252</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>451</cell>
+                     <cell>8</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hmx_k2j_prb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gedanken des Burggrafen und Grafen zu Dohna über die künftige Einrichtung der
+               Bauernstellen und die zu leistenden Abgaben. September 1771</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 675, Bl. 1-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1771-09-01" to="1771-09-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hmx_k2j_prb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Einrichtung wegen der Bauern und Abgaben von den Instleuten und Einwohnern,
+                    gefertigt anno 1771 im September, <gap reason="illegible"/>
+            </p>
+            <p>Beschreibung, wie denen Scharwerks-Bauern aufzuhelfen wäre</p>
+            <p>1. Bei diesen Misswachs-Jahren müsste der neue Bau etwas eingestellt werden,
+                    damit der Bauer wöchentlich 1 bis 2 Tage das Volk könnte zu Hause behalten, um
+                    solche seine Wirtschaft zu Hause besser bestreiten zu können, <gap reason="illegible"/>
+            </p>
+            <p>2. Beim Flachsziehen, Spreiten, Brechen und Schwingen wäre dem Bauer eine große
+               Hilfe, wenn er zu der Zeit das Volk zu Hause haben kann, damit solcher nicht nötig
+               hat, Taglöhner zu seiner Arbeit zu nehmen, und wenn man dem Bauern das Volk zu Hause
+               lässt, so könnte man durch die Schulzen bestellen, dass sich bei der Flachsarbeit
+               gewisse Wirte, so zu einer Brechstube gehören, zusammen helfen, sowohl beim Ziehen,
+               Spreiten, Brechen und Schwingen, aber darauf müsste gesehen werden, dass sie bei der
+               Arbeit nicht nach der alten Gewohnheit viel Bier und Fleisch verzehren, sondern das
+               Volk ist verbunden nach der ordinären gesunden Kost, es sei bei seinem oder anderen
+               Wirten zu arbeiten, dadurch würde der Bauer ein ziemliches profitieren.</p>
+            <p>3. Das Brennholz zum Herrschaftlichen Hof, Brau- und Brennerei müsste beim guten
+                    Wege angefahren werden, und wenn die Fuhren dazu bestellt werden, so müsste auch
+                    darauf gesehen werden, das solche fleißig führen, damit keiner im schlimmen Wege
+                    nötig hat, sein Angespann zu quälen, alsdann hat der Bauer nicht nötig, soviel
+                    Getreide aufs Angespann zu rechnen.</p>
+            <p>4. Da die Knechte beim Bauer 42. Fl. Lohn und Beschnitt bekommen, nach der
+                    Gesindeordnung sollten dieselben nur 36 Fl. und kein Beschnitt bekommen. Es wäre
+                    also bei diesen Misswachs-Jahren eine Hilfe dem Bauer, wenn er nur 36 Fl. nebst
+                    Beschnitt dem Knecht geben dürfte, alsdann müsste aber mit dem <seg type="comment">
+                  <orig>Gill-Bier-</orig>
+                  <note xml:id="nbqw_pxn_prb">Englisches
+                            Volumenmaß; ein Gill liegt zwischen 0,11 und 0,14 Liter.
+                    </note>
+               </seg>Halten derer Knechte bis zu besseren Jahren eingehalten werden,
+                    denn bei dem ganzen Gill-Bier-Trinken profitiert die Herrschaft wenig und der
+                    Knecht versäuft und verrisst in Weißbrot sein Lohn, versäumt dem Bauern in der
+                    Arbeit, und der Wirt, wo sie die Gill halten, <gap reason="illegible"/> ein fett
+                    Schwein, welches sie ihm nebst 1 bis 2 Scheffel Korn in Brot verzehren.</p>
+            <p>5. Wenn künftigen Winter kein Bauholz geführt wird, so ist dem Bauern auch eine
+                    große Erleichterung, dass er nicht so viel Getreide aufs Angespann zu den Fuhren
+                    geben darf, auch nicht nötig hat, dem Knecht die <seg type="comment">
+                  <orig>Lischke</orig>
+                  <note xml:id="nrr3_gyn_prb">Tragekorb aus Bast oder
+                            Weidenruten.</note>
+               </seg> mit Fleisch und Butter zu füllen, denn zu
+                    Hause muss sich der Knecht mit <unclear reason="illegible" cert="high">Geköch</unclear> und anderem Gemüse behelfen, auch geht zu Hause nicht so
+                    viel Brot auf als auf den Reisen.</p>
+            <p>6. Wird dem Bauern auch im Winter das Scharwerk mit Fuhren und anderen Arbeiten
+               erleichtert, so kann solcher mit dem Knecht die Draußen-Arbeit und Futterung
+               besorgen, und die Wirtin nebst der Magd und Marjellen können desto fleißiger spinnen
+               und mehr Leinwand im Frühjahr verfertigen, und wenn nur die Wirtin fleißig ist, so
+               kann sie wenigstens 30 Fl. vor Leinwand machen, solches ist dem Bauer auch eine große
+               Hilfe.</p>
+            <p>7. Wenn das Angespann den Winter über nicht sehr abgefahren wird, so ist zu
+                    vermuten, dass solches bei der Frühjahrs-Ackerung besser im Stande sein kann,
+                    als dann kann auch die Ackerung sowohl über Hof als auch bei dem Bauernfeld
+                    besser besorgt werden, als worauf genau zu sehen wäre.</p>
+            <p>8. Wenn Pferde und Vieh aufm Winter eingefüttert wird, so müsste jedem Bauern das
+               Futter genau besehen werden, hat solcher sehr wenig Futter und solcher etwa zu viel
+               Vieh hält, so könnte vom Rindvieh was auf die Schuld in den Hof genommen werden,
+               damit der Bauer jetzt nicht mit vielem Futter kaufen sich gar zu sehr blößt.</p>
+            <p>9. Wird denen Bauern das Scharwerk erleichtert, so ist aus vorangeführten Ursachen zu
+               ersehen, dass denenselben ziemlich geholfen wird, und wenn solche nur suchen gut zu
+               wirtschaften, so können dieselben sich auch selbsten helfen, doch aber wäre wohl
+               höchst nötig, dass oft die Wirte im Winter visitiert würden, wie sie ihre Wirtschaft
+               führen, auch, ob die Wirtin nebst der Magd fleißig gesponnen, und solches könnte
+               alles in einer Tabelle aufgeführt werden, dadurch würden die Wirte und Wirtin desto
+               mehr zur guten und fleißigen Wirtschaft aufgemuntert werden, aber es müsste auch
+               genau nachgefragt werden, ob die Wirtin mit ihrem Volk das Garn selbsten gesponnen,
+               denn es gibt auch faule Weiber, die unter der Hand sich lassen spinnen und bezahlen
+               mit Brot und Fleisch dafür doppelt, damit es nur heißen möchte, sie haben es selbsten
+               gesponnen, und wenn oft visitiert würde, so wird denen Weibern (welches einige tun)
+               bei Häusern lang plaudern gehen, die Zeit benommen werden, indem, wenn bei der
+               Visitation man bemerkt, dass sie nicht viel gesponnen, so würden solche <seg type="comment">
+                  <orig>reprimiert</orig>
+                  <note xml:id="ndm1_szn_prb">getadelt</note>
+               </seg> werden, dadurch gewöhnen sie sich zum fleißigen Spinnen.</p>
+            <p>10. Mit denen <placeName key="ed_pbr_fvw_5sb">Abrahamsheidschen</placeName>
+                    Bauern könnte man nicht anders machen, als das solchen der Zins erleichtert
+                    würde, und zwar anstatt das jeder 45 Fl. jährlich zahlen müsste, jedem 15 Fl.
+                    erlassen würden, dass also jeder nur 30 Fl. zahlen sollte, dagegen aber auch
+                    keinen Wirten an Volk zu halten Erlaubnis gegeben werden müsste, denn das wenige
+                    Landscharwerk nach <placeName key="ed_lhh_2xw_5sb">Gottsgabe</placeName> kann
+                    der Wirt oder Wirtin verrichten, dadurch hofft man, dass sie sich würden besser
+                    nähren, und wenn künftig bessere Jahre folgen sollten, so könnten solche
+                    jederzeit mit dem Zins erhöht werden.</p>
+            <p>11. Von denen schlechten Wirten wäre besser, wenn der Flachs, sobald solcher
+                    geschwungen, nach Abzug des Gespinstes, in den Hof aufm Zins genommen würde,
+                    auch bei der Visitation genau zu sehen, ob der gelassene Spinn-Flachs und Abzug
+                    auch alles im Hause ausgesponnen wird.</p>
+            <p>12. Auf die schlechten Wirte ist genau zu sehen, dass sie kein Vieh von anderen
+                    auf die Hälfte zur Futterung nehmen, sondern es müsste jeder Wirt sich
+                    bestreben, sein eigenes Vieh zu halten, imgl. das Beisäen schwächt den Bauern,
+                    bei einem guten Wirte wird man keine Beisaat, auch kein fremd Vieh finden, viel
+                    weniger, dass solcher sollte Futter von den Huben verkaufen, deswegen man auf
+                    die schlechte Wirte genau zu sehen hätte.</p>
+            <p>13. Die Schulzen im Dorfe müssten wohl von der Gnädigen Herrschaft scharfe Ordre
+                    erhalten, dass sie auf das Beisäen bessere Aufsicht haben sollten, und wenn sich
+                    was Beisaat findet schuldig sind, es gleich im Hofe zu melden, im Widrigenfall
+                    die Schulzen, wenn sie es vernachlässigt, zur Verantwortung und Strafe mit zu
+                    ziehen wären.</p>
+            <p>14. Es wird hiermit dem Kämmerer <persName key="ed_s1j_ghg_vxb">Bähr</persName>
+               anzusagen sein, dass die Herrschaft resolviert, weilen bishero die Vorwerker mit sehr
+               schlechten Knechten versehen gewesen, sämtliche Knechte 12 Rtlr., und denenjenigen
+               Groß-Knechten, welche das 4. Jahr bleiben, noch 2 Fl. a part, bekommen sollen, die
+               Mittel-Knechte bekommen 8 Rtlr. Er wird sich aber nicht an die Ordnung gebunden,
+               sondern der Kämmerer soll sogleich sowohl tüchtige Groß-Knechte als Mittel-Knechte
+               aussuchen und sie der Herrschaft vorschlagen, welche den Leuten sogleich ansagen
+               lassen wird, wo sie dienen sollen. Und wenn sie auch schon sich vermietet haben, so
+               soll dieses zu Entschuldigung nicht gelten, sonder der Bauer kann sich von <seg type="comment"><orig>Michaelis</orig><note xml:id="npxp_khg_vxb">29.
+                     September</note></seg> bis <seg type="comment"><orig>Martini</orig><note xml:id="ncp1_lhg_vxb">11. November</note></seg> andere mieten.</p>
+            <p>Überschlag was ein Bauer auf 3 Huben an Saat und Brotgetreide das genaueste haben
+                    müsste</p>
+            <p>
+               <hi rendition="#u">An Korn</hi>
+            </p>
+            <p>20 Schfl. zur Saat <lb/>48 Schfl. zu Brot auf 6 Personen <gap reason="illegible"/> der Wirt mit seinem Weibe 1 Knecht 1 Magd 1 Jung 1 Marjell, frisst monatlich
+                    4 Schfl. <lb/>
+               <hi rendition="#u">2 Schfl. zur Mastung</hi>
+               <lb/>70 Schfl. in Summa</p>
+            <p>
+               <hi rendition="#u">An Gerste</hi>
+            </p>
+            <p>8 Schfl. zur Saat <lb/>6 Schfl. zu Grütze <lb/>6 Schfl. zu Trinken incl. beim
+                    Flachs-August <hi rendition="#u">
+                  <lb/>2 Schfl. zur Mastung</hi>
+               <lb/>22 Schfl. in Summa</p>
+            <p>
+               <hi rendition="#u">An Haber</hi>
+            </p>
+            <p>24 Schfl. zur Saat <lb/>6 Schfl. zu Grütze <lb/>2 Schfl. zur Mastung <hi rendition="#u">
+                  <lb/>8 Schfl. zur Pferdefutterung</hi> nebst Häckselspreu p.
+                    <lb/>40 Schfl. in Summa</p>
+            <p>
+               <hi rendition="#u">An Erbsen</hi>
+            </p>
+            <p>4 Schfl. zur Saat <hi rendition="#u">
+                  <lb/>4 Schfl. zur Speisung</hi>
+               <lb/>8 Schfl. in Summa<lb/>
+            </p>
+            <p>Welches auf ein ganzes Jahr das Genaueste müsste gerechnet werden, und wenn der Wirt
+               sich auf gute Kartoffel-Gärten befleißigt und nicht viel zu Kindtaufen und anderen
+               Einrichtungen was verschwendet, so kann solcher wohl damit auskommen, dabei aber
+               müsste die Wirtin alles genau in Acht nehmen.</p>
+            <p>Bei der Scharwerks-Ordnung wäre folgendes zu erinnern</p>
+            <p>1. Die 8 Tage, so jedem Bauern zum Mist austragen im Winter zugeschlagen sind,
+                    müssten bei Anfang des Winters dem Wirt bekannt gemacht werden, auch könnte die
+                    Einteilung in folgender Art getroffen werden.</p>
+            <p>
+               <table rows="18" cols="2" style="adjustWidth">
+                  <row>
+                     <cell>Von <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName> schulden 8
+                        Wirte nach <placeName key="ed_ltb_nyw_5sb">Weeskenthal</placeName> à 8 Tage </cell>
+                     <cell>64 Tage</cell>
+                  </row>
+                  <row>
+                     <cell>Beim Reichertswaldschen Vorwerk kämen</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4 Wirte von Reichertswalde</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>16 Wirte von <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>20 Wirte à 8 Tage</cell>
+                     <cell>160 Tage</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rendition="#u">Von diesen 100 Tagen aber könnten zum Heuabwiegen
+                           abgenommen werden</hi>
+                     </cell>
+                     <cell>
+                        <hi rendition="#u">30 Tage</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bleiben zum Mist  austragen</cell>
+                     <cell>130 Tage</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Die übrigen 4 Bauern von Silberbach müssten jeder 8 Tage zum Mist
+                                austragen nach <placeName key="ed_vws_1hz_ssb">Stobnitten</placeName> genommen werden</cell>
+                     <cell>32 Tage</cell>
+                  </row>
+                  <row>
+                     <cell>Von <placeName key="ed_sq5_mfc_3rb">Goldbach</placeName> könnten
+                                zum Mist austragen</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6 Bauern nach <placeName key="ed_vxw_ryw_5sb">Innrucken</placeName> à 8
+                        Tage</cell>
+                     <cell>48 Tage</cell>
+                  </row>
+                  <row>
+                     <cell>4 Bauern nach <placeName key="ed_lhh_2xw_5sb">Gottsgabe</placeName> à 8
+                        Tage </cell>
+                     <cell>32 Tage</cell>
+                  </row>
+                  <row>
+                     <cell>genommen werden.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Von <placeName key="ed_ht3_vfc_3rb">Hartwich</placeName> hat jeder
+                                Bauer 16 Tage Mist auszutragen. Dafür könnten</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4 Bauern nach <placeName key="ed_g1q_z5w_5sb">Gudnick</placeName> à 16
+                        Tage</cell>
+                     <cell>64 Tage</cell>
+                  </row>
+                  <row>
+                     <cell>2 Bauern nach <placeName key="ed_g2v_wyw_5sb">Kl. Hermenau</placeName> à
+                        10 Tage</cell>
+                     <cell>32 Tage</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Davon müsste denen Hofknechten die Nachricht ebenfalls gegeben, auch zugleich ihnen
+               angesagt werden, dass sie damit auskommen müssten, auch darauf sehen, dass der Mist
+               aus den Ställen rein ausgetragen wird, die Hofleute müssen mit ihren Mägden dabei
+               behilflich sein, damit der Bauer nicht nötig hat, mehr Tage als ihm zugeschlagen zum
+               Mist austragen zu schulden.</p>
+            <p>2. Die 6 Tage bei dem Gardenierer in den Herrschaftlichen Gärten kann denen
+                    Bauern auch um Martini bekannt gemacht werden, und müsste der Gardenierer die
+                    Einteilung danach machen, dass er mit dem zugeschlagenen Scharwerk sucht
+                    auszukommen.</p>
+            <p>3. Zum Holz aushauen bei den Bäumen imgl. des Böttcher-Holzes sind schon in der
+               Scharwerks-Einrichtung mit 10 Tagen unter den Landdiensten jeder Bauer angeschlagen,
+               dagegen das Schirrholz aushauen müsste jeder Hofmann mit dem Hofvolk und <gap reason="illegible"/> bei denen Wintertagen, ehe die Ackerarbeit angeht, und bei
+               regenichtem Wetter besorgen.</p>
+            <p>4. Zum Spähn tragen und anderer unvermuteter Arbeit könnten auf jeden Wirt höchstens
+               8 Tage von den Dispositions-Tagen gerechnet werden.</p>
+            <p>5. Wegen dem <gap reason="illegible"/> in den Vorwerken, wo kein Bauer-Scharwerk ist,
+               könnte folgendergestalt gehalten werden. <lb/>Von den 12 Reichertswaldschen Bauern
+               <lb/>4 Knechte mit 3 Brettschneidereisen nach <placeName key="ed_ltb_nyw_5sb">Weeskenthal</placeName> etwa auf 2 bis 4 Tage, wobei der Hofmann mit seinem
+               Knecht und Jungen mit Hand anlegen muss, damit es Fortgang gewinnt.  <list style="adjustMargin">
+                  <item>
+                     <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><list rendition="#rightBraced"><?oxy_custom_end?>
+                        <item>8 Knechte von <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+                        </item>
+                        <item>
+                           <hi rendition="#u">12 Knechte </hi>von <placeName key="ed_ufx_hfc_3rb">Silberbach </placeName>
+                        </item>
+                     </list>bleiben beim Vorwerk Reichertswalde</item>
+                  <item>20 Knechte und </item>
+               </list>von den übrigen 8 Knechten aus Silberbach könnten <lb/>4 nach <placeName key="ed_nj5_nzw_5sb">Woritten</placeName> und <lb/>4 nach <placeName key="ed_g2v_wyw_5sb">Kl. Hermenau</placeName> zum Schneiden gegeben werden, wobei
+               die Hofleute mit ihrem Volk auch mit Hand anlegen müssen, damit was verrichtet würde.
+               <lb/>Die 6 <placeName key="ed_ht3_vfc_3rb">Hartwichsche</placeName> Knechte müssen
+               nach <placeName key="ed_g1q_z5w_5sb">Gudnick</placeName> und <placeName key="ed_vws_1hz_ssb">Stobnitten</placeName> eingeteilt werden.</p>
+            <p>6. Wenn bei <placeName key="ed_vxw_ryw_5sb">Inrücken</placeName> und <placeName key="ed_lhh_2xw_5sb">Gottsgabe</placeName> der schlechte Acker nicht beackert
+               werden sollte, so wird bei der Arbeit wohl profitiert, allein wenn der Acker sollte
+               unter Düngung gebracht werden, so müsste jeder Hofmann in den beiden Vorwerken
+               suchen, demjenigen Acker, so nur geackert werden soll, mit <gap reason="illegible"/>
+               und anderer Mott-Erde, Blätter ausm Walde zur Hilfe zu kommen, damit kann sich der
+               Hofmann genugsam Arbeit verschaffen, jedoch könnte man bei jetziger teuren Zeit
+               suchen, mit dem jetzigen Gesinde in Gottsgabe und bei Inrücken mit einem Knechte und
+               seinem Jungen auszukommen, zumalen, wenn denen Abrahamsheideschen Bauern nicht
+               akkordiert würde, soviel Dienstvolk zu halten, als solche bishero gehabt, welche
+               damit nicht soviel verdienen, als ihnen das Volk kostet, so würde folgen, dass von
+               denen befreiten Knechten keiner zu dienen nötig haben würde, welchen also als
+               Instleute die Wohnungen gut und voll besetzt werden können, dadurch erhalten die
+               Herrschaften mehr Scharwerktage von Instleuten, auch bei der Schoss-Konsignation und
+               anderen Gefällen würde ein Plus entstehen, davon könnte man allenfalls, wenn man mit
+               der Arbeit bei den beiden Vorwerken nicht auskäme, zum Taglohn anwenden, so
+               profitiert doch wenigstens das Lohn und Deputat die Herrschaft von den beiden
+               Gesinden.</p>
+            <p>7. Das Blätter fahren zur Düngung und zum Unterstreuen in denen Vorwerken könnten
+               gewisse Fuhder jedem Bauer aufgegeben werden, dass er sie ausfährt, so wird sich
+               jeder Wirt wohl desto eher bestreben, solche abzuführen, wenn er nachgehends nur
+               einige Tage zu Hause das Volk haben kann. </p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+            <p>
+               <note type="editorial">Es folgen <seg type="comment">
+                     <orig>Entwürfe zur
+                                Scharwerkseinrichtung</orig>
+                     <note xml:id="neqn_5lp_prb">Fortsetzung
+                                in Nr. 676 für die <ref target="lehndorff_kwd_bmp_prb">Güter
+                                    Reichertswalde und Stobnitten</ref>.</note>
+                  </seg> in dem neuen
+                        Vorwerk Abrahamsheide und Weeskenthal.</note>
+            </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

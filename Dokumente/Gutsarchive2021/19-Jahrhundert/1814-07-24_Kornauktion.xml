@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_yrs_r4z_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Das Getreide des Hubenwirts Schilke wird verauktioniert, da ihm sein Hof
+               abgenommen wird. </title><title>Schönberg, 24. Juli 1814</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Die Akte enthält ein Verzeichnis der nicht gezahlten Zinsen und Schulden des
+                  Bauern Schilke ab 1813, in der Summe 83 Rtlr. 24 Sgr. Davon hatte er nach der
+                  Auktion 58 Rtlr. 48 Gr. bezahlen können, die übrigen 24 Rtlr. 63 Gr. waren „dem
+                  Restanten von der Gräfl. Herrschaft geschenkt‟ worden. Wohnhaus, Viehstall,
+                  Pferdestall, Scheune und die Zäune des abziehenden Wirts wurden an den Hubenwirt
+                     <persName key="ed_fv1_kd3_3rb">Michael Schultz </persName>übergeben und bei
+                  dieser Gelegenheit deren Zustand genau inventarisiert. Schultz war ebenso
+                  glücklos. Als er 1819 den Hof verlor war das im April 1815 noch als „mittelmäßig
+                  im Stande‟ genannte Wohnhaus nun „alt und hat durch die vier Jahre so der Schultz
+                  das Erbe besessen, in etwas gelitten‟. Weder Schilke noch Schultz waren des
+                  Schreibens kundig und zeichneten mit xxx.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 693, Bl. 2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1814-07-24" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=693"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Avertissement</p>
+            <p>Es wird hiermit bekannt gemacht, dass morgen, Montag, den 25. d. M., das dem
+               Hubenwirt <persName key="ed_fx2_4d3_3rb">Schilke</persName> zu <placeName key="ed_x2g_sd3_3rb">Szczepkau</placeName> gehörige Winter- und Sommergetreide
+               aufm Halm nebst Wiesen öffentlich verauktioniert werden wird. Ebenso wird das der
+               Bauernwitwe <persName key="ed_k5h_zd3_3rb">Wilkam</persName> zu <placeName key="ed_qk5_k2s_vsb">Gr. Stärkenau</placeName> gehörige Winter- und Sommergetreide
+               aufm Halm nebst Wiesen am künftigen Mittwoch, den 27. d M., durch eine Auktion
+               versteigert werden.</p>
+            <p>Kaufliebhaber werden ersucht, sich in den beiden festgesetzten Terminen um 9 Uhr
+                    vormittags an Ort und Stelle zeitlich einzufinden.</p>
+            <p>Ökonomie-Amt Schönberg, den 24. Juli 1814</p>
+         </div>
+      </body>
+   </text>
+</TEI>

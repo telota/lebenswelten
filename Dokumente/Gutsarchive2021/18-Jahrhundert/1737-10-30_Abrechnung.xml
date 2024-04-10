@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wwj_vwf_cyb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Hofmeister Neander rechnet im Auftrag der Gräfin von Lehndorff mit dem Töpfer
+                    Balzer Hasse ab. 16. November 1738</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Pacht- und Arbeitsverträge</p>
+                </note>
+                <note type="editorial">
+                    <p>Die Akte enthält eine Vielzahl solcher Abrechnungen mit Handwerkern und
+                        Gutsangehörigen, beispielsweise mit dem Schmied und Hochzinser <persName key="ed_www_sgn_fyb">Michael Kornowski</persName> vom 8. Dezember 1739.
+                        Nach seinem Kontrakt vom 5. April 1731 und Verlängerung vom 20. Oktober 1738
+                        hatte er außer der Kontribution, die er an das Dorf entrichtete, für seine
+                        eine Hufe jährlich 21 Fl. zu bezahlen, für 3 Jahre 63 Fl.. Von diesen hatte
+                        er bar und mit Schmiedearbeiten 22 Fl. 1 Gr. bezahlt, verblieben 40 Fl. 29
+                        Gr., von denen er am 8. Dezember 1739 29 Fl. 9 Gr. abrechnete. Andere, wie
+                        der Hufenpächter <persName key="ed_y1j_wgn_fyb">Kruschinski</persName>,
+                        waren in kleineren Zahlungsrückstand geraten und hatten von der Gräfin von
+                        Lehndorff den Rückstand erlassen bekommen, siehe die hier beigegebenen
+                        Digitalisate. Der Leinweber <persName key="ed_tf4_zgn_fyb">Johann
+                            Nikolaus</persName> aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hatte von Michaelis 1739 bis 1739 an Hausmiete 9
+                        Fl., dazu Kopf- und Hornschoss und 10 Gr. Kirchendecem zu zahlen, zusammen
+                        20 Fl. 23 Gr., war aber bis zur Abrechnung am 23. Dezember 1739 13 Fl. 23
+                        Gr. schuldig geblieben, wovon er durch Lieferung von Leinwand die Summe auf
+                        5 Fl. 23 Gr. reduzierte. </p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 748, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+            <abstract>
+                <p>Bei der Abrechnung am 30. Oktober 1737 ist <persName key="ed_jc4_dhn_fyb">Balzer
+                        Hasse</persName> an früheren Schossgeldern und Kopfschoss 11 R. 15 Gr.
+                    schuldig. Zusammen mit den Zahlungen für Brotkorn, Kopfschoss, Horn- und
+                    Klauenschoss und Decem beträgt seine Schul 15 R. 22 Gr. 9 D. Für Töpferarbeiten
+                    werden ihm gut gerechnet 8 R. 27 Gr. </p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wwj_vwf_cyb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

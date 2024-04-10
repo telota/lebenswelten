@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ofs_cpy_j5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verhandlung gegen Johann Brzosowski, Johann Weyer, Georg Lepkowitz und Michael
+               Schultz als Neusassen in Klein Stärkenau wegen nicht erfüllter Kontrakte. Schönberg,
+               20. Mai 1732</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Eine Abschrift des Kontraktes in der Akte, Bl. 5. Im Februar 1733 supplizierten
+                  die vier Neusassen beim König, da sie im Bauerndorf Röschken Königliche Untertanen
+                  und keine Vasallen seien, und wiesen die Beschuldigungen zurück. Der König wies
+                  das Gericht an, sie klaglos zu stellen oder einen ausführlichen Bericht
+                  einzureichen, Bl. 15, die Supplik Bl. 16-36. Finckenstein wehrte sich am 16.
+                  Februar 1733, die Bauern hätten ihm gegenüber „Widersetzlichkeit, Ungehorsam und
+                  nicht prästierte Prästandorum‟ gezeigt und würden sich nun unterstehen, „Ew.
+                  Königl. Majest. zu behelligen und mich in einen üblen Ruf zu bringen‟, Bl. 38-41.
+                  Eine Untersuchung „in loco‟ wurde anberaumt und bestätigte den Bericht der Bauern
+                  in Teilen. Auch kamen Versäumnisse des Amtmanns zu Osterode zur Sprache. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 566, Bl. 3-4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1732-05-20" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Gegen <persName key="ed_dgf_g3g_y5b">Johann Brzosowski</persName>, <persName key="ed_nlc_33g_y5b">Johann Weyer</persName>, <persName key="ed_dms_j3g_y5b">Georg
+                  Lepkowitz</persName> und <persName key="ed_hwz_k3g_y5b">Michael
+               Schultz</persName>, Neusassen in <placeName key="ed_p3m_t3g_y5b">Klein
+                  Stärkenau</placeName>, wird wegen nicht gehaltendem Kontrakt vor dem delegierten
+               Gericht der Stadt Rosenberg in <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+               verhandelt. Sie hatten am 22. April 1722 einen Kontrakt auf zehn Jahre angenommen und
+               sich verpflichtet, das Land hinter Stärkenau zu roden und als Ackerland urbar zu
+               machen, auch dort Wohnhäuser, Scheunen und Schuppen in Gehrsass aufzubauen. Dann
+               waren sie auf „andere Gedanken geraten‟ und hatten ohne Freizettel einen Kontrakt in
+                  <placeName key="ed_s5l_1jg_y5b">Röschken</placeName> im Amt Osterode am 2. Mai für
+               sechs Jahre angenommen. Sie hatten weder das Land gerodet, noch die anderen
+               übernommenen Verpflichtungen erfüllt. Das Gericht entscheidet, sie seien in der
+               Pflicht, ihren geschlossenen Kontrakt zu erfüllen, die fehlenden Gebäude zu errichten
+               und die Rodungen auszuführen. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=566"/>
+   </facsimile>
+   
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_s5g_x4v_ytb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Boguslaw von Arciszewski einen Pachtvertrag
+               über Serwillen und Taberlack. Serwillen, 21. März 1730</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Dokument vom <ref target="lehndorff_jln_2vr_cqb">3. Juni
+                  1732</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 381, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1730-03-21" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_s5g_x4v_ytb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Mit Herr <persName key="ed_wzk_mb2_2qb">Boguslaw v. Arciszewski</persName> ist in
+               heutigem Dato eine Arrende-Punktion, welche die Kraft eines formellen Kontrakts haben
+               soll, wegen der Arrende über <placeName key="ed_hrb_hc2_gy">Surwillen</placeName> und
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName> nach folgender Gestalt
+               geschlossen. </p>
+            <p>1. Die Arrende geht von <seg type="comment"><orig>Trinitatis</orig><note xml:id="nhrw_q4p_txb">4. Juni</note></seg> 1730 an, und kontinuiert sechs
+               nacheinander folgende Jahre.</p>
+            <p>2. Die Arrende-Pension besteht in dem selben Quanto, was der bisherige Pächter
+                  <persName key="ed_u3h_lc2_2qb">Hesse</persName> gegeben, nämlich <lb/>1.324 Fl. 2
+               Gr. oder 441 Rtlr. 32 Gr. vom Vorwerk Serwillen inklusive der Teich- und bäuerl.
+               Zinsen <lb/>1.900 Fl. oder 630 Rtlr. 30 Gr. von Taberlack inklusive der Teich- und
+               bäuerl. Zinsen <lb/>72 Fl. oder 24 Rtlr. von der Fischerei von denen in selbigen
+               Gütern gelegenen Seen <lb/>57 Fl. oder 19 Rtlr. <seg type="comment"><orig>wegen der
+                     konsignierten überhaupt</orig><note xml:id="nrm2_t4p_txb">unklar</note></seg>
+            </p>
+            <p>3. Von sotaner Arrende zahlt Pächter alle halbe Jahre die Hälfte.</p>
+            <p>4. Dasjenige Holz, so der bisherige Pächter laut dem vorigen Kontrakt bekommen, soll
+               dem jetzigen Herrn Pächter gleichfalls aus dem Surwiller Wald abgefolgt werden.</p>
+            <p>5. Dasjenige Holz, so der bisherige Arrendator an Ihro Hochgräfl. Gnaden bishero
+               bezahlt, wird Herr von Arciszewski ebenfalls entrichten. <lb/>N. B. 4/8 Rtlr. à
+               Sfl.</p>
+            <p>6. Weil Herr von Arciszewski besorgt, dass die jetzige Wintersaat schlecht bestellt
+               sei, so akkordieren Ihre Hochgräfl. Gnaden, dass solche zu gehöriger Zeit in
+               Augenschein genommen werden soll, und wird alsdann befundenen Umstände nach billige
+               Reflektion darauf gemacht werden.</p>
+            <p>7. Herr v. Arciszewski wird jemanden von seiner Seite bestellen, der bei der
+               Sommersaat zugegen und auf die Bestellung des Sommerfeldes Achtung geben wird.</p>
+            <p>8. Ihro Hochgräfl. Gnaden versichern hiermit, dass von Steinort keine Ordres in die
+               Güter, die Herr v. Arciszewski in Pacht nimmt, ergehen sollen, ehe und bevor
+               derselbe, was die Wirtschaft anbelangt, zeitige Nachricht davon bekommt, und soll ihm
+               allemal von allem Kommunikation geschehen.</p>
+            <p>9. Die baufälligen Gebäude zu Taberlack sollen baldmöglichst dieses Jahr in
+               Augenschein genommen und als möglich repariert werden, auch Ordres gegeben werden,
+               das restierende Bauholz von denen Bauern nach Taberlack zu führen. Inmaßen Herr
+               Arrendator <seg type="comment"><orig>praecaviert</orig><note xml:id="npst_bpp_txb">Im
+                     Sinne von: es müsse Vorkehrung getroffen werden.</note></seg>, dass, wenn ohne
+               seine Schuld die Gebäude übern Haufen fallen und dadurch einiger Schade entstehen
+               sollte, er davor nicht haften kann.</p>
+            <p>10. Der Decem wird laut vorigem Kontrakt wegen der Vorwerkshuben von der akkordierten
+               Pension abgezogen.</p>
+            <p>11. Wenn die Untertanen durch einen erweislich und zuvor zeitig bekannt gemachten
+                  <seg type="comment"><orig>casum fortuitam praestanda</orig><note xml:id="nevr_gpp_txb">zufälliger Unfall</note></seg> nicht praestieren könnten
+               oder dass einer von ihnen aus <seg type="comment"><orig>Maliz</orig><note xml:id="nq3l_lpp_txb">Arglist, Heimtücke</note></seg> desertieren sollte, davor
+               Herr Pächter nicht gehalten werden, und soll deshalb mit ihrer und wegen des von
+               denen Untertanen <gap reason="illegible"/> Gesindes gleich anderen Pächtern alles
+               observiert werden.</p>
+            <p>12. Der Honigbruch bleibt wie bisher mit Ihrer Hochgräfl. Gnaden auf die Hälfte. Wenn
+               aber Herr Arrendator einige Bienenstöcke anhero bringt, soll wegen des Zuwachses nach
+               Anzahl des Inventarii und seiner Bienenstöcke eine proportionierte Rechnung gemacht
+               und der Zuwachs sodann danach reguliert und geteilt werden.</p>
+            <p>13. Der Vorschuss der denen Bauern vom Herrn Arrendator zur Saat oder zu Brot denen
+               Untertanen geschehen wird, soll bei seinem Abzug demselben, soviel daran aussteht,
+               nach der Kammer-Taxe bezahlt werden. Jedoch muss Herr Arrendator alle Menage darunter
+               gebrauchen, damit Ihro Hochgräfl. Gnaden nicht mit unnötigen Resten belästigt werden
+               mögen. Inmaßen er das Vertrauen zu seiner soliden Wirtschaft hat, dass er als ein
+               guter Oeconomus auf der Bauern Wirtschaft und die jährlich abzulegende Praestanda
+               genaue Aufsicht nach seinem Gewissen halten wird.</p>
+            <p>14. Ratione des Scharwerks werden die beiden Dörfer denen anderen gräflichen Gütern
+               parifiziert, und ist solches in heutigem Dato denen Schulzen von Surwillen und
+               Taberlack angedeutet. Dahingegen das eine Stück Leinwand, so sie mehr als andere
+               Dörfer haben wirken müssen, erlassen wird, und sollen sie auch die 2 Tage, die sie
+               bisher nach Steinort im August gescharwerkt, nicht praestieren, sondern solche dem
+               Herrn Arrendator tun. Dahingegen Herr Arrendator vor diese nach Steinort schuldige 2
+               Tage Ihro Hochgräfl. Gnaden jährlich 4 Rtlr. bezahlt.</p>
+            <p>15. Alles übrige, so in dieser Punktion nicht näher exprimiert sei, soll nach
+               befundenen Umständen in den formalen Kontrakt nach Maßgebung des mit <persName key="ed_kls_v2b_ycb">Herrn von Schlichting</persName> in <placeName key="ed_xpm_112_gy">Labab</placeName> getroffenen Kontrakts klausuliert und
+               akkordiert werden.</p>
+            <p>16. Weil der bisherige Arrendator Hesse bis <seg type="comment"><orig>Michaelis</orig><note xml:id="nssv_spp_txb">29. September</note></seg>
+               1730 die Teich-Nutzungen hat, so soll der jetzige Herr Pächter ebenfalls bei seinem
+               Abzug dieselbe Zeit zu genießen haben und bleibt das Inventarium, welche Herr Hesse
+               in denen Teichen zu lassen schuldig ist, dem künftigen Pächter eisern.</p>
+            <p>17. Die Übergabe der beiden Güter soll wo es in der Welt möglich die Woche nach <seg type="comment"><orig>Trinitatis</orig><note xml:id="nfch_5pp_txb">4.
+                  Juni</note></seg> geschehen, und soll bei der Übergabe derselben auch die
+               Possession eingeräumt werden.</p>
+            <p>18. Die <seg type="comment"><orig>Wode-Tage</orig><note xml:id="necz_smv_yxb">Scharwerkstage</note></seg> welche die Bauern laut Kontrakt zu praestieren
+               schuldig sein, sollen vom Arrendator zu keinen anderen Diensten gebraucht werden.</p>
+            <p>Vorstehende Punktion ist von beiden Seiten einmütig akkordiert und geschlossen, und
+               soll bei allem zurecht beständigen Regress von beiden Teilen unverbrüchlich gehalten
+               werden.</p>
+            <p><persName key="ed_q4s_xyl_2y">L. M. G. v. Lehndorff</persName>
+               <persName key="ed_wzk_mb2_2qb">Bogislaw v. Arciszewski</persName></p>
+            <p><persName key="ed_tsq_t2c_t2b">Samuel Warda</persName> als Zeuge</p>
+            <p><persName key="ed_kls_v2b_ycb">Alexander von Schlichting</persName> als Zeuge</p>
+         </div>
+      </body>
+   </text>
+</TEI>

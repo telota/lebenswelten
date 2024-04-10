@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_epw_xln_wtb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Chronologische Übersicht der vom Grafen von Lehndorff seit dem 1. Januar 1830
+               gegebenen Befehle und Instruktionen. 1830/31</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das <ref target="lehndorff_gjk_zzr_gbb">Verzeichnis aller vom
+                     Gutsverwalter einzureichenden Berichte</ref> sowie die <ref target="lehndorff_idc_g2w_gqb">Instruktion für den
+                  Wirtschaftsgehilfen.</ref></p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 273, Bl. 28-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1830-01-01" to="1831-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_epw_xln_wtb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="20" cols="5">
+                  <row>
+                     <cell>Datum der Bestimmung</cell>
+                     <cell>Gegenstand</cell>
+                     <cell>Bezeichnung nach No.</cell>
+                     <cell>An wen die Aushändigung geschehen, ob in original oder in mundo</cell>
+                     <cell>Datum der geschehenen Aushändigung</cell>
+                  </row>
+                  <row>
+                     <cell>s. 25. März 1830</cell>
+                     <cell><ref target="lehndorff_amv_nnn_wtb">Über die notwendigsten Bauten und
+                           Reparaturen pro 1830</ref></cell>
+                     <cell>1.</cell>
+                     <cell>an Herrn Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> in
+                        origine</cell>
+                     <cell>den 30. März</cell>
+                  </row>
+                  <row>
+                     <cell>17. </cell>
+                     <cell>Über allgemeine Verbesserungen, als Adhibendum zur vorigen
+                        Bestimmung</cell>
+                     <cell>1a.</cell>
+                     <cell>wie vor</cell>
+                     <cell>„</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Über das Gestüt-Wesen</cell>
+                     <cell>2.</cell>
+                     <cell>an Herrn Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> in
+                        origine</cell>
+                     <cell>den 20. März</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Über die Behandlung der Böcke in Stawken und Rehsau während der Sch<gap reason="illegible"/>-Zeit</cell>
+                     <cell>3.</cell>
+                     <cell>2 Abschriften an H. Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> zur Aushändigung</cell>
+                     <cell>den 20. März</cell>
+                  </row>
+                  <row>
+                     <cell>17. </cell>
+                     <cell><ref target="lehndorff_w45_fj1_3qb">Instruktion für die Kämmerer über die
+                           jährliche Revision sämtlicher Vorwerks-Gebäude, Inst- und anderer
+                           Wohnungen pp</ref></cell>
+                     <cell>4.</cell>
+                     <cell>an <persName key="ed_nl5_k3j_3qb">Lindenau</persName> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                        <lb/>an <persName key="ed_vpp_w3j_3qb">Poltzien</persName> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                        <lb/>an <persName key="ed_sfz_n3j_3qb">Winkler</persName> in <placeName key="ed_xpm_112_gy">Labab</placeName>
+                        <lb/>an <persName key="ed_rb3_q3j_3qb">Wittkowski</persName> in <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName>
+                        <lb/>an <persName key="ed_cm1_qxg_yqb">Tobien</persName> in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                        <lb/>an <persName key="ed_rl2_bjj_3qb">Schallmus</persName> in <placeName key="ed_nkz_b12_gy">Stawken</placeName></cell>
+                     <cell>den 18. März 1830</cell>
+                  </row>
+                  <row>
+                     <cell>18.</cell>
+                     <cell><ref target="lehndorff_jz1_pl1_3qb">Bestimmung des Honorars für Herrn
+                           Rendanten <persName key="ed_afr_tvf_2y">Werner</persName> vom 1. Januar
+                           1830 ab</ref></cell>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10. April</cell>
+                     <cell><ref target="lehndorff_jrh_km1_3qb">Zusammenstellung einer gegenwärtigen
+                           und projektierten Rotation von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName></ref></cell>
+                     <cell>6.</cell>
+                     <cell>an H. Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> in
+                        origine</cell>
+                     <cell>d. 14. April</cell>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell>Promemoria über die notwendigen Abgrabungen, Verbesserung der Wege und
+                        den Brückenbau sowie über andere wirtschaftliche Gegenstände </cell>
+                     <cell>7.</cell>
+                     <cell>an denselben in origine</cell>
+                     <cell>d. 14. April</cell>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell>Bestimmungen in Beziehung der Stawkenschen Schafherde in spezie des
+                        Bestandes der Mutterschafe</cell>
+                     <cell>8.</cell>
+                     <cell>an H. Inspektor Gericke in mundo</cell>
+                     <cell>d. 14. April</cell>
+                  </row>
+                  <row>
+                     <cell>d. 9. April 1830</cell>
+                     <cell>Promemoria für Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> über wirtschaftliche Gegenstände, Verbesserungen
+                        pp</cell>
+                     <cell>9.</cell>
+                     <cell>an Insp. Käsewurm in origine</cell>
+                     <cell>d. 9. April</cell>
+                  </row>
+                  <row>
+                     <cell>d. 9. April</cell>
+                     <cell>Promemoria für Inspektor <persName key="ed_vlc_dfl_wcb">Gericke</persName> in gleicher Beziehung</cell>
+                     <cell>10.</cell>
+                     <cell>an Insp. Gericke in origine</cell>
+                     <cell>d. 9. April</cell>
+                  </row>
+                  <row>
+                     <cell>d. 9. April</cell>
+                     <cell>Promemoria für Inspektor <persName key="ed_e5w_vfg_tvb">Hempel</persName>
+                        in gleicher Beziehung</cell>
+                     <cell>11.</cell>
+                     <cell>an Insp. Hempel in origine</cell>
+                     <cell>d. 9. April</cell>
+                  </row>
+                  <row>
+                     <cell>d. 9. Mai 1831</cell>
+                     <cell>Die Rotation für <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                        betr. für Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName></cell>
+                     <cell>12.</cell>
+                     <cell>an Inspektor Käsewurm in mundo</cell>
+                     <cell>d. 10. Mai 1831</cell>
+                  </row>
+                  <row>
+                     <cell>13. Mai</cell>
+                     <cell>Promemoria über die diesjährigen Bauten</cell>
+                     <cell>13.</cell>
+                     <cell>an Inspektor Käsewurm in mundo</cell>
+                     <cell>13. Mai</cell>
+                  </row>
+                  <row>
+                     <cell>24. Mai</cell>
+                     <cell>Promemoria über die bewilligten Begünstigungen, deren schriftliche
+                        Beurkundung</cell>
+                     <cell>14.</cell>
+                     <cell>an Inspektor Käsewurm in mundo</cell>
+                     <cell>25. Mai</cell>
+                  </row>
+                  <row>
+                     <cell>20. August</cell>
+                     <cell>Promemoria über die pro 1832 auszuführenden Bauten</cell>
+                     <cell>15.</cell>
+                     <cell>an Inspektor Käsewurm in origine ausgehändigt</cell>
+                     <cell>27. August</cell>
+                  </row>
+                  <row>
+                     <cell>25. August</cell>
+                     <cell>Promemoria für den Herrn Inspektor <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> bei Abreise des Herrn Grafen</cell>
+                     <cell>16.</cell>
+                     <cell>an Inspektor Käsewurm in origine ausgehändigt</cell>
+                     <cell>27. August</cell>
+                  </row>
+                  <row>
+                     <cell><gap reason="illegible"/></cell>
+                     <cell>Über den Etat der Wirtschaftsvorstände in <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ugy_1pg_hy">Rehsau</placeName></cell>
+                     <cell>17.</cell>
+                     <cell>Abschrift dem Inspektor <gap reason="illegible"/> ausgehändigt</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>„</cell>
+                     <cell>Die Abnahme der Inspektion <placeName key="ed_nkz_b12_gy">Stawken</placeName> von p <persName key="ed_nv2_kgg_tvb">Werner</persName> und Übergabe an p <persName key="ed_aqq_qfl_wcb">Andrée</persName> betreffend </cell>
+                     <cell>18.</cell>
+                     <cell>Abschrift dem Inspektor <persName key="ed_vpp_w3j_3qb">Poltzien</persName> mitgeteilt</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>„</cell>
+                     <cell>Die Behandlung des <gap reason="illegible"/> betreffend</cell>
+                     <cell>19.</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>„</cell>
+                     <cell>Eine <gap reason="illegible"/> über gesammelte Gaben für die Abgebrannten
+                        in <placeName key="ed_qr3_qst_ncb">Haarszen</placeName></cell>
+                     <cell>20.</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

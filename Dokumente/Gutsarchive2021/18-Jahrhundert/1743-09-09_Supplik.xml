@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_v1l_tby_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Tabakpflanzer Christian Reisberg bittet Gräfin von Lehndorff, in die
+               Dohnaschen Güter zurückkehren zu dürfen. Sambród, 9. September 1743</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Praes. den 12. Sept. 1743.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ymd_sng_j5b">Pauli, (-)</persName>
+               <placeName key="ed_xww_5ng_j5b">Sambród</placeName>
+               <date when="1743-09-12" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Luisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+            <note>Tabakanbau war im ostpreußischen Klima problematisch. Viele hatte das Unternehmen
+               aufgeben müssen, in den Königlichen Domänen-Ämtern wurde deshalb häufig die
+               Zustimmung zur Reduzierung der Vorgaben gegeben. Weitere Beispiele in: GStA PK, XX.
+               HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 747. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_v1l_tby_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>
+                  <seg type="comment">
+                     <orig>Samrot</orig>
+                     <note xml:id="ngmz_f4g_j5b">
+                        <placeName key="ed_xww_5ng_j5b">Sambród</placeName>
+                     </note>
+                  </seg>, den 9. Sept. 1743</dateline>
+               <salute>Hochgeborene Reichsgräfin, <lb/>Gnädige Gräfin und Frau!</salute>
+            </opener>
+            <p>Ihro Hochgräfl. Exzellenz geruhen nicht ungnädig zu bemerken, wenn ich Denenselben
+               mit gegenwärtigem Schreiben untertänigst aufwarte. Überbringer dieses, <persName key="ed_thm_44g_j5b">Christoph Reisberg</persName>, ein Hochgräflich Dohnascher
+               Untertan aus den Samrotschen Gütern, hat mir hierzu Anlass gegeben. Das wird nämlich
+               Ihro Hochgräfl. Exzellenz bekannt sein, dass dieser Untertan Denenselben auf Dero
+               hohes Begehren vor 9 Jahren in des Tabakpflanzers <persName key="ed_iz3_r4g_j5b">Flasquels</persName> Stelle, welcher noch 1 Jahr in Dero Gütern zu wohnen gehabt,
+               überlassen worden. Da man ihm aber bei seinem Hinzug auch versprochen, ihn dereinst
+               wiederum in die Samrotschen Güter ziehen zu lassen und er anitzo flehentlich darum
+               anhält, weil er seiner Aussage nach Dero hohen Ortes sein genügliches Auskommen nicht
+               findet, sondern von Jahr zu Jahr schuldig bleibt, und in Gefahr steht, um das Seinige
+               durch Häufung neuer Schulden zu kommen, so habe Ihro Hochgräfl. Exzellenz
+               untertänigst bitten wollen, mir von der wahren Beschaffenheit dieses Reisberg
+               vollkommene Nachricht zukommen zu lassen und anbei sein Vermögen und seine Schulden
+               kund zu tun, damit ich wie und wann seine Abholung in hiesige Güter geschehen könne
+               wissen möge. Wobei ich zugleich hoffe, dass Ihro Hochgräfl. Exzellenz nach gemachter
+               Richtigkeit den Mann mit Weib und Kindern und allem Seinigen gnädig werden abfolgen
+               lassen. Ich erwarte hiervon Ihro Hochgräfl. Exzellenz gnädige Entschließung und
+               verharre nach allergehorsamster Empfehlung mit vollkommenstem Respekt.</p>
+            <closer>
+               <salute>Ihro Hochgräflichen Exzellenz Allergnädigsten Gräfin und Frauen untertänigster
+                        Diener</salute>
+               <signed>Pauli</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_xch_hch_my">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Karl Eduard Schmidt an Anna Gräfin von Lehndorff. Lötzen, 20. November 1891</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Repräsentation/Geselligkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 152, Bl. 165-165v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ecr_2lh_my">Schmidt(-Lötzen), Karl Eduard
+                        (1850-1927)</persName>
+               <placeName key="ed_bzz_pwf_cy">Lötzen</placeName>
+               <date when="1891-11-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow, 17.12.1830-Steinort, 13.3.1894)</persName>
+            </correspAction>
+            <note>Die Zeitschrift „Daheim. Ein deutsches Familienblatt mit Illustrationen‟ erschien
+               von 1864 bis 1943 im Verlag Daheim-Expedition Leipzig, Bielefeld, Berlin. Das Blatt
+               erschien anfangs wöchentlich, später 14-täglich, und war der „Gartenlaube‟
+               nachempfunden. Inhaltlich war es konservativ-christlich ausgerichtet. 1872 bis 1935
+               erschienen zusätzlich Daheim-Kalender, 1886 bis 1888 auch Monatshefte. Häufig
+               enthielt die Zeitschrift thematische Beilagen. Ab 1890 war Hanns von <persName key="ed_qwx_jmh_my">Zobeltitz</persName> Schriftleiter. - In seinem Brief aus
+               Berlin vom 28. November 1891 (APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941545">Nr.
+                  367</ref>, Bl. 180) bemängelte <persName key="ed_nml_dw2_cy">Heinrich von
+                  Lehndorff</persName>, dass bei den Geschlechtern, die das Land in Besitz nahmen,
+                  <quote>das unsrige als das pruzzische hätte hervorgehoben sein können, dass den
+                  Ort am Stein in der Wildnis bekam. Nachdem meines Wissens <persName key="ed_cm2_ksv_h2b">Treitschke</persName> festgestellt hat, dass wir eben
+                  niemals von irgendwo eingewandert, sondern immer und seit unendlichen Zeiten loco
+                  gewesen sind, fände ich dies die Gelegenheit, diese interessante und ehrwürdige
+                  Gewissheit weiteren Kreisen zur Kenntnis zu bringen.</quote> Indiskretionen habe
+               er nicht gefunden, und wenn Anna dem Autor noch ein bisschen helfe, <quote>kann der
+                  Artikel ganz nett und fesselnd werden, auch für größeres Publikum.</quote>
+               Heinrich von Treitschkes Deutsche Geschichte im 19. Jahrhundert, 4 Bde., Leipzig
+               1879, gehörte zur Lehndorffschen Bibliothek. Der Artikel konnte jedoch im „Daheim‟
+               zwischen dem angegebenen Datum bis 1892 nicht nachgewiesen werden.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941291"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Lötzen, 20. November 1891</dateline>
+               <salute>Hochgeborene Gräfin! <lb/>Gnädige Frau!</salute>
+            </opener>
+            <p>Herr Hanns von <persName key="ed_qwx_jmh_my">Zobeltitz</persName> schrieb mir,
+                    dass das <bibl sameAs="zotero-830786-JUQC8QDT">Daheim</bibl> gern einen Aufsatz
+                    über <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und die <persName key="ed_xsd_3mw_22b">Lehndorff</persName> mit Ansichten und Portraits
+                    bringen würde, nur komme es darauf an, möglichst viel Intimes und Persönliches
+                    darin zu verweben. Ob nun der Aufsatz, den ich Euer Gnaden zur Einsicht zu
+                    übersenden mir erlaube, und worin ich ganz gehorsamst etwaige Unrichtigkeiten zu
+                    berichtigen bitte, genügen wird oder ob ich <gap reason="illegible"/> Schloss
+                    sende ich zurück, weil ich aus <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> ein anderes nebst einer Ansicht vom Park erhalten.
+                    Euer Gaden haben aber vielleicht die Güte, mir einige Porträts (namentlich das
+                    Ihrige), <gap reason="illegible"/> dessen wohl in <gap reason="illegible"/>,
+                    Weiterbeförderung zu übermitteln. </p>
+            <p>Einem gütigen Befehle sehe ich entgegen </p>
+            <closer>
+               <salute>Euer Gnaden gehorsamster</salute>
+               <signed>Dr. Schmidt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_k23_shb_d5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Instruktion und Bestellung eines adeligen Gerichtshalters</title><title>. [Anfang des 18. Jahrhunderts</title><title>]</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch den <ref target="lehndorff_mj1_lrs_hrb">Eid eines Justitiars um
+                     1700</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Julii Bernhardts von Rohr nöthiger und nützlicher Vorrath von
+                     allerhand auserlesenen Contracten, Verträgen, Recessen ... und andern
+                     dergleichen Concepten die sowol bey der Hauss-Wirthschafft überhaupt als
+                     insonderheit bey dem Acker-Bau, der Vieh-Zucht, Jagd- und Forst-Sachen ...
+                     vorzufallen pflegen, Leipzig 1719, S. 97-102</bibl>
+               </witness>
+            </listWit>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1719-01-01" to="1719-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.digitale-sammlungen.de/de/view/bsb10520603?page0 153"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Instruktion und Bestellung vor einen adelichen Gerichtshalter</p>
+            <p>Nachdem ich zur Administration der heilsamen Justiz, auch Erhaltung löblicher und
+               guter Ordnung sowohl Gewissens-als Rechtswegen schuldig bin, meinen Gerichten einen
+               christlichen, gewissenhaften, gelehrten und fleißigen Direktorem vorzusetzen, von dem
+               das Gute befordert, das Böse bestraft, und allen Untertanen insgemein gleich und
+               Recht unparteiisch und unverzüglich erteilt werde, so habe mein Vertrauen diesfalls
+               auf den Hrn. N. N. gesetzt in der guten Hoffnung, er werde seiner bekannten <seg type="comment">
+                  <orig>Erudition</orig>
+                  <note xml:id="nrw3_fz2_j5b">Gelehrsamkeit</note>
+               </seg> und andern guten Qualitäten nach solchem Amte so vorstehen, wie er es
+               zuvörderst gegen den Großen Gott im Himmel als den obersten Richter allen Fleisches,
+               seinen Landes-Herrn, seinem Gerichts-Herrn und sein eigen Gewissen verantworten
+               möge.</p>
+            <p>Auf dass er aber zu seinem Amte und Dienste die behörige Spezial-Erkundigung haben,
+               und also mit gutem Grund in denen ihm aufgetragenen Sachen verfahren kann, so habe
+               ich vor nötig erachtet, ihm zu seiner Beobachtung folgende Punkte vornehmlich zu
+               recommendieren und vorzuschreiben.</p>
+            <p>Er soll alle bei den Gerichten vorhandenen Documente, Protocolle und Urkunden genau
+               und fleißig <seg type="comment">
+                  <orig>perlustrieren</orig>
+                  <note xml:id="nn3m_lz2_j5b">untersuchen</note>
+               </seg>, damit er hierdurch die Eigenschaften der Güter, die Fröhne, Geld- und
+               Getreide-Zinsen genau erfahren möge, und im Fall die Untertanen ihre gewöhnlichen
+               Erb-Zinsen oder auch schuldigen Hand- und andere Frohnen nicht leisten wollten, muss
+               er sie zu gehöriger Befugnis anweisen und sie durch Gerichtszwang dazu anhalten,
+               dabei aber absonderlich laborieren, dass die armen Untertanen nicht sowohl mit Gelde,
+               als vielmehr um so und so viel Tag-Arbeit oder mit Gefängnis bestraft werden. Da auch
+               durch das Alter die Erb-Bücher ziemlichermaßen irrig und konfus worden, so hat er
+               billich dahin zu sehen, dass er nach denen lebenden Besitzern die Erb- und
+               Frohn-Register einrichte und solche nach der Untertanen geständigen Zinsen und
+               Frohnen also verfertige, dass die künftigen Successores sich darauf berufen
+               können.</p>
+            <p>Er soll sich in seiner ihm aufgetragenen Funktion also aufführen, dass er seine Fakta
+               allezeit gegen die Hochlöbliche Landes-Regierung justifiziren könne. Sollten aber die
+               Untertanen unbefugter Weise entweder über ihn oder über mich als ihre ordentliche
+               Gerichts-Obrigkeit Beschwerde führen, muss er sofort der Hohen Landes-Regierung in
+               einem untertänigsten Berichte die Justiz seines und meines Verfahrens und den Ungrund
+               der Klage der Untertanen zu erkennen geben, auch dasjenige, das sonst von
+               Hochlöblicher Landes-Regierung anbefohlen wird, und den rechten, gerechtsamen und
+               hergebrachten Observanzen des Orts nicht zuwider ist, schnurstracks expedieren, dabei
+               aber auch dahin sehen, dass denen Gerichten weder von den benachbarten Beamten noch
+               anderen adelichen Gerichten kein Eintrag geschehe, und wo er dergleichen verspürt,
+               dieserhalben Höhern Orts sofort Klage anbringen, und in allen seinen ihm anvertrauten
+               Gerichten bestmöglichst prospicieren, auch die Dorf-Gerichte jederzeit bei Abgang der
+               Gerichts-Personen mit christlichen ehrbaren Männern, welche nicht allein schreiben
+               und lesen können, sondern auch von des Dorfs- und der Gerichts-Obrigkeit Rechte und
+               Befugnissen einige Erkenntnis haben, besetzen, damit die Gerichte mit einem Richter
+               und 4 Schöppen allezeit bestellt sein.</p>
+            <p>Bei den Jagden soll er seiner Gerichts-Obrigkeit Interesse absonderlich wohl
+               beobachten, damit weder von Einheimischen noch Fremden einige Beeinträchtigung
+               hierinnen vorgenommen werde. Er muss auch dahin sehen, dass von den Untertanen das
+               hergebrachte Spänen und Holz auflesen nicht über die Befugnis extendiert oder auch
+               auf der gemeinen Weide, den Triften oder Rinnen nicht gegrast werde. Und wenn einige
+               hierüber angetroffen und von denen Gerichts-Fron gepfändet werden, muss er die
+               Verbrecher zur gehörigen Strafe ziehen, auch die ihnen abgepfändeten Sachen nicht
+               eher ausantworten, bis sie solche gebührend ausgelöst.</p>
+            <p>Weil wegen der überhand genommenen Bosheit der Menschen sich zu Zeiten in den
+               Gerichten Kriminal-Fälle zu begeben pflegen, so muss er dem Richter anbefehlen, dass
+               er jederzeit fleißige Obsicht habe, ob einer oder der andere von den Untertanen in
+               einem groben delicto begriffen worden, und da solches geschehen, er es ihm alsofort
+               notifiziere. Ist das Verbrechen gefährlich, muss er auf die Inhaftierung des
+               Delinquenten bedacht sein, danebst Zeugen und den Delinquenten in genere vernehmen
+               und in die Hochpreisliche Landes-Regierung einberichten; kommt es aber zur
+               Spezial-Inquisition, muss er denen vorgeschriebenen Rechten gemäß den Delinquenten
+               über gewisse Inquisition-Articul vernehmen, die Zeugen endlich verhören, und mit ihm
+               konfrontieren, dem Beklagten ferner die Defension verstatten und nach diesem allen
+               die Akten nach Spruch Rechtens verschicken, und das Urteil vorgeschriebenermaßen
+               exequiren. Sollte der Delinquent auf der Flucht sein, muss er demselben durch
+               gewöhnliche Steck-Briefe nachtrachten und im übrigen Sorge tragen, dass von den
+               Untertanen das hierzu nötige Henker-Geld gebührend eingebracht wird.</p>
+            <p>Sollten in seinen Gerichten von fremden Untertanen einige Freveltaten vorgenommen
+               werden, soll er an die Obrigkeit, darunter die Täter gesessen, schreiben und sie in
+               subsidium ersuchen, dass die Delinqenten in die Gerichte, da die Übeltat geschehen,
+               gestellt werden, auch bei fremden Zeugen die fremden Gerichts-Obrigkeiten <seg type="comment"><orig>per literas mutui compassus</orig><note xml:id="nfgw_wr4_txb">Zur Bedeutung <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=kompassbrief">hier</ref></note></seg> ersuchen. Desgleichen muss er sich, wenn in denen
+               von mir ihm anvertrauten Gerichten einer zur gefänglichen Haft gebracht worden, der
+               an einem anderen Ort wohnhaft wäre und die Obrigkeit desselben Ortes ihn um des
+               Delinquenten Abfolgung ersucht, sich dazu verstehen.</p>
+            <p>Übrigens ist seiner Pflicht gemäß, die Acta ganz und in Ordnung zu halten und nicht
+               etwa auszustreichen oder zerlestert zu haben, sondern sie ordentlich und eigenhändig
+               unterzuschreiben, richtig zu heften und zu foliiren, auch die Gerichts-Bücher und
+               Protocolla in guter Ordnung zu halten. Die Kontrakte muss er fleißig in die
+               Gerichts-Handels-Bücher eintragen und den Kontrahenten, dafern es Jungfrauen, Weiber
+               oder Witwen sind, absonderliche Kuratores bestellen, den Unmündigen mit treuen und
+               christlichen Vormündern prospicieren, auch fleißige Nachfrage halten, ob die
+               Vormünder mit denen ihnen anvertrauen Gütern ihrer Pupillen getreulich umgehen, die
+               Testamente der Untertanen fleißig protokollieren, und die gewöhnlichen Solennitäten
+               dabei in Acht nehmen, auch den Kindern der Untertanen unter dem Gerichts-Siegel die
+               nötigen Geburts-Briefe ausfertigen.</p>
+            <p>In streitigen Sachen soll er auf alle ihm eingehändigte Schreiben den Tag setzen,
+               Klägern und Beklagten Tages-Zettel und Citationes nebst Beifügung des Namens beider
+               Parteien, den Tag des Termins, die Sachen, zu welcher sie geladen werden und
+               Abschrift des <seg type="comment"><orig>Klag-Libells</orig><note xml:id="nckv_cs4_txb">Klageschrift </note></seg>insinuieren lassen, und zwar
+               durch einen verpflichteten Gerichts-Boten, die Aussage des Boten wegen beschehener
+               Insinuation der Citation zu den Acten registriren, in Termino das Angeben der
+               Parteien registrieren, gütlichen Vergleich unter ihnen versuchen, und wenn die Güte
+               nicht verfangen will, sie gegeneinander verfahren lassen und darauf entweder einen
+               Abschied abfassen oder die Akten nach Verfertigung einer Urtels-Frage in einen
+               Schöppenstuhl oder Juristen-Fakultät zum Spruch Rechtens verschicken, und wenn die
+               Akten wieder zurückkommen, einen Termin zur Publication des Urtels ansetzen, die
+               beschehene Aussage der verpflichteten Zeugen wegen zugeschickter Citation den Akten
+               einverleiben, in dem Publikations-Termin die Parteien erscheinen lassen, Tag und
+               Stunde, wenn das Urtel publiziert worden, anmerken, und nach eingewandter Leuteration
+               oder Appellation dem Leuteranten die geschehene Verwerfung seiner Leuteration
+               eröffnen, damit er innerhalb zehn Tage, von dem Tage der ihm zugefertigten Rejection
+               anzurechen, dafern er will, appellieren möge; nach angenommener Leuteration einen
+               Termin zu deren Fortsetzung ansetzen, und in Ausfertigung der Citationen,
+               Verzeichnung der Registraturen, Aussagen der Gerichts-Boten, Erscheinungen der
+               Parteien und Publizierung der Urtel, eben wie in vorhergehendem verfahren.</p>
+            <p>Er soll alle 4 Wochen ordentliche Gerichts-Tage halten und daselbst alle vorfallenden
+               Streitigkeiten der Untertanen den Rechten und der Billichkeit nach untersuchen und
+               entscheiden, auch die Prozesse, in
+               welche<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+               ich<?oxy_custom_end?> teils mit den Untertanen wegen schuldiger Hand- und anderer
+               Fröhnen, teils mit denen Benachbarten wegen der Koppel-Jagd verwickelt
+               <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>bin<?oxy_custom_end?>,
+               seinem besten Wissen und Gewissen nach dirigieren, damit durch seine Nachlässigkeit
+               nicht etwas versäumt werden möge. Damit er sich nun in der ihm aufgetragenen Funktion
+               desto fleißiger bezeigen möge, so verspreche Kraft dieses, dass er nicht allein von
+               denen Sportulen und Straf-Geldern den dritten Teil, sondern auch zur jährlichen
+               Besoldung hundert Taler Geld haben soll. Urkundlich ist diese Bestallung von mir
+               eigenhändig unterschrieben und besiegelt worden. So geschehen den </p>
+         </div>
+      </body>
+   </text>
+</TEI>

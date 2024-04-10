@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_k5m_kn1_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gegen den Lehrer Schott in Steinort liegen Beschwerden vor. Steinort, 9.
+                    Januar 1830</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 541, Bl. 4-4v, 16 </idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Da der Brief in den Aktenfalz gebunden ist, sind einige Worte nicht lesbar.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_j2r_z3g_wsb">Motullo, (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1830-01-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1836)</persName>
+            </correspAction>
+            <note> Werners Antwortkonzept vom 11. Januar 1830 am Rand des Briefes. Es sei zu
+               bedenken, dass der Ausgang einer Klage ungewiss sei und man weiter mit Schott
+               zusammenleben müsse, denn er bleibe Lehrer in Steinort. Besser sei es, alle
+               Gelegenheiten zu nutzen, um mit ihm zu reden, nur so können „dergleichen unfriedliche
+               Menschen zu sich selbst gebracht und wenn möglich noch gebessert werden.‟ Pfarrer
+               Motullo nahm die Klage über Schott in Steinort jedoch zum Anlass, nicht nur über
+               diesen, sondern auch über die „Einrichtung des Schullokals“ in Steinort bei der
+               Regierung in Gumbinnen Beschwerde zu führen. Dieses müsse doch wenigstens „eine
+               hinreichende Größe für die schulfähige Jugend der Sozietät haben“. Auch sei die
+               „Entfernung der Einmieter wünschenswert, um jede Veranlassung zu Streitigkeiten zu
+               vermeiden“. Die Regierung zu Gumbinnen schrieb an Superintendent Neumann in
+               Angerburg: „Bei der uns bekannten Bereitwilligkeit des Patrons zu Schulverbesserungen
+               wird ohne Zweifel eine dem Besten des dortigen Schulwesens entsprechende Einrichtung
+               des Schullokals dort bald zur Ausführung kommen können“. Binnen acht Woche erwartete
+               sie Neumanns Bericht, der seinerseits das Problem an den Rendanten Werner zurückgab.
+               Auf Motullos Klage war Schott wegen Unfriedens zu 3-tägigem Gefängnis oder einer
+               Geldstrafe verurteilt worden. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940851"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 9. Januar 1830</dateline>
+               <salute>Ew. Wohlgeboren</salute>
+            </opener>
+            <p>erlaube ich mir folgende gehorsame Anzeige. Gegen den Schullehrer <persName key="ed_v5h_3lh_wsb">Schott</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sind mir besonders von den Mieteinwohnern des <gap reason="covered"/> mehrmals Klagen vorgebracht, dass derselbe sich sehr
+               unfriedlich und beleidigend gegen diese Mieteinwohner benehme. <lb/>Weil in dem
+               Zusammenleben besonders unter den Hausfrauen leicht Uneinigkeiten entstehen, achtete
+               ich wenig auf diese Beschwerden, zumal ich auf der anderen Seite hörte, Schott werde
+               als Lehrer von seinen Vorgesetzten belobt. Bei immer wiederkehrenden Klage nahm ich
+               aber endlich Gelegenheit, den p Schott darauf aufmerksam zu machen, dass er sich
+               durch dergleichen Reibungen die Liebe des H. Schulpatrons und der ganzen Schulgemeine
+               verscherzen, seine Lage erschweren, und, da er nur interimistisch angestellt sei, bei
+               zu weit getriebenen Ausfällen der Art leicht um seinen Posten bringen könnte, den er
+               auf vieles Bitten und jetzt nur gleichsam auf Probe inne hätte. <lb/>Schott versprach
+               Ruhe, seine Mieteinwohner die größte Nachgiebigkeit und ich glaubte, nun werde die
+               Sache gehen. <lb/>Dem unerachtet erscheint heute einer von den Mieteinwohnern der
+               Schule, der hiesige Gestütsaufseher Wachtmeister <persName key="ed_tgc_gmh_wsb">Mosack</persName>, und klagt, der Schullehrer habe ihn täglich nicht nur aufs
+               Gröbste insultiert, sondern kränke ihn auch jeder Zeit durch erneuete Kleinigkeiten,
+               die sich kaum benennen lassen, zb. <gap reason="illegible"/> bis aufs Äußerste.
+               <lb/>Über die vorgebrachte Klage näher befragt, zeigt Mosack an: <lb/>Wir haben in
+               der Schule eine gemeinschaftliche Türe, die ich auch seit vielen Jahren ungestört und
+               allein <gap reason="illegible"/> jedesmaligen Lehrer benutze. Diese hat sich <gap reason="illegible"/> allein zugeeignet und unerachtet alle <gap reason="illegible"/>, seinen Gänse- und Futterstall drin eingerichtet, so dass der Gestank davon bis in
+               meine Stube <gap reason="illegible"/>. <lb/>Obgleich der Schullehrer so wie ich einen
+                  <gap reason="illegible"/> Stallraum hat, obgleich dem Schott auch <gap reason="illegible"/> von Seiten des Guts bereits vor 4 Wochen untersagt, vor die
+               Kühe zu verunreinigen, so <gap reason="illegible"/> er seinen <gap reason="covered"/>stall doch in derselben, <gap reason="illegible"/> jedem, der in der Küche etwas
+               hinsetzt. <lb/>
+               <gap reason="illegible"/> so unangenehm mir die <gap reason="illegible"/> auch war,
+               des nötigen Klagens wegen, darauf sich beruhen ließ. <lb/>Für gewöhnlich kocht meine
+               Frau die <gap reason="illegible"/> im Kamin und wir bedürfen der Küche nicht, nur bei
+               großen Küchereien (Wäsche, Schlachterei) ist sie uns notwendig, sowie auch zum
+               Aufbewahren allerlei Hausgeräts, das wir wegen <gap reason="illegible"/> des
+               Schulenstandes nicht im Vorhaus stehen lassen dürfen. <lb/>Vor 8 Tagen schlachtete
+               ich ein Schwein, mein Frau kochte das dazu notwendige Brühwasser in der Küche, bei
+               welcher Gelegenheit <gap reason="illegible"/> Kinder durch die geöffnete Küchentüre
+               in den Hausflur liefen. Als ich in den Hausflur kam, kamen mir die Kinder unter die
+               Füße, so dass ich unwillig darüber die Hausflur-Freitür öffnete und sagte „Könnt ihr
+               Kinderkröten nicht heraus gehen‟. Als dieses der Schullehrer aus der Stube hörte und
+               sah, kam er zu mir in den Hausflur, fuhr mich wütend an, nannte mich Er und hieß er
+               mir Schlingel, <gap reason="illegible"/>, Pferderäuber etc. Ich antwortete dem <gap reason="illegible"/> nichts und ging in meine Stube, seit dieser Zeit nahmen aber
+               die Reibungen täglich so zu, dass ich keine Ruhe im Hause habe und gehorsamst bitte,
+               dass unser Verhältnis auf irgend eine Art wieder zu <gap reason="illegible"/>.
+               <lb/>Zeugen habe ich für meine Angaben nicht, aber ich bin bereit, sie nötigenfalls
+               zu beeidigen. Soweit die Angaben des Mosack. <lb/>Ew. Wohlgeboren zeige ich diesen
+               Vorfall zu beliebiger geneigter Veranlassung gehorsamst an. Ich habe darin nichts
+               untersucht und getan, weil ich überzeugt bin, meine Vorstellungen würde auch künftig
+               nichts fruchten. Mosack fühlt sich tief gekränkt und sagt, er habe 28 Jahr zu einer
+               Zeit beim Militär gedient, wo noch die Brutalität herrschte, und sei <gap reason="covered"/> in seinem Leben so behandelt, als von diesem auch so verfahren
+               kann. Unter solchen Umständen ist ihm freilich (zumal als Ritter des eisernen
+               Kreuzes) nicht zu verdenken, wenn er empfindlich wird, jedem anderen wäre es nicht
+               besser gegangen; die Schuld wird wahrscheinlich, wie bei den meisten
+               Hauszwistigkeiten, zwischen beiden in der Mitte liegen, und solcher Behauptung wird
+               sich Mosack nie, selbst bei allem, was ihm zur Last gelegt werden kann, schuldig
+               machen.<lb/>
+            </p>
+            <salute>Ew. Wohlgeboren gehorsamst</salute>
+            <signed><unclear reason="illegible" cert="high">Kachem</unclear>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

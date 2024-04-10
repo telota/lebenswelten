@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_sx1_cm4_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Ernst Kleinstüber bewirbt sich um eine Stelle in Steinort. Weimar, 10. April
+                    1815</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wnk_nx5_j5b">Kleinsteuber, Ernst (-)</persName>
+               <placeName key="ed_hdc_kl3_tcb">Weimar</placeName>
+               <date when="1815-04-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Die erwähnte Empfehlung vom 8. Februar 1815 liegt der Akte bei.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_sx1_cm4_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Weimar d. 10. April 1815</dateline>
+               <salute>Hochgeborener Herr Graf, Gnädigster Herr!</salute>
+            </opener>
+            <p>Ohnmöglich kann ich bei Euer Hochgeboren Gnaden von der gütigen Meinung, welche
+               Hochdieselben auf Rekommandation des Herrn <persName key="ed_zgq_sw5_j5b">Obristen
+                  von Ende</persName> von mir zu fassen die Gnade hatten, verlieren, wenn ich Ihnen
+               frei gestehe, dass mich der Brief des Herrn Obrist von Ende aus <placeName key="ed_ztb_bm1_my">Wien</placeName>, worin mir derselbe eine so ganz für mich
+               passende Stelle bei Ihnen antrug, über alles glücklich machte. Ich war durch
+               Verwüstung meiner ansehnlichen Baumschule sowie durch Plünderung auch um mein ganzes,
+               sehr mühselig erworbenes kleines Vermögen gekommen. <lb/>Da ich nun in meinem
+               Zusageschreiben an Ihnen nicht ausdrücklich auf die Vermehrung und Hinzufügung
+               einiger Deputat-Stücke, worum ich noch untertänigst bat, bestand, so sehe ich mich
+               durch meine Zusage schon ganz in Ihren Diensten, und nur bei meinem Weggehen von
+               hier, wo ich seit 20 Jahren das Lob eines nützlichen Mannes zu haben mich erfreuen
+               konnte, auch das eines ehrlichen mitzunehmen mich verpflichtet hielt, so machte ich
+               sogleich nach Absendung meines Briefes an Euer Gnaden diejenigen Anstalten, welche
+               zur Berichtigung meiner Aktiv- und Passiv-Verhältnisse erforderlich waren, indem ich
+               mir sagen musste, dass, wenn Sie mein Brief nicht mehr in <placeName key="ed_xrv_gwb_by">Berlin</placeName> treffe, ich erst nach 4 bis 6 Wochen aus
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> eine Antwort erwarten könne.
+               Herr Obrist von Ende benahm mir auch bei seinem Hiersein im Febr. alle Sorge über das
+               Ausbleiben Ihrer Bestätigung meiner Dienste bei Ihren Gütern. <lb/>Nunmehro aber,
+               Gnädigster Herr, sind der Herr Obrist von Ende, wie Sie aus <seg type="comment">
+                  <orig>beiliegendem Schreiben desselben</orig>
+                  <note xml:id="nwyb_n44_3tb">Der Brief Endes, Leipzig, 8. Februar 1815, liegt
+                     ebenso bei wie ein sehr besorgter Brief Kleinsteubers an ihn.</note>
+               </seg> ersehen werden, so wie ich in der größten Besorgnis deshalb, und meine
+               Verlegenheit, in der ich mich befinde, ist ohne Grenzen. <lb/>Ich bitte daher
+               untertänigst, mich baldigst mit einer gnädigsten Antwort zu beehren, da meine Lage
+               unter diesen Umständen peinlich ist. <lb/>Auch würde ich jetzt Ihre Fuhre von
+                  <placeName key="ed_xrv_gwb_by">Berlin</placeName> aus gerne annehmen, weil sich
+               die mitzubringenden jungen Obstbäume in dieser Jahreszeit soweit nicht mehr
+               transportieren lassen. Ich habe sie in einen fremden Garten einstweilen gepflanzt und
+               kann sie im Herbst nachgeschickt erhalten. <lb/>Geruhen Sie, Gnädigster Herr, Ihre
+               Antwort an mich bei dem Herrn Assistenzrat <persName key="ed_xjp_jx5_j5b">Lettow</persName> in Berlin abgeben zu lassen, welcher die Güte haben wird, mir
+               sie sogleich zu schicken. </p>
+            <closer>
+               <salute>In der festen Überzeugung, keine Fehlbitte getan zu haben, bin ich in tiefster
+                        Ehrfurcht Euer Hochgeboren Gnaden ganz untertänigster</salute>
+               <signed>Ernst Kleinstüber</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>N.S. <lb/>Mit den hierzulande besten Branntweinbrennereien, Bierbrauereien und
+               Ölmühlen bin ich seit langer Zeit vollkommen bekannt.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

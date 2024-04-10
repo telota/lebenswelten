@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wl5_trt_mqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Vor dem Patrimonialgericht in Steinort wird erneut wegen eines Streits zwischen
+               dem Schulzen Wilewski und dem Schulmeister Pallasch verhandelt. Steinort, 12./13.
+               Juli 1754</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Am folgenden Tag wurden die Verhandlungen fortgesetzt, die Bescheide wurden auf
+                  demselben Blatt fortgeschrieben. Der nächste Fall war die Klage einer Witwe, deren
+                  Schwiegermutter ihr den Besitz des Mannes nicht gelassen hatte. In der zweiten
+                  Verhandlung ging es um den Schulzen <persName key="ed_w44_dwr_vqb">Duschig</persName> in Stawken, der wegen seiner „Unvermögenheit dem
+                  Schulzenamt weiter vorzustehen nicht im Stande‟ war. <ref target="lehndorff_l5p_rgt_mqb">Ihm war das Haus abgebrannt.</ref> Gräfin von
+                  Lehndorff hatte den Bauern <persName key="ed_gg4_gvs_vqb">David Gwiasda</persName>
+                  zum neuen Schulzen gesetzt; da niemand aus dem Dorf anwesend war, sollte Gwiasda
+                  „künftig noch besonders in Gegenwart des Dorfältesten in Eidespflicht genommen
+                  werden‟. Der Krüger <persName key="ed_jrp_pmt_vqb">Lojewski</persName> aus
+                  Steinort wurde, obgleich er nicht vor dem Gericht erschienen war, wegen seiner
+                  Widerspenstigkeit verwiesen. Die letzte Verhandlung betraf zwei Knechte aus Labab,
+                  die sich in dem fremden Krug in Rosengarten aufgehalten und auf dem Rückweg eine
+                  Prügelei begonnen hatten. Beide hatten 15 Gr. an das <orgName key="ed_pgl_yft_vqb">Rosengartensche Hospital</orgName> zu zahlen.</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe bereits die Verhandlungen im <ref target="lehndorff_fqm_bks_ctb">Dezember
+                     1750</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 697, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1754-07-12" to="1754-07-13" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wl5_trt_mqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den 12. Jul. 1754</p>
+            <p>Der Schulze aus <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+               <persName key="ed_omn_f5g_bqb">Wilewski</persName> bringt klagend bei, dass bei
+               Gelegenheit der Stobbensche Schulmeister <persName key="ed_zp1_cnt_vqb">Pallasch</persName> sich in der Fischerei <seg type="comment"><orig>meliert</orig><note xml:id="nmkm_kkw_vxb">im Sinne von
+                     eingemischt</note></seg>, mithin dadurch die Schule sehr versäumt, ihm, Kläger,
+               solches vorgehalten, der Beklagte auf ihn im Krug sehr geschimpft, dahero er um
+               Satisfaktion böte. <lb/>Beklagter Schulmeister erwidert, wie er sich nicht besinnen
+               kann, dass er den Kläger geschimpft, es müsse dann solches in Trunkenheit geschehen
+               sein, wolle indessen den Kläger abbitten. <lb/>Die Parteien werden dahero dahin
+               verglichen, dass Schulmeister den Schulzen öffentlich abbittet und verspricht,
+               niemals mehr sich gegen ihn zu vergessen, womit denn auch Schulze zufrieden.  <lb/>ut
+               supra</p>
+            <p>
+               <persName key="ed_qtt_prs_fqb">Schmidt</persName>
+               <lb/>Justitiarius</p>
+            <p>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

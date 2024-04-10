@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_t2b_jm1_ycb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Einrichtung der Schule in Steinort. Steinort, 6. Juli 1830</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Dokument vom <ref target="lehndorff_sh2_y5v_q2b">20. August
+                            1739</ref>. Bis zur Errichtung des ersten Schulgebäudes 1737 gab es eine
+                        Schulstube auf dem Gutshof. Am 8. September 1852 wurde nach der Schulordnung
+                        vom 11. Dezember 1845 ein neuer Schuleinrichtungs-Rezess für Steinort
+                        verhandelt, in der Akte, Bl. 6-9. Zu den Schulverhältnissen: Opgenoorth,
+                        Ernst (Hrsg.), Handbuch der Geschichte Ost- und Westpreußens, Teil II/2,
+                        Lüneburg 1996, S. 146-148.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 543, Bl. 1-3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1830-07-06" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940853"/>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_t2b_jm1_ycb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>5. Schule Steinort </p>
+            <p>
+               <hi rendition="#uu">I. Fundations-Protokoll</hi>
+               <lb/>1. Extrakt <lb/>aus dem Schuleinrichtungs-Protokoll vom 9. Mai 1737 (vide
+                    bei den allgemeinen Nachrichten pag. 3) </p>
+            <p>Die 5. Schule ist in dem adl. Gute <placeName key="ed_pxt_cnh_1y">Steinort</placeName> wo die Frau <persName key="ed_q4s_xyl_2y">Gräfin von
+                        Lehndorff</persName> nach Bericht des Rektors dem Schullehrer freie Wohnung
+                    und Unterhalt gibt.</p>
+            <p>
+               <hi rendition="#uu">II. Abriss der Geschichte der Schule</hi>
+            </p>
+            <p>Veränderung derselben durch <lb/>
+               <hi rendition="#u">1. Dismembration</hi> und <hi rendition="#u">
+                  <lb/>2. Associierungen</hi>
+               <lb/>Zur Steinortschen Schulsozietät gehört jetzt das Gut <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>, ein Waldhaus, ein Windmühlenhaus Luisenwahl und ein
+                    Werder <seg type="comment">
+                  <orig>Weissfung</orig>
+                  <note xml:id="nuxf_zbq_wsb">
+                     <placeName key="ed_hcn_kc2_gy">Wittfong</placeName>
+                  </note>
+               </seg>
+                    genannt. Im Jahr 1766 gehörte <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    zu Groß Steinort. Über Dismembration des Vorwerks Labab von Steinort sind in der
+                    hiesigen Registratur keine Verhandlungen. <hi rendition="#u">
+                  <lb/>3. Einrichtung
+                        der 2. Klasse</hi>
+               <lb/>Hier ist diese bis dato nicht nötig. <hi rendition="#u">
+                  <lb/>4. Neue
+                        Ortschaften im Umfang der <gap reason="illegible"/>
+               </hi>
+               <lb/>keine <hi rendition="#u">
+                  <lb/>5. Bildung der Interims-Schulen</hi>
+               <lb/>keine <hi rendition="#u">
+                  <lb/>6. Weiderecht in Grundbesitz verwandelt</hi>
+               <lb/>hat hier nicht statt gefunden <hi rendition="#u">
+                  <lb/>7. Neubau des
+                        Schulgebäudes</hi>
+               <lb/>Die Kirchen- und Schul-Registratur gibt nachstehende Nachricht darüber:
+                    <lb/>„Aus wohlgmeinter Absicht und genau erwogen wurde die Schule in Steinort
+                    aus der frühern Wohnung verlegt, weil das <gap reason="illegible"/> dicht neben
+                    der Straße und der Schmiede gerade gegenüber, und zu häufig Beschwerden
+                    veranlasste. Es wurde das Gebäude, wovon eine <seg type="comment">
+                  <orig>Handzeichnung des Grundriss beiliegt,</orig>
+                  <note xml:id="nach_ccq_wsb">folgt danach</note>
+               </seg> neu erbaut. Die Hälfte
+                    dieses Wohnhauses wurde zur Schule bestimmt und die andere zu Wohnungen für
+                    Hof-Offizianten. <lb/>Die Schulstube enthält 247 Quadratfuß und fasst also
+                    hinreichend die Schulbesuche der Kinder, welche die Zahl von 36 selten
+                    übersteigt. Die Schulstube ist hoch, hell und gesund, und der Schullehrer hat
+                    maßen eine ganz gleiche Stube, noch vier Nebenkabinette zu seiner Wohnung, ohne
+                    das wohl nirgends mehr als hier für Bequemlichkeit desselben gesorgt ist.
+                    <lb/>Angerburg, den 6. Juli 1830 <persName key="ed_afr_tvf_2y">Werner</persName>
+            </p>
+            <p>An Herrn Superintendenten <persName key="ed_knz_tlh_wsb">Neumann</persName>
+                    Hochwürden in Angerburg</p>
+            <p>
+               <seg type="comment">
+                  <orig>Grundriss von dem Schulgebäude zu Groß Steinort</orig>
+                  <note xml:id="njg3_5y4_wsb">Siehe das Digitalisat.</note>
+               </seg>
+            </p>
+            <p>Das ganze Haus hat 70 Fuß Länge und 36 Fuß Breite, ist in Gehrsaß<gap reason="illegible"/> ganz neu gebaut und ist so wohlerhalten, dass ihm <gap reason="illegible"/>  fehlt. Die innere Einrichtung ist aus dem Grundriss zu
+                    entnehmen, und sind alle Zimmer ausgezeichnet hell, trocken und stockfrei. Die
+                    Kammer A. B. C. D. für den Schullehrer eingegeben, so wie die Hälfte der Lucht,
+                    die andere vier Kammern etc. haben die beiden Miteinwohner</p>
+            <p>
+               <hi rendition="#uu">III. Prästations-Tabelle</hi>
+               <lb/> Zur Schul-<gap reason="illegible"/> Steinort gehört: <lb/>1. das Gut Groß
+                    Steinort mit 15 Höfen <lb/>2. Ein Wohnhaus Amalienruh <lb/>3. die Windmühle
+                    Luisenwahl <lb/>4. ein Werder <seg type="comment">
+                  <orig>Weissfong</orig>
+                  <note xml:id="nkn1_gcq_wsb">Wittfong</note>
+               </seg>
+               <lb/>
+               <hi rendition="#uu">Nachstehende Praestanda werden zur Schule
+                        geliefert</hi>
+               <lb/>
+               <hi rendition="#u">1. An Getreide</hi>
+               <lb/>12 Schfl. Roggen und 6 Schfl. Gerste vom herrschaftlichen Speicher <lb/>
+               <hi rendition="#u">2. An fixiertes Gehalt </hi>
+               <lb/>aus der
+                    Administrations-Kasse 12 Rtlr. <lb/>
+               <hi rendition="#u">3. An Schulgeld</hi>
+               <lb/>Schulgeld von Kindern der Handwerker, Krüger, Brenner, Kammrer u. dergl.
+                    pr. Kind a 10 Sgr. und für Kinder der Isntleute jährlich a 5 Sgr. = pr. qto 9
+                    Rtlr. <hi rendition="#u">
+                  <lb/>4. An Holz</hi>
+               <lb/>Drei Achtel, das dem Lehrer das Dominium Steinort schlagen und anfahren
+                    lässt <hi rendition="#u">
+                  <lb/>5. An Futter</hi>
+               <lb/>Zwei Fuder Heu a 12 Zentner <hi rendition="#u">
+                  <lb/>6. An Schulland</hi>
+               <lb/>In jedem der drei Felder einen Morgen Acker von 2 1/2 Schfl. Winteraussaat;
+                    einen Geköch und Obstgarten, der <unclear reason="illegible" cert="low">224</unclear> Quadratruten groß ist.<hi rendition="#u">
+                  <lb/>7. An freie
+                        Weide</hi>
+               <lb/>Für 2 Stück Großvieh und drei Stück <gap reason="illegible"/>-Gänse <hi rendition="#u">
+                  <lb/>8. An Zäunen</hi>
+               <lb/>Der Garten des Schullehrers von 225 Quadrattuten wird gehörig umzäunt und
+                    die Herrschaft lasset den Zaun im Stande erhalten <lb/>
+               <hi rendition="#u">9. An
+                        Hand- und Spanndienste</hi>
+               <lb/>1. Jeder anherziehende Schullehrer wird mit freiem <gap reason="illegible"/> hergeholt. <lb/>2. Seine Morgen und der Gekröchgarten werden ihm frei <gap reason="illegible"/>
+               <lb/>3. die Feldfrüchte eingefahren 4. das Küchen- und Wirtschaftsgebäude wird
+                    von der Gutsherrschaft im <gap reason="illegible"/> Stande erhalten <lb/>5. Die
+                    Kosten des Neubaus und der Reparatur zahlt das Dominium</p>
+            <p>
+               <hi rendition="#uu">IV. Verzeichnis des mobilen und immobilen Inventars</hi>
+               <lb/>
+               <hi rendition="#u">A. An Immobilien</hi>
+               <hi rendition="#u">
+                  <lb/>1. Ein Schul- und Wohngebäude</hi>, worinnen eine
+                    Schulstube mit einem Fenster, eine Wohnstube mit 1 Fenster und zu jeder Stube
+                    zwei Kammern eingerichtet sind. Jede Stube hat einen separaten Ofen. <lb/>2. <hi rendition="#u">Ein Wirtschaftsgebäude</hi> mit einer Dreschtenne und einigen
+                    Stallungen <lb/>3. <hi rendition="#u">Ackertrift und Weideland</hi>. In jedem
+                    der drei Felder einen Morgen von 2 1/2 Schfl. Wintersaat, einen Garten von 225
+                    Quadratruten groß. Separiertes Weideland hat der Schullehrer nicht. Die
+                    Gutsherrschaft gewährt ihm freie Weide für Vieh. <lb/>4. <gap reason="illegible"/>, viel <gap reason="illegible"/> und vier <gap reason="illegible"/>. <lb/>B.
+                    des mobilen Inventariums <lb/>1. Zwei deutsche neue Testamente<seg type="comment">
+                  <orig>
+                     <lb/>2. Karte von Deutschland<lb/>3. Karte von Preußen
+                            </orig>
+                  <note xml:id="nrng_hbl_zsb">neben 2. und 3. ist notiert: beide
+                            unbrauchbar</note>
+               </seg>
+               <lb/>4. Ein neues Absentienbuch<lb/>5. Zwei
+                    Expl. Hennig-<unclear reason="illegible" cert="low">Hornausche</unclear>
+                    Vorschriften, 1 Teil<lb/>6. Schullehrerbibel von Dinter, das ganze neue
+                    Testament<lb/>7. Drei Exempl. Küsters Allg. Erzählungen<lb/>8. Drei dto Wilhelms
+                    Kinderfreund<lb/>9. Eine Karte von Europa, auf Leinwand geklebt<lb/>10.
+                    Anweisung zur Obstbaumzucht<lb/>11. Zwei Bogen litographierte
+                    Vorschriften<lb/>12. Ein Klassenbuch<lb/>13. Instruktion für Schullehrer<lb/>14.
+                    Wandkarte von Ost- und Westpreußen <lb/>15. Regulativ in Betreff des
+                    regelmäßigen Schulbesuchs <gap reason="illegible"/>
+               <lb/>16. Instruktion zum
+                    Unterricht der deutschen Sprache<lb/>17. Eine große hölzerne Wandtafel</p>
+            <p>
+               <hi rendition="#uu">V. Emolumenten-Tabelle</hi>
+               <lb/>Der Schullehrer erhält: <hi rendition="#u">
+                  <lb/>1. Eine freie Wohnung</hi>,
+                    dann eine Dreschtenne und Stallungen in einem separaten Wirtschaftsgebäude <hi rendition="#u">
+                  <lb/>2. An barem Gelde</hi>
+               <lb/>1. Schulgld für Kinder der Handwerker, Brauer, Krüger, Kämmerer a 10 Sgr.
+                    und von jedem Kinde der Instleute und Losleute a 5 Sgr., das zur Schulkasse
+                    fällt und der Schullehrer es aus derselben erhebt 9 Rtlr.<lb/>2. Gehalt aus der
+                    Gutsadministrations-Kasse 12 Rtlr.<lb/>3.Für jede Leiche seiner Soziatät 10 Sgr.
+                        <gap reason="illegible"/>
+               <lb/>4. Konfirmations- und Kopulations-Geld aus der
+                    Kirchspiels-Schul-Kasse <gap reason="illegible"/> 2 Rtlr.<lb/>Summa 24 Rtlr. 15
+                    Sgr. <lb/>
+               <hi rendition="#u">3. </hi>
+               <hi rendition="#u">
+                  <hi rendition="#u">A</hi>n Getreide</hi>
+               <lb/>12 Schfl. Roggen und 6 Schfl. Gerste vom herrschaftlichen Speicher <lb/>
+               <hi rendition="#u">4. An Holz</hi>
+               <lb/>Drei Achtel, das dem Lehrer das Dominium Steinort schlagen und anfahren
+                    lässt <hi rendition="#u">
+                  <lb/>5. An Futter</hi>
+               <lb/>Zwei Fuder Heu a 12 Zentner <hi rendition="#u">
+                  <lb/>6. An Acker</hi>
+               <lb/>In jedem der drei Felder einen Morgen Acker von 2 1/2 Schfl. Winteraussaat;
+                    einen Geköch und Obstgarten, der <unclear reason="illegible" cert="low">224</unclear> Quadratruten groß ist.<hi rendition="#u">
+                  <lb/>7. Freie
+                        Weide</hi>
+               <lb/>Für 2 Stück Großvieh und drei Stück <gap reason="illegible"/>-Gänse nebst
+                    Brut <lb/>NB. Das ganze Einkommen ist in der Schul-Tabelle 1834 mit 84 Rtlr. 10
+                    Sgr. berechnet. <lb/>Dass in der Registratur des Inventars außer dem hier
+                    zusammengestellten keine weitere hier gehörige Nachrichten und Urkunden
+                    vorhanden sind, solches wird hiermit amtlich attestiert.</p>
+            <p>Rosengarten, d. 11. Oktober 1834</p>
+            <p>
+               <persName key="ed_j2r_z3g_wsb">Motullo</persName>
+               <lb/>Pfarrer</p>
+         </div>
+      </body>
+   </text>
+</TEI>

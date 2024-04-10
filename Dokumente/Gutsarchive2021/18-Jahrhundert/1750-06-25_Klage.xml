@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_gxt_f1h_j5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Vor dem Patrimonialgericht in Steinort wird im Streit zwischen dem Schulzen
+               Wilewski und dem Schulmeister Pallasch ein Urteil gesprochen. Stobben, 25. Juni
+               1750</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Am <ref target="lehndorff_fqm_bks_ctb">9. Dezember 1750</ref> und <ref target="lehndorff_wl5_trt_mqb">12. Juli 1754</ref> stand Pallasch erneut vor
+                  Gericht.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorf-Steinort, Nr. 698, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+            <date when="1750-06-25" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gxt_f1h_j5b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Hochgräflichen Dorfe Stobben d. 25. Juni 1750 </p>
+            <p>Wenn am vorgestrigen Tage zwischen dem hiesigen Schulzen <persName key="ed_omn_f5g_bqb">Wilewski</persName> und dem <persName key="ed_zp1_cnt_vqb">Schulmeister</persName> eine Schlägerei vorgefallen, so habe auf Requisition
+               Ihrer Hochreichsgräflichen Gnaden ich, hierzu konstituierter Aktuarii, mich anhero
+               verfügen die Sache zu inquirieren und darüber zu erkennen. Es wird also zuerst der
+               Schulze Wilewski vorgefordert, welcher folgendes beibringt: Er sei mit dem
+               Schulmeister bekannt worden, da solcher in <placeName key="ed_qr3_qst_ncb">Haarszen</placeName> in einer <seg type="comment">
+                  <orig>Chalouppe</orig>
+                  <note xml:id="nttl_43s_x5b">Chałupa, alte Bauernkate</note>
+               </seg> gewohnt, als er seines Schulmeisters Dienstes daselbst wegen <seg type="comment"><orig>Übertretung des 6. Gebots</orig><note xml:id="nwpc_yzc_5xb">Du sollst nicht ehebrechen.</note></seg> entsetzt worden. Dahin sei Deponent
+               mit seinem Schwager <persName key="ed_t1j_v2t_fqb">Nowack</persName> auf <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> gefahren, und da dieser Schulmeister sich
+               so treu und gut gegen sie bezeigt, ihnen die Bibel aufgeschlagen und sie erklärt,
+               habe er ungemeine Liebe zu ihm gefasst, dass er auch bei Ihro Hochreichsgräfl. Gnaden
+               und dem Herrn <seg type="comment">
+                  <orig>Erzpriester in Angerburg</orig>
+                  <note xml:id="nonj_rrj_j5b">
+                     <persName key="ed_uhx_5jq_tcb">Jacob Ludwig Pisanski</persName>
+                  </note>
+               </seg> seinethalben solange vor ihn gebeten, bis er in dieses Dorf als Schulmeister
+               gekommen, da er fast noch ein mehreres bekäme als die Schulmeister in Königl.
+               Dörfern. Es habe Deponent friedlich und ruhig mit demselben gelebt, bis vor Ostern
+               1749, da er seinen Sohn, welcher eine Handvoll Stinte von ihm auf der See beim Garn
+               gebeten, indem der Schulmeister die Fischerei exerziert, ein paar Ohrfeigen ohne
+               Ursache gegeben. Darüber Deponentin Weib sich geärgert und er auch, da des
+               Schulmeisters Sohn dieselbe schlagen wollen auf der Straße, mit diesen Schulmeister
+               erstes Mal vorfallen. Diese Sache wäre vom H. Adel. Gerichtsschreiber <persName key="ed_g52_q2h_tdb">Salomon</persName> abgetan. Vor <seg type="comment"><orig>Michaelis</orig><note xml:id="nehl_p1d_5xb">29. September</note></seg>
+               wäre er abermalen mit demselben in Verdrießlichkeit geraten, da der gewesenen Hirtin
+               Schwester beim Flachsbrechen sich berühmt, dass der Schulmeister ihr nachginge und
+               sie zur Unzucht verleiten wolle, weshalb Deponent durch den Bauern <persName key="ed_kc1_xfp_5qb">Schönfeldt</persName> den Schulmeister wohlmeinend warnen
+               lassen. Es hätte aber der Schulmeister hierüber bei der Hochgräfl. Herrschaft
+               geklagt, und sei der Hirtin Schwester aus dem Dorf, der Schulmeister aber habe immer
+               noch einen größeren Groll wieder Deponenten gefasst, dahero er auch wegen des neuen
+               Schulgebäudes von ihm verfolgt worden. Und als einstmals Deponent auf der See, als
+               die Brassen geleicht, fischen lassen, habe ihn der Schulmeister zum Teufel gehen
+               geheißen und sich nicht um die Fischerei zu bekümmern, da doch sowohl ihm als dem
+               Schulmeister von Ihro Hochreichsgräfl. Gnaden worden, auf der Fischerei Auge zu
+               haben, welches ihn sehr geschmerzt, aber keine losen Gegenworte gebraucht. Den
+               vergangenen Sonntage nach Trinitatis habe Deponent, als er aus der <placeName key="ed_jpk_w4f_cy">Rosengartenschen</placeName> Kirche gekommen, in dasige den
+               Schönfeldt von hier und den Bauern <persName key="ed_ur5_zjp_5qb">Kiworra</persName>
+               von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> gefunden, da denn Schönfeldt
+               in die Worte ausgebrochen: der Stobbische Schulmeister ist ein rechter Dieb. Er hat,
+               da er 30 Stück Aal gefangen gehabt, der Herrschaft nur 3 Stück, und da er 15 Stück
+               gefangen, nur 1 Stück abgegeben, obgleich er die Hälfte vom Fang der Herrschaft geben
+               sollte. Kiworra habe gesagt, dass er mit den anderen Fischen gleichfalls die
+               Herrschaft betröge. Deponent habe über diese Worte, dass solche diese beide
+               gesprochen, den dabei gegenwärtigen Steinortschen Schulmeister zu dem Zeugen gerufen
+               und sei darauf nach Hause geritten und habe die Dorfschaft zusammengerufen und sie
+               zum Scharwerk bestellt, da Schönfeldt auch hingekommen, und in Gegenwart der ganzen
+               Dorfschaft daselbst den Schulmeister wieder imputiert. Deponent aber habe sich gar
+               nicht hierin eingelassen, aber darauffolgenden Montag, als Deponent weggereist
+               gewesen, habe der Schulmeister an der See auf seinen Sohn auf das heftigste
+               Deponenten geschmäht, welches besonders desselben Sohn getan, welcher ihn einen
+               Hundsfott und Dieb geschimpft. Dieses habe Deponent sein Knecht erzählt, da er nach
+               Haus gekommen. Vorigen Donnerstag habe er dem Schulmeister solches zu Gemüte geführt
+               und ihn gebeten, den Sohn <gap reason="illegible"/>. Es habe derselbe auch
+               versprochen, dass der Sohn ihn nicht weiter injurieren würde. Den vorigen Dienstag
+               aber habe der Schulmeister zwar dem Deponenten einen guten Morgen geboten, bald
+               danach aber aufs gründlichste geflucht, dass das Donner und Wetter alles verbrennen
+               und 1000 Teufel holen solle. Er habe nicht anders glauben können, als dass solches
+               auf ihn geflucht gewesen, dahero, als er selben Tag in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gewesen, da der Schulmeister auch hingekommen, er der gn.
+                  <persName key="ed_hyb_zqv_scb">Fräulein v. Gohren</persName> solches geklagt,
+               welche es an Ihro Hochreichsgräfl. Gnaden gemeldet. Ihro Hochreichsgräfl. Gnaden
+               hätten hierauf unter ihnen dergestalt debattiert, dass beide sich vertragen, der
+               Schulmeister den Deponenten nicht weiter schimpfen und seinen Sohn bestrafen solle.
+               Sie wären hierauf friedlich in den Steinortschen Krug gegangen und hat ein jeder 4
+               Stof Bier getrunken, da denn Schönfeldt hingekommen und gesagt, dass der Schulmeister
+               an der See auf Deponenten gesprochen, dass er ein Schurke und Hundsfott und kein
+               Kirchenvater wäre. Als der Schulmeister solches beeidet, habe Deponent sich nicht
+               aufhalten können in die Worte auszubrechen, du Schelm, die Hundsfott, hast mich zum
+               Kirchenvater gesetzt, der Schulmeister habe dieselben Worte repetiert. Deponent habe
+               aber sich nicht in Tätlichkeiten eingelassen, sondern sich beruhigt, er sollte an
+               Ihro Hochreichsgräfl. Gnaden klagen gehen. Der Schulmeister habe hierauf noch vor
+               sich außer den vorigen vier Stof 1 Stof Bier genommen und sei weggegangen. Deponent
+               sei bald darauf mit dem Schönfeldt jeder nach Hause geritten und habe sein Pferd
+               abgesattelt, sei in die Stube gegangen und habe seinen Knecht herausgeholt, um mit
+               selbigem die Fohlen einzu<gap reason="illegible"/>, als er sich aber vor der Tür
+               niedersetzen wollen, sei Schulmeister dicht an sein Gehöft gekommen und habe gerufen,
+               Hundsfott, Schurke. Deponent hätte ihn gefragt, was er von ihm haben wolle, habe auch
+               einen Knüppel aus dem Zaun herausgezogen in Meinung, dass der Schulmeister sich davor
+               fürchten würde. Es sei derselbe aber auf Deponenten zugelaufen, habe ihn beim Kopf
+               gefasst und in die Augen gestoßen, dass das Blut haufenweise herausgekommen. Dessen
+               Schulmeisters Sohn sei auch dazu gekommen und habe ihn mit einem dicken Knüppel
+               geprügelt, dass er noch 4 braune Flecken habe auf dem rechten Arm und Schulter.
+               Deponent habe den Schulmeister festgehalten und gerufen: Gewalt, ich habe einen
+               Mörder. Derselbe aber habe sich losgerissen und sei in sein Haus gesprungen. Der
+               Bauer Schönfeldt, der aus dem Dorfe dazu gekommen, habe hierauf demselben die Fenster
+               eingeschlagen, herein gestiegen und den Schulmeister gefangen nehmen wollen, Deponent
+               aber habe solches nicht zugegeben, sondern sei gleich nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> geritten und hab es Ihro Hochreichsgräfl.
+               Gnaden geklagt, welche ihm zur Sicherheit und dass es im Dorf ruhig bleiben solle,
+               den Verwalter <persName key="ed_adm_stj_j5b">Christoph</persName> und <seg type="comment">
+                  <orig>Schneider Jürge</orig>
+                  <note xml:id="ntpy_ftk_z5b">Jürgen <persName key="ed_amp_vtg_bqb">Jünger</persName>
+                  </note>
+               </seg> aufgegeben. Der Schulmeister gestand die Vorwürfe ein. Jedoch habe er keine
+               Fische unterschlagen, dies sei ein Gerücht, da sein Sohn behauptet hatte, er hätte so
+               viele Fische in einer Nacht gefangen. Die Frau des Klägers habe im Dorf verbreitet,
+               dass seine Frau gestohlen habe. Auch auf den Kläger geflucht habe er nicht. Im Krug
+               sei der Kläger auf ihn losgegangen, und auch vor dessen Haus habe nicht er den Streit
+               begonnen. Verhört werden noch der Sohn des Schulmeisters, der Knecht <persName key="ed_zdz_j5j_j5b">Michael Smolenga</persName>, der Bauer Schönfeldt und der
+               Bauer <persName key="ed_tfz_p5j_j5b">Skowroda</persName>, bevor das Urteil ergeht. </p>
+            <p>Urteil. Da der Schulze Wilewski höchst sträflich und unverantwortlich gehandelt, dass
+               derselbe, nachdem Ihro Hochreichsgräfl. Gnaden den unvernünftigen Klatsch wegen auf
+               eine so gnädige Art beigelegt, sich von dem unvernünftigen Einschwätzen des
+               Schönfeldt aufbringen lassen, den Schulmeister zu schimpfen, den Stuhl wieder ihn
+               aufzuheben und nach ihm zu stoßen, auch Unrecht getan, dass er wider den Schulmeister
+               den Knüppel aufgehoben und ihn damit geschlagen, und nicht loslassen wollen und
+               Gewalt gerufen, auch die Dorfschaft in Alarm gebracht; der Schulmeister aber durch
+               unmäßiges Fluchen sich vergangen, der Grund oder Urheber der im Dorf <placeName key="ed_xjg_d12_gy">Stobben</placeName> vorgegangenen Schlägerei ist, indem er in
+               der Schule ruhig bleiben und den Schulzen durch unvernünftiges Schimpfen nicht
+               irritieren sollen, als soll der Schulze Wilewski 3 Fl. Strafe ans Hospital entrichten
+               und die Hälfte der Gerichtskosten bezahlen, der Schulmeister aber 45 Gr. Strafe und
+               die Hälfte der Gerichtskosten bezahlen. Beide sollen in der Schule, da die Jugend
+               geärgert, sich öffentlich eoram Actuario versöhnen und einander deprezieren. Künftig
+               aber wird der Schulze bei Strafe des <seg type="comment">
+                  <orig>Spanischen Mantels</orig>
+                  <note xml:id="nt5p_bvj_j5b">
+                     <ref target="https://de.wikipedia.org/wiki/Schandmantel">Schandmantel</ref>
+                  </note>
+               </seg>, der Schulmeister aber bei Strafe der Kassation verwarnt, nicht die geringste
+               Gelegenheit zur Uneinigkeit zu geben. Sonsten die Strafe ohne ferneres Verhör
+               sogleich zur Exekution gebracht werden soll. Der Bauer Schönfeldt soll wegen der
+               unbesonnenen Aufbringung des Wilewski und übrige unnütze Plaudereien 45 Gr. ans
+               Hospital entrichten. Der Bauer Jan Skowroda soll wegen der an der Schule begangenen
+               Tätlichkeiten und groben Exzesse, auch Schimpfworte und Injurien Ausdrücke und
+               Provokationen mit 24 und der <persName key="ed_gbh_pvj_j5b">Michael
+                  Skowroda</persName> auf 12, der Knecht Schmolenga aber, dass er seinen Wirt
+               dadurch aufgebracht. mit 6 Schlägen, der Sohn des Schulmeisters Friedr. Pallasch soll
+               wegen der dem Schulzen gegebenen Schlägen von seinem Vater mit 10 Schlägen belegt
+               werden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hnc_t12_4rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Teilung des Nachlasses des Hans Kolberg</title><title>. Silberbach, 16. Dezember 1737/Reichertswalde, 30. Juni 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Auch der Vergleich zwischen der Witwe des Bauern <persName key="ed_y5l_2dz_ssb">Peter Wölck</persName> aus Silberbach mit dem Knecht <persName key="ed_hvr_gdz_ssb">Martin Trittschanke</persName> aus Hartwich, Bl. 417-426,
+                  diente dazu, die Übernahme des Hofes zu regeln und die Witwe und deren unmündige
+                  Kinder zu versorgen. Weitere Beispiele ebd., siehe den (nach Orten gegliederten)
+                  Index ab Bl. 603.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 7, Bl. 411-416</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName>
+            <date from="1737-12-16" to="1742-06-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hnc_t12_4rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Silberbach, d. 16. Decembr. 1737</p>
+            <p>Nachdem der <persName key="ed_v2q_jdz_ssb">Hans Kolberg</persName> allhier, welcher
+               ein eigen Häuschen und von der gnädigen Herrschaft gegen einen gewissen Zins 1 Hube
+               Acker besessen, vor 1/4 Jahr Todes verblichen, und dessen hinterlassene Wittibe
+               solchem ferner vorzustehen sich nicht getraut, hingegen aber der Knecht <persName key="ed_sf2_4dz_ssb">Erdmann Holtzcke</persName>, so die älteste Tochter namens
+                  <persName key="ed_k3n_g2z_ssb">Elisabeth</persName> zu heiraten gesonnen, sich um
+               diese Gelegenheit gemeldet und bei der Hochburggräflichen gnädigen Herrschaft
+               untertänigst Ansuchung getan, dass ihm solche möchte gnäd. konzediert und überlassen
+               werden. Wenn nun Hochgedachte Hochburggräfliche Herrschaft in des erwähnten Erdmann
+               Holtzcken Bittgesuch nicht allein gnädigst gewilligt, sondern Tag pro termino
+               angesetzt und zugleich dasjenige, so die tote Hand nachgelassen, sowohl der Wittibe
+               als ihren unmündigen Kindern zu gut ordentlich inventiert worden, als ist in
+               Gegenwart des wohlachtbaren Gerichtsgeschworenen <persName key="ed_uxr_h3f_j5b">Johann Schmischken</persName> und des hiesigen Schulzen <persName key="ed_xkf_k3f_j5b">Bernhard Friesen</persName> vorerst der Wittiben Vermögen
+               durchgegangen und wie folgt befunden worden:</p>
+            <p>
+               <note type="editorial">Es folgt eine <seg type="comment">
+                     <orig>Auflistung des Vermögen</orig>
+                     <note xml:id="nj2d_g2v_r5b">Siehe das beigefügte Digitalisat.</note>
+                  </seg> der Witwe. Getreidebestände, Pferde, Hausrat. Davon werden verschiedene
+                  Positionen abgezogen: Zins für die Herrschaft, Postgeld, Schoss, Hofreste an Korn,
+                  Gerste und Leinsaat, Schulden gegenüber dem Krüger, dem Knecht, Hirtenlohn,
+                  Tagelohn, Kosten für den Sarg, den Pfarrer etc., in der Summe 100 Fl. 20 Gr. 9 D.
+                  Es verbleiben 108 Fl. 21 Gr. 9 D. </note> der Mutter nebst ihren 3 unerzogenen
+               Kindern zu ihrer Subsistenz von dem jetzigen Possessore zu haben, wobei ihr auch all
+               dasjenige Getreide, so etwa noch im Hof vorhanden, als ihr Eigentum verbleibt, und da
+               sie</p>
+            <p>2. den halben Baum-Garten, so in 46 Stück hoffnungsvollen Obst- nebst einer guten
+               Quantität Pflaumen- und Kirsch-Bäumen besteht, dem neuen Besitzer ohne einzige
+               Vergeltung, außer dass er dem Dorfe davor jährlich ein gewisses zu bezahlen und den
+               Zaun zu unterhalten hat, abtritt, so verspricht jener hingegen ihr zu Lebzeiten 5 Pf.
+               Leinsamen auf dieser seiner Zinshube auszusäen, um dadurch einigermaßen die kleinen
+               Kinder auf die Beine bringen zu können. <lb/>NB. Der halbe Garten ist so zu
+               verstehen, dass erstlich alles das Obst eingesammelt und hernach auf die Hälfte
+               verteilt wird, die Beete aber bearbeitet und sät sich jedes Teil nach eigenem
+               Gefallen und Willen dann auch.</p>
+            <p>3. Der Wittiben noch vor jetzo alles das vorrätige Futter gebührt hätte, sie aber
+                    dessen sich willig begibt, wenn ihr nur ihre Kuh davon ausgefuttert wird, als
+                    verbindet sich Erdmann Holtzcke hierdurch nicht weniger, ihr ihre eigene Kuh
+                    jederzeit in seinem Futter zu halten. Was aber deswegen an Hirten oder in die
+                    Gemeine zu tragen, muss die Wittibe selbsten über sich nehmen.</p>
+            <p>4. Offeriert sich die Mutter bei Ausstattung ihrer ältesten Tochter Elisabeth ihr
+                    in natura abzutreten:</p>
+            <p>
+               <list>
+                  <item>1 tragende Kuh à 6 Rtlr.</item>
+                  <item>1 dito Schaf</item>
+                  <item>2 kleine <unclear reason="illegible" cert="low">Brühlinger</unclear> à
+                            18 Gr.</item>
+                  <item>3 alte Gänse mit dem Ganter</item>
+                  <item>4 dito Hühner mit Hahn</item>
+                  <item>1 Ober- und 1 Unter-Bett, 1 Pfuhl und 3 Kissen <gap reason="illegible"/> Einschüttung, mittelmäßigen Standes, mit Linnen gehörigen Bezügen und
+                            Laken</item>
+                  <item>das notdürftige Weißzeug und Kleidung à parte </item>
+                  <item>nebst 1 Schaf und 2 Gänse, so auf die Hochzeit überdem noch ausgesetzt
+                     werden.</item>
+               </list>
+            </p>
+            <p>Nun behält die Mutter noch vor sich</p>
+            <p>
+               <list>
+                  <item>1 Kuh, wovon wegen der Fütterung schon vorhero gedacht, item</item>
+                  <item>1 Schaf </item>
+                  <item>1 Sau und</item>
+                  <item>1 Ferkel</item>
+                  <item>2 Gänse und</item>
+                  <item>2 Hühner, die der neue Wirt auch zu unterhalten verspricht in Konsideration
+                     ihm obiges kleine Vieh von der Mutter alles gratis übergeben wird. <lb/>NB. Das
+                     Kalb im 1. Jahr will sie dem Schwiegersohn auf Nutzung lassen, und also solcher
+                     Gestalt künftig jeder der zwei kleinsten Töchter 1 Kuh zueignen, ihre Betten
+                     nebst dem Weißzeug und Kleidern an dieselben oder deren Vormünder als dem
+                     Hubenwirt <persName key="ed_kw2_4fz_ssb">Peter Jäckel</persName> und
+                     Scharführer <persName key="ed_hfp_qfz_ssb">Hans Dieck</persName> allhier
+                     überantwortet wissen. Der Sohn Fritz aber hat damit nichts zu tun, sondern muss
+                     sich alsdann mit einem Wert von der Kuh und demjenigen behelfen, so etwa nach
+                     Abzug dessen noch aus der hinterbliebenen Masse auf ihn zu repartieren komme,
+                     im übrigen aber sowohl er als die Töchter, wenn sie vorhero genügend zur Schule
+                     gehalten, ihr Brot unter anderen guten Leuten durch Treu und Fleiß sich zu
+                     erwerben suchen.</item>
+               </list>
+            </p>
+            <p>Vorstehender Vergleich wird hiermit <seg type="comment">
+                  <orig>ratihabiert</orig>
+                  <note xml:id="njl5_shv_r5b">ratifiziert, für
+                            gültig erklärt</note>
+               </seg> und vor genehm gehalten.</p>
+            <p>Reichertswalde, den 30. Juni 1742</p>
+         </div>
+      </body>
+   </text>
+</TEI>

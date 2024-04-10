@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_c5v_cxg_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit dem Brettschneider Jürgen Wittke einen Vertrag.
+               Königsberg, 17. April 1689</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Verträge wurden auch mit dem Brettschneider Jan Stanislawski am <ref target="lehndorff_kcn_4sn_wtb">14. Dezember 1716</ref> und <ref target="lehndorff_vdx_shv_ytb">24. November 1718</ref> geschlossen. Bei einem
+                  Tagelohn von bis zu 24 Groschen, den Brettschneider erhielten, waren sowohl Wittke
+                  als auch Stanislawski, über mehrere Wochen beschäftigt. </p>
+               <p>„Verding-Zettel‟ aus der Entstehungszeit des Hauses Steinort in: StA Leipzig,
+                  Bestand 21950 Familienarchiv Lehndorff, Nr. 248, hier als Digitalisate. So schloss
+                  am 20. Juli 1889 Gräfin von Lehndorff in Steinort mit dem Nagelschmied <persName key="ed_pxk_15p_3qb">Andreas Przewoski</persName> aus Angerburg, am 8. Februar
+                  1690 in Stawisken mit dem Glaser <persName key="ed_u2v_d5p_3qb">Joachim
+                     Lamprecht</persName> aus Drengfurt und am 13. Juli 1690 mit dem Töpfer
+                     <persName key="ed_g2k_h5p_3qb">Martin Powollni</persName> aus Rastenburg
+                  Verträge. Zuvor hatte sie am 15. Juni 1690 in Steinort den mit dem Maurermeister
+                     <persName key="ed_mkw_m5p_3qb">Baltzer Fröbe</persName> am 22. März 1689 in
+                  Königsberg geschlossenen Vertrag nachgebessert. Der Vertrag mit dem Bildhauer
+                     <persName key="ed_idh_p5p_3qb">Peter Reiwenschuh</persName> ist datiert:
+                  Steinort, 4. Februar 1691. Vgl. Carl von Lorck, Groß Steinort. Der Bauvorgang
+                  eines Barockschlosses im deutschen Osten, Pilkallen 1937. Zu den Baukosten siehe
+                     <ref target="lehndorff_k3n_hny_mfb">hier (1706)</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 260, Bl. 2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1689-04-17" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_c5v_cxg_3qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Heut Dato ist mit dem Brettschneider <seg type="comment">
+                  <orig>
+                     <persName key="ed_fhb_nz3_3qb">Jürgen Wittke</persName>
+                  </orig>
+                  <note xml:id="nwc1_byg_3qb">aus Königsberg</note>
+               </seg> ein Verding getroffen
+                    also, dass er auf ein Schock Scheit fichtene <seg type="comment">
+                  <orig>Söller</orig>
+                  <note xml:id="ngnn_rz3_3qb">Dachboden</note>
+               </seg>-Dielen, so da 30 Werkschnur lang sein, an Lohn und
+                    Ausspeisung haben soll, als</p>
+            <p>
+               <list>
+                  <item>Fünfzehn Mark an Geld</item>
+                  <item>3 Schfl. Korn</item>
+                  <item>1 Schfl. Haber</item>
+                  <item>1 Schfl. Erbsen</item>
+                  <item>eine halbe Seite Speck</item>
+                  <item>ein halb Schwein</item>
+                  <item>3 Schock Käse</item>
+                  <item>3 Stof Butter <lb/>6 Stof Salz</item>
+                  <item>2 Ton. <seg type="comment">
+                        <orig>Tafelbier</orig>
+                        <note xml:id="ngtz_4pc_zsb">Günstiges Dünnbier aus den letzten
+                           Nachgüssen.</note>
+                     </seg>
+                  </item>
+                  <item>1/4 Ton. Bier</item>
+               </list>
+            </p>
+            <p> Königsberg, den 17. April 1689</p>
+            <p>18 Gr. auf die Hand </p>
+            <p>den 23. April in Königsberg gegeben 15 Fl.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

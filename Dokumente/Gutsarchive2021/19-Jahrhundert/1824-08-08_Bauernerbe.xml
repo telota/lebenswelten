@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_dsl_331_grb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Supplik des Christian und Martin Gellesch, die ihre Bauernerben verlieren sollen.
+               Pristanien, </title><title>8. August 1824</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Der Präsident des Oberlandesgerichts <persName key="ed_fdz_1m3_ycb">Hoyoll</persName> bemerkte auf der Supplik: „Wenn meine zudringliche
+                  Verwendung etwas vermögen kann, so ersuche ich von den untenstehenden armen Leuten
+                  die offerierten Zahlungstermine billig anzunehmen, die angedeutete Entsetzung aus
+                  den Grundstücken in P. S. zu lassen. Für die Genehmigung des Reichsgrafen Herrn
+                  von Lehndorff erlaube ich bei seiner mir bekannten Denkungsart einstehen zu
+                  können. Insterburg d. 10. April 1824.‟ - Obwohl Lehndorff auf eine Entsetzung
+                  beider Wirte nicht gedrängt hatte und eine gütliche Einigung erzielen wollte,
+                  drängte Rendant <persName key="ed_afr_tvf_2y">Werner</persName> auf ein
+                  Pachtverhältnis (Bl. 22v-23). Justitiar <persName key="ed_gjf_4j2_b2b">Horn</persName> forderte beide Familien auf, bis zum nächsten Gerichtstag am
+                  2. Juni für das laufende Jahr eine dem Verhältnis der Grundstücke gemäße Pacht der
+                  Administrationskasse zu Steinort zu zahlen, anderenfalls werde ihre Entsetzung aus
+                  den Grundstücken per Exekution ohne Nachsicht erfolgen (Bl. 22). In ihrer Not
+                  wandten sich die Brüder am 26. Mai an Lehndorff (Bl. 24-24v). Dessen Entscheidung
+                  liegt der Akte nicht bei, jedoch nennt das <ref target="lehndorff_ktg_fyx_2tb">Verzeichnis der Bauernstellen</ref> gar keine Bauern-Erben für Pristanien.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 545, Bl. 20-21v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            <date when="1824-08-08" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940855"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Eigenhändige Bitte</p>
+            <p> Pristanien bei Angerburg den 8. April 1824</p>
+            <p>Vor drei Jahren im Juli wurden uns unsere Bauer-Erben separiert und eigentümlich
+               übergeben, wir waren aber zur Zeit der Gutsherrschaft, dem H. <persName key="ed_k4z_jgl_2y">Grafen von Lehndorff</persName> auf Steinort, jeder 37 Rtlr.
+               Rest. Ich, der <persName key="ed_cgb_xrh_wqb">Christian Gellesch,</persName> bezahlte
+               auf diesen Rest im Monat Januar d. 7. 8 Rtlr. abschlägich; ich, der <persName key="ed_ub2_gth_wqb">Martin Gellesch,</persName> aber 10 Rtlr., so wie vor um eben
+               die Zeit an die Gutsherrschaft, und den Rest versprachen wir um <seg type="comment"><orig>Johanni</orig><note xml:id="nepq_x4h_yxb">24. Juni</note></seg> die eine
+               und um <seg type="comment"><orig>Michaeli</orig><note xml:id="negs_y4h_yxb">29.
+                     September</note></seg> c. die zweite Hälfte zu bezahlen. Hierauf ist aber gar
+               nicht gerücksichtigt, sondern der Bevollmächtigte, Herr Kassen-Rendant <persName key="ed_afr_tvf_2y">Werner</persName> in Angerburg brachte es durch
+               Gerichts-Anträge dahin, dass man uns den 13. d. M. aus den Grundstücken wegen dieser
+               Schuld stoßen will.</p>
+            <p>Wir bitten E. Königl. Höchstverordnetes Oberlandesgericht ganz untertänigst:
+               <lb/>dafür hochgeneigt Sorge zu tragen, dass die Gutsherrschaft angewiesen werde, so
+               lange mit der Zahlung zu warten und uns unserer Grundstücke nicht entsetzen zu
+               lassen.</p>
+            <p>Wir haben viele Kinder, haben das vorige Jahr 8 Pferde verloren, die
+                    Inventarien-Stücke abgegeben, sind nach vollendetem Neubau der Scheunen und den
+                    Reparaturen um 70 Rtlr. ärmer geworden, und die Getreidepreise sind von der Art,
+                    dass wir nicht Zahlung leisten können, wo nicht einmal Brot da ist bis zum
+                    frischen Einschnitt. Daher wir gebeten, um Johanni, als zum Leinwandmarkt, und
+                    um Michaelizeit uns die <gap reason="illegible"/> Zulagen zu verstatten.</p>
+            <p>Dies hat man uns nicht bewilligt, und wie E. Königl. Höchstverordnetes
+                    Oberlandesgericht zu ersehen die Gnade haben wird, beweist die Anlage des
+                    Gerichts, wo der Verkauf schon am 13. feststeht.</p>
+            <p>Ein Königl. Hohes Kollegium kann uns nur dadurch retten, wenn zwei Familien nicht
+               unglücklich werden sollen, uns gleich, wie wir schon untertänigst gebeten haben, uns
+               eine <seg type="comment"><orig>Dilation</orig><note xml:id="nspl_bph_yxb">Aufschubfrist</note></seg> bis zu denen von uns genannten Terminen gnädigst
+               festzusetzen, auch durch Mitgabe dieser Dilation diesen Termin zum Verkauf dadurch
+               aufzuheben. Wir haben mit denen Königl. Abgaben zu kämpfen und haben uns auch vor
+               Gericht nicht geweigert, unsere Reste der Gutsherrschaft zu bezahlen, aber die
+               Unmöglichkeit selbst, solches jetzt zu leisten, hat uns in Krankheit im Gram
+               erhalten, dass wir unsere Fr<gap reason="illegible"/> express abschicken, und um die
+               hohe Gnade bitten, unsere Subsistenz zu sichern.</p>
+            <p>Die Wirte</p>
+            <p>xxx bedeutet Christian Gellesch</p>
+            <p>xxx bedeutet Martin Gellesch</p>
+         </div>
+      </body>
+   </text>
+</TEI>

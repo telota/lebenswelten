@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_jfn_x1h_vbb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Tagebuchnotiz von Ernst Ahasverus Heinrich Graf von Lehndorff. </title><title>Berlin, 4. November 1785</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 486, Bl. 36-36v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+            <date when="1785-11-04" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Die <seg type="comment">
+                  <orig>Furcht vor einem neuen Krieg</orig>
+                  <note xml:id="nobk_vbh_vbb">Vgl. in der Akte die vorangehenden Tagebuchblätter
+                            zur politischen Situation. In den Notizen vom 18. November 1875 war
+                            Lehndorff nicht mehr so optimistisch, da der Bau von Wirtshäusern für
+                            Westpreußen gestrichen worden waren. Der König habe in der
+                            Kabinettsordre gesagt, <quote>dass Sie erst wissen wollen, wie ihre
+                                Revenuen stehen, und ob das Jahr Geld da sein wird, den Bau
+                                anzufangen.</quote> Auch dürfe kein Unglück eintreten, vgl. ebd.,
+                            Bl. 37-37v.</note>
+               </seg> scheint vorerst verschwunden zu sein. <seg type="comment">
+                  <orig>Der König hat auf das Jahr 1786 schon 500/112 Rtlr. zu
+                            den neuen Bauten assigniert, und auf dem General-Directorio ist man
+                            beschäftigt, die Einteilung dieser Gelder nach der Anzahl der
+                            Bürgerhäuser und der Königlichen Gebäude zu machen.</orig>
+                  <note xml:id="not2_kpc_tcb">Vgl. Woltmann, Alfred, Die Baugeschichte Berlins
+                            bis auf die Gegenwart, Berlin 1872.</note>
+               </seg> Zu der Spandauer
+                    Vorstadt nämlich soll eine ziemliche Zahl bürgerlicher Häuser und von dem
+                    Prenzlauer Tor bis zum Schlesischen eine Mauer um die Stadt gebaut werden, damit
+                    auch <placeName key="ed_xrv_gwb_by">Berlin</placeName> von dieser Seite
+                    Feuermauern bekomme. Die Palisaden auf der nordöstlichen Seite von Berlin sollen
+                    ganz wegfallen, weil sie zuviel Holz kosten, und im Jahr 1787 soll die andere
+                    Hälfte der Mauer vom Prenzlauer Tor bis zum Unterbaum aufgeführt werden. Da
+                    dieses nun der Entschluss des Königs ist, so müssen S. Maj. vor Krieg wohl
+                    sicher sein. Die diesjährigen Opera sind <seg type="comment">
+                  <orig>Arminio</orig>
+                  <ref target="https://de.wikipedia.org/wiki/Arminio_(H%C3%A4ndel)">
+                     <note xml:id="nnjm_2wk_w2b">Oper in drei Akten von Georg Friedrich
+                                Händel</note>
+                  </ref>
+               </seg> und <seg type="comment">
+                  <orig>Catone in
+                            Utica</orig>
+                  <note xml:id="nibf_bwk_w2b">
+                     <ref target="https://de.wikipedia.org/wiki/Catone_in_Utica">Oper in drei
+                                Akten von Pietro Metastasio</ref>
+                  </note>
+               </seg>. <seg type="comment">
+                  <orig>Der König wird schon mit Ausgang dieses Monats anhero kommen, um
+                            nach dem Rat der Ärzte länger hier zu bleiben, als die hiesige Luft der
+                            Gesundheit Seiner Majestät convenabler sein soll.</orig>
+                  <note xml:id="ndy4_jch_vbb">Schon am 23. September war er erkrankt, man
+                            befürchtete einen Schlaganfall. Am 26. September schreibt Lehndorff von
+                            einem Gichtanfall, ebd. Bl. 33-33v.</note>
+               </seg> Gestern Mittag kam ein
+                    Jäger express von <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> mit
+                    Depeschen für den General-Lieutenant von <persName key="ed_erq_d4c_tcb">Wartenberg</persName>, die Minister von der <persName key="ed_spm_j4c_tcb">Schulenburg</persName> und v. <persName key="ed_wxq_lzz_g1b">Werder</persName>. Diese Herren müssen heute in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> sein, und sind sie schon heute früh
+                    um 2 Uhr abgereist. Was dieses auf sich hat, <seg type="comment">
+                  <orig>ist man
+                            begierig zu erfahren.</orig>
+                  <note xml:id="ninq_4ch_vbb">In den Notizen
+                            vom Abend schreibt er, es habe sich um
+                                <quote>Landesangelegenheiten</quote> und die Errichtung von sechs
+                            neuen Regimentern, <quote>die beständig stehen</quote>, aus der Armee
+                            heraus im Frühjahr gehandelt. Vgl. hierzu Jany, Eberhard (Hrsg.), Die
+                            Geschichte der Preußischen Armee vom 15. Jahrhundert bis 1914, Osnabrück
+                            1967. </note>
+               </seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

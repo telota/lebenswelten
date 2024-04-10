@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_l5p_rgt_mqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Vor dem Patrimonialgericht werden die Ursachen des Brandes im Haus des Schulzen
+               in Stawken untersucht</title><title>. Stawken, 7. Mai 1746</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>1754 wird der Schulze seines Amtes entsetzt, siehe die Anmerkung zum Dokument vom
+                     <ref target="lehndorff_wl5_trt_mqb">12. Juli 1754</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 697, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            <date when="1746-05-07" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_l5p_rgt_mqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Stawken d. 7. Mai 1746</p>
+            <p>Nachdem Ihro Hochgebohren Exzellenz die Frau <persName key="ed_q4s_xyl_2y">Reichsgräfin von Lehndorff</persName> mich, den adlichen Gerichtsschreiber
+               requiriert, das bei dem Schulzen allhier <persName key="ed_w44_dwr_vqb">Michael
+                  Duzick</persName> ausgekommene Feuer und dessen Umstände zu untersuchen, die von
+               denen etwa vorkommenden Klagen einen ordentlichen Rezess zu verfertigen und nach
+               vorkommenden Umständen die etwa strafbar befundenen Leute zu bestrafen, so habe mich
+               heute dato allhier verfügt und die Untersuchung folgender Gestalt bewerkstelliget.
+               <lb/>Es wird zu dem Ende der abgebrannte Schulze vorgefordert und befragt, wie das
+               Feuer bei ihm ausgekommen und was ihm vor Umstände davon wissend sind. Er antwortet:
+               Er heiße Michael Duzick und sei ein Schulze allhier im Dorfe, 59 Jahre alt. Am
+               verwichenen 30. April c. a. wäre er ohngefähr gegen 9 Uhr Vormittag ins jetzige
+               Sommerfeld zum Pflügen nahe an das <placeName key="ed_epz_y2c_gy">Engelsteinsche</placeName> Wäldchen gegangen, hätte 3 Stunden lang daselbst auf
+               seinem Stück zur Leinsaat gepflügt, nachdem er sich nun mit seinen Ochsen umgewendet,
+               sei er einen heftigen Rauch im Dorfe, der sich allmählich vermehrt hat, gewahr
+               geworden. Er hätte zu dem Ende die Ochsen stehen lassen und sei auf einen Berg
+               gelaufen um zu sehen, was der Rauch zu bedeuten hätte. Weil sich nun der Rauch sehr
+               vermehrte, sei er in der größesten Geschwindigkeit an seine Ochsen gegangen, habe
+               selbe aus der Zoche gespannt, die Zoche nebst dem Eisenwerk im Felde liegen lassen,
+               die Ochsen bis an das Vorwerk vor sich getrieben und zu dem Feuer geeilt. Er wäre
+               schon nahe am Dorfe gewesen und hätte nicht einmal gewust, dass ihn eigentlich das
+               Feuer getroffen, bis er an des <persName key="ed_t45_yqs_vqb">Scheimanns</persName>
+               Wohnung gekommen, als dann hätte er leider! sehen müssen, dass der Giebel an dem
+               Wohnhause und der Scheune schon verbrannt und sich das Feuer nur mit dem Rumpf dieser
+               seiner sämtlichen Gebäude aufgehalten. Er hätte gern etwas von dem Seinigen retten
+               wollen, das Feuer hätte aber gar zu sehr überhand genommen und wäre ihm die
+               Unmöglichkeit zu retten gewesen. <lb/>Ehe er ins Feld gegangen, hätte er ein paar
+               Streichbretter in den Kamin gehangen und hätte seiner Tochter <persName key="ed_gsf_frs_vqb">Catharina</persName> befohlen, den Kamin rein zu machen,
+               welches sie auch getan in Gegenwart des Knechts <persName key="ed_ocv_3rs_vqb">Johann
+                  Scheimann</persName>, und hätte den Ruß im Schornstein liegen lassen, denn in
+               seinem Hause wäre die Gewohnheit, den Schornstein alle acht Tage zweimal rein zu
+               machen und den sehr wenigen Ruß jederzeit mit der Asche zu vermischen, bis des
+               Unzeugs gar zu viel gewesen, alsdann hätte er es auf die Landstraße geworfen. Er ist
+               ferner nicht in Abrede, des Morgens bei Tagesanbruch d. 30. im Pferdestall, welcher
+               im Wohnhause befindlich, gewesen zu sein und die Pferde abgefüttert zu haben. Er <seg type="comment">
+                  <orig>konstatiert</orig>
+                  <note xml:id="niz4_prs_vqb">stellt fest</note>
+               </seg> aber, kein Funken Feuer mitgehabt zu haben, nachgehend wäre er zum <persName key="ed_ptp_rtr_vqb">Rautenberg</persName> gegangen. Überhaupt, er wisse von
+               keinen näheren Umständen, wie und auf was das Feuer in sein Haus, und an welchem Orte
+               ausgegangen. Er hätte keine <seg type="comment">
+                  <orig>Präsumtion</orig>
+                  <note xml:id="npp1_xrs_vqb">Verdacht</note>
+               </seg> auf jemand, nicht einmal auf seinen entlaufenen Knecht <persName key="ed_zzb_bdx_clb">Bartel Preiß</persName>, denn er hätte allhier bei ihm keine
+               Not gehabt, vielmehr seine wenige Kleider zurückgelassen und ein <seg type="comment">
+                  <orig>Werst</orig>
+                  <note xml:id="ny4b_3ss_vqb">Bedeutung unklar.</note>
+               </seg> bei dem Ziegler verborgt, und er hätte sich auch nach der Zeit seiner
+               Desertion nicht mehr in dieser Gegend sehen lassen. Mit den hiesigen Nachbarn begehe
+               er sich schiedlich und friedlich und habe auf niemand eine Mutmaßung. <seg type="comment">
+                  <orig>Plura nesciers dimissus. </orig>
+                  <note xml:id="ni3d_xts_vqb">Weitere Angaben hate er nicht gemacht.</note>
+               </seg>
+               <persName key="ed_zx4_pss_vqb">
+                  <lb/>Anna Duzickowa</persName>, des Schulzen Eheweib, geborene Czwickowstarcka,
+               ohngefährt 56 Jahr alt, sagt <seg type="comment">
+                  <orig>praecessa admonitione de dicerta veritate</orig>
+                  <note xml:id="novw_vss_vqb">ermahnt, die Wahrheit zu sagen</note>
+               </seg> folgendes aus: Sie wüsste nicht mehr von dem sie unglücklich gemachten Feuer,
+               als dass es von der Seite ihres Mannes Bruder Gebäude aus dem Pferdestall
+               herausgekommen, sie hätte zwar, ehe ihr Ehemann ins Feld gegangen, <seg type="comment"><orig>Brühestück</orig><note xml:id="nrl4_pbx_txb"><ref target="https://de.wikipedia.org/wiki/Quellst%C3%BCck">Vorstufe der
+                        Teigbereitung</ref></note></seg> gekocht, sobald es aber fertig gewesen,
+               hätte sie das wenige Feuer zusammengescharrt und den Schornstein mit dem Brett
+               zugemacht. Die Tochter Catharina hätte bald darauf den wenigen Ruß aus dem
+               Schornstein gefegt und wäre mit dem Brühestück zu ihrem Vater ins Feld gegangen.
+               Inquisitin habe sich nachgehends an den Ofen nahe beim Kamin gesetzt und hätte Federn
+               gerissen, hätte aber kein Merkmal von dem Brande gespürt, bis endlich die <persName key="ed_gwd_4ts_vqb">Barbara Czwikowskin</persName> zu ihr ins Haus getreten und
+               angesagt, dass ihr Haus brennt. Sie wollte ihr anfangs nicht glauben, bis sie endlich
+               herausgegangen und gewahr worden, dass das Feuer schon das Dach eingenommen. Hierauf
+               sei sie mit der <gap reason="illegible"/> Czwikowskin in die Stube zurück gegangen
+               und habe daraus 10 Stück Leinwand, worunter ihr 8 und der Herrschaft 2 Stück gehören,
+               eine Lade mit Kirchenkleidern und 10 Kissen, auch 3 Oberbetten gerettet, das übrige
+               aber dem Feuer überlassen müssen. <lb/>Sie <seg type="comment">
+                  <orig>präferiere</orig>
+                  <note xml:id="nh1r_sts_vqb">jemand verdächtigen</note>
+               </seg> auf keinen einzigen Menschen, der diese Tat an ihr sollte bewiesen haben,
+               vielweniger auf ihren vorigen Knecht Bartel Preiß, in dem er schon seit Ostern
+               weggegangen und sich nicht mehr sehen lassen, zudem hätte sie demselben nichts übles
+               getan, vielmehr alles Gutes, auch nur letzlich, ehe er weggegangen, hätte ihr Mann
+               ihm 15 Gr. zu Bier gegeben. Plura nesciers dimissus. <persName key="ed_gwd_4ts_vqb">
+                  <lb/>Barbara Czwikowska</persName>, 46 Jahr alt, lutherischer Religion zugetan,
+               deponiert folgendes: Sie wäre aus der Stadt <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> mit Salz nach Hause gekommen und als sie ein Spaten von dem
+               hiesigen Schulmeister geliehen, sei sie in ihren Garten gegangen und habe darinnen
+               gegraben. Bald darauf, als sie sich umgesehen, wäre sie das Haus des Duzick brennend
+               ansichtig geworden. Sie fing an, gleich Gewalt zu schreien, und sei zu der Schulzin
+               gelaufen, die sie, eben mit den Federn okkupiert, nahe am Kamin sitzend gefunden, mit
+               der betrübten Post, dass Feuer im Haus wäre. Sonsten wisse sie nichts mehr, als dass
+               das Feuer nicht vom Kamin , sondern vom Scha<gap reason="illegible"/> übern Stall
+               seinen Anfang genommen, dahero sie <gap reason="illegible"/> wäre. <persName key="ed_z4p_d5s_vqb">
+                  <lb/>Ortha, verwittibte Stobbe,</persName> gebohrene Marckowa, über 50 Jahr alt,
+               lutherischer Religion zugetan, sagt auf ihr Gewissen aus, dass sie zu dem Schulzen
+               Duzick ins Haus wegen der von ihm von ihrem verstorbenen Ehemann gekauften, aber
+               nicht bezahlten Stiebeln um juste Mittagszeit gegangen, hätte aber annoch kein Feuer
+               gesehen, viel weniger einen Rauch bemerkt, bis die Czwikowska Gewalt geschrien und
+               dass das Haus brennt angesagt. Sie wäre gleich herausgelaufen und hätte gesehen, dass
+               es nicht mehr zu retten gewesen. Dieser Brand geschah in Zeit von einer halben
+               Stunde. Plura nesciers dimissus. <persName key="ed_ocv_3rs_vqb">
+                  <lb/>Johann Scheimann</persName> ohngefähr 18 Jahre alt, deponiert die ihm von der
+               Feuersbrunst bewussten Umstände folgender Gestalt: Er wäre vor dem Brande im Hause
+               gewesen und wollte einen kleinen Bohrer <seg type="comment">
+                  <orig>lehnen</orig>
+                  <note xml:id="nzs3_45s_vqb">leihen</note>
+               </seg>, denselben hätte er mit Genehmhaltung der Schulzin unterm Balken genommen und
+               sei damit weggegangen. Mit dem Bohrer hätte er bis an den Mittag auf seinem Gehöft
+               gearbeitet und das Feuer nicht eher gesehen, bis die Leute angefangen zu schreien,
+               dass Feuer im Dorf wäre. Er hätte hierauf zum Retten zugelaufen, weil seine Scheune
+               aber diesem Feuer eben so nahe exponiert gewesen, hätte er umgekehrt und auf seine
+               Scheune gestiegen, bis dass er bemerkt, das keine Gefahr zu besorgen, habe er das
+               Wasser zum Löschen fleißig zugetragen. <lb/>Deponent wäre zwar, wie er schon <seg type="comment">
+                  <orig>mentioniert</orig>
+                  <note xml:id="nm3g_s5s_vqb">erwähnt</note>
+               </seg> hat, im Hause des Schulzen kurz vor der Mittagszeit gewesen, hätte aber keinen
+               Dampf, viel weniger Feuer im Hause <seg type="comment">
+                  <orig>remarquiert</orig>
+                  <note xml:id="nxtj_v5s_vqb">bemerkt</note>
+               </seg>, außer, dass die Schulzin im Kamin ein kleines Feuer gehabt und dabei ein
+               Töpfchen Grütze beigesetzt, das Feuer aber hätte sie ausgelöscht, als das Kamin von
+               der Tochter gefegt worden. Er könne dem Schulzen den Ruhm geben, dass er den
+               Schornstein öfters fleißig gefegt. Plura nesciers dimissus. <lb/>Die übrigen Nachbarn
+                  <persName key="ed_lyl_dvs_vqb">Jendris Schönfeldt</persName>, <persName key="ed_gg4_gvs_vqb">Dawid Gwiasda</persName>, <persName key="ed_prb_kvs_vqb">Michael Duzick</persName>, <persName key="ed_xjf_wtr_vqb">Andreas
+                  Rautenberg</persName> und der hiesige Schulmeister <persName key="ed_ojw_svs_vqb">Georg Heinrich</persName> deponieren insgesamt <seg type="comment">
+                  <orig>contestando</orig>
+                  <note xml:id="nb5c_bws_vqb">geben im Verhör an</note>
+               </seg>, dass sie keineswegs wissen, auch nicht einmal <seg type="comment">
+                  <orig>präsumieren</orig>
+                  <note xml:id="nq12_cws_vqb">vermuten</note>
+               </seg> können, wie das Feuer herausgekommen und von wem der Schaden dependiere, denn
+               sie wären einesteils aufm Felde beim Pflügen gewesen, anderenteils mutmaßen sie gar
+               nicht, mit wem der verunglückte Schulze, als bei welchem das Feuer den Ursprung
+               genommen, in Feindschaft gelebt. Er selbsten wäre ein guter und wohlhabender Wirt
+               gewesen und sich mit jedermann, auch mit seinem eigenen Gesinde und besonders mit dem
+               desertierten Knecht schiedlich und friedlich begangen. Er rauche keinen Tabaco, wäre
+               auch sonst wegen seines Schornsteins allezeit besorgt gewesen und hätte ihn öfters
+               gefegt, dergestalt, dass sie ihn gänzlich <seg type="comment">
+                  <orig>exculpiert</orig>
+                  <note xml:id="nswd_nws_vqb">von Schuld frei</note>
+               </seg> zu halten Ursach haben. <seg type="comment">
+                  <orig>Plura nesciates dimissi.</orig>
+                  <note xml:id="ni2d_pws_vqb">Weitere Angaben wurden nicht gemacht.</note>
+               </seg>
+               <lb/>Da hiernechst dem adlichen Gerichtsschreiber committiert worden, die
+               ungehorsamen Leute, die das Feuer nicht gestillt, zu bestrafen, so zeigt <persName key="ed_omn_f5g_bqb">David Wilewski</persName> an <lb/>1. den <persName key="ed_nbb_n5r_vqb">Christoph Czwikowski</persName>, welcher aber aus Furcht der
+               Strafe sich unsichtbar gemacht und dahero nicht vernomme werden könne. <lb/>2.
+                  <persName key="ed_lgh_2xs_vqb">Christoph Scheimann</persName> von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> wird vernommen und gesteht, das Feuer
+               in <placeName key="ed_nkz_b12_gy">Stawken</placeName> gesehen zu haben und von Dawid
+               Wilewski kommandiert worden zu sein, weil er aber vom Felde gegangen und müde
+               gewesen, sei er nach Hause gegangen. <lb/>3. <persName key="ed_ajm_jxs_vqb">Johann
+                  Scheimann</persName>, von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               gewärtig, gesteht, das Feuer, als er vom Pflügen gegangen gesehen zu haben, weil aber
+               sein Fohlen auf der Wiese nicht aufstehen können, er seine Ochsen auch nicht
+               loslassen wollen, hätte er mit dem Fohlen genug zu tun gehabt.</p>
+            <p>
+               <hi rendition="#u">Bescheid</hi>
+            </p>
+            <p>Alldieweilen Christoph Scheimann und Johann Scheimann von Pristanien nicht in
+                    Abrede sein können, das Feuer <seg type="comment">
+                  <orig>rempestive</orig>
+                  <note xml:id="nl12_qxs_vqb">mit Abstand</note>
+               </seg> gesehen zu haben,
+                    dasselbe aber zu löschen nicht zugelaufen, als hat jeder, da derselben <seg type="comment">
+                  <orig>exculpation</orig>
+                  <note xml:id="ngzx_txs_vqb">Entschuldigung</note>
+               </seg> nicht acceptable <seg type="comment">
+                  <orig>prostersuam levitatem</orig>
+                  <note xml:id="nz5k_wxs_vqb">eine
+                            schändliche Ausrede </note>
+               </seg>, allen anderen dergleiche Leuten zum
+                    Exempel, um in Zukunft bei dergleichen Gott gebe nimmer zu geschehenden Fällen
+                    prompt zu sein, sein Betragen mit 20 <seg type="comment">
+                  <orig>Patronker</orig>
+                  <note xml:id="new2_dys_vqb">Peitschenhieben</note>
+               </seg> zu verbüßen.</p>
+            <p>
+               <persName key="ed_cln_c3r_fkb">J. Szczepanski</persName>
+               <lb/>Adlicher Gerichtsschreiber des <orgName key="ed_r2q_dc1_tcb">Amts
+                  Angerburg</orgName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

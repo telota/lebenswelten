@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_xrd_hck_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Grundsteuer-Veranlagungskommission an Carl Meinhard Graf von
+                    Lehndorff. Rhein, 19. Juli 1862</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 285, Bl. 117</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <orgName key="ed_nmm_qzp_wx">Grundsteuer-Veranlagungskommission, Kreis
+                        Angerburg</orgName>
+               <placeName key="ed_qw4_wyj_gy">Rhein</placeName>
+               <date when="1862-07-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+            </correspAction>
+            <note>Siehe  Die <ref target="lehndorff_mdk_vsj_gy">Veranlagung der
+                        Grundsteuer</ref>, in der Akte Bl. 3-4, sowie Bl. 5 den Zeitungsausriss zur
+                    Grundsteuer in Westpreußen. Lehndorff ließ sich aus <placeName key="ed_omg_5xl_5y">Darkehmen</placeName> von der dortigen
+                    Veranlagungskommission am 2. November 1861 eine Abschrift des Verzeichnisses der
+                    hiesigen Musterstücke schicken (Bl. 6-31), und am 8. November 1861 sandte ihm
+                    Botho Graf zu <persName key="ed_rbv_ctt_2cb">Eulenburg</persName> auf seinen
+                    Wunsch den Abdruck der Klassifikationstarife für die Kreise des
+                    Regierungsbezirks Marienwerder (Bl. 40-86), gegen die zahlreiche Einwände
+                    erhoben worden waren; das Anschreiben Bl. 38-39v. - Zur <quote>Begutachtung der
+                        gegen den Klassifikations-Tarif erhobenen Einwände</quote> fand am 2.
+                    Dezember im Gasthaus in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+                    eine Sitzung der Veranlagungs-Kommission statt, an der Lehndorff ebenso wie die
+                    Mitglieder der kreisständischen Vorprüfungs-Kommission teilnahmen. Konzepte und
+                    Reklamation, wahrscheinlich in Vorbereitung der anberaumten Sitzung, in der
+                    Akte, das Protokoll der Sitzung ist nur fragmentarisch überliefert, das Ergebnis
+                    fehlt (Bl. 99-113).</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Rhein, 19. Juli 1862</dateline>
+            </opener>
+            <p>Euer <persName key="ed_zkm_whl_2y">Hochgeboren</persName> beehre ich mich ganz
+                    ergebenst davon in Kenntnis zu setzen, dass behufs Regelung der Grundsteuer <seg type="comment">
+                  <orig>die Gemarkung Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            durch den Herrn Geometer <persName key="ed_rs5_wbk_gy">Drewello</persName> neu gemessen werden soll.</orig>
+                  <note xml:id="ni2r_l53_hfb">Siehe das Dokument vom <ref target="lehndorff_lbr_myj_gy">5. November 1861</ref>. - Für das 20.
+                            Jahrhundert (1914/15, Nachträge von 1926) sind Meßtischblätter der
+                            Königlich-Preußischen Landaufnahme aus dem Königsberger Staatsarchiv
+                            überliefert, GStA PK, XX. HA AK, C Nr. 10447. </note>
+               </seg> Nach § 14 der Anweisung für das Verfahren bei Herstellung der
+                    Gemarkungs-Karten etc. (Gesetz-Sammlung pro 1861, S. 307) fordere Euer
+                    Hochgeboren ich hierdurch auf, die Grenzen der Gemarkung Groß Steinort und der
+                    in letzterer belegenen, in der Karte besonders zu verzeichnenden Grundstücke
+                    durch eine mit der Örtlichkeit genau bekannte Persönlichkeit anzeigen zu lassen,
+                    wobei ich mich auf § 15 der gedachten Nachweisung beziehe und darauf aufmerksam
+                    zu machen nicht verfehle, dass spätere Berichtigungen, die aus unterlassener
+                    Informationserteilung entstehen, auf alleinige Kosten des Herrn Besitzers
+                    erfolgen. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

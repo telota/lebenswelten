@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_ejj_h3t_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Ermittlung des Amtsgerichts Angerburg gegen den Dorfschmied von Pristanien,
+               Michel Kutzing, wegen des Diebstahls von Pferden aus dem Dorf Plagbuden. 1743 bis
+               1745 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Der König ordnete die Fortsetzung des Prozesses an. Kriegsrat <persName key="ed_qdb_w4n_v2b">Hindersin</persName> wurde zum Commissarius Loci bestellt
+                  und die Inquisition auf den 10. Oktober 1743 „in loco‟, d. h. in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, festgesetzt. Gräfin von Lehndorff
+                  sollte 2 vierspännige Wagen für 6 Personen am Vortag nach Angerburg schicken,
+                  damit am Donnerstags mit Tagesanfang die Arbeit beginnen könne. Da es bereits kühl
+                  war, sollte in Pristanien „eine aparte eingeheizte Stube eingeräumt‟ und zur
+                  „Aufwärmung unserer mitzubringenden Speisen‟ Holz gereicht und Vor allem dafür
+                  gesorgt werden, dass der Beschuldigte anwesend ist. <lb/> In ihrer Antwort geht
+                  Gräfin von Lehndorff darauf nicht ein, sondern erklärt, dass sie, da der Schmied
+                  wegziehen wolle, an das Gericht der Stadt Rastenburg geschrieben habe, um die
+                  Inquisition vorzunehmen. Dieses habe eingewilligt und die Akten verlangt. Sie
+                  bittet, die Akten dort zu remittieren. <lb/> Damit war der Termin hinfällig, der
+                  nächste für den 15. Oktober erst am 13. übermittelt.Das Angerburger Gericht bot
+                  den 17. an, „wenn die Fuhre auf drei Personen nach uns geschickt werde‟, und
+                  versäumte nicht, ihr die Schuld an der Verzögerung zuzuschieben. Am 17. fehlten
+                  die Zeugen, „besonders die Vornehmsten‟ waren nicht erschienen. Der Wochenbeginn
+                  wurde als neuer Termin festgesetzt, „bis dahin auch der Krüger hier verbleibt‟, da
+                  man vernommen habe, dass er nach Litauen ziehen wolle. Man hatte ihn in Angerburg
+                  in die als Gefängnis dienende Custodie gesteckt und dort so schlecht versorgt,
+                  „dass er von nichts zu leben habe‟, wogegen die Gräfin protestierte und einen
+                  Vorschuss zu seiner Versorgung leisten wollte. Das lehnte Amtsrichter <persName key="ed_cln_c3r_fkb">Szczepanski</persName> ab, da sich „der Inquisit aus seinem
+                  Vermögen selbsten zulänglich nähren kann‟. <lb/> Obwohl der König am 28. Oktober
+                  1743 einen beschleunigten Abschluss des Prozesses gefordert hatte, geschah nichts.
+                  Der Gefangene sollte vom Hauptamt interim versorgt werden, was nicht geschah, so
+                  dass der Richter am 6. November schrieb, dass der Gefangene bald „krepiert‟, wenn
+                  die Gräfin nicht helfe, es könne ja nicht sei, dass er „vor Hunger im Gefängnis
+                  sterben sollte, da er noch so viel Vermögen habe, sich selbsten zu verpflegen‟.
+                  <lb/> Am 14. November forderte Szczepanski auch Kutzings Ehefrau und dessen
+                  Stiefsohn zum 21. November zum Verhör, nach dem Verhör des <persName key="ed_lwr_w5f_fqb">Haberland</persName> aus Stawisken am 18. November auch
+                  dessen Frau. Das von der Gräfin zur Alimentation geschickte Geld verbrauchte
+                  Szczepanski indessen für Prozesskosten. Dem Verkauf der Pferde für 6 Rtlr. stimmte
+                  er nicht zu und forderte die Taxation der „Habseligkeiten‟ binnen acht Tagen.
+                  Diese ergab als Vermögen 50 Rtlr., 21 Gr. 9 D., darunter 2 Arbeitspferde, 1 Kuh, 2
+                  Ziegen, 1 Sau, sehr weniges, schlechtes Mobiliar und Handwerksgeräte, 5 1/2 Schfl.
+                  Gerste und 3 Mandel Hafer. Noch im Oktober 1744 war Kutzing in Haft. Gräfin von
+                  Lehndorff sollte dem Gericht deshalb 43 Rtlr. 57 Gr. 3 D. zukommen lassen, „damit
+                  wir den Inquisiten den 23. huius nach der Festung fortschaffen können‟, wo er 8
+                  Jahre Festungsarbeit leisten sollte, um nicht „durch ferneres Verweilen‟ Unkosten
+                  anzuhäufen. Da der Amtmann nicht anwesend war, passierte nichts, trotzdem erklärte
+                  das Gericht Ende Oktober, dass man wegen der Verzögerungen keine Verantwortung
+                  trage. <lb/> Am 25. November 1744 fand eine weitere Sitzung des
+                  Patrimonialgerichts in Steinort statt. Es sollte in Form eines <ref target="lehndorff_kj1_ggd_vpb">„Teilungs-Briefs‟ </ref>ermittelt werden, was
+                  von dem taxierten und sequestrierten Vermögen den Stiefkindern aus der Ehe mit dem
+                  verstorbenen <persName key="ed_i5f_kvf_fqb">Woytek Muga</persName> zustehe, um die
+                  Kosten des Verfahrens decken zu können. Aus dem Wenigen blieben für die drei
+                  Stiefkinder noch 30 Rtlr., 11 Gr. 9 D. übrig, abzgl. 22 Rtlr., 8 Gr. Kosten.Jedoch
+                  handelte es sich dabei um taxierte Gegenstände, kein Barvermögen. Gräfin von
+                  Lehndorff sollte sich - im März 1745! - um den Verkauf kümmern und den Vormündern
+                  das Geld übergeben, was sie ablehnte. Am 14. Juni 1745 übernahmen die Vormünder,
+                  von denen einer des Schreibens unkundig war, die Habseligkeiten in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 250, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1743-01-01" to="1745-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ejj_h3t_1qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Angerburg <seg type="comment">
+                  <orig>coram officio Judicis</orig>
+                  <note xml:id="nr3z_v2s_vqb">vor dem Amtsgericht</note>
+               </seg> den 12. Febr.
+                    1743</p>
+            <p>Auf expresse <seg type="comment">
+                  <orig>Rekognition</orig>
+                  <note xml:id="neph_wnt_1qb">Liegt der Akte als Konzept bei. </note>
+               </seg> Ihro Hochgräfl. Gnaden der Frau <persName key="ed_q4s_xyl_2y">Gräfin von
+                  Lehndorff</persName> auf Steinort ist der hier ins Richterliche Amt eingeschickte
+               Schmied von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> wegen <seg type="comment">
+                  <orig>imputierten</orig>
+                  <note xml:id="nuww_x2s_vqb">vorgeworfenen</note>
+               </seg> Diebstahls zweier Pferde aus <seg type="comment">
+                  <orig>
+                     <placeName key="ed_zrm_5vf_fqb">Plagbuden</placeName>
+                  </orig>
+                  <note xml:id="np1x_xvf_fqb">im Kreis Gerdauen</note>
+               </seg> in denen Hochadl. Truntlackschen Gütern, derentwegen von E. Nordenburgischen
+               Richterl. Amt unterm 6. Jan. 1743 ein <seg type="comment">
+                  <orig>Protocollum</orig>
+                  <note xml:id="nrnn_mjt_1qb">Liegt der Akte bei.</note>
+               </seg> aufgenommen worden, <seg type="comment">
+                  <orig>processa seria ad monitione de pronuncianda veritate</orig>
+                  <note xml:id="nw2r_z2s_vqb">und nach der ernsthaften Ermahnung zur Wahrheit</note>
+               </seg> verhört worden. Derselbe antwortet auf direktes Befragen wegen des Diebstahl
+               folgendes:</p>
+            <p>Er heiße <persName key="ed_fcm_jwf_fqb">Michel Kutzing</persName>, von 28 Jahren
+               seines Alters, geboren sei er in dem Krug an der Schleuse bei <placeName key="ed_r51_fnl_ddb">Tapiau</placeName> und getauft in <seg type="comment">
+                  <orig>Goldbeck</orig>
+                  <note xml:id="nzf2_r1g_fqb">Goldap?</note>
+               </seg>, seine Eltern sind Bierschenken oder Krüger im Krug an der genannten Schleuse
+               gewesen, davon der Vater schon tot, die Mutter aber wohne zu <placeName key="ed_lj1_51g_fqb">Ellerbruch</placeName> jenseits <placeName key="ed_nq3_jyy_4kb">Nordenburg</placeName>, woselbst sie einen Chatoul <persName key="ed_ajr_cbg_fqb">Hübner</persName> geheiratet. Er sei Lutherischer Religion,
+               sei auch zur Schule gehalten worden, könne den Katechismus und fertig lesen,
+               schreiben aber nicht. Habe zuletzt in <placeName key="ed_lrv_kgj_f3b">Dombrowken</placeName> acht Wochen vor Michael gebeichtet und kommuniziert,
+               vorhero aber habe er in <placeName key="ed_jxt_jbg_fqb">Ballethen</placeName>
+               kommuniziert, woselbst er auch vor 5 Jahren mit seinem itzigen Weibe kopuliert
+               worden, habe sich drei Mal alle Jahre des Heil. Nachtmahles bedient, wo er aber itzo
+               nach Pristanien 14 Tage nach vergangenem Michael gezogen, habe er allhier noch nicht
+               kommuniziert, ist aber Willens, solches ehestens in <placeName key="ed_epz_y2c_gy">Engelstein</placeName> in Gottes Namen zu verrichten; produziert hierbei ein
+               recht gutes Attestatum wegen seines Verhaltens, welches ihm des H. <persName key="ed_ekn_sbg_fqb">von der Groeben</persName> Hochwohlgeb. eigenhändig, als er
+               aus denen Gütern von <placeName key="ed_ibg_wbg_fqb">Szwirgallen</placeName> nach
+               Pristanien gezogen. Wegen des Diebstahls <seg type="comment">
+                  <orig>dolliert</orig>
+                  <note xml:id="nelz_bfs_vqb">bedauert</note>
+               </seg> er sehr, dass er ganz unschuldig deswegen angegeben und verdacht wird, es wäre
+               wahr, dass er eine Falbe, aber nicht blauscheinlichte Stute und einen gelbbraunen
+               Wallach in <placeName key="ed_tqh_bps_d2b">Stallupönen</placeName> auf dem Jahrmarkt
+               sogleich nach vergangenem Michaelis gehabt, davon er die falbe Stute, so noch ein
+               Füllen gewesen, welches er in <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>
+               auf öffentlichem Jahrmarkt den Tag nach Michael von einem litauischen Mann (den er
+               aber nicht kannte, auch nicht zu nennen weiß, nur <gap reason="illegible"/> von <seg type="comment">
+                  <orig>Gehmisken ohnweit Blackin</orig>
+                  <note xml:id="ni3q_gdg_fqb">Die Schreibweise stimmt nicht.</note>
+               </seg> gewesen zu sein) vor 2 Rtlr. gekauft und in Stallupönen vor 7 Rtlr. verkauft,
+               welches er auch dem <seg type="comment">
+                  <orig>Kameraden</orig>
+                  <note xml:id="nvgz_1mt_1qb">Johann aus <unclear reason="illegible" cert="low">Skerlacken</unclear>.</note>
+               </seg> des <seg type="comment">
+                  <orig>
+                     <persName key="ed_vlp_ldg_fqb">Michael Pakaut</persName>
+                  </orig>
+                  <note xml:id="ntnm_4lt_1qb">Lt. dem Protokoll vom 6. Januar 1743 war er ein
+                     Losmann im Dorf Litauisch Dombrowken. Er hatte auf dem Jahrmarkt in Stallupönen
+                     vermeintlich die beiden dem Bauer <persName key="ed_hll_rdg_fqb">Michael
+                        Haubitz</persName> aus dem Dorf <placeName key="ed_zrm_5vf_fqb">Plagbuden</placeName> gestohlenen Pferde erkannt, weshalb die
+                     Obrist-Leutenantin <persName key="ed_hyv_vdg_fqb">von Wernsdorff</persName> die
+                     Sache in <placeName key="ed_nq3_jyy_4kb">Nordenburg</placeName> zur Anzeige
+                     gebracht hatte. </note>
+               </seg>sogleich gesagt; den gelbbrauen Wallach vom 5. ins 6. Jahr aber habe er wieder
+               zu Hause nach Szwirgallen genommen, denn er seine 3 Pferde gehabt, mit dem 3. aber
+               (nämlich dem gelbbraunen Wallach wäre er nach Insterburg und nach Stallupönen auf die
+               Jahrmärkte geritten gewesen, hätte auch selbiges Pferd von Szwirgallen nach
+               Pristanien gebracht, woselbst er es von dem Czieganski nach Nordenburg auf dem
+                  <placeName key="ed_h35_jqh_my">Drengfurtschen</placeName> Markt vertauscht hat.
+               Die Bauer Schwartzsche in <unclear reason="illegible" cert="low">Genttlen</unclear>
+               könnte ihm zeugen, dass er die in Stallupönen verkaufte Stute in Insterburg ehrlich
+               und redlich bei dem Bierschenken <persName key="ed_wxm_f2g_fqb">Springwaldt</persName> gekauft. In Szwirgallen hat er auch Zeugen die da wissen,
+               dass er den gelbbraunen Wallach hier in Angerburg auf dem so genannten Kruschen
+               Jahrmarkt etliche Wochen vor Michaelis, um einen Fuchsen getauscht. Bittet um
+               Satisfaktion wegen beschuldigten Diebstahls, der ihm nimmermehr verwiesen werden
+               kann, er auch seinen ehrlichen Namen bis an sein Ende zu erhalten gedenkt, und all
+               das seinige anwenden will, dass er dieser Beschuldigung rechtl. Satisfaktion erlangen
+               möge. Mehr wisse er nicht, <seg type="comment">
+                  <orig>hinc facta prolectione, prolecta ratihabens, dimissus est actium ut
+                     supra</orig>
+                  <note xml:id="ncmq_2fs_vqb">im Sinne: daher wurde die Befragung beendet und das
+                     Protokoll verfasst</note>
+               </seg>. </p>
+            <p>
+               <persName key="ed_ksp_n2g_fqb">H. Benefeldt <lb/>
+               </persName>Judex
+                    Angerburgensis</p>
+         </div>
+      </body>
+   </text>
+</TEI>

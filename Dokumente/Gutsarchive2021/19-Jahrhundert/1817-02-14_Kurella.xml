@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hfh_qjp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eugen Kurella schreibt an Graf von Lehndorff über die Lage in den Gütern, auch
+               wegen Verpachtungen. 14. Februar 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ejj_2xy_4kb">Kurella, (-)</persName>
+               <date when="1817-02-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe auch den Brief vom <ref target="lehndorff_hnf_z5k_4qb">24. Mai
+               1811</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hfh_qjp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>den 14. Februar 17</dateline>
+               <salute>Hochgeborener, sehr gnädiger Herr Graf! <lb/>Höchstverehrter gnädigster
+                  Gebieter!</salute>
+            </opener>
+            <p>Schon lange hätte ich Ew. Hochgeboren sehr gnädiges Schreiben, welches Höchstsie vor
+               Ihrem Abgange nach <placeName key="ed_ust_ky4_dz">Frankreich</placeName> an mich zu
+               richten die Gnade hatten, beantwortet, wenn ich nur gewusst hätte, dass der gnädige
+               Herr Graf noch einige Zeit in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               bleiben würden. Ich eile demnach, dasselbe nun zu beantworten, und da ich nichts
+               Wichtiges eben Ew. Hochgeboren mitteilen kann, so verzeihen Sie es gnädigst, dass ich
+               diesen Brief als <seg type="comment"><orig>Einlage</orig><note xml:id="nawr_3yb_3yb">Der in der Akte vorangehende Brief ist vom 7. Februar, der nachfolgende vom 3.
+                     Mäez 1817. Es muss also ein Brief fehlen.</note></seg> absende, um Ihnen, mein
+               gnädigster Herr Graf, unnütze Kosten zu ersparen. <seg type="comment"><orig><lb/>Ich
+                     habe Gelegenheit gehabt, mit Herrn <persName key="ed_mz3_jjg_hwb">Gutzeit</persName> in Betreff der Pacht von <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> Rücksprache zu nehmen</orig><note xml:id="nd2s_3zr_xxb">Siehe bereits den Brief vom <ref target="lehndorff_dfj_jh2_4tb">20. Januar 1817</ref>.</note></seg>; gern
+               möchte er diese Wirtschaft antreten, doch fehlt es ihm, mein gnädigster Herr Graf,
+               ehrlich gesagt nicht am guten Willen, sondern an Mitteln, dieses Vorhaben
+               auszuführen, indem er an einen seiner Freunde sein Kapitälchen eingebüßt hat, und
+               jetzt, entblößt von allem Nachdruck, auf dergleichen Unternehmungen Verzicht leisten
+               muss. <ref target="lehndorff_dfj_jh2_4tb">Herr <persName key="ed_yx5_cbg_nbb">Berent</persName> wird Ihnen, mein verehrter gnädigster Herr Graf, wohl schon
+                  geschrieben haben, dass ein paar Männer im Verein diese Güter pachten und ein
+                  Quantum von glaube ich 1.200 Rtlr. offeriert haben</ref>; auch wollen sie die
+               übrigen Bedingungen eingehen, die der Herr Graf gemacht haben. Ich weiß nun nicht, ob
+               Ew. Hochgeboren darein willigen werden? Ich erlaube mir aber, mit Höchst Ihrer
+               gnädigen Nachsicht bekannt, sagen und äußern zu dürfen, dass der gnädige Herr Graf
+               darin willigen und die Güter lieber verpachten sollten, als länger ohne Ertrag
+               bewirtschaften zu lassen. Dazu kommt die eben nicht frohe Aussicht in Betreff der
+               Saat. Wir haben einen Winter, dem in den südlichsten Ländern ähnlich, keinen Frost,
+               ewigen Regen, was lässt sich da Gutes versprechen? Die Eismassen lösen sich im Anfang
+               des Februars auf, da sie sonst bis medio April unerschütterlich auszudauern pflegen.
+               Die Äcker sind so nass, dass man überall sitzen bleibt und Transporte zu machen fast
+               nicht möglich ist. Die Getreidepreise stehen hoch. Weizen bis 5 Rtlr., Roggen 3
+               Rtlr., Erbsen 3 Rtlr., Gerste 2 Rtlr., Hafer 1 Rtlr. Freilich noch kein Verhältnis
+               mit denen in <placeName key="ed_ust_ky4_dz">Frankreich</placeName>, doch hoch genug,
+               und der Landmann damit zufrieden ist, wenn nur Getreide wäre und die Wagen es
+               erlaubten, dasselbe zu verfahren. <seg type="comment"><orig>Auch in Betreff der
+                     Bauten, die der gnädige Herr Graf angeordnet haben,</orig><note xml:id="nrrs_2cv_xxb">Siehe <ref target="lehndorff_bhs_ck4_ftb">hier</ref>.</note></seg> wird manches stocken, wie ich glaube, indem, wie
+               schon oben gesagt, die Wege über alle Beschreibung schlecht sind. <seg type="comment"><orig>Herr <persName key="ed_stv_2dt_xxb">Willimzig</persName> ist nur einmal
+                     erst mit einem kleinen Transport Getreide in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gewesen, wird darum zum Frühjahr noch große Vorräte
+                     behalten. </orig><note xml:id="nc3c_lls_xxb">Siehe auch den Brief vom <ref target="lehndorff_x34_kjp_3tb">7. Februar 1817</ref>. </note></seg>Übrigens
+               steht bei der Wirtschaft noch alles gut, und Herr Berent wird dabei als ein Mann, der
+               den Vorteil des gnädigen Herrn Grafen nie aus den Augen setzt, immer zu bleiben
+               suchen. Das Futter macht überall ein wenig Sorgen, und wehe, wenn sich diese
+               Frühlingswitterung späterhin in <gap reason="illegible"/> verwandeln sollte, es
+               dürfte dann mancher in Verlegenheit kommen. Der arme Landmann hat tausend Sorgen und
+               Kummer, und wenn man sich nicht beizeiten auf alles gefasst macht, dann geht es
+               schief. <lb/>Nur noch ein paar Sachen, mein hochverehrter gnädigster Herr Graf, trage
+               ich Ihnen vor, hoffend, dass Ihnen meine Zeilen nicht lästig sein werden. Das erste
+               ist die Veräußerung von den 6 Hufen in <placeName key="ed_epz_y2c_gy">Engelstein</placeName>, die nach <placeName key="ed_nkz_b12_gy">Stawken</placeName> zu abgeschnitten sind. Dieses Land soll jetzt öffentlich
+               verkauft werden. Niemandem könnte es nützlicher sein als Ew. Hochgeboren, indem Sie
+               alle Mittel in Händen haben, auf diesem Lande ein Etablissement zu errichten. Ich
+               zeige Ihnen, mein gnädigster Herr Graf, dieses an, damit Herr Berent früh genug
+               deshalb Höchst Ihre Befehle empfangen kann. Die zweite ist die Annahme eines
+               Beschälers aus <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>. Ich habe
+               gehört, dass <persName key="ed_wgw_p35_ncb">Herr von Burgsdorf</persName> für
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> einen schönen braunen Hengst
+               bestimmt hat. Im Fall der gnädige Herr Graf denselben annehmen, würde ich mir die
+               gnädige Erlaubnis erbitten, auch ein paar der besten Stuten damit decken zu dürfen,
+               weil es hier allgemein an guten Hengsten mangelt. Ein paar Worte Ew. Hochgeboren sind
+               hinreichend, von dieser Erlaubnis Gebrauch zu machen. Dass <persName key="ed_tc2_stm_zcb">Gaehler</persName> den Herrn <persName key="ed_qkc_pth_lpb">von Stach</persName> verlassen hat und gegenwärtig in <placeName key="ed_wsx_ljt_gwb">Klimken</placeName>, in unserer Nachbarschaft, sich aufhält,
+               werden der gnädige Herr Graf wohl schon wissen. Schließlich teile ich Ihnen, mein
+               verehrter Herr Graf, nur noch mit, dass Ihro Exzellenz die <persName key="ed_gnc_c1m_2y">Hochverehrte gnädige Frau</persName> sich recht wohl befinden,
+               und höchst sich fleißig nach dem gnädigen Herrn Grafen erkundigen. Haben Ew.
+               Hochgeboren doch die Gnade, recht oft an Ihro Exzellenz zu schreiben, der Herr Graf
+               verursachen dadurch eine große Freude, und ich würde bei dieser Gelegenheit
+               vielleicht manche gnädige mich beglückende Zeile erhalten. Leben Sie wohl, mein
+               gnädigster Gebieter. Der Himmel schütze und schirme Sie und lasse Ihnen die
+               herrlichsten Tage Ihres Verdienstes wegen erleben. Fahren Sie fort, mein gnädigster
+               Herr Graf, mich Ihrer Gnade zu würdigen, dankbar ein Leben lang ist dafür erkenntlich </p>
+            <closer>
+               <salute>Ew. Hochgeboren ganz untertänigster Diener</salute>
+               <signed>Kurella</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

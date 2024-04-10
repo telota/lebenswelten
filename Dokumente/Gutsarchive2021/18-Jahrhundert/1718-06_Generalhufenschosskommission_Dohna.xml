@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_tld_scm_1tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Alexander Burggraf und Graf zu Dohna über die Arbeit der
+               General-Hubenschoss-Kommission (Auszug). Juni 1718</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe bereits die <ref target="lehndorff_imj_vml_25b">Dohnasche Denkschrift aus
+                     dem Jahr 1717</ref>. Da aller ergangenen Resolutionen und Deklarationen
+                  unerachtet, das „Querulieren und Gravamieren über den General-Huben-Schoss kein
+                  Ende‟ nahm, erging am <ref target="https://books.google.de/books/about/WIr_Friderich_Wilhelm_von_GOttes_Ganden.html?id=V9y4zQEACAAJ&amp;redir_esc=y">17. Mai 1719</ref> ein Edikt Friedrich Wilhelms I.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Familienarchiv Dohna-Reichertswalde, Nr. 213, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_qv5_zdq_mbb">Dohna-Schlobitten, Alexander Burggraf und Graf zu
+               (1661-1728)</persName>
+            <date from="1718-06-01" to="1718-07-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_tld_scm_1tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Als die von seiner Königl. Maj. verordnete General-Hubenschoss-Kommission von dem
+                  <orgName key="ed_dvg_yhb_btb">Amt Liebstadt</orgName> ist angesagt worden, dass
+               dieselbe den Beritt meiner Güter vornehmen wollte, habe ich absonderlich Sorge
+               getragen, dass denen Herren Kommissarien, dem Herrn Amtshauptmann <persName key="ed_u13_hs5_1bb">Kalnein</persName>, Herrn <persName key="ed_sp3_lzb_t2b">Kapitän Ostau</persName> und Lastenschreiber <gap reason="illegible"/>, mit
+               Pferden und allem übrigen Erforderten ganz willig ist an die Hand gegangen worden.
+               Und es haben diese benannten Kommissarien am Morgen und auch Nachmittag die meisten
+               meiner Güter beritten, und da dieselben dabei den Mittag bei mir eingetreten, hat der
+               Herr Amtshauptmann Kalnein diese expresse Worte gegen mich gesprochen, dass er davor
+               hielte, das Quantum meiner Kontribution möchte vermindert werden, inmaßen er nimmer
+               geglaubt hat, dass die Gründe und der Acker, insonderheit bei <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>, so schlecht wären als er
+               dieselben befunden. Als auch der Herr <persName key="ed_uvq_fnt_mtb">Graf Erbtruchseß
+                  von Waldburg</persName> einige Tage darauf selbst den Beritt getan und nebst dem
+               Herrn Geheimen Rat und Kammerpräsidenten von <persName key="ed_mmh_jnt_mtb">Mönnichau</persName> gleichfalls zu Mittag allda angetreten gewesen, haben sie
+               beiderseits nicht in Abrede sein können, dass sie die Äcker und die Situation
+               schlecht befunden, Gestalt daneben, da es in der Mistfuhre war, er observiert gehabt,
+               wie sogar ungewöhnlich dick der Mist gestreut würde, wobei man ihnen <gap reason="covered"/> remonstriert hat, das dem ohnerachtet die Äcker keine zwei
+               Aussaaten aushielten, dem Herrn von Mönnichau habe ich unter anderm bei einem <seg type="comment"><orig>privat entretien</orig><note xml:id="nd3d_zq4_txb">private
+                     Unterhaltung</note></seg>, das wir beide zusammen hielten, vorgestellt, dass um
+               diese Reichertswaldische Güter, welche nicht ererbt, sondern ex basta erkauft hätte,
+               in den Stand zu setzen, in welchem sich dieselben voritzo befinden, ich wohl in die
+               30 <gap reason="illegible"/>Rtlr. eingestellt hätte, habe gleichwohl nicht angefügt,
+               das solches nicht entbehrendes und annoch unbezahltes Kapital gewesen, und ich
+               ersuche, man wolle nachschlagen lassen, was ao. 1688, allwo diese Güter sind an mich
+               gekommen, dieselben Güter kontribuiert haben, und solches halten gegen den Ertrag vom
+               15-jährigen Überschlage inklusive dem Jahre 1716, was diese Güter bis beinahe
+               siebenhundert Jahre an Kontribution ausgeworfen, so wird sich finden, das meine
+               angewandte Melioration bis beinahe auf die Hälfte an die hohe Landesherrschaft
+               gleichsam habe verinteressieren müssen. <lb/>Wie darauf zweitens der Terminus zur
+               Klassifikation erschienen, habe ich mich dabei eingefunden und angehört, wie man
+               meine Güter aufgerufen, allemal aber verspürt, dass, wenn es an eines meiner Güter
+               gekommen in der Klasse, worin solches getroffen, von das beste hat müssen vorstellen.
+               Gott weiß aber, ob dann hernach bei dem Zuschlage die Ordnung der Klassifikation, so
+               wie dieselben publike waren ausgerufen, ist beibehalten worden, welches unter anderm
+               daher mutmaßen darf, da man das Gütchen <placeName key="ed_g2v_wyw_5sb">Klein
+                  Hermenau</placeName>, 9 Huben einhaltend, ad 6 Fl. 9 Sgr. gesetzt hat, da doch
+               notorisch, dass nicht viel über eine Hube darin Raum ist, von eben den drei Kossäten
+               besessen wird, von denen kaum 10 Rtlr. sind erhoben und solche nimmer richtig
+               bezahlt, da das ganze Etablissement dieser dreien Bettler <gap reason="illegible"/>
+               gar dahin wird fallen müssen, dieweil diese Leute sich nicht weiter mit Roden etc.
+               extendieren können. Das einzige, was auf diesem Gütlein vorhanden, ist jung
+               anwachsendes Vieh, solchem nach hätte dann dieses Gütlein billiger vor Wald, nicht
+               aber vor Neuland sollen aufgenommen und taxiert sein worden; und da es vor ein neues
+               Gut genommen sollte werden, müsste es wahrlich unter die Klasse der
+               allerschlechtesten an ein <orgName key="ed_e4z_f3b_btb">Amt Mohrungen</orgName> sein
+               gezählt werden <gap reason="insignificant"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

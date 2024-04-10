@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_otv_jql_qrb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gottliebe von Lehndorff an Eva Puschke. Fichtenhof, 4. Januar 1947</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution/>
+                  <idno>Private Briefsammlung Fam. Puschke</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_y31_rl1_dy">Lehndorff, Gottliebe Marianne Alexandrine Nancy
+                        Gräfin von (Königsberg, 18.7.1913-16.4.1993)</persName>
+               <date when="1947-01-04" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_xfh_y5l_qrb">Puschke, Eva (-)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_otv_jql_qrb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Fichtenhof den 4.1.47</dateline>
+               <salute>Liebes Frl. Puschke,</salute>
+            </opener>
+            <p>leider komme ich erst heute dazu, Ihnen auf Ihren Brief vom 17.10. zu antworten. Bitte seien
+                    Sie nicht böse, dass dadurch auch die beigefügten Abschriften erst jetzt wieder
+                    zu Ihnen zurückgehen. Haben Sie herzlichen Dank dafür. Alles, was über
+                        <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> geschrieben ist,
+                    erschüttert einen tief, wie ja leider alles, was man aus unserer geliebten
+                    Heimat hört. Sie ist für immer für uns verschwunden und wir werden uns nur noch
+                    wie an ein früheres Leben daran erinnern können. Nie wieder wird es - solange
+                    wir leben - in deutschen Besitz zurückkommen. Es wird Sie aber vielleicht
+                    interessieren, dass ich von einem poln[ischen] Freund von uns, einem Grafen <seg type="comment">
+                  <orig>Krachiki</orig>
+                  <note xml:id="nrfy_tbj_2tb">Krasiński?</note>
+               </seg>, gehört habe, dass <placeName key="ed_pxt_cnh_1y">Steinort</placeName> poln[isch] staatl[iches] Gestüt
+                    geworden ist, wahrscheinlich für Araberpferde, und auch ein ganz vernünftiger
+                    Leiter dort sein soll. Wenn es wirklich stimmt, was ich nach dieser Nachricht
+                    von diesem Herrn annehme, ist es noch nicht das Schlechteste, da es wenigstens
+                    in seiner Ganzheit bestehen bleibt und nicht völlig zerschlagen wird. Es ist mir
+                    auch ein angenehmer Gedanke, dort edle Pferde zu wissen, besser als grauenhafte
+                    Menschen in Massen. <lb/>Ihnen und Ihrer Mutter und Ihren Geschwistern möchte
+                    ich nun erstmal nachträglich ein recht gesundes neues Jahr wünschen. Die
+                    Gesundheit ist heute das Wichtigste, und alles andere ist sehr schwer zu
+                    wünschen, da wohl kaum etwas in Erfüllung gehen wird. Aber wenn man seine
+                    Knochen einigermaßen beieinander hat, dann kann man schon viel vertragen.
+                    Allerdings muss auch die Seele gesund sein, und auch dieses wünsche ich Ihnen
+                    von ganzem Herzen. <seg type="comment">
+                  <orig>Ich rechne ja noch immer im Stillen
+                            mit Ihnen und baue meine Pläne damit auf.</orig>
+                  <note xml:id="nu1q_zvl_qrb">Eva Puschke hatte es nach Breiholz, Krs.
+                            Rendsburg, verschlagen. Sie war - wie viele Puschkes - Lehrerin
+                            geworden.</note>
+               </seg> Bislang ist allerdings schon einer, der
+                    eigentlich so gut wie fertig war, in die Brüche gegangen. Mein langes Schweigen
+                    rührte auch daher, dass ich eigentlich seit Anfang Oktober nicht hier war und
+                    mir die Briefe immer nachreisten. Ich hatte von der Mil[itär-]Reg[ierung] schon
+                    die Erlaubnis in der Tasche, den Stadthof der Stadt <placeName key="ed_dff_cbn_zcb">Düsseldorf</placeName> zu pachten, und wollte ihn am 4.
+                    Dez[ember] übernehmen, was mein Schwager für mich tun wollte. Es war eine sehr
+                    schöne Sache, vor allem seit Jahren bestens bewirtschaftet. Ca. 500 Morgen und
+                    alles sehr gut und modern eingerichtet. Am Tage der Übernahme zerschlug es sich
+                    wieder, d. h. der Fall war nicht ganz klar, und ich zog mich erst einmal zurück,
+                    da ich nicht in ungeklärte Verhältnisse hereinbrechen möchte, was nur immer Zank
+                    und Streit mit sich bringt, und darauf ruht niemals Segen. Ich will nur eine
+                    ganz einwandfreie Sache übernehmen. Nun fühlt sich die Mil[itär-]Reg[ierung]
+                    sehr in meiner Schuld, und da ich ganz gute Beziehungen habe, hoffe ich, dass
+                    bald etwas anderes klappen wird. Jedenfalls hat man es mir versprochen und ist
+                    stehe dort - in Bonn - auf der Liste als Erste. <lb/>Jedenfalls rechne ich
+                    bestimmt damit, bis Anfang April Boden unter den Füßen zu haben. Ich bin weiter
+                    fest entschlossen, eine gute Lehrkraft in mein Haus für die Kinder zu nehmen,
+                    und glaube dann auch bestimmt mehr Platz zu haben als z. B. jetzt. Die Kinder
+                    lernen in der Schule absolut gar nichts, da sie viel zu voll sind und
+                    augenblicklich ja auch keinerlei H[e]izmaterial vorhanden ist. Alles Dinge, die
+                    sich natürlich nicht abstellen lassen in absehbarer Zeit, aber trotzdem möchte
+                    ich, dass meine Kinder etwas lernen, und jeder Tag jetzt wird ihnen später
+                    fehlen, und es ist schließlich das Einzige, was man ihnen mitgeben kann. Der
+                    Brief Ihrer Tante hat mich sehr interessiert, aber ich möchte keinen alten
+                    Menschen zu mir nehmen, kann auch leider keinen Anhang mit dazu nehmen, da das
+                    immer mit dem Platz nicht zu machen ist. Solange ich hier lebe, ist es sowieso
+                    unmöglich, da wir sehr mit dem Platz beschränkt sind. Bitte schreiben Sie mir
+                    bitte weiter Ihre Pläne und ich werde Sie ebenfalls auf dem Laufenden halten.
+                    Ich sehe mich natürlich auch nach einer anderen Kraft um, bevor Sie, Frl.
+                    Puschke, mir nicht fest zugesagt haben. Vorläufig habe ich aber noch nichts
+                    gefunden. <lb/>Uns geht es weiter ganz gut. Meine Älteste, Nona, geht jetzt für
+                    3 Monate in die Schweiz, wohin sie eingeladen ist, d. h. eigentlich alle vier
+                    Kinder in Familien, Freunde von meinem Mann und mir. Die drei Kleinen sind mir
+                    aber noch zu klein. Nona wird es sehr gut tun, da sie enorm gewachsen ist und
+                    rasend dünn und anfällig. Das Leben wird leider von Monat zu Monat schwerer,
+                    aber wir können noch nicht klagen, verglichen mit Millionen von anderen
+                    Menschen. Bislang sind wir immer noch so einigermaßen satt geworden und habe[n]
+                    auch warme Stuben, da das Haus mir Öl geheizt wird, was allerdings nie ganz warm
+                    macht, aber doch immer sehr gut temperiert. <lb/>Nun musss ich Schluss machen,
+                    die Zeit und Arbeit drängt. Ich hatte übrigens in diesen Tagen eine Karte von
+                    Frau Klatt, was mich besonders freute, dass sie wirklich noch am Leben ist. </p>
+            <closer>
+               <salute>Nochmals alles Gute Ihrer Familie und Ihnen, liebes Fräulein Puschke, von uns allen
+                        herzliche Grüße <lb/>Ihre</salute>
+               <signed>Gottliebe Lehndorff</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

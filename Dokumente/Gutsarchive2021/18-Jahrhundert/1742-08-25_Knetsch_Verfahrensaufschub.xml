@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_u2d_htv_wpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Stud. jur. Johann Christoph Nagel bittet in Vertretung der Gräfin von Lehndorff
+               den König um Verfahrensaufschub in der Streitsache mit dem Pächter Georg Knetsch.
+               Steinort, 25. August 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 267, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_uh3_vc3_t2b">Nagel, Johann Christoph (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1742-08-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+            </correspAction>
+            <note>Siehe auch die Dokumente vom <ref target="lehndorff_xbd_cxz_ypb">5. November</ref>
+               und <ref target="lehndorff_ykf_wc1_zpb">12. November 1742</ref>. - Der Pächter von
+               Labab, <persName key="ed_yrq_4nf_fqb">Georg Knetsch</persName>, war wegen
+               Unregelmäßigkeiten in der Wirtschaftsführung und ausstehenden Pachtzahlungen
+               entlassen worden, siehe die Belege zu den Pachtrechnungen in: GStA PK, XX. HA, Rep.
+               54 Gutsarchiv Lehndorff-Steinort, Nr. 346. - Das <ref target="lehndorff_hvj_sc2_ctb">„Inventarium derer Sachen, welche der Georg Knetsch in Labab zurückgelassen, in
+                  Gegenwart des geschworenen Dorf-Schulzen N. Schaack und dem itzigen Arrendator N.
+                  Meyer aufgezeichnet‟</ref>, liegt Nr. 267 bei. <p/> Im November 1742 war Knetsch
+               „Frei-Einsasse‟ in <placeName key="ed_act_42b_ycb">Brosowken</placeName>. Am 30.
+               November, 3. und 4. Dezember 1742 fand im Hof Steinort durch Richter <persName key="ed_lbj_cfb_ycb">Billich</persName>, Aktuar <persName key="ed_zvb_34f_fqb">Stabenow</persName> und den Ratsverwandten <persName key="ed_jvw_k4f_fqb">Feyerabendt</persName> die Befragung der Zeugen statt. Am 12. Januar 1743 legte
+               das Gericht den Termin der Urteilsverkündung in Steinort auf den 23. Januar 1743
+               fest. Gräfin von Lehndorff hatte der „Publikation entweder persönlich oder per
+               Mandatarium beizuwohnen‟. Knetsch ging in Berufung vor dem Königlichen Hofgericht.
+               Dieses setzte für den 11. Februar eine Verhandlung in Rastenburg an, am 27. Juni
+               wurde das Urteil gefällt, der Termin der Verkündung wurde für den 22. Juli bestimmt.
+               Einen Monat später, am 22. August 1743, fand in Steinort in Anwesenheit des
+               delegierten Gerichts die Vollstreckung statt. Knetsch war demnach 359 Fr. 4 Gr. 4 1/2
+               D. schuldig, zur Zahlung wurden dessen Bürgen <persName key="ed_lqr_54f_fqb">Johann
+                  Knetsch</persName> und <persName key="ed_t5k_w4f_fqb">Georg Ratzibor</persName>
+               mit 100 Fl., <persName key="ed_wtg_y4f_fqb">Wilhelm Okraska</persName> mit 259 Fl. 4
+               Gr. 6 D. innerhalb von drei Wochen verurteilt. Da in der Frist nicht gezahlt wurde,
+               beauftragte der Angerburger Amtsricher <persName key="ed_dks_4zh_lpb">Cibrovius</persName> den Königlichen Land-Reiter <persName key="ed_kjj_bpf_fqb">Ilgies</persName> mit der Vollstreckung, er hatte „nicht eher abzureiten, bis
+               obige 359 Fl. 4 Gr. 6 D. bezahlt sind‟. Die Bürgen zahlten am 18. September 300 Fl.
+               Am 18. Oktober zitierte Cibrovius Knetsch nach Angerburg, um ihn wegen des Rests zu
+               befragen. Knetsch erklärte, er habe Hausgeräte in Labab lassen müssen, deren Wert
+               sich mit Schulden, die er selbst zu fordern habe, auf 84 Fl. 21 Gr. belaufe, er habe
+               eine <ref target="lehndorff_hvj_sc2_ctb">Spezifikation</ref> gemacht und wolle damit
+               den Rest bezahlen. Im November und Dezember waren noch immer 29 Fl. offen. Cibrovius,
+               der keine Möglichkeit sah, an das Geld zu kommen, schrieb am 14. Dezember: es sei
+               „die wahre Unmöglichkeit, sowohl von demselben, als dessen Caventen, solchen Reste zu
+               erpressen‟, da sie nicht einmal die „Königl. Prästanda zu präsentieren‟ in der Lage
+               seien. Zudem seien die Wege zu schlecht, um dorthin zu gelangen. Sollten diese
+               passierbar sein, werde er die 29 Fl. beitreiben lassen, bis dahin bitte er um Geduld.
+               Am Ende des Prozesses beliefen sich die Gerichtskosten auf 90 Fl. 23 Gr.<p/> Wer
+               Knetsch als Pächter folgte, ist nicht bekannt. Erst ab 1738 sind weitere
+               Verpachtungsakten, für 1768 verschiedene Pachtanschläge überliefert (1738 <persName key="ed_jpz_4sf_fqb">Johann Hermann Friese</persName>, Hofmann in Labab, dann
+                  <persName key="ed_jrr_t4q_ybb">Johann Meyer</persName> bis 1753, ab 1760 <persName key="ed_xrh_5sf_fqb">Heinrichs</persName>, 1768 <persName key="ed_hnm_vsf_fqb">Johann Hoffmann</persName>), GStA PK, XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort, Nr. 379 und 832. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_u2d_htv_wpb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 25. August 1742</dateline>
+            </opener>
+            <p>Titulus Regis</p>
+            <p>Ew. Königl. Majestät unterm 1. Aug. an das <orgName key="ed_r2q_dc1_tcb">Hauptamt
+                  Angerburg</orgName> ergangenen allergnädigsten <seg type="comment">
+                  <orig>Reskriptum</orig>
+                  <note xml:id="nggy_x5v_wpb">Liegt der Akte bei.</note>
+               </seg>vermöge welchem die bisherige Detention des in <placeName key="ed_xpm_112_gy">Labab</placeName> gewesenen Arrendatoris <persName key="ed_yrq_4nf_fqb">Knetschen</persName> in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               gehoben und dessen Gegenforderung durch ein <seg type="comment">
+                  <orig>judicum delegatum</orig>
+                  <note xml:id="nodb_qyx_5qb">delegiertes Gericht</note>
+               </seg> untersucht worden ist, ist in Steinort gemäß Beil. A debite bekannt gemacht
+               worden.</p>
+            <p>Wenn ich nun aber in Abwesenheit der <persName key="ed_q4s_xyl_2y">Gräfin von
+                  Lehndorff</persName>
+               <seg type="comment">
+                  <orig>ad casus speciales</orig>
+                  <note xml:id="ns4z_qyx_5qb">in Spezialfällen</note>
+               </seg> nicht bevollmächtigt, mithin nicht vermögend bin, weder den Arrendatoren los,
+               noch ein <seg type="comment">
+                  <orig>judicum</orig>
+                  <note xml:id="nw3v_ryx_5qb">Gericht</note>
+               </seg> delegieren zu lassen, als trete S. K. M. in der alleruntertänigsten Demut an
+               und bitte allerdemütigst, weil kein <seg type="comment">
+                  <orig>periculum in mora</orig>
+                  <note xml:id="ncfq_syx_5qb">Gefahr in Verzug</note>
+               </seg> ist, allerhöchst Dieselben geruhen allergnädigst, dem Hauptamt Angerburg <seg type="comment">
+                  <orig>mediante</orig>
+                  <note xml:id="nryx_tyx_5qb">durch</note>
+               </seg> Reskripte aufzugeben, dass diese Sache in <seg type="comment">
+                  <orig>statu quo</orig>
+                  <note xml:id="nvjh_vyx_5qb">so wie sie ist</note>
+               </seg> bleibe, nur bis zur Wiederkunft der Gräfin von Lehndorff nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>, als welche ehestens erfolgen wird,
+               weil ich nicht zweifle, dass dieselbe alsdann dem allergnädigsten Königl. Befehl die
+               gehorsamste Folge leisten wird.</p>
+            <p>Ich getröste mich allergnädigster Erhörung und ersterbe in Dero alleruntertänigster
+               Devotion</p>
+            <closer>
+               <salute>E. Königl. Majestät</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

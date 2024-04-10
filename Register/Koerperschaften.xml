@@ -1,0 +1,899 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Register der Körperschaften</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listOrg>
+                <org xml:id="ed_wbw_h5s_d2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/AachenMünchener</idno>
+                    <orgName type="reg">Aachener und Münchener
+                        Feuerversicherungs-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_x5x_24h_my">
+                    <idno type="uri">https://www.hwph.de/historische-wertpapiere/losnr-auktnr-pa40-502.html</idno>
+                    <orgName type="reg">Actien-Bau-Verein „Unter den Linden‟ (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_unv_xvp_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Adliges_Fräuleinstift_Barth</idno>
+                    <orgName type="reg">Adliges Fräuleinstift Barth</orgName>
+                </org>
+                <org xml:id="ed_wbv_fcq_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Stift_Joachimstein</idno>
+                    <orgName type="reg">Adliges Fräuleinstift Joachimstein</orgName>
+                </org>
+                <org xml:id="ed_pzg_x25_sdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Albertinum_(Dresden)</idno>
+                    <orgName type="reg">Albertinum (Dresden)</orgName>
+                </org>
+                <org xml:id="ed_yhq_rnr_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Albertus-Universität_Königsberg</idno>
+                    <orgName type="reg">Albertus-Universität Königsberg</orgName>
+                </org>
+                <org xml:id="ed_yxf_1jn_my">
+                    <orgName type="reg">Allendorfsche Holzhandlung (Breslau)</orgName>
+                </org>
+                <org xml:id="ed_gcq_4sj_f3b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Altstädtisches_Gymnasium_(Königsberg)</idno>
+                    <orgName type="reg">Altstädtisches Gymnasium (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_r2q_dc1_tcb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Angerburg</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_lsv_pht_qwb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Balga</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_dh5_p4b_hkb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Barten</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_x5d_nk4_ysb">
+                    <idno type="uri">http://westpreussen.de/pages/westpreussen/verwaltung.php</idno>
+                    <orgName type="reg">Amt Deutsch Eylau</orgName>
+                    <desc>Kammerbezirk Marienwerder</desc>
+                </org>
+                <org xml:id="ed_rmy_4zj_4qb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Insterburg</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_h5w_lvj_4qb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Johannisburg</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_dvg_yhb_btb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Liebstadt</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_cv1_bf5_xxb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Lötzen</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_wj1_2c1_tcb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Memel</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_e4z_f3b_btb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Mohrungen</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_yxv_p5j_4qb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Preußisch Eylau</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_xf2_rtp_5qb">
+                    <idno type="uri">https://agoff.de/?p=102659</idno>
+                    <orgName type="reg">Amt Rhein</orgName>
+                    <desc>Kammerdepartement Gumbinnen</desc>
+                </org>
+                <org xml:id="ed_th3_ppv_ccb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Amtsgericht_Potsdam</idno>
+                    <orgName type="reg">Amtsgericht Potsdam</orgName>
+                </org>
+                <org xml:id="ed_g4n_bf5_xxb">
+                    <idno type="uri">https://agoff.de/?p=102646</idno>
+                    <orgName type="reg">Amt Wandlacken</orgName>
+                    <desc>Kammerdepartement Königsberg</desc>
+                </org>
+                <org xml:id="ed_zsz_nj5_c2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Appellationsgericht_Insterburg</idno>
+                    <orgName type="reg">Appellationsgericht Insterburg</orgName>
+                </org>
+                <org xml:id="ed_hxf_yhm_33b">
+                    <idno type="uri">https://weber-gesamtausgabe.de/de/A080264.html</idno>
+                    <orgName type="reg">Arnstein und Eskeles Bankhaus (Wien)</orgName>
+                </org>
+                <org xml:id="ed_cyf_xfv_12b">
+                    <idno type="uri">https://www.galerie20.smb.museum/kunsthandel/K43.html</idno>
+                    <orgName type="reg">Artibus Kunsthandel (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_rz1_dkl_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Familienfideikommiss</idno>
+                    <orgName type="reg">Auflösungsamt für Familiengüter (Königsberg)</orgName>
+                    <desc>ab 1935: Fideikommisssenat beim Oberlandesgericht</desc>
+                </org>
+                <org xml:id="ed_brz_g41_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Auswärtiges_Amt</idno>
+                    <orgName type="reg">Auswärtiges Amt</orgName>
+                </org>
+                <org xml:id="ed_xjb_j4m_zdb">
+                    <orgName type="reg">Automobil-Droschken-Gesellschaft, Inh. Friedrich Ehlert
+                        (Tilsit)</orgName>
+                </org>
+                <org xml:id="ed_nty_1h4_my">
+                    <idno type="uri">https://www.sn.at/wiki/Christophoruskirche_Bad_Gastein</idno>
+                    <orgName type="reg">Bad Gastein, Christophoruskirche</orgName>
+                </org>
+                <org xml:id="ed_hd4_zg4_my">
+                    <idno type="uri">https://villasolitude.com/</idno>
+                    <orgName type="reg">Bad Gastein, Haus Solitude</orgName>
+                </org>
+                <org xml:id="ed_tr2_yvl_w2b">
+                    <orgName type="reg">Bankhaus Eisenhardt (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_iml_ywz_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Alexander_Meyer-Cohn</idno>
+                    <orgName type="reg">Bankhaus Meyer Cohn (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_dpm_hbq_tcb">
+                    <orgName type="reg">Bankhaus Redern (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_wsj_qvg_hy">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Bank-_und_Handelshaus_Splitgerber_%26_Daum</idno>
+                    <orgName type="reg">Bank- und Handelshaus Splitgerber &amp; Daum
+                        (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_bnt_4lz_ny">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Berliner_Stadtmission</idno>
+                    <orgName type="reg">Berliner Stadtmission</orgName>
+                </org>
+                <org xml:id="ed_gnt_ztc_mfb">
+                    <idno type="uri">https://de-academic.com/dic.nsf/dewiki/79799</idno>
+                    <orgName type="reg">Bethesda-Anstalten (Angerburg)</orgName>
+                </org>
+                <org xml:id="ed_ajw_1sy_fjb">
+                    <orgName type="reg">Buch-, Kunst- und Musikalien-Handlung Wilhelm Koch
+                        (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_cfr_v3w_h2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Bund_der_Landwirte</idno>
+                    <orgName type="reg">Bund der Landwirte</orgName>
+                </org>
+                <org xml:id="ed_kjq_5tw_22b">
+                    <orgName type="reg">Carl Fr. Gottlob Eisenhard, Textilfabrikant
+                        (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_r2h_nwj_gy">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Carlsh%C3%B6fer_Anstalten</idno>
+                    <orgName type="reg">Carlshöfer Anstalten </orgName>
+                </org>
+                <org xml:id="ed_usb_pfm_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Charité</idno>
+                    <orgName type="reg">Charité </orgName>
+                </org>
+                <org xml:id="ed_k11_xgw_h2b">
+                    <idno type="uri">https://pbc.gda.pl/dlibra/publication/22554/edition/18226/content</idno>
+                    <orgName type="reg">Chemische Fabrik Petschow-Davidsohn (Danzig)</orgName>
+                </org>
+                <org xml:id="ed_jl1_22j_llb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fischer_Landtag</idno>
+                    <orgName type="reg">Comité der ostpreußischen und litauischen Stände</orgName>
+                </org>
+                <org xml:id="ed_fqz_cb1_12b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Denkmalamt_der_Provinz_Ostpreu%C3%9Fen</idno>
+                    <orgName type="reg">Denkmalamt der Provinz Ostpreußen</orgName>
+                </org>
+                <org xml:id="ed_w22_rsh_jlb">
+                    <idno type="uri">https://www.archivportal-d.de/item/A3BPO6LQFGJ4ZJSV7QJTMQHCLSAZYLRM</idno>
+                    <orgName type="reg">Deutsche Actien-Gesellschaft für Bergbau, Eisen- und
+                        Stahlindustrie</orgName>
+                </org>
+                <org xml:id="ed_yfp_f3d_py">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Deutsche_Bibelgesellschaft</idno>
+                    <orgName type="reg">Deutsche Bibelgesellschaft</orgName>
+                </org>
+                <org xml:id="ed_rvf_c4h_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Deutsche_Eisenbahn-Gesellschaft</idno>
+                    <orgName type="reg">Deutsche Eisenbahn-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_t1d_tr5_zdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Reichsbank</idno>
+                    <orgName type="reg">Deutsche Reichsbank</orgName>
+                </org>
+                <org xml:id="ed_bby_y2h_dvb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Vaterländischer_Frauenverein</idno>
+                    <orgName type="reg">Deutscher Frauenverein zur Pflege und Hilfe für Verwundete
+                        im Kriege (Vaterländischer Frauen-Verein)</orgName>
+                </org>
+                <org xml:id="ed_e5f_zfj_ycb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Vaterländischer_Frauenverein</idno>
+                    <orgName type="reg">Deutscher Frauenverein zur Pflege und Hilfe für Verwundete
+                        im Kriege (Vaterländischer Frauen-Verein), Zweigverein Angerburg</orgName>
+                </org>
+                <org xml:id="ed_cfj_cz5_22b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Vaterländischer_Frauenverein</idno>
+                    <orgName type="reg">Deutscher Frauenverein zur Pflege und Hilfe für Verwundete
+                        im Kriege (Vaterländischer Frauen-Verein), Zweigverein Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_il5_3qn_zdb">
+                    <idno type="uri">https://archivfuehrer-kolonialzeit.de/index.php/rechnung-von-dingeldey-werres-erstes-deutsches-ausrustungs-geschaft-fur-tropen-heer-und-flotte-berlin-an-missionssenior-pohl</idno>
+                    <orgName type="reg">Dingeldey und Werres (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_w13_vch_ldb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fische_Ostbahn</idno>
+                    <orgName type="reg">Direktorium der Ostbahn</orgName>
+                </org>
+                <org xml:id="ed_utq_cr1_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Disconto-Gesellschaft</idno>
+                    <orgName type="reg">Disconto-Gesellschaft (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_uyf_nyh_mfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Dreifaltigkeitskirche_(Berlin)</idno>
+                    <orgName type="reg">Dreifaltigkeitskirche (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_ebc_fl5_h2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Gerhard_Rautenberg</idno>
+                    <orgName type="reg">Druckerei Emil Rautenberg (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_jgv_gbz_5x">
+                    <orgName type="reg">Einkommensteuer-Einschätzungskommission (Kreis
+                        Angerburg)</orgName>
+                </org>
+                <org xml:id="ed_qh1_1r1_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kreis_Gerdauen</idno>
+                    <orgName type="reg">Erbhauptamt Gerdauen</orgName>
+                </org>
+                <org xml:id="ed_dqv_hwz_g2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Evangelische_Elisabeth_Klinik</idno>
+                    <orgName type="reg">Evangelische Elisabeth Klinik (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_qhc_jkv_ccb">
+                    <idno type="uri">https://agoff.de/?p=52747</idno>
+                    <orgName type="reg">Evangelische Kirche Rosengarten</orgName>
+                </org>
+                <org xml:id="ed_v1l_xkv_ccb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Evangelischer_Oberkirchenrat_(Preu%C3%9Fen)</idno>
+                    <orgName type="reg">Evangelischer Oberkirchenrat (EOK)</orgName>
+                </org>
+                <org xml:id="ed_fgn_hkv_ccb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Evangelisches_Konsistorium_(Berlin)</idno>
+                    <orgName type="reg">Evangelisches Konsistorium (EKBO)</orgName>
+                </org>
+                <org xml:id="ed_ixf_btp_5qb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kirchenprovinz_Ostpreu%C3%9Fen</idno>
+                    <orgName type="reg">Evangelisches Konsistorium Königsberg</orgName>
+                </org>
+                <org xml:id="ed_txv_k1k_ycb">
+                    <idno type="uri">https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_76_seminare/index.htm?kid=GStA_i_ha_rep_76_seminare_74</idno>
+                    <orgName type="reg">Evangelisches Seminar und Präparandenanstalt
+                        Angerburg</orgName>
+                </org>
+                <org xml:id="ed_tvs_tvs_zdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Friedrich_Andreas_Perthes</idno>
+                    <orgName type="reg">F. A. Perthes Verlag (Gotha)</orgName>
+                </org>
+                <org xml:id="ed_u5j_f25_sdb">
+                    <idno type="uri">https://kriebethal.de/content/geschichtliches/geschichte-firma-niethammer.html</idno>
+                    <orgName type="reg">Firma Niethammer (Kriebstein)</orgName>
+                </org>
+                <org xml:id="ed_v5h_ypj_tcb">
+                    <idno type="uri">https://d-nb.info/890023069/04</idno>
+                    <orgName type="reg">Französisches Kolonie, Gericht (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_yz5_xnm_zdb">
+                    <orgName type="reg">Franz Todtenhöfer und Co. Autopalast (Königsberg)</orgName>
+                    <desc>Die Firma Todtenhäfer AG war urspr. ein Fachgeschäft für Fahrräder,
+                        „Tohimos‟ (Fahhräder mit Hilfsmotor), Motorräder und Autozubehör. Franz
+                        Todtenhöfer war einer der ersten Automobilisten in Königsberg. Das Geschäft
+                        befand sich in der Junkerstraße. </desc>
+                </org>
+                <org xml:id="ed_er4_hqp_2qb">
+                    <orgName type="reg">Friedrich Ohm Handelsgärtnerei (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_qhc_n45_c2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Humboldt-Universität_zu_Berlin</idno>
+                    <orgName type="reg">Friedrich-Wilhelms-Universität zu Berlin</orgName>
+                    <desc>Humboldt-Universität zu Berlin</desc>
+                </org>
+                <org xml:id="ed_wzn_lbh_1cb">
+                    <orgName type="reg">Fürstliche Hofverwaltung Salm-Horstmar </orgName>
+                </org>
+                <org xml:id="ed_qqv_4fl_gbb">
+                    <idno type="uri">https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/i_ha_rep_178/index.htm?kid=GStA_i_ha_rep_178_1</idno>
+                    <orgName type="reg">Generaldirektion der Staatsarchive</orgName>
+                </org>
+                <org xml:id="ed_t5q_tst_fqb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Generalkommission_(Preu%C3%9Fen)</idno>
+                    <orgName type="reg">Generalkommission zur Regulierung der gutsherrlichen und
+                        bäuerlichen Verhältnisse</orgName>
+                </org>
+                <org xml:id="ed_hsv_cfr_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/General-Ordens-Kommission</idno>
+                    <orgName type="reg">General-Ordens-Kommission</orgName>
+                </org>
+                <org xml:id="ed_tgz_3tn_zdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Georg_Stilke</idno>
+                    <orgName type="reg">Georg Stilke Verlagsbuchhandlung (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_zpl_h2s_d2b">
+                    <orgName type="reg">Gesang- und Orgelschule Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_o5b_rtv_h2b">
+                    <idno type="uri">https://nbn-resolving.org/urn:nbn:de:0168-ssoar-52431-9</idno>
+                    <orgName type="reg">Gesellschaft für Erleichterung des Personenverkehrs auf den
+                        masurischen Seen</orgName>
+                </org>
+                <org xml:id="ed_mbw_hdh_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Gräfe_und_Unzer</idno>
+                    <orgName type="reg">Gräfe &amp; Unzer’sche Buch- und Landkarten-Handlung
+                        (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_cn4_qtq_jlb">
+                    <orgName type="reg">Graf Lehndorff-Stiftung</orgName>
+                </org>
+                <org xml:id="ed_pqq_g4d_gy">
+                    <orgName type="reg">Gräflich Lehndorffsches Waisenhaus Rosengarten</orgName>
+                </org>
+                <org xml:id="ed_ah4_dzt_sdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Grassimuseum</idno>
+                    <orgName type="reg">Grassimuseum</orgName>
+                </org>
+                <org xml:id="ed_nmm_qzp_wx">
+                    <orgName type="reg">Grundsteuer-Veranlagungskommission (Kreis
+                        Angerburg)</orgName>
+                </org>
+                <org xml:id="ed_fz1_2w5_22b">
+                    <idno type="uri">http://www.zeno.org/Meyers-1905/A/Gustav+Adolf-Verein</idno>
+                    <orgName type="reg">Gustav-Adolf-Verein</orgName>
+                </org>
+                <org xml:id="ed_evd_qws_d2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreu%C3%9Fenhilfe</idno>
+                    <orgName type="reg">Hilfsvereine für Ostpreußen</orgName>
+                </org>
+                <org xml:id="ed_q2d_wp1_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußische_Regierung_(Justizbehörde)</idno>
+                    <orgName type="reg">Hofgericht Bromberg</orgName>
+                </org>
+                <org xml:id="ed_myk_cjr_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußische_Regierung_(Justizbehörde)</idno>
+                    <orgName type="reg">Hofgericht Insterburg</orgName>
+                </org>
+                <org xml:id="ed_hln_rnw_mbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Hofgericht_Königsberg</idno>
+                    <orgName type="reg">Hofgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_pgl_yft_vqb">
+                    <orgName type="reg">Hospital Rosengarten</orgName>
+                </org>
+                <org xml:id="ed_emc_hnc_d2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Industrieschule</idno>
+                    <orgName type="reg">Industrieschule Taberlack</orgName>
+                </org>
+                <org xml:id="ed_cts_db5_sdb">
+                    <idno type="uri">https://museen.nuernberg.de/memorium-nuernberger-prozesse/themen/die-nuernberger-prozesse/der-internationale-militaergerichtshof-1945-1946</idno>
+                    <orgName type="reg">Internationaler Militärgerichtshof</orgName>
+                </org>
+                <org xml:id="ed_jt1_314_ftb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kadettenhaus_Stolp</idno>
+                    <orgName type="reg">Invalidenhaus Stolpe</orgName>
+                    <desc>Königliches Cadetten-Haus</desc>
+                </org>
+                <org xml:id="ed_j1m_xch_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/J.A._Stargardt</idno>
+                    <orgName type="reg">J. A. Stargardt Autographenhandlung (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_rt5_bh5_ncb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Joachimsthalsches_Gymnasium</idno>
+                    <orgName type="reg">Joachimsthalsches Gymnasium</orgName>
+                </org>
+                <org xml:id="ed_nyn_mhj_mfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Bode-Museum</idno>
+                    <orgName type="reg">Kaiser-Friedrich-Museum </orgName>
+                    <desc>Bode-Museum</desc>
+                </org>
+                <org xml:id="ed_cs2_h4h_my">
+                    <idno type="uri">https://www.kwa-stiftung.de/historie</idno>
+                    <orgName type="reg">Kaiser-Wilhelm-und Augusta-Stiftung</orgName>
+                </org>
+                <org xml:id="ed_ltn_1qj_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kammergericht</idno>
+                    <orgName type="reg">Kammergericht</orgName>
+                </org>
+                <org xml:id="ed_gpd_zzw_h2b">
+                    <orgName type="reg">Kanzlei Sello, Silberstein und Marwitz (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_fm2_fyh_mfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Dreifaltigkeitskirche_(Berlin-Lankwitz)</idno>
+                    <orgName type="reg">Kirchliche Arbeitsgemeinschaft Dreifaltigkeit
+                        Berlin</orgName>
+                </org>
+                <org xml:id="ed_ocb_krt_ncb">
+                    <orgName type="reg">Kleinkinderbewahranstalt Angerburg</orgName>
+                </org>
+                <org xml:id="ed_wmx_llz_ny">
+                    <orgName type="reg">Kleinkinderschule Lyck</orgName>
+                </org>
+                <org xml:id="ed_djh_wll_xdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Klosterschule_Roßleben</idno>
+                    <orgName type="reg">Klosterschule Roßleben</orgName>
+                </org>
+                <org xml:id="ed_l3c_f55_22b">
+                    <orgName type="reg">Knaben-Waisenhaus Lötzen</orgName>
+                    <desc>Siehe auch: Masurisches Erziehungshaus</desc>
+                </org>
+                <org xml:id="ed_v5s_52z_g2b">
+                    <orgName type="reg">Komitee zur Krönungsfeier der russischen
+                        Majestäten</orgName>
+                </org>
+                <org xml:id="ed_c4p_mdc_jlb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Königliches_Glasmalerei-Institut</idno>
+                    <orgName type="reg">Königliches Glasmalerei-Institut</orgName>
+                </org>
+                <org xml:id="ed_cgf_4j2_3kb">
+                    <idno type="uri">https://edition-humboldt.de/register/einrichtungen/detail.xql?id=H0018843&amp;l=de</idno>
+                    <orgName type="reg">Königlich Preußische Märkische Ökonomische
+                        Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_amf_ztp_mbb">
+                    <idno type="uri">https://www.vffow.de/assets/downloads/beheim-schwarzbach-colonisationswerk-koenigsberg-1879.pdf</idno>
+                    <orgName type="reg">Kornmagazin Königsberg</orgName>
+                </org>
+                <org xml:id="ed_jmq_pz1_tcb">
+                    <idno type="uri">https://www.vffow.de/assets/downloads/beheim-schwarzbach-colonisationswerk-koenigsberg-1879.pdf</idno>
+                    <orgName type="reg">Kornmagazin Nikolaiken</orgName>
+                </org>
+                <org xml:id="ed_zyz_2sr_kfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Krankenhäuser_in_Königsberg</idno>
+                    <orgName type="reg">Krankenhaus der Barmherzigkeit (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_h3c_hsm_fx">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kreis_Rastenburg</idno>
+                    <orgName type="reg">Kreisausschuss zu den Kommunalabgaben Kreis
+                        Rastenburg</orgName>
+                </org>
+                <org xml:id="ed_vlp_qlb_tcb">
+                    <idno type="uri">https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen</idno>
+                    <orgName type="reg">Kriegs- und Domänenkammer Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_ghg_5lb_tcb">
+                    <idno type="uri">https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen</idno>
+                    <orgName type="reg">Kriegs- und Domänenkammer Königsberg</orgName>
+                </org>
+                <org xml:id="ed_ayv_1fl_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kunstgewerbe-_und_Handwerkerschule_(Berlin)</idno>
+                    <orgName type="reg">Kunstgewerbe- und Handwerkerschule (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_mn2_rtt_sdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kunstsammlungen_Chemnitz</idno>
+                    <orgName type="reg">Kunstsammlungen Chemnitz</orgName>
+                </org>
+                <org xml:id="ed_imb_kqf_p2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Landesamt_für_Denkmalpflege_Sachsen</idno>
+                    <orgName type="reg">Landesamt für Denkmalpflege Sachsen</orgName>
+                </org>
+                <org xml:id="ed_lfn_4yk_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Landkreis_Döbeln</idno>
+                    <orgName type="reg">Landratsamt Döbeln</orgName>
+                </org>
+                <org xml:id="ed_hly_x1t_vsb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kreis_Mohrungen</idno>
+                    <orgName type="reg">Landratsamt Mohrungen</orgName>
+                </org>
+                <org xml:id="ed_qpj_dls_vsb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Kreis_Preußisch_Eylau</idno>
+                    <orgName type="reg">Landratsamt Preußisch Eylau</orgName>
+                </org>
+                <org xml:id="ed_pj4_1tp_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Gerichtsorganisation_in_Berlin</idno>
+                    <orgName type="reg">Land- und Amtsgericht Berlin</orgName>
+                    <desc>Stadtgericht Berlin</desc>
+                </org>
+                <org xml:id="ed_cly_vxq_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Land-_und_Amtsgericht_(Königsberg)#Geschichte</idno>
+                    <orgName type="reg">Land- und Amtsgerichtgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_wmk_wvt_fqb">
+                    <idno type="uri">https://dewiki.de/Lexikon/Oberlandesgericht_K%C3%B6nigsberg</idno>
+                    <orgName type="reg">Land- und Stadtgericht Angerburg</orgName>
+                    <desc>Amtsgericht Angerburg</desc>
+                </org>
+                <org xml:id="ed_k52_kng_hy">
+                    <idno type="uri">http://www.albrecht-daniel-thaer.org/seite/317165/moeglin.html</idno>
+                    <orgName type="reg">Landwirtschaftliche Musteranstalt Möglin</orgName>
+                </org>
+                <org xml:id="ed_dll_dm5_1bb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Roßgarten_(Königsberg)</idno>
+                    <orgName type="reg">Lehndorff-Haus auf dem Roßgarten (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_inc_xft_zdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Löbenichtsches_Realgymnasium</idno>
+                    <orgName type="reg">Löbenichtsches Realgymnasium</orgName>
+                    <desc>Realgymnasium Königsberg</desc>
+                </org>
+                <org xml:id="ed_kl3_ldv_22b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Loescher_%26_Petsch</idno>
+                    <orgName type="reg">Loescher und Petsch Atelier für Fotografie
+                        (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_tgd_qyv_mbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Lustspielhaus_(Berlin)</idno>
+                    <orgName type="reg">Lustspielhaus (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_smh_zgj_ycb">
+                    <orgName type="reg">Gräflich-Lehndorffsches Mädchen-Waisenhaus
+                        Drengfurt</orgName>
+                </org>
+                <org xml:id="ed_w32_txd_py">
+                    <idno type="uri">https://www.wikiwand.com/de/Evangelisches_Diakonissenhaus_Berlin_Teltow_Lehnin</idno>
+                    <orgName type="reg">Magdalenenstift zur Erziehung verwahrloster
+                        Mädchen</orgName>
+                </org>
+                <org xml:id="ed_v3n_jfm_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Magistrat_von_Berlin</idno>
+                    <orgName type="reg">Magistrat von Berlin</orgName>
+                </org>
+                <org xml:id="ed_jhq_xl1_tcb">
+                    <idno type="uri">https://kulturstiftung.org/zeitstrahl/vereinigung-der-drei-staedte-koenigsberg</idno>
+                    <orgName type="reg">Magistrat von Königsberg</orgName>
+                </org>
+                <org xml:id="ed_dbc_15p_dz">
+                    <idno type="uri">https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kultur-und-wissenschaft/universitaeten/artikel.248854.php</idno>
+                    <orgName type="reg">Marchsche Tonwaren-Fabrik Berlin</orgName>
+                </org>
+                <org xml:id="ed_nh1_fnj_ycb">
+                    <idno type="uri">http://www.lötzen.de/landkreis-loetzen/test</idno>
+                    <orgName type="reg">Masurisches Erziehungshaus (Lötzen)</orgName>
+                </org>
+                <org xml:id="ed_l1k_cdj_f3b">
+                    <idno type="uri">http://www.krastogidas.lt/de/objekte/70-klaipeda-rathaus</idno>
+                    <orgName type="reg">Memel, Stadtverwaltung</orgName>
+                </org>
+                <org xml:id="ed_fn5_gmk_wcb">
+                    <orgName type="reg">Model- und Experimentalwirtschaft Aweyden</orgName>
+                </org>
+                <org xml:id="ed_fh2_jst_zdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Münzkabinett_(Berlin)</idno>
+                    <orgName type="reg">Münzkabinett (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_f4r_djw_12b">
+                    <idno type="uri">https://www.schloesserland-sachsen.de/de/schloesser-burgen-gaerten/schloss-glauchau/</idno>
+                    <orgName type="reg">Museum Schloss Glauchau</orgName>
+                </org>
+                <org xml:id="ed_ldm_q4s_kfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Nationalgalerie_(Berlin)</idno>
+                    <orgName type="reg">Nationalgalerie (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_v3z_bjl_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Notgemeinschaft_der_Deutschen_Wissenschaft</idno>
+                    <orgName type="reg">Notgemeinschaft der deutschen Wissenschaft</orgName>
+                </org>
+                <org xml:id="ed_vht_pp1_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Oberlandesgericht_K%C3%B6nigsberg</idno>
+                    <orgName type="reg">Oberlandesgericht Königsberg</orgName>
+                </org>
+                <org xml:id="ed_vp1_rn5_ncb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Verein_Oberlinhaus</idno>
+                    <orgName type="reg">Oberlinstiftung</orgName>
+                </org>
+                <org xml:id="ed_sv5_13d_d2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Robert_Warschauer_senior</idno>
+                    <orgName type="reg">Oppenheim und Warschauer Bankhaus</orgName>
+                </org>
+                <org xml:id="ed_a45_yp2_b2b">
+                    <idno type="uri">https://www.jstor.org/stable/41039792</idno>
+                    <orgName type="reg">Ossolinskisches Nationalinstitut in Lemberg</orgName>
+                    <desc>Nationalinstitut Ossolineum</desc>
+                </org>
+                <org xml:id="ed_q2v_w2m_xcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreu%C3%9Fische_Generallandschaftsdirektion</idno>
+                    <orgName type="reg">Ostpreußische Generallandschaftsdirektion</orgName>
+                </org>
+                <org xml:id="ed_kgc_v1q_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußische_Generallandschaftsdirektion</idno>
+                    <orgName type="reg">Ostpreußische Landschaftliche Darlehenskasse</orgName>
+                    <desc>Bank der Ostpreußischen Landschaft</desc>
+                </org>
+                <org xml:id="ed_glc_bp1_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußische_Regierung_(Justizbehörde)</idno>
+                    <orgName type="reg">Ostpreußische Regierung</orgName>
+                </org>
+                <org xml:id="ed_irr_zgw_h2b">
+                    <idno type="uri">https://www.deutsche-digitale-bibliothek.de/item/BGBQY4GX2YJCO3KEMGRP7L4LI3Q52PUN</idno>
+                    <orgName type="reg">Ostpreußischer Landwirtschaftlicher Zentralverein zu
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_nvv_5js_d2b">
+                    <idno type="uri">https://www.archivportal-d.de/item/KHDA7MDV7QWNHPDYVGXYVLWCBCTI72UO</idno>
+                    <orgName type="reg">Ostpreußischer Provinzial-Verein für Innere
+                        Mission</orgName>
+                </org>
+                <org xml:id="ed_mgd_rgv_sy">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußische_Regierung_(Justizbehörde)</idno>
+                    <orgName type="reg">Ostpreußisches Etatsministerium</orgName>
+                </org>
+                <org xml:id="ed_ddj_ktb_tcb">
+                    <orgName type="reg">Pensionsanstalt Königsberg</orgName>
+                </org>
+                <org xml:id="ed_ewq_4lq_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Physikalisch-Ökonomische_Gesellschaft_zu_Königsberg</idno>
+                    <orgName type="reg">Physikalisch-ökonomische Gesellschaft zu
+                        Königsberg</orgName>
+                </org>
+                <org xml:id="ed_qym_54s_kfb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußische_Akademie_der_Künste</idno>
+                    <orgName type="reg">Preußische Akademie der Künste</orgName>
+                </org>
+                <org xml:id="ed_wbg_fmg_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußische_Akademie_der_Wissenschaften</idno>
+                    <orgName type="reg">Preußische Akademie der Wissenschaften </orgName>
+                </org>
+                <org xml:id="ed_vpl_g41_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Johanniterorden#Ballei_Brandenburg</idno>
+                    <orgName type="reg">Preußische Genossenschaft des Johanniter-Ordens</orgName>
+                </org>
+                <org xml:id="ed_j3g_bvh_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußische_Geologische_Landesanstalt</idno>
+                    <orgName type="reg">Preußische Geologische Landesanstalt</orgName>
+                </org>
+                <org xml:id="ed_lxy_j3w_c2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußische_Kriegsakademie</idno>
+                    <orgName type="reg">Preußische Kriegsakademie (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_z5d_dl4_llb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fischer_Volksverein</idno>
+                    <orgName type="reg">Preußischer Volksverein</orgName>
+                </org>
+                <org xml:id="ed_ykj_15y_fjb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußisches_Staatsministerium</idno>
+                    <orgName type="reg">Preußisches Finanzministerium</orgName>
+                </org>
+                <org xml:id="ed_z1f_vxj_gz">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fisches_Staatsministerium</idno>
+                    <orgName type="reg">Preußisches Handelsministerium</orgName>
+                </org>
+                <org xml:id="ed_lnf_t5y_5x">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fisches_Kriegsministerium</idno>
+                    <orgName type="reg">Preußisches Kriegsministerium</orgName>
+                </org>
+                <org xml:id="ed_qsy_xxh_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußisches_Ministerium_der_geistlichen,_Unterrichts-_und_Medizinalangelegenheiten</idno>
+                    <orgName type="reg">Preußisches Kultusministerium</orgName>
+                </org>
+                <org xml:id="ed_o2g_htj_2qb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußisches_Staatsministerium</idno>
+                    <orgName type="reg">Preußisches Ministerium des Innern </orgName>
+                </org>
+                <org xml:id="ed_wwk_2y1_1bb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußisches_Ministerium_für_Landwirtschaft,_Domänen_und_Forsten</idno>
+                    <orgName type="reg">Preußisches Ministerium für Landwirtschaft, Domänen und
+                        Forsten</orgName>
+                </org>
+                <org xml:id="ed_vh2_hdl_w2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preu%C3%9Fisches_Obertribunal</idno>
+                    <orgName type="reg">Preußisches Obertribunal </orgName>
+                </org>
+                <org xml:id="ed_ard_2kg_my">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Geheimes_Staatsarchiv_Preußischer_Kulturbesitz</idno>
+                    <orgName type="reg">Preußisches Staatsarchiv Königsberg (seit 1978 als XX.
+                        Hauptabteilung im Geheimen Staatsarchiv Preußischer Kulturbesitz
+                        Berlin-Dahlem)</orgName>
+                </org>
+                <org xml:id="ed_tq2_p2b_1bb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Preußisches_Staatsministerium</idno>
+                    <orgName type="reg">Preußisches Staatsministerium</orgName>
+                </org>
+                <org xml:id="ed_tjg_t3d_mfb">
+                    <idno type="uri">https://zefys.staatsbibliothek-berlin.de/list/title/zdb/24367898/</idno>
+                    <orgName type="reg">Preußische Zeitung. Amtliches Nachrichtenblatt aller
+                        staatlichen und städtischen Behörden, Geschäftsstelle Kruglanken</orgName>
+                </org>
+                <org xml:id="ed_l1j_zfh_my">
+                    <orgName type="reg">Rall &amp; Rongowikow Hofbankier</orgName>
+                </org>
+                <org xml:id="ed_cyd_wtg_hy">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Regierungsbezirk_Gumbinnen</idno>
+                    <orgName type="reg">Regierung zu Gumbinnen</orgName>
+                </org>
+                <org xml:id="ed_rml_bbl_2z">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Regierungsbezirk_K%C3%B6nigsberg</idno>
+                    <orgName type="reg">Regierung zu Königsberg</orgName>
+                </org>
+                <org xml:id="ed_vdz_tp1_tcb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Regierungsbezirk_Marienwerder</idno>
+                    <orgName type="reg">Regierung zu Marienwerder</orgName>
+                </org>
+                <org xml:id="ed_xkg_1yq_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Reichskriminalpolizeiamt</idno>
+                    <orgName type="reg">Reichskriminalpolizeiamt, Leitstelle Berlin</orgName>
+                </org>
+                <org xml:id="ed_apw_ssy_ybb">
+                    <orgName type="reg">Ressource Lötzen</orgName>
+                </org>
+                <org xml:id="ed_xrl_tdr_gz">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Rheinische_Friedrich-Wilhelms-Universität_Bonn</idno>
+                    <orgName type="reg">Rheinische Friedrich-Wilhelms-Universität Bonn</orgName>
+                </org>
+                <org xml:id="ed_yvb_np2_3lb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ritterakademie_(Brandenburg_an_der_Havel)</idno>
+                    <orgName type="reg">Ritterakademie (Brandenburg an der Havel)</orgName>
+                </org>
+                <org xml:id="ed_c11_cdh_my">
+                    <idno type="uri">https://www.stolpersteine-hamburg.de/index.php?MAIN_ID=7&amp;BIO_ID=1385</idno>
+                    <orgName type="reg">Rudolphi'sche Buchhandlung (Hamburg)</orgName>
+                </org>
+                <org xml:id="ed_t5f_4sh_jlb">
+                    <idno type="uri">http://www.zeno.org/Roell-1912/A/Rumänische+Eisenbahnen</idno>
+                    <orgName type="reg">Rumänische Eisenbahn-Aktien-Gesellschaft</orgName>
+                </org>
+                <org xml:id="ed_zxf_yqt_ncb">
+                    <idno type="uri">https://de-academic.com/dic.nsf/dewiki/79799</idno>
+                    <orgName type="reg">Siechenhaus Angerburg</orgName>
+                    <desc>Bethesda-Anstalten</desc>
+                </org>
+                <org xml:id="ed_kkj_z3n_ngb">
+                    <idno type="uri">https://www.deutsche-digitale-bibliothek.de/item/5U6HVM4UMCKU6USVZTORFQ7BNY6JCASZ</idno>
+                    <orgName type="reg">Societas Cassiana</orgName>
+                </org>
+                <org xml:id="ed_qj5_sm1_tcb">
+                    <orgName type="reg">Société de Journaux et de Livres</orgName>
+                </org>
+                <org xml:id="ed_lc1_xcg_h1b">
+                    <idno type="uri">https://archivdatenbank.gsta.spk-berlin.de/midosasearch-gsta/MidosaSEARCH/xx_ha_rep_69/index.htm?kid=8f955c87-5e4b-4e04-9ca1-33a15d8ff753</idno>
+                    <orgName type="reg">Spezial Kirchen- und Schulkommission</orgName>
+                </org>
+                <org xml:id="ed_a3z_hzt_sdb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Staatliche_Kunstsammlungen_Dresden</idno>
+                    <orgName type="reg">Staatliche Kunstsammlungen Dresden</orgName>
+                </org>
+                <org xml:id="ed_pgh_sxk_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Staatliche_Schlösser,_Burgen_und_Gärten_Sachsen</idno>
+                    <orgName type="reg">Staatliche Schlösser, Burgen und Gärten Sachsen</orgName>
+                </org>
+                <org xml:id="ed_qlh_nvk_gbb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Sächsische_Staatsregierung#Sowjetische_Besatzungszone_und_Deutsche_Demokratische_Republik_1945%E2%80%931952</idno>
+                    <orgName type="reg">Staatsregierung Sachsen</orgName>
+                </org>
+                <org xml:id="ed_ufs_jb1_12b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Ostpreußisches_Provinzialmuseum</idno>
+                    <orgName type="reg">Städtische Kunstsammlung Königsberg</orgName>
+                </org>
+                <org xml:id="ed_lwr_p2d_jxb">
+                    <orgName type="reg">Ständeversammlung des Kreises Rastenburg</orgName>
+                </org>
+                <org xml:id="ed_e3t_l2n_4y">
+                    <orgName type="reg">Steinort, Archiv</orgName>
+                </org>
+                <org xml:id="ed_tjm_5dn_4y">
+                    <orgName type="reg">Steinort, Bibliothek</orgName>
+                </org>
+                <org xml:id="ed_qzw_l1z_ny">
+                    <orgName type="reg">Steinort, Gemäldesammlung</orgName>
+                </org>
+                <org xml:id="ed_nnc_rrz_g1b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Schloss_Steinort</idno>
+                    <orgName type="reg">Steinort, Grabkapelle</orgName>
+                </org>
+                <org xml:id="ed_ltz_hdr_gbb">
+                    <orgName type="reg">Steinort, Patrimonialgericht</orgName>
+                </org>
+                <org xml:id="ed_jpj_53n_my">
+                    <orgName type="reg">Stier &amp; Stephan Holzhandlung (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_lhq_kkg_ldb">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Stiftskirche_Schildesche</idno>
+                    <orgName type="reg">Stift Schildesche</orgName>
+                </org>
+                <org xml:id="ed_nzz_jsk_gy">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Tattersall#Berlin</idno>
+                    <orgName type="reg">Tattersall Berlin</orgName>
+                </org>
+                <org xml:id="ed_zbv_wvp_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Julius_Ernst_von_Tettau</idno>
+                    <orgName type="reg">Tettau'sches Fräuleinstift zu Königsberg</orgName>
+                </org>
+                <org xml:id="ed_tkm_ns5_zdb">
+                    <idno type="uri">https://kunstverwaltung.bund.de/DE/Provenienzforschung/Historie/historie_node.html</idno>
+                    <orgName type="reg">Treuhandverwaltung von Kulturgut</orgName>
+                </org>
+                <org xml:id="ed_pyk_3cm_zdb">
+                    <orgName type="reg">Union Wasserversorgungs- und Pumpen-Industrie GmbH
+                        (Berlin)</orgName>
+                </org>
+                <org xml:id="ed_onn_wlq_f2b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Verein_der_Berliner_Künstlerinnen</idno>
+                    <orgName type="reg">Verein der Berliner Künstlerinnen</orgName>
+                </org>
+                <org xml:id="ed_xth_qdv_12b">
+                    <idno type="uri">https://de.wikipedia.org/wiki/Volksgerichtshof</idno>
+                    <orgName type="reg">Volksgerichtshof</orgName>
+                </org>
+                <org xml:id="ed_syf_xww_h2b">
+                    <orgName type="reg">Vorschuss-Verein zu Angerburg</orgName>
+                </org>
+                <org xml:id="ed_fcz_n4m_zdb">
+                    <orgName type="reg">Weckert und Müller Möbeltransport und Spedition
+                        (Königsberg)</orgName>
+                </org>
+                <org xml:id="ed_sjb_tsh_h2b">
+                    <idno type="uri">https://berlingeschichte.de/lexikon/mitte/w/weinhandlung_borchardt.htm</idno>
+                    <orgName type="reg">Weinhandlung Borchardt</orgName>
+                </org>
+                <org xml:id="ed_bfw_stj_jlb">
+                    <idno type="uri">https://pastvu.com/p/637889</idno>
+                    <orgName type="reg">Wilhelm-Augusta-Siechenhaus Preußisch Eylau</orgName>
+                </org>
+                <org xml:id="ed_p2n_fsg_my">
+                    <orgName type="reg">Zeitungsexpedition Angerburg</orgName>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

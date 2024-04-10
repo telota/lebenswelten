@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_lp5_g4j_dbb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Schulzeugnis. 1846</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+            <note type="editorial">Siehe auch: StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 514,
+                    Bl. 6: Ordnung der musikalisch-deklamatorischen Abendunterhaltung in der
+                        <orgName key="ed_yvb_np2_3lb">
+                  <orgName key="ed_yvb_np2_3lb">Ritterakademie
+                            zu Brandenburg</orgName>
+               </orgName> am 17. Dezember 1836 (Mitwirkende: v.
+                    Zieten, v. Blume, v. Rochow, v. Maltzahn, v. Bassewitz, v. Houwald I und II, v.
+                    Tresckow, v. Brauchitsch I und II, v. Knobelsdorf, v. Mengersen, v. Lynar, v.
+                    Brandenburg, v. Bülow, v. Krosigk, v. Tarrach, v. Bohlen, v. Grünberg, v.
+                    Bergfeld, v. Langen) sowie Bl. 7: Musikalisch-dramatische Abendunterhaltung in
+                    der Ritterakademie zu Brandenburg den 22. März 1846 (Mitwirkende: v. Schönburg,
+                    v. Rohr, v. Wartensleben I und II, v. Lehndorff, v. Bredow I und II, Treue, de
+                    Monteton, de Gauvain. - Die Unterlagen <persName key="ed_ik3_ckz_2y">Carl
+                        Meinhard von Lehndorffs</persName> aus der Schulzeit am <orgName key="ed_gcq_4sj_f3b">Altstädtischen Gymnasium</orgName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und aus der Studienzeit in
+                        <placeName key="ed_l55_lzt_2cb">Bonn</placeName> ebd., Nr. 556 und in: StA
+                    Leipzig, Bestand 21950 Familienarchiv Lehndorff, Nr. 392. </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 204, Bl. 3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xjc_ttl_cz">Brandenburg</placeName>
+            <date from="1846-03-01" to="1846-04-15" cert="low"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Censur. No. Zwei</p>
+            <p>von Neujahr bis Ostern 1846</p>
+            <p>Klasse: II Name des Zöglings: <seg type="comment">
+                  <orig>Graf
+                        Lehndorff</orig>
+                  <note xml:id="nfcc_rs2_3lb">Für den 1829 geborenen <persName key="ed_nml_dw2_cy">Heinrich von Lehnorff</persName>, siehe auch das
+                        Dokument vom <ref target="lehndorff_e52_dqj_dbb">25. April 1882.</ref>
+                     <persName key="ed_ik3_ckz_2y">Carl Meinhard</persName> hatte bereits in
+                            <placeName key="ed_l55_lzt_2cb">Bonn</placeName> sein <ref target="lehndorff_oxq_rrh_fdb">Studium</ref> begonnen, <persName key="ed_sjx_pfm_2y">Georg</persName> war noch auf dem <ref target="lehndorff_mtx_d3f_4y">Gymnasium</ref>. </note>
+               </seg>
+            </p>
+            <p>I. Betragen: Gut. Schade, dass ihm einmal der Missbrauch bewiesenen Vertrauens
+                unmittelbar nach der Rückkehr aus den Ferien eine 12-stündige Karzerstrafe
+                zuzog.</p>
+            <p>II. Ordnungsliebe: Gut.</p>
+            <p>III. Schulbesuch: Regelmäßig bis auf eine kurze, durch Unpässlichkeit
+                    herbeigeführte Unterbrechung.</p>
+            <p>IV. Aufmerksamkeit im Unterricht: Immer sehr rege.</p>
+            <p>V. Häuslicher Fleiß: Fast überall zur Zufriedenheit; für die deutschen,
+                    französischen, geographischen und historischen Lektionen nicht immer ganz
+                    ausreichend. </p>
+            <p>V. Fortschritte: Im Lateinischen sehr sichtbar und erfreulich, wenn auch nur in
+                Beziehung auf das Grammatische einige erhebliche Mängel zu überwinden bleiben; im
+                Französischen gut; im Deutschen ziemlich gut; in der Religion, Mathematik und Physik
+                gut; in der Geschichte und Geographie ziemlich gut; im freien Handzeichnen gut; im
+                Planzeichnen und Singen genügend; im Turnen gering.</p>
+            <p>Graf Lehndorff wird nach <seg type="comment">
+                  <orig>Prima</orig>
+                  <note xml:id="ngzx_ks2_3lb">Letzte Stufe vor dem Abitur.</note>
+               </seg>
+                versetzt.</p>
+            <p>VI. Besondere Bemerkungen: Da das oben gerügte Vergehen ganz im Anfang des
+                Vierteljahres vorgekommen ist, und Graf Lehndorff seitdem in seiner ganzen Haltung
+                durchaus keine Rüge veranlasst hat, so haben wir geglaubt, bei unserer Urteil die
+                Sache milder auffassen zu dürfen.</p>
+            <closer>
+               <salute>
+                  <seg type="comment">
+                     <orig>Ritterakademie zu Brandenburg</orig>
+                     <note xml:id="nvqs_dmm_wcb">Es folgen sechs Unterschriften.</note>
+                  </seg>
+               </salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

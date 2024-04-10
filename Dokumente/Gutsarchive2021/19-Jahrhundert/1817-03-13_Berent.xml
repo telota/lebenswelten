@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_b3d_vjp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet über die Lage in Steinort, u. a. über die Brennerei. </title><title>Steinort, 13. März 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorf-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-03-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 5.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_b3d_vjp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>No. 5. Steinort den 13. März 1817</dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p>Vor drei Posttagen erhielt 3 Briefe aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> datiert, beigehend eine Rolle mit Kupfer, die ohnbeschädigt so
+               wie der Luzerne-Samen ankamen, allein der Alkoholmeter und Thermometer waren beide
+               gebrochen. Die 3 Bücher aber waren auch unbeschädigt, in dem einen lag auch der Brief
+               mit 2 Frid'or an die <persName key="ed_vn2_thg_hwb">Tochtermannin</persName>. Mit der
+               gestrigen Post habe auch Dero gnädigen Brief aus <placeName key="ed_mzz_jfr_gbb">Sedan</placeName> erhalten mit der Einlage an <persName key="ed_stv_2dt_xxb">Willimzig</persName>. Die Witterung und Wege sind miserabel, die Post kommt schon
+               seit 5 Wochen nie regelmäßig an, und Regen, Schnee und unbedeutender Frost wechseln
+               fast alle Tage. Der Weg ist fast auch in der Nähe ganz unbefahrbar. Ich glaube kaum,
+               dass seit 30 Jahren so ein Winter gewesen ist. Gott gebe nur, dass die Folgen davon
+               nicht gar zu großen Nachteil auf Menschen, Vieh, Wintersaat und Klee haben, und ist
+               schon Sorgen und Kummer genug, auch nur das Notwendigste herbeizuschaffen, und alle
+               Unternehmungen sind gehemmt. Die Getreidepreise sind in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> sehr hoch, der beste Weizen gibt 5
+               Rtlr., das gute Korn 3 Rtlr., Erbsen 8 Fl., Gerste 5 Fl. und Haber 3 1/2 Fl. Allein
+               wer da auch noch was übrig hat, kann es nicht hinbringen. Ich würde auch noch etwa
+               300 Schfl. Weizen, 200 Schfl. Korn und 200 Schfl. Erbsen zum Verkauf übrig haben, nur
+               vorjetzt muss ich darauf Verzicht leisten. Wirft man aber sein Augenmerk auf die
+               ärmere Klasse und besonders auf den Bauern, so ist, wenn Gott nicht mit einem
+               baldigen und guten Frühjahr ins Mittel tritt, eine große Not zu befürchten, denn der
+               größeste Teil hat weder Saat noch Brot und Futter, und auf die Gespanndienste zur
+               Bestellung der Sommersaat unserer Bauern kann ich schon gar nicht rechnen. Wenn Ew.
+               Hochgeboren manchem mit Saat oder Brot nicht helfen, dann hört seine Existenz auf. In
+               den Gütern ist zwar kein großer Unglücksfall vorgekommen, allein es sterben doch
+               gegen sonst viele Menschen. Die Schafe sind zwar auch noch ziemlich gesund und wir
+               haben auch schon über 45 Stück Lämmer. Allein es sind doch schon einige 20 St.
+               gestorben und viele sehen doch nicht so aus, wie sie bei einer vollkommenen
+               Gesundheit aussehen sollen, ohnerachtet sie hinlänglich gutes Futter bekommen, auch
+               einige mal Gekräuter<gap reason="illegible"/> und Salz bekommen haben. Die Pferde und
+               Fohlen sind so wie sämtliches Vieh gesund. Die jungen Pferde haben sich sehr
+               aufgenommen, nur die junge braune englische Stute hat wieder die Pilz<gap reason="illegible"/> bekommen, die Carl aber mit der gegebenen Salbe schmiert. Es
+               ist jetzt mehr wie je ein außerordentlicher schlimmer Zustand für einen Landwirt.
+               Alle nur mögliche Hinder- und Beschwernisse stemmen sich gegen alle Unternehmungen,
+               und mit welchem Ruin und Nachteil muss man sie durchsetzen oder auf das Notwendigste
+               Verzicht leisten. An Herrn <persName key="ed_b4v_4ld_b2b">Schmalz</persName> habe ich
+               geschrieben, teils wegen dem Bock und teils wegen den Lehmbauten, zugleich ihn sehr
+               gebeten, mir in Ansehung dieses Baus Belehrungen zu erteilen, habe aber noch keine
+               Antwort erhalten. <persName key="ed_dlv_cjv_mbb">Herr von Farenheid</persName> hat
+               mir den <seg type="comment"><orig>einliegenden Brief</orig><note xml:id="ntgw_pyb_3yb">Der Brief liegt nicht bei.</note></seg> zugeschickt und
+               mir angefragt, welche 4 Stück Stuten zum Belegen nach <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> kommen. Fohlen haben wir noch keine, ich erwarte aber mit
+               ehesten welche, indessen werden viele nicht tragend sein, unter denen ist auch die
+               große englische Fuchsstute, die voriges Jahr in Angerapp war, dann die Rose, die
+               Porcelain-Schecke, die Kl. Moldensche, Eulalia, Iris. Diese sind bestimmt nicht
+               tragend. Ich habe auch bei dieser so sehr üblen Witterung, und da die Pferde nicht
+               mit arbeiten, mit dem Futter eine andere Einrichtung gemacht. Da wo viel Heu noch
+               ist, bekommen sie 1 Metz Haber, und da, wo wenig ist, 1 1/2 M. Schrot, nämlich von
+               aller Saat des ausge<gap reason="illegible"/> mit kl. Gerste, weil ich durchaus hier
+               keinen Haber bekam und <gap reason="illegible"/>. Mit der Saat habe ich mich aber
+               schon gesichert. Dem Prange sein Vater hat mir in den Ämtern 200 Schfl. von den
+                  Ba<gap reason="illegible"/>ren aufgekauft, und dann habe ich bei <placeName key="ed_exy_rfk_wcb">Goldap</placeName> mit einem Gutsbesitzer <persName key="ed_xyb_x3g_hwb">Steinert</persName> einen Kontrakt über 400 Schfl. gemacht.
+               Ich muss ihm aber 84 Gr. p. Schfl. geben und abholen. 200 Schfl. habe ich bereits
+               schon hier. Da es durchaus kein Vorteil ist, den Branntwein zu brennen, so habe ich
+               mir auch hierin in die Zukunft gesucht und habe schon 22 Ohm a 20. 22. und 24 Rtlr.
+               aufgekauft. Ein großes Glück, dass ich gleich im Anfang Januar das Bauholz anfuhr,
+               auch einen ziemlichen Vorrat an Brennholz setzte, denn jetzt ist es fast nicht
+               möglich und ich habe nur die Prediger und Schullehrer befriedigt und
+               Schirrholz-Rückstände und Schaffholz, der Leute ihr Holz und einiges Achtelholz an
+               die Ziegelei gefahren und die Pferde haben viel gelitten und fast alle Wagen
+               ruiniert. Ich bin doch so glücklich gewesen, einige Stück Stroh vom Eigentümer in
+                  <placeName key="ed_hln_mlz_2qb">Masehnen</placeName> zu 5 Rtlr. <gap reason="empty"/>, so wie es aber ist, denn es steht noch im Begriff zu kaufen.
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName> wird wohl dieses Jahr nicht
+               verpachtet werden, es hat sich dazu auch ein gewisser <persName key="ed_mz3_jjg_hwb">Gutzeit</persName> aus dem <orgName key="ed_r2q_dc1_tcb">Amt Angerburg</orgName>,
+               auch ein Pächter <persName key="ed_msg_ljg_hwb">Hecht</persName> aus <placeName key="ed_d5d_v3q_rdb">Wehlau</placeName> gemeldet. Sie finden aber die Bedingungen
+               zu hart und die Pacht, wegen Entfernung von <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und alles mit eigenem Angespann und Leute zu bearbeiten,
+               zu hoch. Es ist aber auch besser, denn künftiges Jahr muss dann doch ein jeder wegen
+               der Aussaat auch wissen, wann es ist, und die Wirtschafts-Inventarien-Stücke müssen
+               dann doch wenigstens etwas in Stande gesetzt werden, denn jetzt ist ja nicht einmal
+               ein Wagen, mit dem man nach Königsberg fahren kann. <persName key="ed_stv_2dt_xxb">Willimzig</persName> ist dieses Jahr mit seinen Pferden gar nicht nach Königsberg
+               gewesen, und alles, was er übrig hat, bleibt mir auf dem Halse liegen. Gott gebe nur
+               bald Frühjahr, denn sonst weiß ich bei Gott nicht, was mit der <placeName key="ed_ohv_kf2_gy">Pristanienschen</placeName> Schäferei man anfangen wird.
+               Indessen bleib ich gesund und Hochgeboren überlassen mir alles, so soll und muss es
+               anders werden, und ich werde mir schon suchen bis künftigen <seg type="comment"><orig>Trinitatis</orig><note xml:id="nxlp_rns_xxb">erster Sonntag nach
+                     Pfingsten</note></seg> 1818 durchzuarbeiten, es sei auf welche Art es wolle.
+               Die <seg type="comment"><orig>landschaftliche Taxe</orig><note xml:id="ngy2_vns_xxb">Siehe den Brief vom <ref target="lehndorff_wxg_zjp_3tb">24. April
+                     1817</ref>.</note></seg> habe ich noch nicht, ohnerachtet ich schon zweimal
+               beim Justizrat <persName key="ed_sgc_2wf_2y">Leitner</persName> deswegen gewesen bin.
+               Der lahme Bock aus Frankreich ist noch immer lahm und Herr <persName key="ed_oxt_jzb_tcb">Kaiser</persName> hat seine Künste schon aufgegeben.
+               Vielleicht gelingt es mir doch noch, mit den <placeName key="ed_xpm_112_gy">Lababschen</placeName> Bauern eine Übereinkunft zu treffen. Ich habe bei diesem
+               so sehr schlechten Jahr dazu Hoffnung. Meine Frau empfiehlt sich zu Gnaden und ist
+               gesund sowie alle übrigen Tischgenossen. <persName key="ed_abl_pyy_4kb">Werse</persName> und <persName key="ed_afr_tvf_2y">Werner</persName> habe ich
+               vorige Woche gesprochen, empfehlen sich zu Gnaden, ersterer hat das Versprochene
+               erhalten. Die letzte Kommission wegen Regulierung der Lieferungsscheine hat den
+               Steinortschen Gütern über 400 Rtlr. an Vergütung gestrichen. Die Scheine werden mit
+               nächstem ausgeliefert werden, sowie man aber hier vermeint in 10 bis 15 Jahr erst
+               bezahlt werden. </p>
+            <closer>
+               <salute>Mit aller Ehrfurcht unterzeichne mich Ew. Hochgeboren untertänigster</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

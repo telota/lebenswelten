@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_stn_km5_msb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die Witwe Marie Heinrich bittet Graf von Lehndorff um Unterstützung.</title><title> Brosowken, 20. Februar 1836</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 277, Bl. 46-47</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wcm_l5s_vsb">Heinrich, Marie (-)</persName>
+               <placeName key="ed_act_42b_ycb">Brosowken</placeName>
+               <date when="1836-02-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Auf den Brief der Witwe Heinrich musste Werner Bericht erstatten, ebd., Bl.
+               48-49v. Er erklärte: Heinrich sei bereits vor der Übernahme von Serwillen verstorben.
+               Die Witwe habe sich „recht gut ernährt [...], indem sie zu den herrschaftlichen
+               Arbeiten sehr selten zu bekommen war, sondern immer auswärts zu tun hatte, und dem
+               Anschein nach nie an Mangel litt.‟ Als man einen Gänsehirten suchte, habe man den
+               John, der ein gutes Zeugnis vorzuweisen hatte, genommen. John habe sich jedoch der
+               Witwe „zu sehr‟ genähert, die schwanger wurde, weshalb er ihr die Ehe versprach. Er,
+               Werner, habe ihr deshalb den Aufenthalt gekündigt. John sei das Hüten der Gänse zu
+               beschwerlich geworden, er habe der Heinrich einige Sachen entwendet, sei einige
+               Wochen nach Drengfurt verschwunden und habe sich dort betrunken. In der Zwischenzeit
+               habe er, Werner, das Hüten anderweitig vergeben. Der Verdienst für das Ochsenhüten
+               sei auf den Tagelohnzettel der Heinrich geschrieben worden. Damit hätte er die
+               Schulden verrechnet, wobei ein Rest offen geblieben sei, den er durch die Kartoffeln
+               gedeckt habe. Der John hätte sich erneut mit einigen Sachen aus dem Staub gemacht,
+               sie sei ihn suchen gegangen, hätte ihn nicht gefunden und stehe nun von einem
+               „Taugenichts‟ verlassen da. Sie sei durchaus nicht elend, sondern zufrieden, die
+               beiden größeren Kinder seien vermietet, mit den beiden jüngeren könne sie sich von
+               ihrer Hände Arbeit ernähren. Die Kinder habe sie nach <placeName key="ed_epz_y2c_gy">Engelstein</placeName> zum Wirt mit der Bitte gebracht, er möge sie nach
+                  <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> fahren, dort beim Hirt
+               absetzen und davonfahren, so könnte sie sie los werden. Er habe sie dann zum
+               Landgeschworenen geschickt mit der schriftlichen Warnung dafür zu sorgen, dass sie
+               von erwerbsfähigen Eltern aufgezogen werden. Sie sei vor John gewarnt worden und habe
+               sich selbst ins Elend gestürzt.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941400"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Brosowken, den 20. Febr. 1836</dateline>
+               <salute>Hochgeborner Herr, Insonders Hochzuehrender Herr Graf</salute>
+            </opener>
+            <p>Ew. Exzellenz werden gnädigst verzeihen, was ich Ew. Gnaden vorzutragen habe.
+               <lb/>Mein verstorbener Mann mit Namen <persName key="ed_if4_kvs_vsb">Michael
+                  Heinrich</persName> ist in Ew. Exzellenz Gütern geboren und auferzogen und
+               heiratete mich, als 60 Jahre alt war. Ich habe mit ihm zusammen 13 Jahre gelebt und 3
+               Kinder mit demselben gezeugt, 1 ist gestorben und 2 sind am Leben. Mit meinem Mann
+               habe ich 6 Jahre in <placeName key="ed_xnn_d12_gy">Kittlitzen</placeName> gewohnt und
+               7 Jahre in <seg type="comment"><orig>Szerwellen</orig><note xml:id="nicg_j1z_gvb"><placeName key="ed_hrb_hc2_gy">Serwillen</placeName></note></seg>, wo mein
+               Mann immer als Hirte war und sich auch sehr gut aufführte. Als mein Mann schon
+               schwach war, wollte er sich bei Ew. Hochgeboren um Unterstützung melden, jedoch ich
+               ließ es nicht zu, sondern sagte, ich bin noch jung und werde arbeiten, und du kannst
+               auch noch arbeiten, so viel es in deinen Kräften steht, und wollen uns nähren und Sr.
+               Exzellenz nicht zur Last fallen, so verblieb es auch. Mein Mann ist im Jahre 1833 im
+                  <seg type="comment"><orig>Monat Mai</orig><note xml:id="nrp1_px3_yxb">Weiter unten
+                     schreibt sie, er sei im Herbst verstorben.</note></seg> gestorben und ich habe
+               mich und meine Kinder bereits 3 recht volle Jahre ehrlich ernährt und bin Ew. Gnaden
+               nicht zur Last gefallen, also schon über 4 Jahre in Ew. Exzellenz Güter gewohnt habe
+               und treu und redlich mich aufgeführt. Dieses fiel mir aber sehr schwer, aus meiner
+               Handarbeit mich und meine Kinder zu nähren, und noch 15 Sgr. Wohnungsmiete und 15
+               Sgr. Klassensteuer zahlen, das fiel mir schwer, und um Ew. Gnaden nicht zur Last zu
+               fallen, wollte ich mich mit dem <persName key="ed_upy_s5s_vsb">John</persName>
+               verheiraten, indem ich dachte, mir leichter zu machen. Dieser John hat vom Monat Mai
+               1833 im Tage Gänse und in der Nacht Ochsen gehütet bis zu <seg type="comment"><orig>Bartholomäi</orig><note xml:id="nkf3_rx3_yxb">24. August</note></seg>
+               1835, da setzte ihn der Herr Inspektor <persName key="ed_afr_tvf_2y">Werner</persName> von dem Dienst ab und wir bekamen da kein Brot. <lb/>Der John
+               hat also im Ganzen gegen 5 Rtlr. verdient, denn er bekam täglich 2 Sgr. gerechnet,
+               und ich ging auch täglich in Arbeit bis zu der Zeit, wo schon genannt ist. Da der
+               John nicht mehr hüten durfte, ging er nach Brosowken und vermietete sich daselbst als
+               Hirt, wo wir auch von Neujahr hinzogen,. Von meinem und dem John seinem Verdienst
+               haben wir im Ganzen entnommen 1 Scheffel Weizen und 1 Scheffel Korn und 1 Rtlr. 15
+               Sgr. bar Geld, und das übrige hat der Herr Inspektor behalten und meinem verstorbenen
+               Mann seine Schuld eingerechnet. Meinem verstorbenen Mann wurde in der ganzen Zeit
+               seines Hütens keine Geldschuld zugerechnet, bloß in den 2 vorletzten Jahren, wo er in
+               Szerwellen Kälber hütete, wurde uns jährlich 1 Rtlr. Miete, 1 Rtlr. für den Garten
+               und 2 Rtlr. für Heu, also für 2 Jahr 8 Rtlr., und in den ganz letzten Jahren wieder
+               nichts gerechnet, und da starb mein Mann im verflossenen Herbste aber schon.
+               <lb/>Ausgangs des Jahres 1835 wurde mein und dem John sein Verdienst ohne das
+               Entnommene darauf verrechnet, und es blieben noch 2 Rtlr. Rest. Der Herr Inspektor
+               hat aber mich arme Witwe und über die Weisen kein Erbarmen gehabt, und für die
+               schuldigen 2 Rtlr. mir meine Kartoffeln, welche ich vergraben hatte, ca. 8 Säcke,
+               aufgegraben und nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hinbringen,
+               dass ich nichts behielt. Als das der John sah, dass ich in solchen elenden Stand
+               gesetzt wurde, ließ er mich mit meinen Kindern im Stich und entfernte sich ganz von
+               mir. Jetzt in dieser großen nahrungslosen Not hat die Dorfschaft Brosowken meine
+               Hungersnot nicht mehr übersehen können, und nahmen meine Kinder, luden sie auf den
+               Schlitten und fuhren sie nach Szerwellen mit dem Bemerken, wo ich solche lange Jahre
+               gewesen bin, soll ich auch länger bleiben. Mit großen Schmerzen musste ich das Elend
+               ansehen, als mir meine Kinder vor den Augen genommen wurden und nach Szerwellen
+               gebracht, und ich musste zurückbleiben wegen meinen Sachen, wo mir schon viele
+               genommen wurden, und ich weiß nicht, wo ich bleiben soll, suche daher bei Ew. Gnaden
+               Zuflucht. Wollen Ew. Gnaden mich nicht annehmen, so weiß ich keinen anderen Rat als
+               ich muss zuerst den Kindern das Leben nehmen und nachher mir selbst, denn auch auf
+               diesen elenden Gedanken bin geraten, ich sehe dahero entgegen, dass Ew. Gnaden sich
+               meiner annehmen werden und mich ansetzen, wo ich schon Miete zahlen will und arbeiten
+               gehen werde,</p>
+            <closer>
+               <salute>ganz untertänigste</salute>
+               <signed>Marie Heinrich Witwe</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

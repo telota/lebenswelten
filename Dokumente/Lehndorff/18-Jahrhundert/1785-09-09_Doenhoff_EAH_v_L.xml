@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_njg_n2g_jbb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Philipp Otto Graf von Dönhoff an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff. Quittainen, 9. September 1785</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 383, Bl. 23-24v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_shm_g3w_mbb">Dönhoff, Philipp Otto Graf von
+                        (1710-1787)</persName>
+               <placeName key="ed_ehn_vv2_g1b">Quittainen</placeName>
+               <date when="1785-09-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            </correspAction>
+            <note>In seinem Brief vom 21. September 1785 (Bl. 34-35v) schreibt Dönhoff Näheres
+                    zu seinem PS: <quote>Nach dem Russischen Kriege ist leider eingerissen, dass die
+                        Zirkularschreiben von Ort zu Ort geschickt. Ein Teil des hiesigen Adels hat
+                        sich dazu nicht länger verstanden. Der hiesige Landrat hat solches der
+                        Kammer berichtet und diese an das Berlinische Direktorium, vorgebend, es sei
+                        eine alte Usance. Die Verordnung ist daher wider den Adel zum Nachteil. Weil
+                        es nun keine alte Usance, und wir peu a peu unsere Rechte verlieren, ergeht
+                        von seiten der Noblesse eine Gegenvorstellung an das Berlinische
+                        Direktorium, welche nolens volens mit zu unterschreiben necessiret worden,
+                        zweifle aber, dass es fruchten wird, maßen la raison du plus for wohl gelten
+                        dürfte! Ich wünschte, dass aus allen Kreisen sämtliche Noblesse in diesem
+                        und anderen Fällen übereinstimmte. Wie wird es in Dero Gegend hierüber
+                        gehalten?</quote>- Auf die Witterung des Jahres gehen alle Briefe ein, auch
+                    die <persName key="ed_zqm_ymf_hy">Schliebens</persName> vom 12. September und 4.
+                    Oktober 1785, ebd., Bl. 29-30v und 61-62v. Die Pflanzen seien verdorben, die
+                    Promenaden ruiniert. Lehndorff werde jedoch bei seiner Ankunft in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den <quote>Anblick solide
+                        aufgeführter Gebäude</quote> haben, <quote>von denen ich viel Rühmens gehört
+                        habe</quote>. Auch die Zeitungen hätten bereits über die <quote>große
+                        Verschiedenheit der diesjährigen von der vorjährigen Witterung auch in den
+                        warmen Ländern</quote> geschrieben. </note>
+         </correspDesc>
+         <abstract>
+            <p>Er befürchtet, dass der anhaltende Regen die Erbsen und die Wintersaat <quote>in Mist
+                  verwandelt</quote>. Das Vieh, Pferde und Schafe, werde krepieren. - <ref target="lehndorff_ock_r1k_hrb">Im Postskriptum schreibt er, auch die Dönhoffs und
+                  Dohnas würden sich gegen einen Eingriff in ihre Patrimonialrechte wehren.
+               </ref></p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline> </dateline>
+               <salute> </salute>
+            </opener>
+            <p/>
+            <closer>
+               <salute> </salute>
+               <signed> </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

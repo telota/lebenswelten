@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hdg_qrl_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der </title><title>Instleute, Zechner und Hirten </title><title>in den Vorwerken. Herbst 1821</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 756, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1821-09-01" to="1821-10-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hdg_qrl_2tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Verzeichnis der Instleute, <seg type="comment"><orig>Zechner</orig><note xml:id="nltc_lnh_yxb">Stallknechte</note></seg> und Hirten in nachstehenden
+               Vorwerken, im Herbst 1821</p>
+            <p>
+               <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+            </p>
+            <p>1. <persName key="ed_qwc_fzh_yqb">Schelonka</persName>
+               <lb/>2. Fritz Puschke <lb/>3. <persName key="ed_rnc_m13_yqb">Katzmarzig</persName>
+               <lb/>4. <persName key="ed_d2z_4zh_yqb">Gellesch</persName>
+               <lb/>5. <persName key="ed_yk5_kzh_yqb">Pollaschke</persName>
+               <lb/>6. <persName key="ed_qzs_3yh_yqb">Jarreck</persName>
+               <lb/>7. <persName key="ed_wkw_gzh_yqb">Bartnick jun.</persName>
+               <lb/>8. <persName key="ed_wfc_yzh_yqb">Scheimann sen.</persName>
+               <lb/>9. <persName key="ed_vkx_dzf_1vb">Theodor Puschke</persName>
+               <lb/>10. <persName key="ed_nmm_pyh_yqb">Bartnick sen.</persName>
+               <lb/>11. <persName key="ed_ics_hzf_1vb">Scheimann jun.</persName>
+               <lb/>12. <persName key="ed_bnn_nzf_1vb">Schelonka sen.</persName>
+               <lb/>13. <persName key="ed_u5h_xyh_yqb">Smolenga</persName>
+               <lb/>
+               <persName key="ed_c5f_vzf_1vb">Hirt Schönfeldt</persName>
+            </p>
+            <p>
+               <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName>
+            </p>
+            <p>1. <persName key="ed_lbj_1v1_zqb">Katzmarzig</persName>
+               <lb/>2. <persName key="ed_crs_n51_zqb">Schack</persName>
+               <lb/>3. <persName key="ed_yjz_m1g_1vb">Mich. Scheimann</persName>
+               <lb/>4. <persName key="ed_cqf_51g_1vb">Georg Scheimann</persName>
+               <lb/>5. <persName key="ed_uf1_z1g_1vb">Bannasch</persName>
+               <lb/>6. <persName key="ed_xvt_2bg_1vb">Liss</persName>
+               <lb/>7. <persName key="ed_s5z_hbg_1vb">Masuch</persName>
+               <lb/>8. <persName key="ed_tjc_mbg_1vb">Wilewka</persName>
+               <lb/>9. <persName key="ed_ug4_r2g_1vb">Seska</persName>
+               <lb/>10. <persName key="ed_h2c_v2g_1vb">Rompel</persName>
+            </p>
+            <p>
+               <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>1. <persName key="ed_gwv_sgg_j5b">Rompel</persName>
+               <lb/>2. <persName key="ed_ijj_rz1_zqb">Scheimann sen.</persName>
+               <lb/>3. <persName key="ed_q4c_hfg_1vb">Scheumann jun.</persName>
+               <lb/>4. <persName key="ed_d4l_vw1_zqb">Jarreck</persName>
+               <lb/>5. <persName key="ed_t11_qfg_1vb">Schönfeldt</persName>
+               <lb/>6. <persName key="ed_ixf_kmz_z5b">Kiworra</persName>
+               <lb/>7. <persName key="ed_hkv_5fg_1vb">Kullick</persName>
+               <lb/>8. <persName key="ed_g41_ylz_z5b">Joh. Liss</persName>
+               <lb/>9. <persName key="ed_hkg_kx1_zqb">Mich. Liss</persName>
+               <lb/>10. <persName key="ed_gsp_kk3_wqb">Uwis</persName>
+               <persName key="ed_bld_hgg_1vb">
+                  <lb/>Zechner Kaschull</persName>
+               <lb/>
+               <persName key="ed_slk_jgg_1vb">Hirt Jonatan</persName>
+            </p>
+            <p>
+               <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>1. <persName key="ed_gqt_1nc_zqb">Gus</persName>
+               <lb/>2. <persName key="ed_stb_v4c_zqb">Joh. Masuch</persName>
+               <lb/>3. <persName key="ed_c52_5gg_1vb">Carl Masuch</persName>
+               <lb/>4. <persName key="ed_nhd_xgg_1vb">Xtoph Masuch</persName>
+               <lb/>5. <persName key="ed_u5h_xyh_yqb">Smolenga</persName>
+               <lb/>6. <persName key="ed_dbb_ghg_1vb">Schuka</persName>
+               <lb/>7. <persName key="ed_krg_23t_fqb">Gritzka</persName>
+               <lb/>8. <persName key="ed_ym2_4hg_1vb">Joh. Waschke</persName>
+               <lb/>9. <persName key="ed_pdn_rhg_1vb">David Waschke</persName>
+               <lb/>10. <persName key="ed_kkn_thg_1vb">Brohn</persName>
+               <lb/>
+               <persName key="ed_xfy_vhg_1vb">Zechner Kaschull</persName>
+               <lb/>
+               <persName key="ed_eyz_yhg_1vb">Hirt Gritzka</persName>
+            </p>
+            <p>
+               <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+            </p>
+            <p>1. <persName key="ed_kpq_d3g_1vb">Waschke</persName>
+               <lb/>2. <persName key="ed_smn_g3g_1vb">Klein</persName>
+               <lb/>3. <persName key="ed_thc_k3g_1vb">Scheimann</persName>
+               <lb/>4. <persName key="ed_h2y_k53_zqb">Bartnick</persName>
+               <lb/>5. <persName key="ed_s3h_r3g_1vb">Gwiasda</persName>
+               <lb/>
+               <persName key="ed_mcq_t3g_1vb">Hirt Heinrich</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

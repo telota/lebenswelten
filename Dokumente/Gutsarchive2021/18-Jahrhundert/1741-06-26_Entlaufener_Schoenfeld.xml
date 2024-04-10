@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_rjn_j3d_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schreibt an Kriegsrat Mühlpfort in Georgenburg wegen
+               Strafverfolgung des entlaufenen Untertans Michael Schönfeldt. Steinort, 26. Juni
+               1741</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 133, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1741-06-26" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_o41_t1h_tpb">Mühlpfort, (-)</persName>
+            </correspAction>
+            <note>Diese Akte ist die im <ref target="lehndorff_dh5_xw5_s2b">Archivplan von 1745
+                  bezeichnete Nummer 16: Sachen den verlaufenen Schönfeldt betreffend</ref>.<p/>
+               Mühlpfort beauftragte den „Ausreuter Schneider‟ mit der Suche. Er konnte Schönfeldt
+               nicht finden und erklärte, er habe sich dem nach Berlin marschierenden
+               Husaren-Regiment angeschlossen „und vor einigen Tagen davon gemacht‟. Zuvor habe er
+                  <persName key="ed_dy5_z4g_bqb">Maricke Schneidereit</persName>, Tochter des
+               königlichen Bauern <persName key="ed_bjy_bpg_bqb">Hans Schneidereit</persName>, unter
+               dem Vorwand, dass er kein Untertan sei, geehelicht. Etats-Minister <persName key="ed_ylx_qmr_rdb">von Blumenthal </persName>beschied, sollte Schönfeldt
+               tatsächlich ein Erbuntertan sein, werde er zurückgebracht, seiner Frau könne man aber
+               nicht zumuten, ihm „in die Sklaverei zu folgen‟, da sie eine frei geborene königliche
+               Untertanin sei. Im August 1741 wurde Schönfeldt auf dem Hof des Schneidereit
+               verhaftet und verhört. Er erklärte, kein Erbuntertan zu sein. Von seinem Vater
+                  <persName key="ed_b11_3qg_bqb">Christoph</persName> habe er oft gehört, dass
+               dessen Vater und Großvater im vormals königlichen Dorf <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> auf einem Bauern-Erbe gewohnt und zum <orgName key="ed_dh5_p4b_hkb">Amt Barten</orgName> die Scharwerksdienste verrichtet hätten.
+               Der Vater sei nach seiner Verheiratung als Gärtner auf einen Hof in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> gegangen, das mit Stawken, Pristanien
+               und Taberlack später „an einen Herrn von Adel, dessen Name ihm unbekannt‟, vertauscht
+               oder verkauft worden sei. Als infolge der Pest in den Steinortschen Gütern im Dorf
+                  <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> zwei Bauernstellen frei
+               geworden seien, hätten sein Vater und ein anderer Gärtner die Höfe angenommen. Sein
+               Vater wohne dort noch immer. Man habe ihn von seinem Vater „mit Gewalt‟ fortgenommen
+               und zu seinem Bruder <persName key="ed_rdn_5qg_bqb">Christoph Schönfeldt</persName>,
+               der in <placeName key="ed_xjg_d12_gy">Stobben</placeName> „ein sehr miserables Erbe
+               bewohnt‟, zur Hilfe gegeben, so dass der Vater einen Knecht hätte mieten müssen. Er
+               hätte während der fünf Jahre in Stobben nicht mehr als den Lohn von 3 Rtlr. erhalten,
+               so dass er den Zins abführen konnte. Alles, was er sich bei seinem Vater gespart
+               hatte, habe er verbrauchen müssen. Deshalb wollte er zum Vater zurückgehen, was ihm
+               aber nicht gestattet worden sei, statt dessn hätte er zum Bauern <persName key="ed_rmb_crg_bqb">Jonas Gus</persName> in Stobben ziehen müssen. Er habe ihm 1
+               1/2 Jahre den Lohn vorenthalten, weshalb er Ostern geflohen sei. Nach verschiedenen
+               Stellen hätte er die Tochter des Schneidereit geheiratet. Er sei 26 Jahre alt und
+               bereit, nach Steinort zu ziehen, wenn Frau und Kind ihm folgen würden. - Blumenthal
+               schickte das Protokoll der Gräfin. Sie könne Schönfeldt abholen, bis dahin bleibe er
+               im Arrest. Sie möge überlegen, ob es nicht besser wäre, „ein billiges Loskaufgeld zu
+               nehmen, weil zu befürchten, dass er doch nicht dort Gutes tun werde‟. Blumenthal wies
+               darauf hin, dass der König „die Leibeigenschaft in Dero Domänen gänzlich aufgehoben‟
+               habe; man könne eine königliche Untertanin, die freiwillig einen adeligen Leibeigenen
+               heirate, nicht hindern, aber man werde nicht die Hand dazu reichen, dass sie nach
+               Steinort gebracht werde. - Draufhin fand in Georgenburg eine Befragung der Ehefrau
+               und des Schwiegervaters unter Zeugen, <persName key="ed_amp_vtg_bqb">Michel
+                  Jünger</persName>, Schneider aus Steinort, <persName key="ed_t3w_ytg_bqb">Friedrich Gasse</persName>r, Arrendator von Stawisken, <persName key="ed_omn_f5g_bqb">David Wilewski</persName>, Schulze aus Stobben, <persName key="ed_ykw_llq_lpb">Georg Nowack</persName>, Schulze von Kittlitz, statt, die
+               klären sollte, ob sie gewusst hätten, dass Schönfeldt ein Untertan sei. Das Protokoll
+               beantwortet die Frage nicht eindeutig, jedoch erklärte die Ehefrau, dass sie ihrem
+               Mann folgen würde, wenn „er nicht gepeinigt würde und es ihm wohl ginge‟, und der
+               Vater erkärte, dass er seine Tochter jetzt nicht entbehren könne, aber wenn sein
+               Schwiegersohn „mit einem Wagen nach ihr anhero komme und ihr versichern könnte, dass
+               es ihm wohl ginge, seine Tochter nach Steinort ziehen zu lassen‟. - Nachdem die
+               Kosten des Verfahrens, 3 Gulden, 15 Gr. für die Beköstigung und 12 Gr. für einen
+               Stempelbogen, beglichen waren, musste Schönfeldt nach Steinort zurückkehren. Seiner
+               Ehefrau wurde der freie Abzug zugesichert. - Am 4. September 1741 schworen beide in
+               Steinort der Reichsgräfin von Lehndorff den <ref target="lehndorff_qfw_43d_vpb">Untertaneneid</ref>. 1744 floh Schönfeldt mit Frau und Kind, nahm einen
+               Holzschlitten und zwei Besatz-Pferde mit und Mühlpfort war erneut in der Pflicht, ihn
+               zu suchen.<p/> Weitere Urteile des Patrimonialgerichts Steinort gegen entlaufene
+               Untertanen aus den Jahren 1738 bis 1756 und 1771 in: GStA PK, XX. HA, Rep. 54
+               Gutsarchiv Lehndorff-Steinort, Steinort, Nr. 692.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_rjn_j3d_vpb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 26. Juni 1741</dateline>
+            </opener>
+            <p>Es ist ein mir untertäniger Knecht, <persName key="ed_cwr_w4g_bqb">Michael
+                  Schönfeldt</persName> aus dem Dorf <placeName key="ed_xjg_d12_gy">Stobben</placeName> meines Gebietes, in Ostern verwichenen 1740 Jahres ohne
+               Ursache entlaufen, und obwohl nach dessen gegenwärtigem Aufenthalt geforscht worden,
+               so hat man dennoch davon nichts in Erfahrung bringen können. Als aber am letzten
+                  <placeName key="ed_rdg_jkc_gy">Insterburgschen</placeName> Jahrmarkt verschiedene
+               meiner Leute daselbst gewesen, ist der Läufer von denenselben alda angetroffen, und
+               hat dessen eigener Bruder, Bauer aus dem bemeldten Dorfe Stobben, ihn daselbst
+               anhalten und zum Wiederkehren an seinen Ort anhalten wollen, dem sich aber Läufer
+               Michael Schönfeldt entzogen und ihm und anderen aus dem Gesicht entwichen. Den
+               eigentlichen Ort seines Aufenthalts haben schon gesagte meine Leute von niemandem
+               erfahren können, so viel Nachricht aber erhalten, dass er in einem der nächsten
+               Dörfer um <placeName key="ed_o3c_stc_py">Georgenburg</placeName> und also unter Euer
+               Hochwohlgeboren Jurisdiktion vorhanden.</p>
+            <p>Euer Hochwohlgeboren freundliches Bezeigen gegen Jedermann ist per Renommée bekannt,
+               ich kann dahero daran um so weniger zweifeln, als ich zugleich versichert, dass Euer
+               Hochwohlgeboren über gute Ordnung und Königl. Allergnädigste Verfügungen genau Acht
+               haben lassen und also auch nicht verstatten werden, dass keiner von Dero Untergebenen
+               einen Läufer verhelen, weniger denselben schützen sollte. Ersuche demnach Ew.
+               Hochwohlgeboren dienstlich, an mir die Freundlichkeit und Wohlgewogenheit zu
+               erzeigen, gegen Erstattung der Kosten durch einen Dero Amtsbedienten den Läufer
+               Michael Schönfeldt aufsuchen, denselben arettieren und Überbringen dieses Extrakts zu
+               erlassen. Wenn an meinem Orte im Stande, bei Ew. Hchwohlgeboren dagegen
+               Gefälligkeiten zu erzeigen, werde mir daraus ein besonderes Vergnügen machen </p>
+            <closer>
+               <salute>die ich mit vieler Consideration verbleibe <lb/>Ew.
+                        Hochwohlgeboren</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

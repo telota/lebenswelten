@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_kn3_25t_msb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>C. von Rosbitzky an Pauline Gräfin von Lehndorff. </title><title>Königsberg, 2. Dezember 1827</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 277, Bl. 5</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_qgk_jyt_msb">Rosbitzky, C. von (-)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1827-12-02" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_tcp_g3l_2y">Lehndorff, Pauline Marie Gräfin Sophie von
+                        (Schönermark 30.11.1805-Steinort 5.1.1871)</persName>
+            </correspAction>
+            <note>Siehe auch den Brief vom <ref target="lehndorff_snx_vtn_ftb">4. Januar
+               1858</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Königsberg, Katholische Straße Nro. 37, 2. Dezember 1827</dateline>
+               <salute>Hochgeborne, gnädige Gräfin!</salute>
+            </opener>
+            <p>Ew. Hochgeboren edles und gefühlvolles Herz kennend, indem ich davon schon mehrere Beweise
+                    habe, hoffe ich in demselben schon Entschuldigung zu finden, wenn ich, durch das
+                    äußerste Elend gezwungen, hiermit incommodieren muss. Seit Ew. Hochgeboren
+                        <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> verlassen haben, bin
+                    ich auch und die Meinigen ganz verlasssen. Durchaus von allem, auch dem
+                    allernotwendigsten, entblößt, krank und vom Mangel entkräftet, öfters tagelang
+                    auch nicht einmal Kartoffeln mit Salz, nicht ein Stückchen Brot, selten eine
+                    warme Suppe, schmachte ich und die Meinigen im größten beispiellosen Elende.
+                    Mein ältster Sohn ist ebenfalls zu Hause und muss mit uns hungern. Da durchaus
+                    keine Aussichten für ihn in <placeName key="ed_ed2_4r1_my">Elbing</placeName>
+                    waren, so ist er nach vollbrachter Dienstzeit abgegangen, um sich hier wiederum
+                    zu engagieren; allein unerachtet der besten Zeugnisse und allem, was ihm
+                    vorteilhaft sein müsste, hat er noch nicht reüssieren können, so wenig bei den
+                    Kürassieren als bei der Artillerie, es ist alles komplett, man macht ihm
+                    Hoffnungen und dann werden sie wieder getäuscht. Nirgends ist er angekommen und
+                    gern möchte er nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> gehen und
+                    dort sein Glück suchen, allein wovon? So trifft uns alles Unglück, und da es
+                    unmöglich ist, von der kleinen Pension meines Mannes alle zu leben, von der noch
+                    alte Schulden bezahlt werden müssen und kaum einige Taler übrig bleiben, so sind
+                    wir ins größte Elend geraten. Vergeben Sie also, meine gütige Wohltäterin, mir
+                    die Bitte, uns wo möglich mit etwas zu unterstützen, uns fehlt alles - Kleider,
+                    Wäsche - alles! und eine Hilfe hierin würde uns sehr glücklich machen, ich bitte
+                    darum, wo möglich. Mein Mann, der sich Ihnen beiderseits gehorsamst empfiehlt
+                    und noch immer kränklich ist, bittet sehr, ihn gütigst wissen zu lassen, ob
+                    dieselben kein Bestellung an ihn aus <placeName key="ed_xrv_gwb_by">Berlin</placeName> haben, wohin er geschrieben, aber seit 4 Monaten keine
+                    Antwort erhalten. Gott segne Sie, verehrungswürdige Gräfin, lasse es Ihnen nicht
+                    missen, was Sie für eine unglückliche Familie tun.</p>
+            <closer>
+               <salute>Mit diesem Wunsche und der vorzüglichsten Hochachtung und Dankbarkeit unterzeichne ich
+                        mich Ew. Hochgeboren ewig dankbarste</salute>
+               <signed>C. v. Rosbitzky</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

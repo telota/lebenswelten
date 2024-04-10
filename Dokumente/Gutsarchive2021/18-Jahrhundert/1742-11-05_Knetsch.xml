@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_xbd_cxz_ypb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Antwort auf die Bitte des Stud. jur. Johann Christoph Nagel um Verfahrensaufschub
+               in der Streitsache Knetsch. Königsberg, 5. November 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 267, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1742-11-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_uh3_vc3_t2b">Nagel, Johann Christoph (-)</persName>
+            </correspAction>
+            <note>Siehe auch die Dokumente vom <ref target="lehndorff_u2d_htv_wpb">25. August</ref>
+               und <ref target="lehndorff_ykf_wc1_zpb">12. November 1742</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xbd_cxz_ypb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Königsberg, 5. November 1742</dateline>
+            </opener>
+            <p>
+               <persName key="ed_x2r_52f_cy">Friedrich König in Preußen p.</persName>
+            </p>
+            <p>Aus was Ursachen die verw. <persName key="ed_q4s_xyl_2y">Gräfin von
+                  Lehndorff</persName> veranlasst worden, ihren ehemaligen Arrendatoren <persName key="ed_yrq_4nf_fqb">Knetsch</persName> nicht völlig aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu dimittieren, bis er <seg type="comment">
+                  <orig>cautionem de judicio fisci</orig>
+                  <note xml:id="ngwq_yyx_5qb">seine Steuerschuld</note>
+               </seg> bezahlt und die gerichtliche Liquidation mit ihm vollzogen worden, auch was
+               sie dieserhalb anderweit zu verordnen gebeten hat, geben wir dir aus dem
+               angeschlossenen Memorial mehreren Inhalts zu ersehen. Wenn wir nun die darin
+               angeführten Umstände von Erheblichkeit finden, indem der Knetsch, wie vorhin
+               angebracht worden, nicht in strengem persönlichen Arrest gehalten wird, überdem nach
+               der Zeugenaussage <seg type="comment">
+                  <orig>de fuga suspectus</orig>
+                  <note xml:id="nh3k_fzx_5qb">es besteht Fluchtgefahr</note>
+               </seg> bleibt, bei der vorhin <seg type="comment">
+                  <orig>ratione</orig>
+                  <note xml:id="njtq_hzx_5qb">bezüglich</note>
+               </seg> der Arrende geleisteten Kaution auch die Gräfin nicht genugsam gesichert zu
+               sein scheint, als kann derselbe auch aus denen Steinortschen Gütern nach unseren
+               vorigen, in dieser Sache an dich ergangenen Verordnungen so schlechthin und bevor er
+                  <seg type="comment">
+                  <orig>citione de judicio fisci</orig>
+                  <note xml:id="njnj_jzx_5qb">die Vorladung vor das Gericht</note>
+               </seg> prästiert nicht gelassen werden. Befehlen dir daher allergnädigst, das
+               delegierte Gericht danach zu instruieren, unseren Rescriptis gemäß nach Pflicht und
+               Gewissen aufs schleunigste zu verfahren, dem Stadtschreiber <persName key="ed_kr1_3qf_fqb">David</persName> auch anzubefehlen, mehr erwähnten Knetsch
+               bei demselben rechtlich zu vertreten. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

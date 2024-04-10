@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_dhx_p4l_l1b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Prinz Wilhelm von Hessen an Ernst Ahasverus Graf von Lehndorff. Berlin, 24.
+               September 1714</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 946, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yqv_5g5_1bb">Hessen, Wilhelm Prinz von (-)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1714-09-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wtg_nyl_2y">Lehndorff, Ernst Ahasverus Graf von
+                        (1688-1727)</persName>
+            </correspAction>
+            <note>Möglicherweise der im Briefverzeichnis in: StA L, Bestand 21950
+               Familienarchiv Lehndorff, Nr. 398, Bl. 1, Nr. 11 aufgeführte Brief (ohne Datum).
+               Weitere Militaria ebd., darunter Nr. 16: Schlachtordnung der Hessischen Truppen unter
+               dem Prinzen Wilhelm am 15. Juli 1729, sowie in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort, u. a. Nr. 621. Der Hauptteil der Überlieferung zu Ernst Ahasverus
+               von Lehndorff befindet sich im Ostpreußischen Landesmuseum Lüneburg, Archiv
+               Lehndorff-Steinort Do 2018/272. <lb/>Siehe auch: LA NRW, Abt. Westfalen, Gesamtarchiv
+               von Landsberg-Velen (Dep.), Akten, Nr. 34632: Bericht über das Zusammentreffen der
+               Reiterei unter dem Grafen Erbach mit dem Feind, Gefangennahme des Grafen, Angriff des
+               Feindes auf das Lager, Gefangennahme des preußischen Generals Borck und des Obersten
+               Graf von Lehndorff, September 1711. <lb/> In der Zeit zwischen der Thronbesteigung
+               des Soldatenkönigs (1713) und dem Beginn der militärischen Beteiligung Preußens am
+               Großen Nordischen Krieg (Mai 1715) war man zwar „neutral“, achtete aber darauf, dass
+               Schweden seine Armee in Norddeutschland nicht durch Truppen aus Hessen (der Landgraf
+               von Hessen-Kassel war mit Karl XII. von Schweden verwandt), neu geworbene Truppen
+               oder durch das in Zweibrücken (hier war Karl XII. Landesherr) stehende
+               Infanterie-Regiment von Leuthrum verstärken konnte. Man verwehrte den schwedischen
+               Truppen den Durchmarsch und traf Vorbereitungen, einen gewaltsamen Marsch in Richtung
+               Ostseeküste zu verhindern.</note>
+         </correspDesc>
+         <abstract>
+            <p>
+               <persName key="ed_yqv_5g5_1bb">Prinz Wilhelm</persName> warnt den Oberst <quote>
+                  <persName key="ed_wtg_nyl_2y">Graf von Löhndorff</persName>
+               </quote> vor einem Durchmarsch des Schwedischen Regiments nach <placeName key="ed_jx5_hmv_mbb">Vorpommern</placeName>. Es befänden sich viele seiner
+               Untertanen darunter und er werde von seinem Recht Gebrauch machen, diese <quote>bei
+                  einem Durchmarsch meiner Lande als Prisonnier</quote> festsetzen zu lassen. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

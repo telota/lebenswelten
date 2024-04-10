@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_idb_5z5_ytb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Liste der aus den Steinortschen Gütern zum Militär Eingezogenen. Ca. 1818</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 765, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1818-01-01" to="1818-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_idb_5z5_ytb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Liste der Soldaten, die aus denen Steinortschen Gütern eingezogen, gegenwärtig in
+                    Reih und Glied stehen</p>
+            <p>
+               <table rows="38" cols="4">
+                  <row>
+                     <cell/>
+                     <cell>Namen und sonstiger Aufenthaltsort derselben</cell>
+                     <cell>Benennung des Regiments oder Bataillons bei dem sie stehen</cell>
+                     <cell>Benennung der Kompanie oder Eskadron</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+                     </cell>
+                     <cell>im 1. Ostpr. Infanterie Regiment</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_sdr_blz_z5b">Gottlieb Liss</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_uwx_2lz_z5b">Carl Uwis</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>
+                        <persName key="ed_r2m_5zr_vsb">Johann Puschke</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <persName key="ed_ytd_klz_z5b">Friedrich Puschke</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>
+                        <persName key="ed_svq_dqw_mbb">Jacob Schönfeldt</persName>
+                     </cell>
+                     <cell>beim Grenadier Bataillon des obigen Regiments</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>
+                        <persName key="ed_gs2_tlz_z5b">Ernst Wittke</persName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_g41_ylz_z5b">Johann Liss</persName>
+                     </cell>
+                     <cell>beim Füsilier Bataillon in Memel</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_zzm_cmz_z5b">Samuel Gritzka</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>
+                        <persName key="ed_aps_gmz_z5b">Christian
+                                Scheimann</persName>
+                     </cell>
+                     <cell>im 1. Ostpreuß. Infanterie Regiment</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <persName key="ed_ixf_kmz_z5b">Christian Kiworra</persName>
+                     </cell>
+                     <cell>beim Grenadier Bataillon des ersten Ostpr. Infant. Rgts.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_mdg_4mz_z5b">Johann Bannasch</persName>
+                     </cell>
+                     <cell>im 1. Ostpr. Infanterie Regiment</cell>
+                     <cell>Major <persName key="ed_lfj_dp1_tcb">v. Korff</persName> X</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_jb1_rmz_z5b">Gottl. Puschke</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell>und eingezogen Aurelius</cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>
+                        <persName key="ed_rjk_tmz_z5b">Christo. Rompel</persName>
+                     </cell>
+                     <cell>beim Füsilier Bataillon in Memel</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <persName key="ed_pkq_ymz_z5b">Gottfried Kosack</persName>
+                     </cell>
+                     <cell>beim Kürassier Regiment in Königsberg</cell>
+                     <cell>X</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_ukv_bnz_z5b">Johann Jasch</persName>
+                     </cell>
+                     <cell>im 1. Ostpr. Infanterie Regiment</cell>
+                     <cell>v. Korff</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_mft_2nz_z5b">Mich. Heinrich</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell>sollten abgegeben sein vom Kavallerieregim.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_dmk_hnz_z5b">Daniel Feskorn</persName>
+                     </cell>
+                     <cell>beim Füsilier Bataillon in Memel</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_bfm_jnz_z5b">Johann Salman</persName>
+                     </cell>
+                     <cell>im 1. Ostpr. Infanterie Regiment</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_hw4_lnz_z5b">Christian Salman</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>
+                        <persName key="ed_hw2_qnz_z5b">Friedrich Gwiasda</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell>Sohn des Bauern und braucht ihn und Klein möchte ihn X</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <persName key="ed_q44_snz_z5b">Georg Gwiasda</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>
+                        <persName key="ed_hyd_vnz_z5b">Georg Scheimann</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>
+                        <persName key="ed_fzb_ynz_z5b">Ahasv. Wilewski</persName>
+                     </cell>
+                     <cell>dto.</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell>
+                        <persName key="ed_dwr_14z_z5b">Kiworra</persName>
+                     </cell>
+                     <cell>beim Füsilier Bataillon in <placeName key="ed_oxb_txl_5y">Memel</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_u2w_c4z_z5b">Albrecht Schack</persName>
+                     </cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Inste sind beordert</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>
+                        <persName key="ed_dcv_h4z_z5b">Georg Scheimann</persName> von
+                                    <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>
+                        <gap reason="illegible"/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>
+                        <persName key="ed_xh4_l4z_z5b">Johann Kuckel</persName> von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>
+                        <persName key="ed_tm3_p4z_z5b">Johann Kaschull</persName> von <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>ist auf <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                                gemietet</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>
+                        <persName key="ed_vp1_s4z_z5b">Georg Scheimann</persName> von
+                                    <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

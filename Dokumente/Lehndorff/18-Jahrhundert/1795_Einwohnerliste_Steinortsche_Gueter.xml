@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_xj4_x12_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Einwohnerliste. 1795 (Auszug)</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">
+               <p>Der Rekapitulation geht eine namentliche Liste aller Einwohner Groß
+                            <placeName key="ed_pxt_cnh_1y">Steinorts</placeName> und der Vorwerke
+                        voraus. Solche Listen waren ab 1740 u. a. zur Abgabe an die Salzinspektoren
+                        zu führen, vgl. GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                        464: Edikt Königsberg, 27. Januar 1740. Eine <quote>Seelen-Tabelle von den
+                            Reichsgräflich Steinortschen Gütern</quote> für das Jahr 1830 ebd., Nr.
+                        53. - Weitere Einwohnerlisten bzw. Untertanenverzeichnisse aus verschiedenen
+                        Jahrgängen in den Wirtschaftsakten des Gutsarchivs in: GStA PK, XX. HA, Rep.
+                        54 Gutsarchiv Lehndorff-Steinort, Nr. 318 (1743), Nr. 188 (1810), Nr.
+                        215-255 (18./19. Jahrhundert). </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 51, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1795-01-01" to="1795-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xj4_x12_gy"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Recapitulatio der Seelenzahl </p>
+            <table rows="15" cols="3">
+               <row>
+                  <cell>1.</cell>
+                  <cell>In Groß <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                            sind</cell>
+                  <cell>181</cell>
+               </row>
+               <row>
+                  <cell>2.</cell>
+                  <cell>Klein <placeName key="ed_hyn_yzd_gy">Steinort</placeName>
+                  </cell>
+                  <cell>22</cell>
+               </row>
+               <row>
+                  <cell>3.</cell>
+                  <cell>
+                     <placeName key="ed_xpm_112_gy">Labab</placeName> incl. Louisenwahl und der
+                     Mühle</cell>
+                  <cell>144</cell>
+               </row>
+               <row>
+                  <cell>4.</cell>
+                  <cell>
+                     <placeName key="ed_xzt_112_gy">Stawisken</placeName> incl.
+                            Ziegelei</cell>
+                  <cell>128</cell>
+               </row>
+               <row>
+                  <cell>5.</cell>
+                  <cell>
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                  </cell>
+                  <cell>207</cell>
+               </row>
+               <row>
+                  <cell>6.</cell>
+                  <cell>
+                     <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                  </cell>
+                  <cell>117</cell>
+               </row>
+               <row>
+                  <cell>7.</cell>
+                  <cell>
+                     <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                  </cell>
+                  <cell>116</cell>
+               </row>
+               <row>
+                  <cell>8.</cell>
+                  <cell>
+                     <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                  </cell>
+                  <cell>188</cell>
+               </row>
+               <row>
+                  <cell>9.</cell>
+                  <cell>
+                     <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </cell>
+                  <cell>176</cell>
+               </row>
+               <row>
+                  <cell>10.</cell>
+                  <cell>
+                     <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                  </cell>
+                  <cell>47</cell>
+               </row>
+               <row>
+                  <cell>11.</cell>
+                  <cell>
+                     <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>
+                  </cell>
+                  <cell>6</cell>
+               </row>
+               <row>
+                  <cell>12.</cell>
+                  <cell>
+                     <placeName key="ed_h1w_jc2_gy">Werder Upalten</placeName>
+                  </cell>
+                  <cell>3</cell>
+               </row>
+               <row>
+                  <cell>13.</cell>
+                  <cell>
+                     <placeName key="ed_hcn_kc2_gy">Werder Wittfong</placeName>
+                  </cell>
+                  <cell>5</cell>
+               </row>
+               <row>
+                  <cell>14.</cell>
+                  <cell>
+                     <placeName key="ed_mxw_c1k_gy">Werder Sdorkowen</placeName>
+                  </cell>
+                  <cell>5</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>Summa</cell>
+                  <cell>
+                     <seg type="comment">
+                        <orig>1.339</orig>
+                        <note xml:id="nvqp_gxz_ly">Die
+                                    Summe beträgt 1.345.</note>
+                     </seg>
+                  </cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

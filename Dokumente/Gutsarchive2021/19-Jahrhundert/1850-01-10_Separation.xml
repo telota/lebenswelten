@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_rms_p1n_rrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entscheidung in der Klagesache des Grafen zu Dohna-Reichertswalde gegen den
+               Bauern Gottfried.</title><title> Liebstadt, 10. Januar 1850</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Auch andere Bauern aus Reichertswalde, Goldbach und Silberbach hatten ihre
+                        Dienste nicht erbracht und wurden ebenfalls verklagt und verurteilt, in der
+                        Akte.</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Dokument vom <ref target="lehndorff_cs2_b4b_3rb">10. Mai 1850</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 732, Bl. 2-2v </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ijm_3qs_d2b">Liebstadt</placeName>
+            <date when="1850-01-10" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_rms_p1n_rrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Erkenntnis <lb/>Im Namen des Königs</p>
+            <p>In Sachen des <persName key="ed_lyr_1g5_c2b">Grafen zu Dohna auf
+                        Reichertswalde</persName>, Kläger, wider den Bauern <persName key="ed_mwk_2dt_vsb">Gottfried</persName> in <placeName key="ed_pbr_fvw_5sb">Abrahamsheide</placeName>, Verklagter, erkennt die unterzeichnete
+                    Königliche Kreisgerichtskommission nach Lage der Akten, dass,</p>
+            <p rendition="#et">da der Verklagte eingeräumt, nach dem Regulierungsrezess von
+               Abrahamsheide verpflichtet zu sein, jährlich zehn männliche und zehn weibliche
+               Handtage dem Kläger zu leisten, und dass er von diesen Diensten im Jahre 1848 nur
+               neun männliche und sieben weibliche Handtage geleistet, sein Einwand ferner, dass
+               diese Leistungen durch die neue Gesetzgebung gänzlich aufgehoben seien, unbegründet
+               ist; in Betreff der Höhe der vom Kläger geforderten Entschädigungen aber lediglich
+               die in der Bekanntmachung der Königlichen Regierung vom 3. März 1840 (Amtsblatt pro
+               1840 Seite 45 folgende) für den Mohrunger Kreis festgesetzten Preise maßgebend sind,
+               da dieselben auf der in der Allerhöchsten Kabinettsordre vom 17. Februar 1838
+               (Gesetzsammlung pro 1838 Seite 137) bei Ablösungen von Hilfsdiensten in der Provinz
+               Preußen ein für alle Male vorgeschriebenen Art und Weise ermittelt sind, hiernach
+               also ein Gegenbeweis durch Zeugen über den Minderwert der in Rede stehenden Dienste
+               nicht statthaft ist; mithin die Verurteilung des Verklagten nach dem Klageantrag
+               erfolgen muss, und der Kostenpunkt sich in § 2 Titel 23 der Prozess-Ordnung
+               erledigt,</p>
+            <p>Angeklagter schuldig, sofort bei Vermeidung der Exekution an Kläger an Entschädigung
+               für die demselben im Jahre 1848 nicht geleisteten Dienste 2 Rtlr. 25 Sgr. 6 Pf. -
+               zwei Taler fünf und zwanzig Silbergroschen sechs Pfennige - zu zahlen, und die
+               Prozesskosten zu tragen. </p>
+            <p>Urkundlich in beweisender Form ausgefertigt <lb/>Liebstadt, den 10. Januar
+                    1850</p>
+            <p>[Siegel]</p>
+            <p>Königl. Kreisgerichtskommission <lb/>Koch</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hmf_4sw_wsb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auszug aus dem Revisionsbericht des Zimmermeisters Wieszies über notwendige Neu-
+               und Reparaturarbeiten auf der Begüterung der Grafschaft Groß Steinort pro
+               1903.</title><title> Angerburg, 17. Februar 1903</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe den <ref target="lehndorff_scz_bng_3rb">Revisionsbericht pro 1904</ref>. Am
+                  6. März 1903 ergänzte <persName key="ed_uby_ynx_gsb">Wieszies</persName> seinen
+                  Bericht mit einem Nachtrag zu <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und zum Stall in <placeName key="ed_hyn_yzd_gy">Klein
+                     Steinort</placeName>, dessen Dach beim Sturm vom 22. Februar völlig abgedeckt
+                  worden war. Die Beschlüsse der Zwangsverwaltung Steinort über die Baumaßnahmen Bl.
+                  37-38v. Danach sollten in Steinort, Labab, Kittlitz, Klein Steinort die im Bericht
+                  aufgeführten Schäden beseitigt werden. Für die verpachteten Güter waren nur wenige
+                  Reparaturen als sofort notwendig anerkannt, vieles in das Folgejahr verschoben
+                  worden. Von diesem wenigen, was übrug blieb, strich die
+                  General-Landschafts-Direktion nochmals einige Posten.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 569, Bl. 26-</idno>
+               </msIdentifier>
+               <p>34v</p>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_uby_ynx_gsb">Wieszies, (-)</persName>
+            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            <date when="1903-02-17" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941713"/>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hmf_4sw_wsb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>I. Das Hauptgut <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName> mit dem
+                    zur Bewirtschaftung gehörigen Vorwerken</p>
+            <p>A. <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+            </p>
+            <p>a. Das <seg type="comment">
+                  <orig>Dach des Schlosses</orig>
+                  <note xml:id="nnms_ftw_wsb">Anmerkung am Rand: 200 Mark</note>
+               </seg> ist in
+                    einigen Stellen fehlerhaft, so dass der Regen durchgeht und muss in einigen
+                    Stellen der Hohlkehlen wie an einigen Stellen der Dachfenster in der
+                    Zinkabdeckung wie in der Biberschwanzbedeckung reparariert werden.  <lb/>b. Das
+                        <seg type="comment">
+                  <orig>Dach des Stuten-, Fohlen- und
+                            Ackerpferdestalles</orig>,<note xml:id="nj22_ntw_wsb">am Rand: 800
+                            Mark</note>
+               </seg> mit Biberschwänze gedeckt, ist schlecht und würde eine
+                    Umdeckung erfordern. Da aber keine Biberschwänze vorhanden, so ist angenommen
+                    worden, den schlechten Teil mit 21,0 m lang zu verschalen, mit Pfannen zu decken
+                    und die brauchbaren Biberschwänze zur Reparatur anderer Dächer aufzubewahren.
+                    <lb/>c. Der <seg type="comment">
+                  <orig>Schweinestall der Instleute</orig>
+                  <note xml:id="njcg_vtw_wsb">am Rand: 500 Mark</note>
+               </seg> ist in den
+                    Umfassungswänden in Ziegelfachwerk und der Abteilungswände in Holz schlecht und
+                    müssen erneuert werden. Der eine Teil des qu. Stalles ist in den
+                    Umfassungswänden bereits massiv untermauert und ist eine massive Untermauerung
+                    auch des letzten Teils angenommen. Die Teilungswände sollen wieder in Holz
+                    hergestellt werden.</p>
+            <p>B. Vorwerk <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <p>Zu dem <seg type="comment">
+                  <orig>Schweinestall des Insthauses</orig>
+                  <note xml:id="nwps_cvw_wsb">am Rand: 1650 Mark</note>
+               </seg> sind die
+                    Schalbretter und das neue Bauholz zubereitet, zur Ausführung des Baus konnte es
+                    wegen anderer Arbeiten und des ungünstigen Wetters nicht kommen. Der qu. Bau
+                    soll aber in diesem Jahr bestimmt ausgeführt werden.</p>
+            <p>C. Vorwerk <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+            </p>
+            <p>Am <seg type="comment">
+                  <orig>Kammrer-Wohnhause</orig>
+                  <note xml:id="ntrg_3vw_wsb">am Rand: 85 Mark</note>
+               </seg> fehlt die Flurtüre und Schwelle des
+                    Türgerüstes, zu erneuern. An 4 Fenster die Sohlbänke, Pfosten und Rahmen zu
+                    erneuern und mit dem alten vorhandenen Glas zu verglasen.</p>
+            <p>D. Vorwerk <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName>
+            </p>
+            <p>Am <seg type="comment">
+                  <orig>Stall</orig>
+                  <note xml:id="nrmd_bww_wsb">am Rand: 280
+                            Mark</note>
+               </seg>, unter Pappdach ist das Fundament 3,0+6,0m: lg: 1,0 m
+                    mit Rollschicht hoch schlecht, muss teilweise ausgebrochen und neu aufgemauert
+                    werden. Ferner ist das Mauerwerk der Umfassungswände an der einen Ecke
+                    1,0+3,0x4,0m wie auch eine Speicherwand 2,3x4,9m schlecht, müssen abgebrochen
+                    und neu aufgeführt werden. 2 Giebelluken sind schadhaft und müssen repariert
+                    werden. Da die Ziegel von der alten Ziegelei sind, welche zerfallen, so ist es
+                    zweckmäßig zu den vorgenannten Arbeiten alles neue Ziegel zu nehmen.</p>
+            <p>Es folgen Ausführungen zu den verpachteten Gütern <placeName key="ed_hrb_hc2_gy">
+                  <seg type="comment">
+                     <orig>Serwillen</orig>
+                     <note xml:id="nmzt_myw_wsb">Pächter: Schmidt</note>
+                  </seg>
+               </placeName>, <placeName key="ed_s3k_b12_gy">Taberlack</placeName> mit Schulgebäude, <placeName key="ed_nkz_b12_gy">Stawken</placeName>, <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, zur Schule in Pristanien, zum verpachteten Gut
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>, zur Schule in Stobben,
+                    zum Krug in Stobben, zum verpachtete Gut <placeName key="ed_xzt_112_gy">Stawisken</placeName>, zur Schule in Stawisken, zum verpachteten Gut und
+                    Vorwerk <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> sowie zum
+                    Forstetablissement <seg type="comment">
+                  <orig>
+                     <placeName key="ed_z4l_cyw_wsb">Südenort</placeName>
+                  </orig>
+                  <note xml:id="nkrf_hyw_wsb">
+                     <ref target="https://www.bildarchiv-ostpreussen.de/cgi-bin/bildarchiv/suche/show_thumbnails.cgi?lang=deutsch&amp;start=&amp;action=&amp;gebiet=&amp;ort=61136&amp;strasse=&amp;hausnummern=&amp;thema=&amp;quelle=&amp;zeitraum_von=&amp;zeitraum_bis=&amp;geaendert_von=&amp;geaendert_bis=&amp;namelang=&amp;pattern=&amp;pattern1=&amp;pattern2=&amp;pattern3=&amp;pattern4=&amp;pattern5=&amp;searchtype=&amp;searchtext=&amp;suchfelder=&amp;objekt=&amp;lon1=&amp;lat1=&amp;lon2=&amp;lat2=&amp;fotoqualitaet=&amp;sort=titel">Forsthaus</ref>
+                  </note>
+               </seg> und zum Forstarbeiterhaus Stobben.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

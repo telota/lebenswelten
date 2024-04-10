@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hzk_grb_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verwalter Messerschmidt berichtet über die Lage in Steinort</title><title>. Steinort, 7. Mai 1852</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 869, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_db2_gvp_dz">Messerschmidt, Heinrich Leopold
+                        (1814-1898)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1852-05-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hzk_grb_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 7. Mai 1852</dateline>
+               <salute>Euer Exzellenz</salute>
+            </opener>
+            <p>zeige ich in Folge des gnädigen Schreibens vom 5. huius, das mir gestern per
+               Express-Boten des Postamts Rastenburg zu Händen gekommen, respektvoll an, dass ich
+               heute für Herrn <persName key="ed_sjx_pfm_2y">Grafen Georg</persName> 3 Pferde, und
+               zwar den Roma Wallach, Hertha Wallach und Gulliver habe nach <placeName key="ed_d5d_v3q_rdb">Wehlau</placeName> abgehen lassen, die morgen dort eintreffen
+               sollen. Die bezeichnete Stute Pollux habe ich, wie ich bereits schon berichtete, aus
+               dem Grunde dazu nicht bestimmen können, da sie ein Füllen hat, und dass der <seg type="comment"><orig>Krippensetzer</orig><note xml:id="nljh_kdv_yxb">Wer gemeint
+                     ist, bleibt unklar. Im Brief vom <ref target="lehndorff_wky_fdb_3tb">6. Mai
+                        1852</ref> ging er nicht daruf ein.</note></seg> dem Herrn Grafen Georg
+               nicht <seg type="comment"><orig>konveniert</orig><note xml:id="nwyr_jdv_yxb">gefällt</note></seg> bedauere ich, doch ist ja dessen entschiedener Wille
+               gewesen, ebenso bezweifle ich, dass von diesen 3 Pferden Herr Graf Georg wird sofort
+               Gebrauch machen können, ich habe heut an Herrn Graf Georg geschrieben und mich dahin
+               ausgesprochen, dass für den Fall die Pferde nicht für den Dienst tauglich, selbige
+               sofort zurückzuschicken. <lb/>Die Kastration ist, wie ich <ref target="lehndorff_wky_fdb_3tb">in meinem gestrigen Berichte</ref> schon angezeigt,
+               glücklich ausgefallen. Tandem wird bis August komplett geritten sein. <lb/>Die <ref target="lehndorff_atw_dsw_rz">Zinsen von der zur Konstitutionellen Monarchie
+                  gestellten Kaution</ref> sind noch nicht eingegangen und werde ich aufs neue
+               monieren. Der Vorschuss von 800 Rtlr. von Herrn <persName key="ed_x1r_lcb_3vb">Rabe</persName> zum Ankauf von Getreide ist erstattet. Bezüglich der mir für
+               Gärtner <persName key="ed_tfk_ncb_3vb">Marhold</persName> gewordenen Befehle habe ich
+               mich entledigt. Der umgefallene Baum oder dessen Holz ist bei Winterzeit weggeräumt,
+               aber noch nicht ergänzt. <lb/>Die Wege im Eichenwalde werde ich in Kurzem in Stand zu
+               setzen in Angriff nehmen. Bezüglich des Lerchensamens Euer Exzellenz speziell zu
+               berichten, habe ich Hegemeister <persName key="ed_bmn_41z_z5b">Bliss</persName>
+               aufgefordert. <lb/>Bezüglich der Hoffnungen über die Winterfelder habe ich in meinem
+               gestrigen Bericht schon gesprochen und bemerke nur, dass im Ganzen dieselben noch
+               brillant stehen und wenn das kalte trockene Wetter nicht zu lange anhält, auf eine
+               recht ergiebige Ernte zu rechnen sein kann. Der Klee steht wie er selten gestanden
+               hat und der Rübsen lässt ebenfalls nichts zu wünschen übrig, was in diesem Jahre zu
+               bewundern und nur in der hier so späten Vegetation seinen Grund hat. <lb/>Die
+               Sommereinsaat ist bis Pfingsten beendet und gleichzeitig der im Felde liegende Mist
+               auseinander gefahren und untergepflügt. Die Mohrrüben sind hier im Kartoffelschlage,
+               jede Sorte separat, auf sehr schönem Lande bereits eingesät. <lb/>Das Buch von <seg type="comment"><orig>Stoecker</orig><note xml:id="nr4z_bfb_3vb">Möglicherweise
+                        <ref target="https://de.wikipedia.org/wiki/Georg_Moritz_St%C3%B6cker">Georg
+                        Moritz Stöcker</ref>, Mitglied der Frankfurter
+                  Nationalversammlung.</note></seg> ist hier nicht aufzufinden und wahrscheinlich
+               haben Euer Exzellenz es mitgenommen. <lb/>Bezüglich des Abgangs des <persName key="ed_rnh_5cb_3vb">Berent</persName> zeige ich an, dass derselbe, zur Garde
+               notiert, im Herbst (September) eingezogen wird und im Monat August <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu verlassen beabsichtigt. Den von mir in
+               Vorschlag gebrachten Ersatzmann mit Namen <gap reason="illegible"/> habe ich leicht
+               engagieren können, da derselbe sich in <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> eine Veruntreuung hat zuschulden kommen lassen, in Folge derer
+               er 4 Monate Gefängnisstrafe abgebüßt. Ein passendes Subjekt, trotz der vielen
+               Anerbietungen zu engagieren, bin ich mir dazu außer Stande gewesen; doch werde ich
+               mich bemühen, dazu zu gelangen. <lb/><seg type="comment"><orig>Einen mit der
+                     gestrigen Post eingegangenen Brief lege ich bei.</orig><note xml:id="nyns_wsb_3yb">Der Brief liegt nicht bei.</note></seg>
+            </p>
+            <closer>
+               <salute>Mit dem besten Respekte Euer Exzellenz untertänigster Diener</salute>
+               <signed>Messerschmidt</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

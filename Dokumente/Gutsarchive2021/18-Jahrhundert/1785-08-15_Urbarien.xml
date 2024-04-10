@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ock_r1k_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>König Friedrich I. von Preußen ordnet die </title><title>Anlage von Urbarien auch für die adeligen Gütern an</title><title>. Berlin, 15. August 1785</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="editorial">
+               <p>Das Reskript veranlasste <persName key="ed_ehf_grx_5sb">Graf zu Dohna</persName>
+                  im Oktober ein Promemoria, „Idee von unserer Lage mit unseren Gutseinsassen nebst
+                  unserer unmaßgeblichen Meinung‟ über die Anlage der Urbarien zu verfassen. Seine
+                  Ausführungen beginnen: „Seit Jahrhunderten herrscht Liebe und Vertrauen zwischen
+                  Gutsherrschaft und Untertanen, und unserer sämtlicher Gütern Wohlstand, Ruhe,
+                  Sittlichkeit, Fleiß und tätiges Christentum sind die glücklichen Folgen der
+                  väterlichen Vorsorge unserer redlichen Voreltern gegen ihre Untertanen und ihrer
+                  eingeführten Ordnung.‟ Dieses patriarchalische Verhältnis fortzuführen sei sein
+                  Anspruch. Aus diesem Grund habe er große Bedenken gegen das Reskript, dass diese
+                  „glückliche Lage selbst aufheben würde‟, sei aber bereit, alle angeführten Punkte
+                  durch das Patrimonialgericht zu regulieren. (APO; Bestand 384 Familienarchiv
+                  Dohna, Nr. 87, Bl. 16-16v, Fragment). Am 1. November erhielt er darauf eine
+                  Antwort (Bl. 17-17v), am 24. November 1785 meldete sich der für den Mohrungschen
+                  und Liebstadtschen Kreis bestimmte Kommissar bei dem Justitiar mit der Anfrage, ob
+                  es in den Gräflich Reichertswaldeschen Gütern Erbzinsbauern oder nur Zins- und
+                  Pachtbauern gäbe, und falls ja, ob die Erbzinsbauern Untertanen oder frei geboren
+                  seien, und ob diese ihre Erbzinsgüter eigentümlich besitzen (Bl. 14-14v). Siehe
+                  hierzu das Dokument vom <ref target="lehndorff_pzr_n2k_hrb">11. Januar
+                  1786</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 87, Bl. 12-13v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+            <date when="1785-08-15" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ock_r1k_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Extrakt des Reskripts d. d. Berlin den 15. August 1785</p>
+            <p>Wir <persName key="ed_syp_mzf_h1b">Friedrich</persName> pp.</p>
+            <p>Unseren pp. Durch die in dem Introitus an den Tag gelegten Befürchtungen wegen der
+               aus der vorseienden Operation vielleicht entstehenden Gärungen kann natürlicher Weise
+               die Ausführung der von unserer Allerhöchsten Person aus eigener Anregung erteilten
+               Befehle nicht hintertrieben werden, es ist vielmehr die Pflicht der Collegiorum,
+               durch vernünftiges und vorsichtiges Benehmen, teils in der Auswahl der Kommissarien,
+               teils in Anordnung und Dirigierung der Operationen selbst, allen Unruhen und Irrungen
+               möglichst vorzubeugen, wozu besonders gehört, dass ohne affektierte Geheimhaltung
+               alle unzeitige Verbreitung des eigentlich nur zur Direktion des Collegiorum und zur
+               Belehrung der Kommissarien abzielenden Teils von dem Inhalte der <seg type="comment">
+                  <ref target="lehndorff_xfb_ngf_4rb">
+                     <orig>Immediat-Instruktion</orig>
+                  </ref>
+                  <note xml:id="njk2_3dk_hrb">Vom 21. Dezember 1784, in der Akte, Bl. 2-11v.</note>
+               </seg> vermieden und die Operationes de <seg type="comment">
+                  <orig>loco ad locum</orig>
+                  <note xml:id="nuxy_rvx_5sb">vor Ort</note>
+               </seg> ohne unnötigen Eklat vorgenommen werden.</p>
+            <p>In der Sache selbst läuft der Inhalt des Berichts wesentlich dahin aus,</p>
+            <p rendition="#et">dass die Untertanen in Ostpreußen nicht Eigentümer ihrer <seg type="comment">
+                  <orig>fundoram</orig>
+                  <note xml:id="ncw4_yvx_5sb">Güter</note>
+               </seg>, sondern bloße Zeitpächter wären, mithin es bei den Gutsherrschaften stehen
+               muss, die Bedingungen, unter welchen sie den Inhabern der dienstbaren Höfe den Genuss
+               derselben überlassen wollen, zu bestimmen.</p>
+            <p>Nun wird zuvörderst wohl diese behauptete Qualität der Untertanen nicht so
+                    allgemein sein, dass nicht auch Ausnahmen dagegen, und Dörfer und Gegenden, wo
+                    die Einwohner ihre fundos eigentümlich oder in Erbpacht besitzen, angetroffen
+                    werden sollten, und da wird der Errichtung eines förmlichen und beständigen
+                    Urbarii nach dem ganzen Umfang der Immediat-Instruktion nichts im Wege
+                    stehen.</p>
+            <p>Wo aber die Untertanen nur Zeitpächter sind, da ergibt sich allerdings aus dem
+                    bei der ganzen Operation zum Grunde liegenden Haupt-Principio, dass es
+                    gegenwärtig die Intention keineswegs sei, die einmal subsistierende
+                    Landes-Verfassung aufzuheben, und denen Untertanen Rechte, die sie bisher nicht
+                    gehabt haben, einzuräumen, oder den Gutsherrschaften etwas von ihren Befugnissen
+                    zu entziehen, sondern dass es lediglich darauf ankomme, diese Rechte der
+                    Gutsherrschaften und die denselben korrespondierenden Pflichten der Untertanen
+                    so zu bestimmen, dass kein Anlass zu Streit, Zweifeln und Prozessen deshalb
+                    übrig bleibe.</p>
+            <p>Soweit ferner die Untertanen bloße Zeitpächter sind, können zwar allerdings über
+                    die von den Höfen derselben zu entrichtenden Praestationen keine beständigen und
+                    unveränderlichen Bestimmungen stattfinden, sondern es müssen solche bei jeder
+                    neuen Pachtung der Arrende und dem Einverständnis der Kontrahenten überlassen
+                    werden. Dagegen folgt aber auch aus eben diesem Principio und aus dem Endzweck
+                    der ganzen Operation, dass jedem Besitzer bei seiner Annahme ein ordentlicher
+                    schriftlicher Kontrakt errichtet und darin die für den Genuss der Stelle zu
+                    leistenden Dienste und Abgaben genau bestimmt werden müssen.</p>
+            <p>Ferner folgt eben daraus, dass während der Besitzzeit, sie sei um gewisse Jahre oder
+               auf die Lebenszeit des angenommenen Besitzers oder <seg type="comment">
+                  <orig>indistinct</orig>
+                  <note xml:id="nk5j_cwx_5sb">unbestimmt</note>
+               </seg> und solange, als sich derselbe seines Besitzrechts <seg type="comment">
+                  <orig>per factum illicitum</orig>
+                  <note xml:id="nlvr_2wx_5sb">durch eine rechtswidrige Handlung</note>
+               </seg> nach den Landesgesetzen nicht selbsten verlustig machen bestimmt, eine
+               Veränderung oder Erhöhung der einmal verabredeten Praestationen von dem Dominio nicht
+               einseitig vorgenommen werden kann, sondern dergleichen Veränderung nur alsdann
+               stattfindet, wenn das bisherige Besitzrecht aufhört und mit ebendemselben oder einem
+               anderen <seg type="comment">
+                  <orig>Colono</orig>
+                  <note xml:id="nbtw_fwx_5sb">Pächter</note>
+               </seg> von neuem kontrahiert werden kann.</p>
+            <p>Hiernächst ist ferner das von den Referenten selbst vorgeschlagene Principium zu
+               etablieren, dass kein Untertan wider seinen Willen angehalten werden könne, eine
+               dienstbare Stelle anzunehmen, sobald das Dominium die darauf bisher gesetzten
+               Praestationen erhöhen will; welchem ferner auch nach der auf gleichen Gründen
+               beruhende Satz beigefügt werden muss, dass ein Untertan zu Übernehmung einer
+               dienstbaren Stelle auch gegen die bisherigen Praestationen alsdann nicht gezwungen
+               werden könne, wenn der fundos, es sei durch Zufall oder sonst oder gar <seg type="comment">
+                  <orig>facti dominii</orig><note xml:id="nrvx_hwx_5sb">durch Herrschaft </note>,
+               </seg> in seiner Substanz und Realitäten <seg type="comment">
+                  <orig>deterioriert</orig>
+                  <note xml:id="nlwv_lwx_5sb">abgeschreckt</note>
+               </seg> worden.</p>
+            <p>Diesem allen müssen endlich noch die Cautelen hinzugesetzt werden, dass die neuen
+               Kontrakte bei Besitzveränderungen jederzeit mit Zuziehung des Justitiarii zu
+               errichten und dass die Konzepte derselben in gewissen Schöppenbüchern zu sammeln und
+               aufzubewahren, damit auf selbige bei dem vorkommenden Falle recuriert werden
+               könne.</p>
+            <p>Vorstehende Auseinandersetzung wird hoffentlich hinreichend sein, nicht nur Euch
+                    selbst über die eigentliche Absicht der gegenwärtigen von uns allerhöchst
+                    unmittelbar veranlassten Operationen und über die Art der Anwendung des Inhalts
+                    der Immediatinstruktion auf die dortige Provinz näher zu belehren und alle
+                    Missverständnisse dabei aus dem Wege zu räumen, sondern Euch auch in den Stand
+                    setzen, dass Ihr die Commissarios in der Provinz mit zweckmäßiger und der
+                    Landesverfassung akkommodierter Instruktion über ihr Verfahren in der Sache
+                    besonders bei Aufnehmung der Kontrakte mit den Pachtbesitzern an Orten, wo
+                    solche noch fehlen, und bei Revision und Supplizierung derselben an Orten, wo
+                    dergleichen Kontrakte schon vorhanden sind, versehen könnt. </p>
+            <p>Zum Behuf einer solchen näheren Instruktion wollen wir aus Veranlassung des
+                    vorliegenden Berichts noch folgende einzelne Bemerkungen hier beifügen.</p>
+            <p>
+               <note type="editorial">Es folgen nähere Erklärungen zu einzelnen Punkten der
+                        Immediat-Instruktion.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

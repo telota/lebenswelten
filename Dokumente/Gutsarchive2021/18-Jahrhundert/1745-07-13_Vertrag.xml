@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_y5p_1x1_pvb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Johann Peter Haberland einen Vertrag als
+                    Lohnhofmann für das Vorwerk Taberlack. 13. Juli 1745</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Pacht- und Arbeitsverträge</p>
+                </note>
+                <note type="editorial">
+                    <p>Möglicherweise hat Haberland seine Stelle erst später angetreten, denn der
+                        Akte liegt ein weiterer Vertrag mit <persName key="ed_ayj_xcs_2wb">Daniel
+                            Radtke</persName> als Pacht-Hofmann in Taberlack von Trinitatis 1746 bis
+                        1747 bei. Nach der <ref target="lehndorff_q3r_pq4_5pb">Abrechnung mit
+                            Haberland vom 21. Mai 1746 bis 21. Mai 1747</ref> hatte er nur anteilige
+                        Leistungen erhalten. Zu den Aufgaben eines Hofmanns siehe <ref target="lehndorff_ojw_xrr_hrb">hier</ref>. </p>
+                    <p>Siehe auch den <ref target="lehndorff_gzd_2bn_2bb">Vertrag mit dem Hofmann
+                            Nowack in Steinort vom 1. März 1717</ref>.</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 830, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1745-07-13" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_y5p_1x1_pvb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Da <persName key="ed_ilg_dnq_3qb">Johann Peter Haberland</persName> zum Hauswirt
+                    und Lohnhofmann in dem Reichsgräflichen Vorwerk <placeName key="ed_s3k_b12_gy">Taberlack</placeName> angenommen, so wird seine Pflicht sein:</p>
+                <p>1. dahin zu sehen, dass die Wirtschaft bei diesem Vorwerk ordentlich geführt,
+                    alles zu seiner Zeit gehörig verrichtet, die Äcker wohl gepflügt, geeggt und
+                    besät werden mögen.</p>
+                <p>2. dass in denen Saatfeldern, in Getreide und Wiesen kein Schaden geschehe,
+                    nichts vertreten, verfahren oder ausgehauen noch vom Vieh verzehrt, am
+                    allerwenigsten aber an Getreide oder Futter was gestohlen werde.</p>
+                <p>3. Zäune, Gehege und Gebäude müssen sorgfältig erhalten und verhütet werden, dass
+                    die Zäune nicht abgebrochen und die Gebäude nicht unterwohnt werden.</p>
+                <p>4. Das Acker-, Fahr- und Hausgerät muss wohl in Acht genommen werden, dass davon
+                    nichts abkomme, nichts durch Fahrlässigkeit des Gesindes und des Wirtes selbst
+                    in Verderb gerate.</p>
+                <p>5. Das Vieh soll Hauswirt und Lohnhofmann und seine Ehegattin wohl warten, itzt,
+                    da es ausgetrieben wird, muss der Austreiber zur rechten Zeit <gap reason="covered"/> und bei des Viehs Eintreiben richtig gezählt und auch
+                    jedes Stück, ob es gesund aus- und eingeht, wohl in Acht genommen, auch der Hirt
+                    angehalten werden, es gehörig zu tränken. <lb/>Bei der Winterfütterung ist aller
+                    Fleiß anzuwenden und das Vieh so zu warten, auch dergestalt in Acht zu nehmen
+                    dass nichts zu Schaden komme, weil Hauswirte vor dasjenige, so durch
+                    Fahrlässigkeit umkommen sollte, stehen müssen. Insbesondere muss der Hauswirt
+                    und seine Ehegenossin bei der Kälberzeit wachsam sein, die Ställe Tags und
+                    Nachts fleißig besuchen und verhüten, dass Kuh oder Kalb zu Schaden kommen.</p>
+                <p>6. Die Kühe muss der Hauswirt Haberland wohl ausmilchen lassen, und muss seine
+                    Ehegenossin bei jedem Milchen gegenwärtig sein und hinter den Mägden nachmilchen
+                    und probieren, ob die Mägde allen Fleiß beim Milchen gebraucht haben.</p>
+                <p>7. Die Milchgefäße sollen rein gehalten, die Butter rein gewaschen, tüchtig
+                    gesalzen und überall reinlich traktiert werden.</p>
+                <p>8. Was an Butter und Käse stückweise verkauft wird, dafür muss das einkommende
+                    Geld richtig berechnet und wöchentlich nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> abgegeben werden.</p>
+                <p>9. Von der Butter, so in ganze oder halbe Achtel geschlagen wird, soll Hauswirt
+                    Haberland nicht eigenwillig disponieren, sondern davon die Disposition der
+                    Herrschaft überlassen.</p>
+                <p>10. Das Gesinde muss in Ordnung gehalten, jedem derselben täglich die Arbeit
+                    angewiesen und dass selbes geschehen möge, darauf Acht gegeben werden.</p>
+                <p>11. Hauswirt Haberland muss zur Getreide- und Heu-<unclear reason="illegible" cert="high">Angst</unclear> Zeit sich fleißig und unverdrossen bezeigen,
+                    alles wohl einsammeln lassen und dahin sich bemühen, dass nichts im Felde
+                    umkomme oder verderbe.</p>
+                <p>12. Er sieht auch auf die Bauernwirtschaft, und wenn er sonst ins Feld geht, muss
+                    er sehen, wie weit jeder in seiner Feldarbeit gekommen und wie er mit seinem
+                    Vieh umgehe; wenn er hie und da einen Mangel, Nachlässigkeit oder Bosheit
+                    verspürt, muss er solchen der Herrschaft anzeigen und sieht</p>
+                <p>13. Haberland auch darauf, dass die Bauern nicht ihr Vieh, Getreide und Futter
+                    verpartieren.</p>
+                <p>14. Auf die Scheunen und Drescher muss er wohl Achtung geben, damit sie nicht
+                    stehlen oder etwas im Stroh zurücklassen, daher oft ein Probedreschen anstellen
+                    soll.</p>
+                <p>15. Das Hofgesinde muss er in der Speisung so halten, dass es damit zufrieden
+                    sein könne, weshalb er sich und seine Ehegenossin vom Tische nicht absondern,
+                    überhaupt</p>
+                <p>16. muss Hauswirt Haberland sich so führen, wie es einem getreuen, ehrliebenden
+                    und sorgfältigen Hauswirt eignet und gebührt, auch</p>
+                <p>17. und schließlich seine Ehegattin dahin anweisen und anhalten, dass sie auf
+                    Erziehung jungen Viehs und auch Federviehs äußerst geflissen sein möge.</p>
+                <p>Vor diesen seinen Dienst und auch den Dienst seiner Ehegenossin soll Haberland zu
+                    genießen haben</p>
+                <p>45 Fl. an Gelde, zusamt dem Schuh- und Stiefel-Gelde. Dann zur Speise</p>
+                <p>20 Schfl. Brotkorn <lb/>2 Schfl. Erbsen <lb/>2 Schfl. Gerste <lb/>2 Schfl. Haber
+                    <lb/>2 Achtel Salz <lb/>Eine Tonne Bier</p>
+                <p>Vor jede Person des Hofgesindes  <lb/>10 Schfl. Brotkorn  <lb/>1 Schfl. Erbsen
+                    <lb/>1 Schfl. Gerste <lb/>1 Schfl. Haber <lb/>1 Achtel Salz <lb/></p>
+                <p>Dann vor die ganze Haushaltung <lb/>2 <seg type="comment"><orig>Fasel
+                            Schweine</orig><note xml:id="nfkv_jcx_txb">Langbeiniges Landschwein. Die
+                            Tiere wurden vornehmlich durch Weidegang auf Brachen oder in Waldungen
+                            ernährt und in magerem Zustand als sog. „Faselschweine‟
+                        verkauft.</note></seg>
+                    <lb/>10 Schfl. Mast-Haber <lb/>von 2 Kühen die Milch <lb/>2 März-Schafe <lb/>16
+                    Tonnen Tafelbier <lb/>2 Sp. an Licht und <lb/>1 Fl. 15 Gr. bar Topfgeld</p>
+                <p>Das Salz zur Butter gibt die Herrschaft.</p>
+                <p>Hauswirt wird freigelassen, eine eigene Kuh im herrschaftlichen Futter zu
+                    halten.</p>
+                <p>Geschlossen d. 13. Juli 1745</p>
+                <p><persName key="ed_q4s_xyl_2y">L. M. G. v. Lehndorff</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

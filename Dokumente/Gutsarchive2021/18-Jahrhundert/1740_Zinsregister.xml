@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_p5z_j5r_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auszug aus dem Zinsregister der Bauern in den Lehndorffschen Gütern.
+                    1740</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Weitere Zinsregister für die Jahre 1707 1719, <ref target="lehndorff_of3_2vp_2qb">1742</ref> und 1744 in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 339, 176 bis 178. <lb/> Die geleisteten Zinszahlungen, ob
+                  in Geld, Naturalien oder Vieh, wurden in „Quitbüchern‟ verzeichnet, ausstehenden
+                  Zinsreste separat geführt, u. a. in: APO, Bestand 382 Familienarchiv Lehndorff,
+                     <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940856">Nr. 546</ref> (1732-1734), <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941199">Nr. 11</ref> (1823-1894) und <ref target="lehndorff_q5q_kzy_hqb">StA L,
+                     Bestand 21950 Familienarchiv Lehndorff, Nr. 258 (Zinsschuldner 1643, 1645,
+                     1716-1718).</ref>
+                  <lb/>Zu welchem Hauptverzeichnis die Beilagen (‟Rest-Extrakt‟) gehörten, ließ sich
+                  nicht feststellen, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941421">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 60</ref> (1789-1791), <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941424">Nr. 63</ref> (1790/91). </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 281, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1740-01-01" to="1740-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_p5z_j5r_1qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <table rows="46" cols="4">
+               <row>
+                  <cell>Namen der Bauern </cell>
+                  <cell>sollen zahlen 1740 </cell>
+                  <cell>haben gezahlt </cell>
+                  <cell>restieren </cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rendition="#u">
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </hi>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_ppc_qwp_5qb">Andreas Scheimann</persName>
+                  </cell>
+                  <cell>28 Fl 22 Gr. </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell> - </cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_onh_ffg_fqb">Christoff Eisermann</persName>, ein Zinsbauer </cell>
+                  <cell>30 Fl. </cell>
+                  <cell>15 Fl. an mich gezahlt den 26. Sept. 1740 </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_q4j_njp_5qb">M. Zwikowski</persName>
+                  </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell>28 Fl. 22 Gr. heute im Hof <unclear reason="illegible" cert="high">selbst</unclear>
+                  </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_fp3_ywp_5qb">Hans Preiß</persName>
+                  </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell>25 Fl. </cell>
+                  <cell>3 Fl. 22 Gr.</cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_bpc_bxp_5qb">König</persName>
+                  </cell>
+                  <cell>37 Fl. </cell>
+                  <cell>37 Fl. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_l1v_fxp_5qb">Gnesch</persName>
+                  </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_ljr_bsz_tqb">Fabian Zwikowski</persName>
+                  </cell>
+                  <cell>28 Fl. 22 Gr. </cell>
+                  <cell>28 Fl. 22 Gr. sind in datu an Ihro Hochgräfl. Gnaden bezahlt den 4.11.1740 </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_tqk_3xp_5qb">Martin Eisermann</persName>, ein Zinsbauer </cell>
+                  <cell>30 Fl. </cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <hi rendition="#u">
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </hi>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_omn_f5g_bqb">Schulze Wilewski</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Stiebel- und <unclear reason="illegible" cert="high">Garn</unclear>geld mit 1 Fl. 18 Gr. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <seg type="comment">
+                        <orig>Alte Gonneck</orig>
+                        <note xml:id="nigt_qxp_5qb">Zuordnung nicht eindeutig möglich.</note>
+                     </seg>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen 1 Fl. und 18 Gr. Stiebelgeld, alles bezahlt </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_kc1_xfp_5qb">Schönfeldt</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_qfz_yxp_5qb">Gerge Scheimann</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld mit 1 Fl. 18 Gr. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_tmn_lhp_5qb">Valtin Gus</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. bezahlt imgleichen Garn- und Stiebelgeld 1 Fl. 18 Gr. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_itq_mgq_lpb">Gerge Masuch</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld mit 1 Fl. 18 Gr. </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_sd4_d4p_5qb">M. Scheimann</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>30 Fl. </cell>
+                  <cell>der 1 Fl. imgleichen das Garn- und Stiebelgeld ist geschenkt</cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_c5l_pk3_gqb">junge Gonneck</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Stiebel- und Garngeld 1 Fl. 18 Gr.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_rcm_v3q_5qb">Jan Someck</persName>
+                  </cell>
+                  <cell>31 Fl.</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_qjt_y3q_5qb">M. Gwiasda</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>18 </cell>
+                  <cell>ist teils von Ihro Hochgräfl. Gnaden geschonken, teils mit Getr. abgegeben
+                     gemäß Quittbuch</cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_tsm_5pd_2qb">Kiworra</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Stiebel- und Garngeld 1 Fl. 18 Gr.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_vvb_gjq_5qb">Jarecksche</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld mit 1 Fl. 18 Gr.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_g4p_zrd_2qb">Schack</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <unclear reason="illegible" cert="high">Kalmuck</unclear>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_oh3_bmd_2qb">Bartnick</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_vx2_k5d_2qb">Skowroda</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Stiebel- und Garngeld mit Fl. 18 Gr.</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <placeName key="ed_xnn_d12_gy">
+                        <hi rendition="#u">Kittlitz</hi>
+                     </placeName>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_qdc_z2t_fqb">Borcksche</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_sjg_cft_fqb">Gritzka</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_bqm_2lq_lpb">Kiworra</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_pzj_jft_fqb">Kuckel</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_qbb_mft_fqb">Schuja</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_t1j_v2t_fqb">Nowack</persName>
+                  </cell>
+                  <cell>31 Fl. </cell>
+                  <cell>31 Fl. imgleichen Garn- und Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_xsl_tbs_vqb">Scheimann</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell rows="3">alle drei Jahre wird jedem von <seg type="comment">
+                        <orig>diesen Bauern</orig>
+                        <note xml:id="nb11_g1l_zsb">Scheimann, Uwis, Brose</note>
+                     </seg> 1 Fl. 10 Gr. erlassen, 1737 muss es ihnen erlassen werden</cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_ipr_xbs_vqb">Jan Uwis</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld </cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_pfj_ccs_vqb">Jan Brose</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_o3f_hcs_vqb">Schack</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_gzf_lw4_5qb">Hans Braun</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_q5q_kcs_vqb">Tarwinski</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <hi rendition="#u">
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </hi>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_sy2_pm3_gqb">Gellesch</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <gap reason="insignificant"/>
+                  </cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_alv_ln3_gqb">M. Gwiasda</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_o32_zl3_gqb">Christoff Gwiasda</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>
+                     <persName key="ed_fyt_syb_t2b">Rompel</persName>
+                  </cell>
+                  <cell>33 Fl. 5 Gr. </cell>
+                  <cell>33 Fl. 5 Gr. imgleichen 18 Gr. Stiebelgeld</cell>
+                  <cell/>
+               </row>
+            </table>
+            <p>
+               <note type="editorial">Für <placeName key="ed_xzt_112_gy">Stawisken</placeName>,
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                  siehe das beigegebene Digitalisat aus der Akte. </note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

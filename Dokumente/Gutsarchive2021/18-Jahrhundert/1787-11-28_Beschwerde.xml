@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_fxn_jvn_k5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Kreisdeputierte und Kreis-Feuersozietäts-Direktor Freiherr von Buddenbrock
+               beschwert sich beim König über eine Entscheidung der Kriegs- und Domänenkammer wegen
+               Amtsuntertänigkeit und Dienstpflichtigkeit. Powarben, 28. November 1787</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 387 Gutsakten, Nr. 44, Bl. 19-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_c1f_5jp_k5b">Buddenbrock, I von (-)</persName>
+               <placeName key="ed_vnk_mjp_k5b">Powarben</placeName>
+               <date when="1787-11-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_w15_bk5_sy">Preußen, Friedrich Wilhelm II. König von
+                        (1744-1797)</persName>
+            </correspAction>
+            <note>Ausfertigung mit Anlagen in: GStA PK, II. HA GD, Abt. 7, Nr. 3504, Bl. 7-22, die
+               Original-Dienstzettel, Bl. 23, die Abschrift <ref target="lehndorff_jzr_xdn_y5b">hier</ref>. Der König forderte von der Kammer das von Buddenbrock erwähnte
+               Publikandum vom 29. Oktober 1784. Am 14. Dezember 1787 wurde das Reskript vom 18.
+               März 1784 dahin geändert, dass die Söhne und Töchter der Eigenkätner, Instleute,
+               Hirten und auch Bauern, wenn diese sie nicht selbst brauchen, in den Ämtern 2 Jahre
+               lang zu dienen schuldig sein sollen, Bl. 25-25v. Siehe auch das Dokument aus dem <ref target="lehndorff_uhp_txg_k5b">Oktober 1787</ref>. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_fxn_jvn_k5b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Powarben bei Königsberg d. 28. Novembr. 1787</dateline>
+               <salute>Allerdurchlauchtigster pp</salute>
+            </opener>
+            <p>Eine Anmaßung des Domänenbeamten zu <placeName key="ed_ofb_m4r_gbb">Schaken</placeName>, welche von <persName key="ed_nyn_ffz_g1b">Ew. Königl.
+                  Maj.</persName> ostpreußischer Kriegs- und Domänenkammer wider meine Erwartung
+               gebilligt wird, setzt mich in die Notwendigkeit, meine Beschwerde bis zu Ew. Maj.
+               allerhöchster Berufung gelangen zu lassen. Ich habe zum Bedarf meines adelichen Gutes
+                  <placeName key="ed_vnk_mjp_k5b">Powarben</placeName> am Ende des abgewichenen
+               Mai-Monats drei Mägde, welche bei kölmischen Einsassen in Diensten standen, mit
+               vorschriftsmäßigen Dienstscheinen für das Dienstjahr von Martini c. gemietet, ich
+               habe ihnen das gewöhnliche <seg type="comment"><orig>Gewissgeld</orig><note xml:id="nt2c_vwf_vxb"><ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=mietpfennig&amp;firstterm=mietpfaffe">Mietpfennig</ref></note></seg> gegeben und ihre Dienstscheine an mich
+               genommen, mithin alles beobachtet, was zur gültigen Mietung des Gesindes in Ew.
+               Königl. Maj. allerhöchst emanierten <seg type="comment"><orig>Gesindeordnung vom 10.
+                     Sept. 1784</orig><note xml:id="ngqx_1xf_vxb">Erneuerte Gesinde-Ordnung für
+                     Ostpreußen inclusive Ermeland und Litthauen. De Dato Berlin, den 10. September
+                     1784</note></seg> vorgeschrieben ist, wowider auch weder von diesen Dienstboten
+               selbst, noch von ihren vorigen Wirten das mindeste eingewendet wird. Unterm 20. Juli
+               c. meldete mir der Beamte zu Schaken, dass er diese drei Mägde auf Martini zum
+               Dienste in das Amtsvorwerk nehmen werde und dazu von der Königl. Kriegs- und
+               Domänenkammer autorisiert sei. Ich sah mich veranlasst, nach eingezogenen
+               Erkundigungen hierüber bei E. Königl. Kriegs- und Domänenkammer mit einer Vorstellung
+               einzukommen, welche ich <seg type="comment"><orig>sub A</orig><note xml:id="nect_jnf_fwb">Liegt der Ausfertigung im GStA bei.</note></seg> anfüge,
+               auf welche aber die Resolution vom 8. Oktober <seg type="comment"><orig>sub
+                     B</orig><note xml:id="nhvs_knf_fwb">Liegt der Ausfertigung im GStA
+                  bei.</note></seg> erfolgte, worin der Anspruch des Beamten aus denen Gründen
+               gebilligt wird, einesteils, weil gedachte Personen wirkliche Amtsuntertanen und nach
+               dieser Qualität zum Vorwerksdienst verpflichtet wären, anderenteils, weil ich diese
+               Mägde ohne Dienstschein auf eine gesetzwidrige Art gemietet hätte. <lb/>Meine <seg type="comment"><orig>Gegenvorstellung sub C vom 22. Oktobr. c.</orig><note xml:id="nu3h_nnf_fwb">Liegt der Akte bei, Bl. 5-8.</note></seg> enthält die
+               vollständige Widerlegung beider Entscheidungsgründe. Allein die <seg type="comment"><orig>Resolution sub D vom 1. dieses Monats</orig><note xml:id="ny1c_qnf_fwb">Liegt der Akte bei, Bl. 9-9v.</note></seg> blieb dennoch den Beamten
+               beifällig, und als inzwischen diese drei Mägde ihren bei mir angenommenen Dienst nach
+               ihrem Engagement um <seg type="comment"><orig>Martini</orig><note xml:id="nub3_kxf_vxb">11. November</note></seg> wirklich antraten, so gefiel es
+               der Königl. Kriegs- und Domänenkammer, mir die Annahme dieser rechtmäßig gemieteten
+               Dienstboten in der Verfügung vom 13. Novbr. <seg type="comment"><orig>sub
+                     E</orig><note xml:id="nkpm_vnf_fwb">Liegt der Ausfertigung im GStA
+                  bei.</note></seg> als ein ins Publikum dringendes Unternehmen anzurechnen und mich
+               mit der Abholung dieser Mägde durch ein militärisches Kommando und einen fiskalischen
+               Prozess zu bedrohen, worauf ich mit der <seg type="comment"><orig>Vorstellung sub
+                     F</orig><note xml:id="nhxv_g4f_fwb">Entwurf in der Akte, Bl. 13.</note></seg>
+               einkam. <lb/>Sowohl der zu jetziger Jahreszeit unersetzliche Verlust in meiner
+               eigenen Wirtschaft, welche ich bei Ermangelung eigener Untertanen ohne gemietetes
+               Gesinde nicht fortsetzen kann, als der Nachteil, welcher aus diesen Grundsätzen der
+               Königl. Kriegs- und Domänenkammer allen meinen Miteinsassen erwächst, für deren
+               Gerechtsame ich mich als Kreisdeputierter des Schakenschen Landrätlichen Kreises zu
+               verwenden verpflichtet bin, macht mir diesen Vorfall so wichtig, dass ich das
+               Widerrechtliche in diesem Verfahren zu Ew. Königl. Maj. allerhöchster Beurteilung in
+               Untertänigkeit vorzutragen keinen Anstand nehmen kann. <lb/>Ich glaube mit völliger
+               Überzeugung behaupten zu können, dass die Qualität dieser bei mir in Dienst
+               getretenen Mägde dem Beamten kein Recht beilege, sie wider ihren Willen zum Dienst im
+               Amtsvorwerk zwingen zu können, noch auch in meinem eigentlichen Verfahren irgend
+               etwas Vorschriftswidriges zu finden sei, welches die Ungültigkeit meines mit ihnen
+               geschlossenen Mietskontrakts nach sich ziehen sollte. <lb/>Was das erstere betrifft,
+               so will ich mich dabei nicht aufhalten, dass die Königl. Kriegs- und Domänenkammer in
+               ihrer ersten Resolution sub B diese Mägde als wirkliche Amtsuntertanen qualifiziert,
+               dennoch aber in der Resolution sub D einräumen muss, dass die vormalige
+               Amtsuntertänigkeit aufgehoben und hier nur von einer Dienstpflichtigkeit die Rede
+               sei. <lb/>Dass die Amtsuntertänigkeit aufgehoben sei, darüber kann keine Frage sein,
+               da die hierüber schon von Ew. Königl. Maj. zu Gott ruhenden Herrn Großvater Maj.
+               erlassenen Befehle bekannt genug sind. Ob durch neuere landesherrliche Gesetze diese
+               Amtsuntertänigkeit wieder eingeführt und die unter dem Amte wohnende Einsassen
+               wiederum eigenbehörige und glebae adscripti des Amts geworden, darüber ist mir und
+               allen Landeseinsassen noch kein Befehl des Monarchen bekannt geworden, und die
+               Königl. Kriegs- und Domänenkammer hat darüber selbst keine ergangenen Gesetze zu
+               allegieren vermocht, außer, dass sie sich auf ein Königl. Reskript vom 18. Martii
+               1784 bezieht, durch welches ganz allgemein bestimmt sein soll, dass dergleichen Leute
+               zwei Jahre lang in dem Amte zu dienen verpflichtet wären. <lb/>Wofern eine solche
+               Königl. Verordnung ergangen sein sollte, welche mir und allen Landeseinsassen bis
+               diese Stunde unbekannt geblieben ist und niemals durch öffentliche Promulgation zu
+               mehrerer Wissenschaft gebracht worden, so muss ich zuvörderst bei mangelnder Kenntnis
+               dieses allerhöchsten Befehls es dahin stellen, unter was für Einschränkungen und
+               Praecautionen etwa diese temporelle Eigenbehörigkeit festgesetzt sein möge? ob solche
+               auf alle Ämter ganz allgemein oder nur etwa auf die unmittelbar an <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> grenzenden Anwendung findet? von
+               welcher Gattung von Leuten darin die Rede sei? und was sonsten etwa für Modalitäten
+               zur Vermeidung größerer Inkonvention dabei angeordnet worden. Sodann aber glaube ich
+               nach dem bekannten Grundsatz <seg type="comment"><orig>lex posterior derogat legi
+                     priori</orig><note xml:id="nmj3_bpf_fwb">Das jüngere Gesetz hebt das ältere
+                     Gesetz auf.</note></seg> auf das spätere Gesetz, nämlich die Königl.
+               allerhöchst vollzogene Gesindeordnung vom 10. Septbr. 1784 Bezug nehmen zu können, in
+               welcher Cap. I § 3 verordnet wird: „dass in Ansehung der Amtsuntertanen niemand wider
+               seinen Willen gezwungen werden soll, auf den Königl. Vorwerken Dienste zu nehmen -
+               außer wenn lediges und dienstloses Gesinde, welches keine Hantierung, Nahrung und
+               Gewerbe treibt, auf dem Lande sich befindet‟, und dass dieses auf Leute, die bei
+               kölmischen Einsassen in wirklichen Diensten stehen und sich mit Ablauf ihrer
+               Dienstzeit in andere Dienste vermieten, mithin nicht dienst- und herrenlos bleiben
+               wollen, keine Anwendung findet, ergibt sich wohl von selbst. <lb/>Endlich aber, und
+               wenn man die im Schlusse des angeführten § der Gesindeordnung denen Kriegs- und
+               Domänenkammern vorbehalten besonderen Verfügungen auch auf diejenigen sogenannten
+               Amtsuntertanen, welche nicht dienstlos, nicht ohne Nahrung und Gewerbe, sondern etwa
+               im Hause ihrer Eltern selbst und den letzteren entbehrlich sind, erstrecken wollte,
+               so bleibt wohl die erheblichste Frage: Wer sind diese Amtsuntertanen? Die Königl.
+               Kriegs- und Domänenkammer scheint dieser Bestimmung durch die sehr schwankenden
+               Ausdrücke dergleichen Leute oder Leute, die unter dem Amte wohnen, die im Königl. Amt
+               sich aufhalten, die den Schutz des Amtes genießen usw. ausweichen oder demselben
+               Begriff eine sehr falsche Richtung geben zu wollen. <lb/>Ich glaube mit Grund zu
+               behaupten, dass der eigentliche Begriff der Amtsuntertänigkeit, wenn ich solchen
+               gleich aus älteren Zeiten, in denen die Amtsuntertänigkeit noch in ihrem völligen
+               Umfange geltend war, entlehne, sich doch wie auf andere als solche Leute erstreckte,
+               welche wirklich auf Königl. Grunde von solchen Eltern, welche Königl. Bauernhuben
+               inne haben, erzeugt sind. Der Ort der Geburt und die untertänige Qualität der Eltern
+               gehören unleugbar, und zwar miteinander verbunden, zu den entscheidenden Begriffen
+               der Erbuntertänigkeit, und ich sehe nicht ab, wie dieses bei allen Privatuntertanen
+               unbestrittene Principium in Absicht der Amtsuntertänigkeit einer weiteren Ausdehnung
+               fähig sein könnte. Noch zur Zeit kenne ich in der Klasse des Bauernstandes nur zwo
+               Gattungen von Menschen, freie und untertänige, die dritte Gattung, welche die Kriegs-
+               und Domänenkammer dienstpflichtige nennt, worunter man eine auf gewisse Jahre
+               eingeschränkte Untertänigkeit verstehen will, finde ich noch in keinem Gesetz
+               gegründet. da die ganze Untertänigkeit keine anderen wesentlichen Effekt hat als die
+               Verbindlichkeit des Untertanen dem Gute zu dienen, zu dem er durch die Geburt und die
+               untertänige Qualität seiner Eltern verpflichtet ist, und da derjenige, der durch
+               dieses Band nicht an das Gut gefesselt wird, unleugbar ein freier Mensch ist, so
+               lassen sich auch die Begriffe einer aufgehobenen Amtsuntertänigkeit und einer dennoch
+               fortwährenden Dienstpflichtigkeit unmöglich vereinigen. <lb/>Gesetzt aber, die
+               Untertänigkeit in den Ämtern wäre auf Ew. Königl. Maj. allerhöchsten Befehl wirklich
+               wieder eingeführt, so könnte sie sich doch nur auf solche Leute erstrecken, deren
+               Eltern zur Zeit ihrer Erzeugung wirklich auf Königl. Huben ansässig gewesen, und wenn
+               man es noch weiter extendieren wollte, auf solche, deren Eltern und Voreltern auf
+               einem Königl. Amtsvorwerk als Gärtner, Instleute, Hirten und dergl. ihr Brot auf
+               immediat Königlichen Gründen erworben haben. Nur von diesen Königl. Bauern und
+               kleinen Vorwerksleuten kann gesagt werden, dass sie unter dem Amte, auf unmittelbar
+               Königl. Gründen wohnen, dass sie unter dem Schutz des Amts stehen usw. Von Gärtnern,
+               Instleuten aber, welche entweder auf adelichen oder auf kölmischen Gründen wohnen,
+               kann ohnehin nicht gesagt werden, dass sie unter dem Amte wohnen, denn so wenig der
+               Edelmann und der Kölmer selbst unter dem Amte wohnt, so wenig ist dieses auf seine
+               Gutsleute anwendbar. Wenngleich seit Ao. 1725 die Gerichtsbarkeit über die Kölmer mit
+               der Jurisdiktion bei den Domänenämtern kombiniert ist, so sind doch dadurch weder die
+               Kölmer selbst Untertanen geworden, noch kann solches von denen Instleuten, Gärtnern,
+               Eigenkätnern, Hirten usw. behauptet werden, welche auf kölmischen Gründen wohnen,
+               welche nach ihrer Willkür bei Endigung ihrer Kontraktjahre an einen anderen Ort
+               ziehen und ihre Kinder mit ihrer Hände Arbeit ernähren, von dem Amte selbst aber,
+               außer dem Schutz, den wir alle von unserem Allergnädigsten König und Herrn genießen,
+               zu Erziehung seiner Kinder nichts genossen haben. Allein auch selbst in Absicht der
+               Instleute, welche an einigen Orten bei Königl. Amtsbauern wohnen und ihre Kinder von
+               ihrem verdienten Tagelohn erziehen, den sie bald hie bald da erworben, lässt sich mit
+               Grunde keine Amtsuntertänigkeit behaupten, denn sie sind keine glebae adscripti des
+               Bauerndorfes, vielmehr haben sie und ihre Voreltern vielleicht an zwanzig anderen
+               Orten in und außerhalb desselben Domänenamtes gewohnt und ihr Brot erworben. Da die
+               adeliche Gutsbesitzer keinem einzigen Instmann, Gärtner, Hirten p., der nicht ihr
+               Erbuntertan ist, den Abzug verwehren können, sobald er mit Ablauf seiner
+               Kontraktjahre in ein anderes adeliches oder kölmisches Gut oder in ein anderes
+               Amtsvorwerk oder Bauerndorf oder wohin es ihm sonst beliebe ziehen will, so ist es
+               eine äußerst unbillige Praetention, wenn einige Beamte nunmero schon ihre
+               Zwangsrechte, welche sie sonder Zweifel aus der ihnen konzedierten
+               Dienstpflichtigkeit herzuleiten glauben, so weit zu extendieren anfangen, dass sie
+               allen Instleuten, Gärtnern und dergl., welche vorjetzt in den Bezirken ihrer Ämter,
+               auch selbst bei Kölmern zur Miete wohnen, verbieten wollen, ohne ihre Erlaubnis in
+               adeliche oder andere kölmische Güter ziehen zu dürfen. Die natürlichen Folgen hiervon
+               sind, <lb/>a) dass die adelichen Gutsbesitzer, welche keine oder nicht hinlängliche
+               Untertanen haben, und die Besitzer kölmischer Güter, die ohnehin keine Untertanen
+               haben, außer Stand gesetzt werden, ihre Güter zu bewirtschaften und ihre Abgaben zu
+               leisten, und es ist widernatürlich, dass sie ihre freien Leute aus ihren Gütern
+               ungehindert entlassen, dennoch aber von der Diskretion des Beamten abhangen soll, in
+               wiefern er ihnen den Ersatz der abgegangenen durch andere freie Leute erlauben
+               will,<lb/>b) dass dergleichen Leute selbst aus natürlichem Hange zur Freiheit
+               diejenigen Amtsdistrikte, wo dieser Zwang ausgeübt wird, zu verlassen suchen, und
+               kein anderer in ein solches Amt aus dem ihm ihn der Folge die Rückkehr versagt wird,
+               sein Unterkommen suchen wird, wodurch wohl für alle Bewohner einer solchen Gegend und
+               am Ende für den Beamten selbst der Volksmangel immer drückender gemacht wird.
+               <lb/>Ew. Königl. Maj. erlauchtem Einsehen kann es nicht entgehen, wie verderbliche
+               Folgen aus einer solchen Ausdehnung der Amtsuntertänigkeit, welche sicherlich aus
+               Missdeutung der denen Beamten gestatteten Befugnisse entstanden ist, zu erwarten
+               stehen, und ich begnüge mich nur noch hinzuzusetzen, dass die Beamte, denen es
+               ohnehin an hinlänglichem Scharwerk nirgends mangelt, das Königl. allerhöchste
+               Interesse nur zum Deckmantel ihres Eigennutzes oder einer zu weit gehenden Autorität
+               missbrauchen, indem es nicht denkbar ist, wie es einem Beamten, der ein oder zwei
+               Vorwerke zu bewirtschaften hat, an Dienstboten fehlen könnte, sobald er nur aus der
+               zahlreichen Menge der zu jedem Amte gehörigen Bauernfamilien die ihren Eltern
+               entbehrlich sind, auf gewisse Jahre zum Dienst in das Vorwerk fordern kann, und wenn
+               er selbst oder seine Ehegattin die Leute ohne ungebührliche Härte und in der Art
+               behandelt, wie sie nach Ew. Königl. Maj. allerhöchsten Intention von jeder
+               Brotherrschaft behandelt werden sollen. <lb/>Wenn ich das vorangeführte auf die
+               Qualität der von mir gemieteten Personen anwende, so ist <lb/>1.) die <persName key="ed_t1j_lcn_y5b">Anna Regina Glaserin</persName> zugeständlich die Tochter
+               eines freien Menschen, der zur Zeit ihrer Geburt in dem adelichen Gute <placeName key="ed_i1c_5hn_y5b">Salleiken</placeName> als Instmann gewohnt hat. Sie ist, wie
+               der von dem Kaplan zu Schaken ausgefertigte, sub <seg type="comment"><orig>Beil.
+                     F</orig><note xml:id="nlm3_5qf_fwb">Liegt der Akte als Abschrift bei, Bl.
+                     16.</note></seg> in originali beiliegende Dienstschein besagt, 24 Jahre alt,
+               wenn also in der Kammerresolution sub D gesagt wird, ihr Vater habe seit 37 Jahren im
+               Amte gewohnt, seine sämtlichen Kinder im Amte erzogen, und diese hätten den Schutz
+               daselben genommen, so ist sichtbar, dass nach dem Dafürhalten des Beamten auch der
+               Instmann in dem adelichen Gut Schaken im Amt wohne, wo er doch wohl in keiner
+               Hinsicht unter dem Amte gewohnt oder den Schutz des Amtes bedurft hat, und es
+               rechtfertigt sich hieraus meine in dem Vorstellen sub C geäußerte Bemerkung, dass die
+               Beamten sich unter dem Bezirk ihres Amtes eine Art von kleinem Staat gedenken,
+               welcher auch die darin gelegenen adelichen und kölmischen Güter in sich fasse, eine
+               Idee, welche freilich den Weg bahnen könnte, den Adel und die Kölmer mit für
+               Amtsuntertanen zu erklären, deren Ungrund aber nicht erst bewiesen werden darf. Bloß
+               unter dieser Voraussetzung wird auch in der Resolution sub D das Dorf <placeName key="ed_cgn_srf_fwb">Tarpienen</placeName>, wo der Vater der Glaserin jetzt als
+               Instmann wohnen soll, ein königliches Dorf genannt, ob es gleich nicht allein aus
+               Bauern, sondern auch aus Kölmern besteht; der Vater der Glaserin hat vorher in
+                  <placeName key="ed_cdg_1sf_fwb">Sudau</placeName> und anderen Orten auf kölmischem
+               Grunde gewohnt, und die Tochter selbst hat, wie der <seg type="comment"><orig><ref target="lehndorff_jzr_xdn_y5b">Dienstschein G</ref></orig><note xml:id="nylm_dsf_fwb">Liegt der Akte als Abschrift bei, Bl. 16. </note></seg>
+               erwähnt, schon seit 6 Jahren bei dem Kölmer <persName key="ed_tvm_gsf_fwb">Hennig</persName> in Sudau gedient, mithin ist das Vorgeben des Beamten, die
+               Glaserin sei im Amte erzogen, offenbar ungegründet, indem sie weder auf königl. Grund
+               geboren noch erzogen ist. Sollte es also bei Bestimmung der Amtsuntertänigkeit und
+               Dienstpflichtigkeit weder auf den Ort der Geburt noch den fortwährenden Aufenthalt
+               ankommen, so müsste daraus das unbillige Principium entstehen, dass ein jeder freier
+               Mensch, der auf adelichen oder kölmischen Gründen wohnt und sein Brot mit seiner
+               Hände Arbeit erwirbt, dennoch ein Amtsuntertan und seine Kinder dem Beamten in Dienst
+               zu geben schuldig sei, wozu indessen Gutsbesitzer ein Gleiches von seinen freien
+               Mietsleuten zu begehren nicht befugt ist. <lb/>2. Die <persName key="ed_qm1_4cn_y5b">Anna Maria Hintzin</persName> ist ebenmäßig die Tochter eines Instmanns, der
+               beständig als Instmann in kölmischen Gütern und nie auf Königl. Grunde gewohnt hat.
+               Sie ist, wie der Dienstschein sub G ausweist, in dem kölmischen Dorfe <placeName key="ed_cdg_1sf_fwb">Sudau</placeName> geboren und bei ihr findet alles
+               vorangeführte völlig gleiche Anwendung. Dagegen ist <lb/>3. die <persName key="ed_g33_scn_y5b">Barbara Boehmin</persName> die Enkelin eines königl. Bauern,
+               daher ich auch schon in meiner Vorstellung sub C mich dahin erklärt habe, diese
+               Person, dafern deren Dienstpflichtigkeit aus allerhöchsten, mir bisher unbekannten
+               Vorschriften feststehen sollte, dem Beamten überlassen wolle. Wiewohl ich noch mit
+               Recht bezweifle, dass es SKM höchste Affektion sei, dass ein solcher Zwangsgrund pro
+               Debit der Beamtenwirtschaften stattfinden soll, und es daher umso mehr darauf
+               ankommen lassen muss, was EKM hierüber zu entscheiden geruhen werden, da es sich ex
+               post ausweist, dass ihr Großvater mütterlicherseits ein Ausländer gewesen und sie
+               selbst als Kind in adeligen und kölmischen Gütern erzogen worden. <lb/>Es ist nun noch
+               übrig, mein eigenes Verfahren und die Gültigkeit meines mit denen drei Mägden
+               geschlossenen Dienstkontrakts zu rechtfertigen. <lb/>Dass ich diese Personen nicht
+               ohne Dienstschein zu erfordern gemietet habe, beweist meine Beilage G, und da der
+               Beamte keinen Dienstschein von ihnen aufzumachen vermag, so gibt mir schon dieser
+               Umstand nach allen in Dienstsachen feststehenden Principiis den unleugbaren Vorzug.
+               <lb/>Ohne allen Grund wird mir in der Kammerresolution vom 1. November sub D der
+               Vorwurf gemacht, ich hätte außer dem Dienstschein der vorigen Wirte auch ein
+               Amtsattest, worin ihnen erlaubt würde, in ein adeliches Gute zu ziehen, erfordern
+               sollen. Die öffentlich promulgierte Gesindeordnung vom 10. Septbr. 1784 macht mir
+               dieses auf keine Weise zur Pflicht, sie verordnet nichts mehr und nichts weniger, als
+               das man „keinen Dienstboten, worunter auf dem platten Lande auch die Instleute,
+               Gärtner und alles und jedes Dienstvolk zu rechnen, ohne Dienstschein und Attest in
+               seine Dienste nehmen soll‟, Cap. 2 § 1. Es ist sehr einleuchtend, dass der Ausdruck
+               Dienstschein. worunter nach der Gesindeordnung Cap. 2 § 8 die gedruckten Formulare zu
+               verstehen, die der Wirt des abziehenden Dienstboten unterschreibt, nur von dem
+               eigentlichen Gesinde, der Ausdruck Attest aber oder Abzugsschein nur von Gärtnern,
+               Instleuten, Hirten und dergl. redet, denn letztere bedürfen außer diesem Attest,
+               worin der Brotherr das Abziehen dem Gärtner oder Instmann einwilligt, dass der
+               Abziehende anderwärts sein Unterkommen suchen kann, keines gedruckten Dienstscheins,
+               Knechte und Mägde aber bedürfen außer des gedruckten Dienstscheins, den ihr Wirt
+               unterschreibt, kein anderen Abzugsattest, wie denn dieser Unterschied unter
+               Dienstschein und Attest aus der Gesindeordnung Cap. 2 § 3 deutlich hervorgeht, auch
+               bisher ein besonderes Amtsattest zu erfordern nie üblich gewesen. Wenn ich und jeder
+               andere adeliche oder kölmische Gutsbesitzer einem Knecht oder Magd mit Ablauf der
+               kontrahierten Dienstjahre einen Dienstschein ausfertige, so bedarf der abgehende
+               Dienstbote von mir keines besondern Erlaubnisscheins, um sich bei einem Beamten oder
+               bei einem königlichen Bauern wieder vermieten zu können, es ist mir also ganz
+               unerklärlich, woher der Beamte einen Dienstboten, der bei einem Kölmer gedient hat,
+               allererst die Erlaubnis geben dürfe, zu einem anderen Kölmer oder in ein adeliches
+               Gut zu ziehen. Die Stelle der Gesindeordnung Cap. 3 § 8, welche in der Resolution sub
+               D allegiert wird, besagt von einem solchen Erlaubnisattest des Beamten keine Silbe,
+               sie verordnet nur, dass in den Dorfschaften die Kontrakte zur Sicherstellung beider
+               Kontrahenten und zu leichterer Ausmittelung der dabei verabredete Bedingungen vor dem
+               Dorfschulzen geschlossen werden sollen, der Endzweck dabei ist also die Beglaubigung
+               des Kontrakts, nicht der Consensus oder Dissensus, der dem Dorfschulzen beigelegt
+               wäre. <lb/>Offenbar wird also durch die vermeinte Befugnis der Beamten, dem
+               abziehenden Gesinde die Annahme eines Dienstes in einem adelichen Gute allererst
+               erlauben zu müssen, auf die Befugnis begründet, diese Erlaubnis erfragen zu können,
+               und wenn die Königl. Kriegs- und Domänenkammer denen Beamten diese Gewalt über
+               freigeborene Leute, über Dienstboten der Kölmern, über Kinder der Instleute, die
+               heute im kölmischen, morgen im adelichen Gute wohnen und ihre Familien mit ihrer
+               Arbeit ernähren müssen, in die Hände gibt, so ist solches eine im äußersten Grad
+               ausgedehnte Einführung der strengsten Untertänigkeit, welche Ew. Königl. Maj.
+               allerhöchsten landesväterlichen Gesinnungen so sichtbar entgegen, als der
+               Konservation des Adels und des Kölmerstandes gefährlich ist, denn es ist
+               schlechterdings nicht abzusehen, wo diese ihr Gesinde hernehmen sollen, wenn alle
+               freie Menschen, die auf dem Lande wohnen, pro glebae adscriptis der Ämter erklärt
+               würden, und also kein Mensch auf dem Lande existiert, der nicht entweder Untertan des
+               Amts oder eines adelichen Gutes wäre. <lb/>Endlich, so lässt sich auch nicht
+               behaupten, dass dem Beamten zu Schaken die derzeit nach früheren erzwungenen
+               Ansprüchen auf diese Mägde und seine desfalls bei der Königl. Kriegs- und
+               Domänenkammer vielleicht geschehenen Anträge einen Vorzug vor mir beilegen könnten.
+               Wenn der Beamte durch seinen Unterbedienten diese Leute ansagen ließ, sie müssten auf
+               Martini in das Amtsvorwerk ziehen, und diese mit Recht verweigerten, sich solchem
+               Zwange zu unterwerfen, so war dergleichen Engagement nur einseitig und kein gültiger
+               Mietskontrakt, zumal der Beamte von Seiten der Dienstboten keinen Dienstschein
+               erhielt. Mir dagegen wurden die Dienstscheine von diesen Leuten bei Annahme des
+               Gewissgeldes eingehändigt, so wie solches in der Gesindeordnung Cap. 3 § 8
+               vorgeschrieben ist, ich habe also nicht nur <seg type="comment"><orig>bona
+                     fide,</orig><note xml:id="npq1_f5f_fwb">in gutem Glauben</note></seg> sondern
+               mit völliger Sicherheit und Verbindlichkeit diese Leute, welche durch den
+               Dienstschein ihr Recht, auf Martini einen anderen Deinst antreten zu können,
+               nachwiesen, in meinen Dienst annehmen können, und selbst die von dem Beamten erst
+               gegen Ende des Julius mir geschehene, obgleich an sich unbefugte Anzeige seines
+               vorgeblichen Rechtes erfolgte zu einer Zeit, da bereits alles Gesinde versagt und ich
+               diesen Abgang zu ersetzen außer Stande war. <lb/>In der vollkommensten Zuversicht auf
+               Ew. Königl. Maj. Gnade und Gerechtigkeit richte ich nunmehr meine untertänigsten
+               Anträge dahin, dass ich bei meiner Gerechtsame in Absicht dieser von mir gemieteten
+               Dienstboten gegen den Beamten zu Schaken geschützt, überhaupt aber den Beamten der
+               Domänenämter wegen der Dienstpflichtigkeit die nötigen Schranken gesetzt und dadurch
+               den gegründeten Beschwerden der adelichen und kölmischen Gutsbesitzer auf eine
+               billige und den Landesverfassungen angemessene Art abgeholfen werden möge, wie ich
+               denn auch in tiefster Untertänigkeit bitten darf, mich von allen etwa dabei
+               vorfallenden Kosten allergnädigst zu dispensieren. </p>
+            <lb/>
+            <closer>
+               <salute>Ich ersterbe in tiefster Ehrfurcht <lb/>EW. Königl. Maj.</salute>
+               <signed/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hp4_dpj_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Hegemeister Bliss berichtet über die Lage in Steinort. Steinort, 31. Mai
+                    1820</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 867, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_bmn_41z_z5b">Bliss, Hegemeister (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1820-05-31" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hp4_dpj_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, d. 31. Mai 1820</dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p>Ew. Hochgeboren erlauben gnädigst, bevor ich meinen dienstlichen Rapport anfange,
+               dass ich es auch wage, Ew. Hochgeboren zu Dero hohen Avancement meine untertänigsten
+               Glückwünsche darzubringen. <lb/>Aus dem <seg type="comment">
+                  <orig>beigelegten Kassen-Extrakt</orig>
+                  <note xml:id="nwdw_ktj_3tb">Pro anno 1819/20, liegt dem Brief bei. Die Einnahmen
+                     beliefen sich auf 1.667 Rtlr. 86 Gr. 13 1/2 D., die Ausgaben auf 1.125 Rtlr. 76
+                     Gr., worunter 300 Rtlr. in die Reichsgräfliche Kasse geflossen waren; der
+                     Kassenbestand betrug 542 Rtlr. 10 Gr. 13 1/2 D. </note>
+               </seg> werden Ew. Hochgeboren ersehen, wie groß bis zum heutigen Tage der
+               Kassenbestand ist; für verkauftes Holz sind 982 Rtlr. 16 Gr. 9 D. eingekommen,
+               worunter für geschlagenes Achtelholz 315 Rtlr. 45 Gr. und für Lagerholz von
+                  <placeName key="ed_xjg_d12_gy">Stobben</placeName> 666 Rtlr. 61 Gr. 9 D.
+               eingekommen ist. <lb/>Mit dem Holzverkauf überhaupt hat es bei den so schlechten
+               Konjunkturen noch angegangen, wozu die vorteilhafte Lage der hiesigen Wälder an der
+               See viel beigetragen hat. Ohnerwartet des so sehr angehaltenen Winters ist immer eine
+               schlechte Landbahn gewesen, welches durch den vielen Schnee und immerwährenden Winter
+               verursacht wurde. <lb/>Das heute geschlagene Achtelholz ist für 6 Rtlr. 60 Gr. und
+               das weiche für 5 Rtlr. verkauft worden, das noch vorrätige Lagerholz wird man für die
+               Zukunft noch im Preis etwas heruntersetzen müssen, um dem gänzlichen Aufräumen der
+               Wälder vom Windbruch näher zu kommen, wer weiß, was noch für Unglücksfälle hinsichts
+               des Abstehen des Tannenholzes bevorsteht. In den hiesigen Wäldern um <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist noch gar nichts zu merken, das, was
+               zu vertrocknen anfängt. In der <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName> ist an einigen Stellen schon etwas vertrocknet,
+               jedoch von keiner Bedeutung, in den angrenzenden Wäldern ist schon mehr abgestanden.
+               Der Borkenkäfer kann nicht die Ursache sein nach der Meinung mehrerer erfahrener
+               Forstmänner, mit denen ich über diesen Gegenstand gesprochen habe, glaube dass bloß
+               das in den Wurzeln lose Holz ist, welches auch sehr wahrscheinlich ist, weil nur auf
+               dem lichten sandigen Waldboden das Vertrocknen anfängt, wozu auch die voriges Jahr
+               und besonders dieses Frühjahr gewesene Dürre viel dazu beigetragen haben kann.
+               <lb/>Junge Pappeln zum Versetzen sind 140 Stück aus den Baumschulen genommen und sind
+               wieder durch neue Stecklinge ergänzt und auch noch erweitert worden. Die im vorigen
+               Herbst gelegten Kastanien auf dem Werder <placeName key="ed_h1w_jc2_gy">Upalten</placeName> sind sehr gut aufgeschlagen, das übrige Stück Acker, welches
+               noch dazu bestimmt ist, ist von <persName key="ed_bgb_2hh_yxb">Grenz</persName> besät
+               worden und soll auch auf den Herbst mit Kastanien, wenn Samen sein wird, wozu alle
+               Aussichten sind, besät werden. <lb/>An Bauholz ist ausgefahren <seg type="comment"><orig>durch die hiesigen Uwis</orig><note xml:id="nisj_jhh_yxb">Es gab mehrere
+                     Bauern in Steinort mit diesem Namen.</note></seg> worden 597 Stück <lb/>Herr
+                  <persName key="ed_ps5_zkj_hlb">Berent</persName> in <placeName key="ed_nkz_b12_gy">Stawken</placeName> zum Brandhaus 168 Stück <lb/>
+               <persName key="ed_j5c_dkj_hlb">Gramadis</persName> in <placeName key="ed_xjg_d12_gy">Stobben</placeName> zum Speicher 64 Stück, Summa 829 Stück. <lb/>Herr Inspektor
+                  <persName key="ed_yx5_cbg_nbb">Berent</persName> hat versprochen, nach beendigter
+               Mistfuhre noch in der Marschallsheide, so lange bis die Heu-Ernte angeht, ausrücken
+               zu lassen, vielleicht wird es möglich sein, in genanntem Revier mit dem noch
+               vorhandenen Bauholz zu beendigen. Brettschneider sind fortwährend 5 Eisen
+               beschäftigt. Die fichtenen 5 zolligen Bohlen, die zum Wohnhaus in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> bestimmt sind, haben vom Frühjahr bis
+               jetzt im Wasser gelegen und sind gehörig aufgestapelt zum Trocknen verwahrt worden,
+               auch von den Dielen besonders die zu Fußböden bestimmt sind, habe ich welche in
+               Wasser legen lassen um erst den Versuch zu machen, ob sie nicht im Wasser an ihrer
+               weißen Farbe verlieren, worauf mir der Zimmermann <persName key="ed_ypr_y4f_1vb">Schweiger</persName> aufmerksam gemacht hat, besonders bei den Tannenbrettern.
+               Die Klötze von der aus dem Baumgarten ausgerodeten schweren Pappel sind zu Brettern
+               von verschiedenen Stärken geschnitten und auch sämtlich im Brauhaus ausgekocht und
+               auf dem Speicher auf dem obersten Boden verwahrt worden. Von den Pfählen die zum
+                  <placeName key="ed_sz3_kqp_tcb">Thiergarten</placeName> bestimmt sind, sind 72
+               Stück aus der Marschallsheide hier nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> angefahren und aufbewahrt. <lb/>Auf dem Bruch hinter dem
+               Baumgarten rechter Hand des <gap reason="illegible"/> ist ein Stück vom alten und
+               fehlerhaften Holz heruntergeholzt und sind 25 Achtel Birken- und 11 1/2 Achtel <seg type="comment"><orig>Ellernholz</orig><note xml:id="njgh_phh_yxb"><ref target="https://www.dwds.de/wb/dwb2/ellernholz">Erlenholz</ref></note></seg>, in Summe 36 1/2 Achtel, geschlagen und aufgesetzt
+               worden. Die Abholzung ist ganz nach forstmäßigen Prinzipien und so, wie es Ew.
+               Hochgeboren gnädigst angeordnet haben, bewirkt worden. Die Stobben sind mehrenteils
+               sehr gut ausgeschlagen, die Ellern mehr als die Birken. Der Holzwuchs würde
+               außerordentlich sehr gewinnen, nicht allein auf den Brüchern um <placeName key="ed_pxt_cnh_1y">Steinort</placeName> sondern auch im <placeName key="ed_xjg_d12_gy">Stobbenschen</placeName> Walde, die in Verbindung mit der
+               Mauersee stehen, wenn die See mehrere Jahre so niedrig stehen bliebe, so wie sie
+               voriges Jahr gestanden hat und dieses Jahr steht. Noch muss ich Ew. Hochgeboren
+               untertänigst anzeigen, dass ich dem <gap reason="illegible"/>
+               <persName key="ed_prk_kpf_1vb">Jürgen Thomzig</persName> in <placeName key="ed_nkz_b12_gy">Stawken</placeName> aufgekündigt habe und ihn von <seg type="comment"><orig>Michaeli</orig><note xml:id="nhtr_vhh_yxb">29.
+                     September</note></seg> d. J. gehen lasse. Grobe Vergehungen kann ich ihm keine
+               zur Last legen, sonst hätte ich ihn nach der hiesigen Jurisdiktion zur Bestrafung
+               übergeben, nur große Nachlässigkeiten, die durch mehrere harte Verweise von meiner
+               Seite nicht fruchten wollten, haben mich dazu genötigt, diese Maßregeln gegen ihn zu
+               ergreifen. Zu dieser Stelle haben sich sehr viele Subjekte gemeldet, es ist aber
+               schwer eine Wahl zu treffen, um nicht einen Missgriff zu machen, denn allen Attesten
+               und Zeugnissen, die diese Leute haben, ist nicht zu trauen, denn wenn man spezielle
+               Erkundigungen einzieht, so lauten immer die Antworten anders als die ausgestellten
+               Zeugnisse es sagen. Unter diesen ist auch ein gewisser <persName key="ed_iq2_qpf_1vb">Braun</persName>, ein Franzose, der hier im Jahr 1813 von den französischen
+               Truppen zurückgeblieben ist, Ew. Hochgeboren haben ihn in der <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName> als Brettschneider gesehen. Er
+               hat ein allgemeines gutes Lob hinsichts seiner moralischen Führung, wonach ich mich
+               sehr genau erkundigt habe. Gedachten Braun habe ich die Zusicherung zu diesem Posten
+               bis auf die Hohe Genehmigung Ew. Hochgeboren gegeben, sollten demnach Ew. Hochgeboren
+               was Rechtes einzuwenden, oder auch zu erinnern haben, so sehe einem gnädigen
+               Bescheide entgegen und werde mit Abschließung des Kontrakts Anstand nehmen, Michaeli
+               ist die Abzugszeit des Thomzigs. <lb/>Die Rebhühner sind alle gut den Winter über
+               durchgebracht und dieses Frühjahr hier um <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName>
+               ausgesetzt worden, überhaupt kann man sich dieses Jahr viel Hühner versprechen, weil
+               sehr viele Winter über geblieben sind. Für alles Wildbret ist ein sehr günstiges
+               Frühjahr gewesen.</p>
+            <closer>
+               <salute>Mit dem tiefsten Respekt habe die Ehre mich zu zeichnen Ew. Hochgeboren untertänigster
+                        Diener</salute>
+               <signed>Bliss</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

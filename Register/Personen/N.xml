@@ -1,0 +1,919 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_ghd_m4c_5qb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Adam</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Mittel-Knecht, Beynuhnen, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_xtn_wwp_lpb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Adam</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn eines Fischers; Labab (1674)</note>
+                </person>
+                <person xml:id="ed_bxk_1bd_5qb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Pistanien gebürtig; Hofmagd, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_exx_cm1_j5b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Anortha (Ortha)</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Küchenmagd, Steinort (1706)</note>
+                </person>
+                <person xml:id="ed_adm_stj_j5b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1750 Verwalter, Steinort (1750)</note>
+                </person>
+                <person xml:id="ed_n5w_ls3_gqb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Elsa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Köchin, Labab (1718)</note>
+                </person>
+                <person xml:id="ed_cjj_ks3_gqb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Eva</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>„Hurenkind‟ der Köchin Elsa; Magd im Hof Labab (1718)</note>
+                </person>
+                <person xml:id="ed_tpm_kyp_lpb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Fabian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Bauer, Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_tln_hyp_lpb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_kp3_dzp_tcb">
+                    <persName type="reg"><surname>N. N.</surname><forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kutscher, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_slk_jgg_1vb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Jonatan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hirte, Labab (1821)</note>
+                </person>
+                <person xml:id="ed_v4w_zr5_c2b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Laurette</forename>
+                    </persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Frl. Pohl</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1843)</note>
+                </person>
+                <person xml:id="ed_cns_gxr_vqb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Louisa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losfrau, Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_j51_zvk_wcb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Male</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wirtschafterin des Grafen Heinrich von Lehndorff (1821)</note>
+                </person>
+                <person xml:id="ed_fb4_hm1_j5b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofmagd, Serwillen (1706)</note>
+                </person>
+                <person xml:id="ed_op1_y3m_j5b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Marius</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Böttcher, Reichertswalde (1783)</note>
+                </person>
+                <person xml:id="ed_efy_3yp_lpb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Mathes</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Zinsbauer, Taberlack (1674)</note>
+                </person>
+                <person xml:id="ed_c3n_44z_tqb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Mathes</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneider, Taberlack (1716)</note>
+                </person>
+                <person xml:id="ed_llt_r3m_j5b">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Böttcher, Reichertswalde (1783)</note>
+                </person>
+                <person xml:id="ed_xvk_bvt_g2b">
+                    <persName type="reg">
+                        <surname>Naesert</surname>
+                        <forename>Otto</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneiderlehrling, Drengfurt (1880)</note>
+                </person>
+                <person xml:id="ed_uh3_vc3_t2b">
+                    <persName type="reg">
+                        <surname>Nagel</surname>
+                        <forename>Johann Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizbeistand der Gräfin von Lehndorff, Steinort (1745)</note>
+                </person>
+                <person xml:id="ed_dyq_h35_g2b">
+                    <persName type="reg">
+                        <surname>Napolski</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1881)</note>
+                </person>
+                <person xml:id="ed_p4f_m1j_zqb">
+                    <persName type="reg">
+                        <surname>Nareyka</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schmied, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_mv5_1bb_zqb">
+                    <persName type="reg">
+                        <surname>Nass</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hochzinser, Stawisken (1808)</note>
+                </person>
+                <person xml:id="ed_jm2_vr5_g2b">
+                    <persName type="reg">
+                        <surname>Nathusius</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tattersall-Aktionär (1881)</note>
+                </person>
+                <person xml:id="ed_qc2_1jm_j5b">
+                    <persName type="reg">
+                        <surname>Natte</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sattler, Reichertswalde (1783)</note>
+                </person>
+                <person xml:id="ed_y3n_mlh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/116897678</idno>
+                    <persName type="reg">
+                        <surname>Natzmer</surname>
+                        <forename>Oldwig von</forename>
+                    </persName>
+                    <birth>1782</birth>
+                    <death>1861</death>
+                </person>
+                <person xml:id="ed_cqq_tmz_2qb">
+                    <persName type="reg">
+                        <surname>Neander</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Rat (1742)</note>
+                </person>
+                <person xml:id="ed_xll_f1w_glb">
+                    <idno type="uri">https://d-nb.info/gnd/100219047</idno>
+                    <persName type="reg">
+                        <surname>Nebbien</surname>
+                        <forename>Christian Heinrich</forename>
+                    </persName>
+                    <birth>1778</birth>
+                    <death>1841</death>
+                </person>
+                <person xml:id="ed_drl_xvz_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1035101580</idno>
+                    <persName type="reg">
+                        <surname>Nebelung</surname>
+                        <forename>Günther</forename>
+                    </persName>
+                    <birth>1896</birth>
+                    <death>1970</death>
+                </person>
+                <person xml:id="ed_bcs_syy_ssb">
+                    <persName type="reg">
+                        <surname>Negelcke</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Güldenboden (1721)</note>
+                </person>
+                <person xml:id="ed_urv_43t_g2b">
+                    <persName type="reg">
+                        <surname>Negenborn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kruglanken; 1880 Mitglied der Provinzial-Synode</note>
+                </person>
+                <person xml:id="ed_ymw_v45_zdb">
+                    <persName type="reg">
+                        <surname>Negenborn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Leutnant (17. Jh.)</note>
+                </person>
+                <person xml:id="ed_zxx_t5t_ncb">
+                    <persName type="reg">
+                        <surname>Negenborn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Borken bei Kruglanken; Staatlicher Forstmeister (1922)</note>
+                </person>
+                <person xml:id="ed_s4j_khg_ldb">
+                    <idno type="uri">https://d-nb.info/gnd/123088542</idno>
+                    <persName type="reg">
+                        <surname>Nering</surname>
+                        <forename>Johann Arnold</forename>
+                    </persName>
+                    <birth>1659</birth>
+                    <death>1695</death>
+                </person>
+                <person xml:id="ed_n5t_mf2_2qb">
+                    <persName type="reg">
+                        <surname>Nessler</surname>
+                        <forename>N.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Serwillen (1753 bis1756)</note>
+                </person>
+                <person xml:id="ed_jq4_f1t_vsb">
+                    <persName type="reg">
+                        <surname>Neuber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Goldbach (1841)</note>
+                </person>
+                <person xml:id="ed_qrc_ly1_3vb">
+                    <persName type="reg">
+                        <surname>Neuber</surname>
+                        <forename>Alfred</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Goldbach (1850)</note>
+                </person>
+                <person xml:id="ed_cs5_my1_3vb">
+                    <persName type="reg">
+                        <surname>Neuber</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Goldbach (1850)</note>
+                </person>
+                <person xml:id="ed_bmz_1ms_vsb">
+                    <persName type="reg">
+                        <surname>Neubert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner, Reichertswalde (1832)</note>
+                </person>
+                <person xml:id="ed_wlz_3b1_h2b">
+                    <persName type="reg">
+                        <surname>Neubert</surname>
+                        <forename>Louise</forename>
+                    </persName>
+                    <birth>1868</birth>
+                    <death/>
+                    <note>Waise im Waisenhaus Drengfurt (1883)</note>
+                </person>
+                <person xml:id="ed_r1n_bkl_1vb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann beim Hirten Schönfeldt, Steinort (1824)</note>
+                </person>
+                <person xml:id="ed_ufx_wcd_d2b">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Buchhändler, Dresden (1856)</note>
+                </person>
+                <person xml:id="ed_omr_cmg_wqb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Nachtwächter, Steinort (1808)</note>
+                </person>
+                <person xml:id="ed_fhs_fmg_wqb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Böttcher, Steinort (1808)</note>
+                </person>
+                <person xml:id="ed_ok3_qw3_zqb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1808 Krüger, Pristanien (1808)</note>
+                </person>
+                <person xml:id="ed_nws_nxj_5qb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>entlaufener Untertan (1722)</note>
+                </person>
+                <person xml:id="ed_rmv_lqb_3qb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Gertraud</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Krüger</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertanin, Stawisken (1710, 1714, 1718)</note>
+                </person>
+                <person xml:id="ed_f13_tg1_5qb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Jürgen</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Neumann; Stawisken (1718)</note>
+                </person>
+                <person xml:id="ed_u35_zws_fqb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Waldhüter, Steinort (1713-1718)</note>
+                </person>
+                <person xml:id="ed_wl5_t44_s3b">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>K.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Lehrer, (Steinort?) (1850)</note>
+                </person>
+                <person xml:id="ed_snl_v3s_kfb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Luise von</forename>
+                    </persName>
+                    <birth/>
+                    <death>1925</death>
+                    <note>auf Weedern; Heirat: 1894 Eberhard von Zitzewitz, ab 1923 bis zu seinem
+                        Tod Präsident des „Reichsverbandes für Zucht und Prüfung deutschen
+                        Warmbluts‟</note>
+                </person>
+                <person xml:id="ed_qwb_kc3_3rb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>M.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verwalter, Schönberg (1784, 1786)</note>
+                </person>
+                <person xml:id="ed_ntl_ltz_yhb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan, Steinort (1802)</note>
+                </person>
+                <person xml:id="ed_knz_tlh_wsb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Samuel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> Superintendent, Angerburg (1830)</note>
+                </person>
+                <person xml:id="ed_fnt_fbj_myb">
+                    <persName type="reg">
+                        <surname>Neumann</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_ukm_q15_c2b">
+                    <idno type="uri">https://d-nb.info/gnd/1050550560</idno>
+                    <persName type="reg">
+                        <surname>Neumann-Cosel</surname>
+                        <forename>August Wilhelm von</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_ik2_g5w_c2b">
+                    <persName type="reg">
+                        <surname>Nevermann</surname>
+                        <forename>F. T.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Haushofmeister der Grafen von Hahn; Verfasser der „Genealogie und
+                        Nachrichten über das Geschlecht der Herren von Hahn‟, 1816</note>
+                </person>
+                <person xml:id="ed_xf3_pwc_zqb">
+                    <persName type="reg">
+                        <surname>Nicklas</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Werder Wittfong (1808)</note>
+                </person>
+                <person xml:id="ed_jsr_4bt_2cb">
+                    <persName type="reg">
+                        <surname>Nicolai</surname>
+                        <forename>Johann Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Obersteuerkassierer, Dresden (1762)</note>
+                </person>
+                <person xml:id="ed_lbs_sdq_mbb">
+                    <idno type="uri">http://d-nb.info/gnd/123777135</idno>
+                    <persName type="reg">
+                        <surname>Nicolovius</surname>
+                        <forename>Matthias Balthasar</forename>
+                    </persName>
+                    <birth>1717</birth>
+                    <death>1778</death>
+                </person>
+                <person xml:id="ed_rvw_vgv_yxb">
+                    <persName type="reg">
+                        <surname>Nieswandt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schäferfrau, Pristanien (1854)</note>
+                </person>
+                <person xml:id="ed_zjl_r5r_vsb">
+                    <persName type="reg">
+                        <surname>Nieswandt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Brauer, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_tf4_zgn_fyb">
+                    <persName type="reg">
+                        <surname>Nikolaus</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Leinweber, Steinort (1737)</note>
+                </person>
+                <person xml:id="ed_ic3_jxp_lpb">
+                    <persName type="reg">
+                        <surname>N. N.</surname>
+                        <forename>Stephan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Zinsbauer, Stawisken (1674)</note>
+                </person>
+                <person xml:id="ed_qjq_b3c_t2b">
+                    <persName type="reg">
+                        <surname>Nikolai</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Advokat (1727)</note>
+                </person>
+                <person xml:id="ed_crf_4yj_j5b">
+                    <persName type="reg">
+                        <surname>Nikolaus</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>vor 1750</death>
+                    <note>Bauer, Taberlack (1750)</note>
+                </person>
+                <person xml:id="ed_md5_pyj_j5b">
+                    <persName type="reg">
+                        <surname>Nikolaus</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Skrotkin</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Pustolla</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des Bauern Nikolaus, Taberlack; Heirat: 1750 Husar Jacob
+                        Pustolla</note>
+                </person>
+                <person xml:id="ed_d3n_w2j_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118735551</idno>
+                    <persName type="reg">
+                        <surname>Nitzsch</surname>
+                        <forename>Karl Emanuel</forename>
+                    </persName>
+                    <birth>1787</birth>
+                    <death>1868</death>
+                </person>
+                <person xml:id="ed_mbl_hpm_zdb">
+                    <persName type="reg">
+                        <surname>Nobbe</surname>
+                        <forename>Erwin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Angestellter des Grafen Lehndorff (1914)</note>
+                </person>
+                <person xml:id="ed_y5r_1vh_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/138256055</idno>
+                    <persName type="reg">
+                        <surname>Nolcken</surname>
+                        <forename>Gustav Adam Freiherr von</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1812</death>
+                </person>
+                <person xml:id="ed_tbm_lbg_j5b">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_h5q_kbg_j5b">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Gottlieb</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_ljy_3bg_j5b">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_vng_kbg_j5b">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_vw4_3bg_j5b">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau von Michael Nolde, Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_npj_jwt_fqb">
+                    <persName type="reg">
+                        <surname>Nolde</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rosengarten, ca. 1738 Steinort</note>
+                </person>
+                <person xml:id="ed_on4_3jn_my">
+                    <persName type="reg">
+                        <surname>Nordenflycht</surname>
+                        <forename>Gustav Freiherr von</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1921</death>
+                    <note>Abitur in Erfurt; lernte er in der Oberförsterei Zechlin in der Mark
+                        Brandenburg; ab 1865 Forstakademie zu Neustadt - Eberswalde, 1873
+                        Staatsexamen; ging nach Russland und war in verschiedenen Privatforsten
+                        tätig; 1877 Oberförster in Szitkehmen in der Romintener Heide; 1893 erhielt
+                        er das Revier der Oberförsterei Lödderitz bei Aken an der Elbe; verlebte
+                        seinen Ruhestand in Diebzig ab 1920 im ehemaligen Pfarrhaus der Gemeinde. N.
+                        war auch Jagdschriftsteller, u. a. Verfasser von: Jagdliche und andere
+                        Streiflichter aus der Zeit eines Königlich Preußischen Forstmeisters, Berlin
+                        1903 <ref target="https://www.osternienburgerland.de/verzeichnis/visitenkarte.php?mandat=48547"/></note>
+                </person>
+                <person xml:id="ed_z5m_4yj_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/117057215</idno>
+                    <persName type="reg">
+                        <surname>Normann</surname>
+                        <forename>Rudolf von</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1882</death>
+                </person>
+                <person xml:id="ed_yfz_d2x_clb">
+                    <persName type="reg">
+                        <surname>Nößlin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Amtmann (1745) </note>
+                </person>
+                <person xml:id="ed_sbv_fx2_n2b">
+                    <persName type="reg">
+                        <surname>Novak</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1866</birth>
+                    <death>1929</death>
+                    <note> böhmischer Orgelbauer, wirkte in Königsberg <ref target="https://de.wikipedia.org/wiki/Carl_Novak"/></note>
+                </person>
+                <person xml:id="ed_t1j_v2t_fqb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Kittlitz (1740, 1776)</note>
+                </person>
+                <person xml:id="ed_cg5_54h_bqb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hofmans Jacob Nowack; Steinort (1717)</note>
+                </person>
+                <person xml:id="ed_f2w_tjb_hkb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Eleonore</forename>
+                    </persName>
+                    <birth>1719</birth>
+                    <death/>
+                    <note>Tochter des Hofmanns Jacob Nowack; Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_kgs_ssh_bqb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Waldhüters Jacob Nowack; Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_ykw_llq_lpb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hofmans Jacob Nowack, Steinort; Schulze in Kittlitz (1748,
+                        1750)</note>
+                </person>
+                <person xml:id="ed_fqf_yjk_gbb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Hofmann, Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_phy_3m1_2qb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Waldhüter, Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_vp5_w4h_bqb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Hofmans Jacob Nowack; Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_lrj_hm1_2qb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Waldhüters Jacob Nowack; Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_gtw_qjb_hkb">
+                    <persName type="reg">
+                        <surname>Nowack</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hofmanns Jacob Nowack; Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_lsd_cby_m2b">
+                    <persName type="reg">
+                        <surname>Wied-Neuwied</surname>
+                        <forename>Johann Friedrich Alexander Fürst zu</forename>
+                    </persName>
+                    <birth>1737</birth>
+                    <death>1784</death>
+                    <note>(1784)</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

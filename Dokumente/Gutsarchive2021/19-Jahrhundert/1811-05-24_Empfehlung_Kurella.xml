@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hnf_z5k_4qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eugen Kurella übersendet Graf von Lehndorff ein Empfehlungsschreiben und bewirbt
+               sich um die Pacht von Rehsau. Salzbach, 24. Mai 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ejj_2xy_4kb">Kurella, (-)</persName>
+               <placeName key="ed_w3l_pth_bqb">Salzbach</placeName>
+               <date when="1811-05-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe auch dessen Brief vom <ref target="lehndorff_hfh_qjp_3tb">14. Februar 1817.
+               </ref>Fragmente von Administrations-Akten der Rehsauer Forsten in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941347">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 224</ref>. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hnf_z5k_4qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Salzbach, den 24. Mai 1811</dateline>
+               <salute>Hochgeborener, <lb/>Insonders Höchstzuverehrender Herr Graf, <lb/>sehr gnädiger Herr
+                        Major</salute>
+            </opener>
+            <p>Ew. Hochgeboren überreiche beikommend in aller Untertänigkeit ein
+               Empfehlungsschreiben des Herrn Hauptmann <seg type="comment">
+                  <orig> Schach von Wittenau </orig>
+                  <note xml:id="nyv2_dxh_wqb">
+                     <persName key="ed_xm4_m55_j5b">Schach von Wuthenau</persName>
+                  </note>
+               </seg>, woraus Höchstdieselben zu ersehen geruhen werden, wie meine Führung dort
+               gewesen. Auch bin ich erbötig, mehrere dergleichen Schreiben Ew. Hochgeboren zu
+               übermachen, wenn Hochdieselben es befehlen sollten. Zugleich unterstehe ich mich ganz
+               untertänigst anzufragen, ob ich von der Gnade des Herrn Grafen hoffen darf,
+                  <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> zu bewirtschaften. Ew.
+               Hochgeboren würden mich durch diese Gnadenbezeugung sehr beglücken, und mein
+               Schicksal <gap reason="illegible"/> verbessern. Wie sehr werde ich mich bemühen,
+               durch Fleiß und gute Führung mich dieser Gnade zu würdigen und alles anwenden, um Ew.
+               Hochgeboren Zufriedenheit zu erlangen. Stoßen Ew. Hochgeboren mich nicht von sich,
+               ich habe weder Eltern noch Verwandte, die sich meiner annehmen oder mich empfehlen
+               könnten; ich selbst nur bin es, der dreist genug ist, Ew. Hochgeboren um die Gnade zu
+               bitten. Ew. Hochgeboren so allgemein bekannter Edelsinn und Herzensgüte, verbunden
+               ohne Vorurteil, lässt mir die angenehme Hoffnung der Erfüllung meines untertänigsten
+               Gesuchs entgegen sehen zu dürfen, als denn ich im Genuss der höchsten Zufriedenheit
+               mich Ew. Hochgeboren Gnade noch recht oft erfreuen und würdig zu machen mich
+               bestreben werde. </p>
+            <closer>
+               <salute>Ich empfehle mich Ew. Hochgeboren zu fortdauernder hoher Gnade und bitte nur
+                  noch um die gnädigste Einwilligung, mich in tiefster Untertänigkeit lebenslang
+                  nennen zu dürfen <lb/>Ew. Hochgeboren untertänigster Diener</salute>
+               <signed>Kurella</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

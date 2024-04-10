@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zyx_rnb_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Feststellung des Tagelohns und der Pflichten der</title><title> Instleute des Grafen zu Dohna. Reichertswalde, 20. März 1825 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Das Dokument ist durch zahlreiche Korrekturen schwer lesbar.</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu das Dokument vom <ref target="lehndorff_z5c_n2d_vrb">21. März
+                     1862</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 746, Bl. 2-3</idno>
+               </msIdentifier>
+               <p>v</p>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1825-03-20" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zyx_rnb_3rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Sämtliche zu den hiesigen Gütern gehörigen Instleute sind hier heute gegenwärtig, um
+               den jetzigen Zeitverhältnissen gemäß mit dem Tagelohn und den übrigen Leistungen
+               festgestellt zu werden. Es wird daher folgender Kontrakt zwischen der Gutsherrschaft
+               und den Instleuten verhandelt und geschlossen.</p>
+            <p>1. <lb/>Erhält der Mann das Jahr über von Sonnenaufgang bis Sonnenuntergang 3
+                    Sgr. und <lb/>das Weib das ganze Jahr hindurch von Sonnenaufgang bis
+                    Sonnenuntergang 2 Sgr. an Tagelohn. <lb/>Von sämtll. gearbeiteten Tagen werden
+                    bei der Berechnung  <lb/>6 Tage dem Mann und <lb/>6 Tage dem Weib als Scharwerk
+                    abgezogen.</p>
+            <p>2. <lb/>Muss ein jeder 5 Sechstel Holz halb hart und halb weich für den
+                    bestimmten Satz von 6 Sgr. pr. Sechstel schlagen, wo und wann, nachdem es die
+                    Wirtschaft zulässt, muss ihnen gleich viel gelten.</p>
+            <p>3. <lb/>Pferde zu halten wird nicht erlaubt, sondern es tragen noch im Sommer die
+               Leute das Brennholz nach Haus. Im Winter fahren sie selbiges auf Handschlitten oder
+               gegen angemessene Vergütung mit dem herrschaftlichen Gespann. Wem es nachgegeben wird
+               ein Pferd zu halten, der muss selbiges von der Herrschaft brauchen lassen so oft es
+               nötig.</p>
+            <p>4. <lb/>Wird ferner bestimmt, das Mittags gewöhnlich 1. Stunde und frühstens 3/4
+                    Stunde, außer im August, Mittag 1/2 Stunde gehalten werden kann, und wer zu spät
+                    kommt mit 1 Sgr. für jede versäumte 1/4 Stunde bestraft wird.</p>
+            <p>5. <lb/>Ist jeder verpflichtet, so oft er notgedrungen zu Hause zu bleiben, sich die
+               Erlaubnis hierzu zu erbitten, ansonsten ihm ein doppelter Taglohn als Strafe
+               angerechnet wird, überhaupt muss nicht allein der Mann, sondern auch das Weib nicht
+               allein zu rechter Zeit, sondern so, wie sie bestellt werden ohne Widerrede zur Arbeit
+               kommen, denn nur wirkliche Krankheit kann das Ausbleiben entschuldigen.</p>
+            <p>6. <lb/>An jährlichen Abgaben sind zur herrschaftl. Kasse zu entrichten: <lb/>
+               <list>
+                  <item>2 Rtlr. vom Wohnungs- und Garten-Wirte </item>
+                  <item>2 Rtlr. für den Morgen </item>
+                  <item>2 Rtlr. 10 Gr. an Holz-Geld </item>
+                  <item>2 Rtlr. 20 Gr. für 1 Fuder Heu, so sich ein jeder selbst aufmachen muss </item>
+                  <item>
+                     <list rendition="#rightBraced">
+                        <item>12 Sgr. an Kopfschoss pro Person </item>
+                        <item>12 Sgr. für 1 Vieh </item>
+                     </list>an Schoss</item>
+                  <item>
+                     <list rendition="#rightBraced">
+                        <item>1 Sgr. für 1 Schwein <lb/>16 Sgr. für 1 Kuh</item>
+                     </list>an Weidegeld</item>
+               </list>
+               <lb/>wird aber berechnet, das nach diesen Sätzen nur 1 Kuh sowie 2 Schweine zu halten
+               erlaubt ist, darüber darf niemand halten <lb/>Gänse werden gar nicht zu halten
+               erlaubt, auf den Vorwerken, wo es noch geschieht, wird bestimmt, dass statt dem
+               Weide-Gelde von 4 die 5. Gans in den Hof geliefert wird, übrigens darf aber nicht
+               mehr als 2 alte Gänse inkl. dem Ganter gehalten werden dauert bis <seg type="comment"><orig>Martini</orig><note xml:id="nyzx_msh_yxb">11. November</note></seg> 1828
+               und hört dann auf.</p>
+            <p>7. <lb/>Die Hühner dürfen beim Brauer bleiben wie früher, dafür erhält ein jeder 1/2
+               Tonne <gap reason="illegible"/> als Entschädigung.</p>
+            <p>8. <lb/>Nicht minder ist ein jeder verpflichtet, sich des Nachts beim <gap reason="illegible"/>hüten der Ochsen zu gestellen, und muss auch für jeden
+                    etwa verübten Schaden aufkommen.</p>
+            <p>9. <lb/>Bei Bearbeitung des Flachses wird folgendes festgestellt. <lb/>1. Das Ziehen
+               geschieht nach der Aussaat und wird auf jeden Zinser 1/2 St. Aussaat gerechnet, was
+               beim Säen gehörig abgesteckt werden soll, und welches für vollen Tagelohn gerechnet
+               wird. <lb/>2. Das Hecheln und Auswässern sowie das Spreiten geschieht wie gewöhnlich,
+               jedoch mit mehr Fleiß. <lb/>3. Für eine <seg type="comment"><orig>volle
+                     Stube</orig><note xml:id="nqtp_tsh_yxb">Brachstube, Raum zum Brechen des
+                     Flachses</note></seg> zu brechen werden 1 2/3 Sgr. oder 3 <gap reason="illegible"/> Groschen bezahlt und <lb/>4. für 1 <seg type="comment"><orig>Stein</orig><note xml:id="nkzw_ysh_yxb">Gewichtsmaß, siehe <ref target="https://de.wikipedia.org/wiki/Stein_(Einheit)">hier</ref>.</note></seg> ungeschwungenen Flachs wie ausgeschwungenen werden 3
+               Sgr. bezahlt. <lb/>Übrigens wird noch bemerkt, das ein jeder gleich an Bünden
+               schwingen muss, weil nach der <gap reason="illegible"/> per Bünder, welche Steinweise
+               abgewogen, die Repartition gemacht wird, wie viel Bunde ein jeder zu schwingen hat,
+               wer also weniger schwingt, dem werden5 Sgr. p. Bund abgerechnet und dem, der mehr
+               geschwungen, 5 für jedes Bund zu gut gerechnet.</p>
+            <p>10. <lb/>Wenn das bisher übliche <seg type="comment"><orig>1/4 Schock
+                     Garn</orig><note xml:id="nm3p_wsh_yxb">Siehe <ref target="https://de.wikipedia.org/wiki/Schock_(Garnma%C3%9F)">hier</ref>.</note></seg>, was ein jeder spinnen muss, nicht verlangt wird, so
+               werden hierfür 20 Sgr. bezahlt.</p>
+            <p>11. <lb/>bleibt auch das bisher übliche Garten-Scharwerk feststehen, und soll auch
+               der Vorwerker, wo dies nicht geleistet wird, durch andere Arbeit abgegolten werden,
+               und besteht in 3 <gap reason="illegible"/>.</p>
+            <p>12. <lb/>Nicht minder ist ein jeder verpflichtet, sich zu allen Wolfs- und <gap reason="illegible"/>-Jagden zu gestellen.</p>
+            <p>13. <lb/>müssen alle Königl. Kirchen- und Schulabgaben, die jetzo bestehen und dem
+               Allgemeinen noch aufgelegt werden, von einem jeden getragen und geleistet werden,
+               noch wird</p>
+            <p>14. <lb/>wenn der Dröscher anfängt, einem jeden Instmann zur Pflicht gemacht, gehörig
+               rein zu dröschen, weil sonsten ein Abzug des Verdienst stattfindet, desgleichen
+               rechtzeitig auf die Scheune zu kommen, damit zur Zeit ausgedroschen wird. Als
+               Dröscherverdienst wird der elfte Scheffel des Getreides <gap reason="illegible"/>
+               gegeben, außerdem aber nichts. Schließlich wird noch bemerkt, dass ein jeder als
+               guter Christ handle, und jeden Schaden und Nachteil, so viel in seinen Kräften steht,
+               von der Herrschaft abzuwenden suchen und falls es nötig, sogleich von allem Anzeige
+               zu machen.</p>
+            <p>15. <lb/>Mehr war nicht zu <gap reason="illegible"/>, und es wird daher dieser
+                    Kontrakt noch jedem derselben deutlich vorgelesen, unterschrieben und
+                    unterzeichnet, nachdem zuvor festgestellt, dass im Winter wöchentlich nur 1 Holz
+                    lang gehalten werden soll.</p>
+            <p>Reichertswalde den 20. März 1825</p>
+            <p>B<gap reason="illegible"/>
+            </p>
+            <p>Vorstehender Kontrakt von allen Instleuten, und von die Bauern <persName key="ed_tvz_djs_vsb">Lechner</persName>, <persName key="ed_cmh_gjs_vsb">Böttcher</persName>, <gap reason="illegible"/> und <persName key="ed_fgh_kjs_vsb">Liedtke</persName> angenommen, die auch die Frei<gap reason="illegible"/> erhalten. B.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

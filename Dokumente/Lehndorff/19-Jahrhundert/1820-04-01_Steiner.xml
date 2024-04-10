@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_qf3_vw3_3tb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Steiner an Carl Friedrich Ludwig Graf von Lehndorff. Steinort, 1. April
+               1820</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 867, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_thz_qyp_tcb">Steiner, (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1820-04-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf von
+                  (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg 7.2.1854)</persName>
+            </correspAction>
+            <note>Dem Brief liegt ein Brief Berents vom 3. April 1820 bei, in dem er diesen Bericht
+               über die Pferdezucht ankündigt. Berent selbst berichtet über den Kirchenbau in
+                  <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>. Der Regierungsrat hatte
+               dem Landbaumeister in Angerburg den Auftrag erteilt, die Fragmente der Kirche
+               vollständig aufzunehmen, Berent sollte ihm dabei assistieren. Ebenso berichtet er,
+               von dem Kommissionsrat <persName key="ed_gvc_qmf_1vb">Pfeiffer</persName> in
+               Norkitten Kleesamen erbeten und bekommen zu haben. Pfeiffer, der spanische
+               Mutterschafe und Böcke aus <placeName key="ed_xf5_pb4_my">Dessau</placeName> kommen
+               ließ, wollte auch Lehndorff dafür gewinnen. Von der Bauernauseinandersetzung war
+               Berent noch nichts bekannt. Die Einkünfte aus der Brauerei waren leidlich, die
+               Kornpreise unverändert bei 1 Rtlr. pro Scheffel. Alle übrigen Viktualien und
+               Getreidesorten waren „wohlfeil‟. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qf3_vw3_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, d. 1. April 1820</dateline>
+               <salute>Gnädiger Herr Reichsgraf!</salute>
+            </opener>
+            <p>Ew. Hochgeboren habe zwar benachrichtigt, dass ich 53 Stück echt Spanische
+               Mutterschafe ausgezeichnet, wurde aber von Hochdieselben auf Feinheit und Egalität
+               der Wolle aufmerksam gemacht, so habe nach abermaliger genauer Durchsicht die Zahl
+               der vorzüglich ganz echt Spanischen alten und Zeit Schafe bis auf 43 Stück
+               herabgesetzt. Eine <seg type="comment">
+                  <orig>Liste der vorhandenen Schafe</orig>
+                  <note xml:id="nu1d_mz3_3tb">Diese liegt dem Brief bei. Sie trennt in veredelte
+                     Schafe (Schafe und Hammel) sowie echt Spanische (Böcke, Mutterschafe) und
+                     verzeichnet in der Summe 439 Stück. 7 Lämmer waren verlorengegangen, ein
+                     spanisches Mutterschaft hatte ein Lamm mit schlechter Wolle und war demnach
+                     „auf Abwege‟ geraten. </note>
+               </seg> wie auch eine <seg type="comment">
+                  <orig>Liste der tragenden Stuten</orig>
+                  <note xml:id="nfnm_21j_3tb">Die Liste der 20 tragenden Stuten liegt dem Brief bei,
+                     bei einer weiteren war Steiner unsicher, eine Stute hatte ihr Fohlen
+                     verworfen.</note>
+               </seg> überreiche angebogen ganz untertänigst. <lb/>Die Schafe sind nach Ew.
+               Hochgeboren Befehl den ganzen Winter hindurch im Stall getränkt und die Mutterschafe,
+               so Lämmer haben, bekommen täglich zweimal eine hinlängliche Quantität Schrottrank,
+               worunter auch Leinkuchen, wobei sie sich recht wohl befinden, auch gewöhnen sich
+               viele Lämmer daran, dass sie nach dem Tränken wie aufgeblasen, nur darf der Trank
+               nicht länger als 2 Stunden in den Krippen stehen, sonsten findet sich gleich von der
+               Nässe des Düngers ein säuerlicher Geschmack, obgleich Unterlagen unter die Krippen
+               sind, welches aber sehr leicht vermieden werden kann. <lb/>Die Lämmer sind
+               größtenteils sehr schön und stark, nicht wie in früheren Jahre, dass viele
+               zusammengezogen und den Tod aufm Rücken trugen. Die Witterung war außerordentlich
+               schön, die Stallungen konnten seit 20. Januar immer offen stehen und konnte die
+               Lämmer oft vor dem Stall bei schönem Sonnenschein stundenlang die angenehme frische
+               Luft genießen, wobei sie mit schnellen Schritten aus ihrem gefährlichsten Zustande
+               heraus mussten, Herr Graf Hochgeboren würden viele erheiternde Stunden bei sie haben.
+               <lb/>Ausgedroschen ist mehrenteils, bis auf wenig große Gerste in <placeName key="ed_pxt_cnh_1y">Groß</placeName> und <placeName key="ed_hyn_yzd_gy">Klein
+                  Steinort</placeName>. Das Getreide hat ziemlich gelohnt, im Durchschnitt sind 7
+               1/2 Körner Weizen, 4 1/2 Körner vom Korn, 5 Körner vom Haber und Erbsen. Die
+               Instleute werden mit Holzbeschlagen beschäftigt. <lb/>Gerne möchte ich in <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName> einen Zaun von Lehm zwischen die
+               Kämmererwohnung und Schafstall, wo man durchs Tor aufs Vorwerksgehöft passiert,
+               machen, wozu Lehm bei Gelegenheit angefahren werden wird, auch ein Backofen, welcher
+               da sehr nötig, wird zu gleicher Zeit angelegt, der Herr Inspektor hat hierzu seine
+               Einwilligung gegeben, welches Ew. Hochgeboren nicht missbilligen werden. <lb/>Gesund
+               sind die Schafe und alles übrige Vieh und Arbeitspferde. <lb/>In <placeName key="ed_s3k_b12_gy">Taberlack</placeName> ist der Ochsen-Dünger auf dem
+               Pferde-Dünger nach Dero Befehl gefahren. <lb/>Der alte Herod hat uns nach der Abreise
+               des Herrn Grafen keine Freude mehr gemacht, den Tag darauf wurde er krank und so
+               schwach, dass er nicht mehr stehen konnte, wurde Tag über in Sielen gefangen und des
+               Nachts ruhte er, aber mit weggestreckten Füßen, worauf er nach wenigen Tagen starb.
+               Der Kadaver wurde geöffnet, alles war gesund bis auf die Leber, welche in der
+               Krankheit angegriffen und in Brand übergegangen war. Darauf fiel die Normande in
+               einen stark laufenden Kropf und starb nach 5 Tagen. Der Roßarzt <persName key="ed_trm_2dz_4kb">Hempel</persName> war bei der Öffnung und versicherte, dass
+               keine Hilfe vor 3 Monat gewesen wäre, innerlich war alles in Eiterung und Fäulnis
+               übergegangen wie bei der Clarisse. Die Bajadere litt sehr stark an Nieren-Entzündung,
+               der Roßarzt Hempel verordnete täglich 2 mal Klistier zu setzen und verschrieb
+               sogleich eine <gap reason="illegible"/>, nach einigen Tagen kam der Roßarzt <persName key="ed_svg_gdz_4kb">Schüller</persName> aus <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName>, welcher die Stuten für Landbeschäler konsigniert, der sie
+               auch gefährlich fand, verschrieb Medizin und verordnete eine Handvoll Salpeter ins
+               temperierte Saufen zu geben, worauf sie sehr langsam und ziemlich hergestellt wurde.
+               Die Pallas hatte die nämliche Krankheit, wurde aber bald gesund. Die Huona hat an
+               einem Kropf am linken Ohr sehr lange gelitten, obgleich mit Altensalbe geschmiert
+               wurde erreifte er erst nach 4 Wochen, wo nach dem Öffnen viel Materie herausging und
+               ist seit 14 Tagen wiederhergestellt. Die Stute mit schlechten Hufen ist an den
+                  <persName key="ed_fv3_hnf_1vb">Kapitän v. Wülknitz</persName> aus <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> für den festgestellten Preis verkauft,
+               die Hufe wurden etwas besser. Die Zuchtstuten wurden täglich mit dem alten braven
+               Schimmel probiert, und finden sich so viele, dass der Hauptbeschäler Jarrich bis
+               heute schon 12 Stuten gedeckt hat, worunter einige 3 Sprünge haben. <lb/>Der Jarrich
+               ist ein schön Pferd, nur schade, dass er schlechte Augen hat. Herr Landstallmeister
+                  <persName key="ed_wgw_p35_ncb">v. Burgsdorf</persName> versichert, er hätte sie
+               von einem verhitzten Kropf, und es könnten die vorzüglichsten Stuten damit gedeckt
+               werden, es wäre kein Erbfehler. Der Herr v. <persName key="ed_dlv_cjv_mbb">Farenheid</persName> lobte ihn ebenfalls und wird eine von seinen vorzüglichsten
+               Stuten hier decken lassen, und in die Stelle soll die Malitcoma noch außer der
+               Britannia mit Trumpator gedeckt werden. Nach <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName> sind den 21. März die Huona, Heliotropa, Tispe, Sultane,
+               Trumpatore und junge Lilie hingebracht, die Tusnelde hatte eine Drüse und blieb
+               deshalb zurück, in <gap reason="illegible"/> soll die junge Rosa nach dem Abfohlen
+               hingebracht werden, mit welchem Hengste die Stuten belegt werden, wird Herr
+               Landstallmeister <persName key="ed_wgw_p35_ncb">v. Burgsdorf</persName> Hochdieselben
+               benachrichtigen. Dass Buzzard mit Tode abgegangen, wird der Herr Graf wohl schon
+               bekannt sein. Eine Rückerinnerung erregt der Fuchs von der Sally an den Tod seines
+               Vaters täglich, leider ist er nebst anderen Fohlen stark im Kropf, kaum ist eines
+               besser, dann ist das andere schon wieder krank, ein Glück, dass wir noch mit dem
+               Kranken abkommen, die Trakehner klagen sehr über den Kropf. Die alte Salbe wird sehr
+               gebraucht wie auch andere Mittel, die Rollemer vorschreibt. <lb/>Die <gap reason="illegible"/> des Artold sind wie früher, er selbst ist etwas größer und
+               stärker geworden, den Pirzel klemmt er aber bei jedesmaligem Aufsitzen, er hebt ihn
+               auch nicht gleich. <lb/>Die ersten <seg type="comment"><orig>Brände</orig><note xml:id="nw5z_jgh_yxb">Setzen des Lehndorffschen Brandzeichens</note></seg> der
+               jungen Pferde sind besser wie die letztern, nur die Heliotropa hat unter dem L noch
+               einen Zoll lang Schorf, dem Artold verwächst er recht gut, die Huona, Stella,
+               Metheora, Tusnelda und Trumpatore sind sehr gut gebrannt, letztgebrannte haben wenig
+               Kennung und müssen noch einmal gebrannt werden. Die englisierte, als Huona und Tispe
+               purzeln und machen sich sehr gut im Reiten und sind folgsam. Das Rappfohlen, welches
+               in <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> erkauft, verspricht ein
+               vorzügliches Pferd zu werden. präsentiert sich jetzt wie das rechte und schönste
+               Fohlen. <lb/>Nach <placeName key="ed_nkz_b12_gy">Stawken</placeName> sind wieder zwei
+               Landbeschäler gekommen, wovon der eine mit Zoalet, von Meteor und Maus braun, ein gut
+               Pferd hat, aber nur 5 Fuß, der andere namens Blackboy, ein Rapp, Bruder des Ornoko,
+               hat 5 Fuß 4 Zoll aber nicht so schön wie der Ornoko, womit einige Stuten aus die
+               Arbeitsgespanne gedeckt worden, wenn unser Herrgott den Segen dazu gibt, haben wir
+               viele Fohlen zu erwarten und wird ersetzt werden, was wir dieses Jahr wenig haben
+               (nämlich Jährling). Die Witterung ist sehr angenehm gewesen, das Frühjahr beginnt mit
+               starken Schritten und jetzt haben wir gewöhnliches Aprilwetter, vor späte Nachtfröste
+               behüte uns Gott, so haben der Herr Graf wieder ein ziemlich gesegnetes Jahr zu
+               erwarten, die Saat hat bis jetzt noch keinen Schaden genommen.</p>
+            <closer>
+               <salute>Ich verharre Ew. Hochgeboren ganz untertänigster Diener</salute>
+               <signed>Steiner</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

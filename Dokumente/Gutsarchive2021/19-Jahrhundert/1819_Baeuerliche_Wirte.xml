@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_kd5_15p_gqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Abgaben der bäuerlichen Wirte auf den Steinortschen Gütern nach vollzogener
+                    Auseinandersetzung, aufgezeichnet vom Rendanten Werner. Steinort, 1819</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu auch die Verzeichnisse der <ref target="lehndorff_kkt_g5y_fjb">Instleute (1821)</ref>, <ref target="lehndorff_hgf_v5y_fjb">Losleute</ref> und
+                     <ref target="lehndorff_kyd_kvy_fjb">Bauern</ref> (1824) auf den Steinortschen
+                  Gütern und das Promemoria vom <ref target="lehndorff_tc3_skz_nxb">19. August
+                     1818</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 357, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1819-01-01" to="1819-12-30" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Nach Abschluss der Regulierung verzeichnet Rendant <persName key="ed_afr_tvf_2y">Werner</persName> die von den bäuerlichen Eigentümern in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_xjg_d12_gy">Stobben</placeName>, <placeName key="ed_xzt_112_gy">Stawisken</placeName> und
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName> noch zu leistenden Zahlungen
+               für das ihnen übergebene Inventar und deren bis 1818 offene Schulden. <lb/>In
+               Pristanien gibt es 11 bäuerliche Eigentümer (<persName key="ed_syg_jrh_wqb">Schulze</persName>
+               <persName key="ed_fnr_nrh_wqb">Johann Kuckel</persName>, <persName key="ed_ljj_srh_wqb">Peter Berger</persName>, <persName key="ed_cgb_xrh_wqb">Christian Gellesch</persName>, <persName key="ed_i5d_bsh_wqb">Andreas
+                  Liss</persName>, <persName key="ed_ur1_2sh_wqb">Michael Witzorreck</persName>,
+                  <persName key="ed_jpp_hsh_wqb">Piwowonski</persName>, <persName key="ed_ufl_ksh_wqb">Fritz Gellesch</persName>, <persName key="ed_nyb_4sh_wqb">Christoph Schack</persName>, <persName key="ed_uyv_cjt_fqb">Michael
+                  Gellesch</persName>, <persName key="ed_ub2_gth_wqb">Martin Gellesch</persName>,
+                  <persName key="ed_lvq_3th_wqb">Gottlieb Gellesch</persName>). <lb/>In Stobben gibt
+               es 5 bäuerliche Eigentümer (<persName key="ed_b5y_mth_wqb">Michael
+                  Schwikowski</persName>, <persName key="ed_dhd_qth_wqb">Mich. Wölck</persName>,
+                  <persName key="ed_fnd_15h_wqb">Johann Berger</persName>, <persName key="ed_uvc_25h_wqb">Johann Pribbert</persName>, <persName key="ed_lcw_g5h_wqb">Georg Scheimann</persName>). <lb/>In Stawisken sind es 6 (<persName key="ed_jtr_k5h_wqb">Jacob Lentz</persName>, <persName key="ed_u4q_z1b_zqb">Johann
+                  Kuhn</persName>, <persName key="ed_pqh_r5h_wqb">Mich. Liss</persName>, <persName key="ed_p2x_55h_wqb">Georg Gwiasda</persName>, <persName key="ed_imd_z5h_wqb">Christian Kreuz</persName>, <persName key="ed_gvj_cvh_wqb">Mich.
+                  Scheimann</persName>). <lb/>In Taberlack sind es 11 bäuerliche Eigentümer
+                  (<persName key="ed_jnh_3vh_wqb">Georg Gellesch</persName>, <persName key="ed_w1d_mvh_wqb">Johann Liss</persName>, <persName key="ed_sgd_pvh_wqb">Carl
+                  Rogge</persName>, <persName key="ed_jkp_rvh_wqb">Mich. Jarreck</persName>,
+                  <persName key="ed_bhs_nht_fqb">Adam Kiworra</persName>, <persName key="ed_c23_xvh_wqb">Maria Schwikowski</persName>, <persName key="ed_clv_cwh_wqb">Mich. Seska</persName>, <persName key="ed_lnw_3wh_wqb">Carl Gwiasda</persName>,
+                  <persName key="ed_qgs_nwh_wqb">Mich. Kuckel sen</persName>., <persName key="ed_xbq_mwh_wqb">Mich. Kuckel jun</persName>., <persName key="ed_mps_swh_wqb">Louise Schönfeldt</persName>). <lb/>Zusammen haben sie ca. 927 Rtlr. für das
+               übergebene Inventar zu zahlen, die Schulden belaufen sich auf mehr als 991 Rtlr., die
+               offenen Forderungen betragen also insgesamt 1.918 Rtlr., die bis 1829 in
+               halbjährlichen Raten ausgeglichen werden sollen. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_kd5_15p_gqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

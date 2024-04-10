@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wzx_bsp_dwb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Andeutungen über den Einfluss der Separation der Bauernländereien und
+                    namentlich des Ausbauens auf das Kirchen- und Schulwesen. 1832</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution/>
+                        <idno/>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Preußische Provinzial-Blätter 7 (1832), S. 361-368</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <date from="1832-01-01" to="1832-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/35593?language=en"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Andeutungen über den Einfluss der Separation der Bauernländereien und namentlich
+                    des Ausbauenss, auf das Kirchen- und Schulwesen</p>
+                <p>Wie in allen Gegenständen menschlicher Betriebsamkeit von den höchsten bis zu den
+                    niedrigsten Lebensbeziehungen zu jetziger Zeit mehr geprüft, geforscht,
+                    geläutert, verbessert wird, so hat man auch dem Ackerbau mehr sorgfältiges
+                    Nachdenken gewidmet. Die alte Dreifelderwirtschaft, welche eine lange Reihe von
+                    Jahren hindurch der Sohn dem Vater ablernte, und schon um des Alters willen für
+                    unverbesserlich hielt, beginnt sich umzuwandeln in eine Fünf-, Sechs-, Sieben-
+                    und wer weiß wieviel Felderwirtschaft. Durch die Auseinandersetzung der
+                    Gutsherrschaft mit den Bauern sind die letzteren Eigentümer geworden, wodurch
+                    sich ihnen das Feld der Selbständigkeit weiter eröffnete. Früher waren überhaupt
+                    die Felder einer Ortschaft als ein zusammenhängendes Ganze[s] zu betrachten, was
+                    umso weniger Störung litt, da alle nach gleichen Grundsätzen säten, pflügten,
+                    hüteten etc. Jetzt sind die einzelnen Grundbesitzer fast an allen Orten
+                    separiert und ihnen so ein weiter Spielraum für Projekte - wenn auch oft
+                    misslingende, denn ohne Fehlgriffe wird nie das Gute ermittelt - zur Erhöhung
+                    der Kultur gegeben. Es scheint nun überdies in neueren Zeiten noch Staatsmaxime
+                    geworden zu sein, das Ausbauen, also die gänzliche Separation der einzelnen
+                    Ackerbesitzer zu befördern, Was nun in Ansehung des Ackerbaus und eines Teils
+                    der hiermit verbundenen Kultur im Allgemeinen der Menschheit für Vorteile aus
+                    der Separation und dem Ausbau überhaupt in land- und staatswirtschaftlicher
+                    Hinsicht erwachsen mögen, darüber vermag Ref. nichts zu entscheiden oder in
+                    Zweifel zu stellen, da er selbst weder in die Landwirtschaft noch in die
+                    Staatswissenschaften tiefer eingegangen ist. Es lässt sich sogar schon aus dem
+                    Umstande, dass es Staatsmaxime zu sein scheint, auf das Ersprießliche solcher
+                    Einrichtungen, zumal bei uns Preußen, mit vollem Vertrauen schließen, und ist
+                    auch von vielen Sachkundigen also anerkannt. Gleichwohl lässt sich auch die
+                    Besorgnis nicht wohl bergen, dass diese Veranstaltungen in Rücksicht des
+                    kirchlichen und Schulwesens Nachteile und somit überhaupt große Nachteile mit
+                    sich führen; denn in dieser Beziehung sind Nachteile wegen der Wichtigkeit der
+                    Sache natürlich stets als große anzusehen. <lb/>Schon die Separation hat, wie
+                    bekannt, eine große Anzahl von Hirten notwendig gemacht. Dazu können unmöglich
+                    lauter Erwachsene gebraucht werden, da die separate Hütung ohnehin kostspieliger
+                    ist; man nimmt hierzu also Kinder, und diese werden dann der Schule entzogen,
+                    außerdem aber noch durch ein in gewisser Art müßiges Leben verwahrlost. Schon
+                    sonst war für den Geistlichen nicht leicht etwas schwieriger, als die Erfüllung
+                    der Gesetze oder Realisierung der eigenen Ansichten und Grundsätze in Bezug auf
+                    den Schulbesuch, so leicht es auch immer scheinen mag, wenn man nur auf die
+                    bestehenden Gesetze und die Maßregeln rücksichtigt, die er im Wege der letzteren
+                    nehmen kann. Auf der einen Seite hat der Mangel an Interesse für wahre
+                    Aufklärung, der bei dem gemeinen Mann noch sehr fühlbar ist, schon ohnehin nicht
+                    zur Schule getrieben, sondern treiben lassen. Und eben darum, weil ihm die
+                    Wichtigkeit der Schule fremd ist, hält er den gewissenhaften und sonach in
+                    dieser Rücksicht strengen Geistlichen für unbarmherzig; ja er wird sich von
+                    dieser Meinung umso weniger abbringen lassen, als ja überhaupt der Rohere den
+                    Wert der Handlung nicht nach Motiven, sondern nach Folgen, und hier nach der
+                    Einwirkung auf sich selbst, zu messen pflegt. Auf der anderen Seite ist oft die
+                    Armut so groß und die daraus hervorgehenden mannigfaltigen Lagen so drückend,
+                    dass man notwendig Nachsicht haben muss. Durch die Separation der Ländereien und
+                    der daraus hervorgehenden Notwendigkeit, dass jeder eigene Hirten halten muss,
+                    ist nun einesteils wirkliches Hindernis des Schulbesuchs hervorgebracht,
+                    anderenteils den Entschuldigung Suchenden Tor und Tür geöffnet. Der arme Bauer
+                    braucht einen Hirten und hat einen hierzu brauchbaren, schulfähigen Sohn. Wenn
+                    er nicht wohlhabend ist, so muss dieser hüten, selbst wenn er dafür in Strafe
+                    genommen wird; denn eine nicht zu harte Strafe, meint er, sei noch nicht so
+                    großer Nachteil, als wenn er sich einen besonderen Knaben halten müsste. Ist er
+                    indes wohlhabend genug, und trägt er Liebe für sein Kind und dessen Ausbildung
+                    im Herzen, so mietet er einen anderen Knaben. Dann aber ist immer diesem die
+                    Gelegenheit zu einem Unterkommen gegeben, das ihn am Schulbesuch hindert. Genug,
+                    es wird eine namhafte Zahl von Kindern zum Hüten gebraucht, und diese können
+                    während der Zeit nicht die Schule besuchen. Es soll nun freilich bei der
+                    Separation auf allgemeine Einführung der Stallfütterun abgesehen sein, und dann
+                    wäre vielleicht der einstweilige Nachteil gegen zukünftig etwa entstehenden
+                    Vorteil nicht in Rechnung zu bringen. Denn fast jede Veränderung, sie sei für
+                    die Zukunft noch so vorteilhaft, bringt für den Augenblick schon als Veränderung
+                    Nachteile mit sich, die deshalb gleichwohl nicht berücksichtigt werden können.
+                    Aber ist auch die Stallfütterung bei dem an den meisten Orten doch nicht so
+                    ergiebigen Boden ausführbar? bedürfen außer den Pferden nicht Schafe, Schweine,
+                    Rindvieh, Gänse etc. der Hütung? - Doch darüber mögen Sachverständige urteilen.
+                    <lb/>Bei allem dem tun sich aber in Ortschaften, deren einzelne Ackerbesitzer,
+                    bloß separiert, noch ganz beisammen wohnen, gewöhnlich wenigstens Einzelne
+                    zusammen und mieten gemeinschaftlich einen Hirten, so dass die Zahl derselben
+                    hierdurch noch einigermaßen beschränkt wird; wie ist's hingegen bei dem Ausbau?
+                    - Da hat jeder seine ganz besondere Hütung und das wohl gar für jede
+                    Haustiergattung, die gehütet werden kann. Wie groß muss demgemäß wohl in einem
+                    durch den Ausbau zersteut liegenden Dorfe die Anzahl sämtlicher Hirten sein?
+                    Wenn man nun auch gar nicht auf die eignen Kinder des Landmans Rücksicht nähme,
+                    so müssen sie doch da sein, werden also der Schule entzogen. - Doch von einer
+                    anderen Seite. Sonst war wenigstens allen Schülern des Schulorts der Besuch
+                    durch die Nähe erleichtert, und nur die zur Schulsozietät geschlagenen
+                    Nebenortschaften waren entfernt; beim Ausbau sind alle Schüler auswärtig. Wenn
+                    sonst eine Ortschaft auch zu einer fern liegenden Ortschaft gehörte, Wind und
+                    Wetter, schlechter Weg und dergl. leicht hätten Abhaltung werden können, so
+                    fanden sich Eltern und Kinder dadurch getröstet, dass diese den Weg gemeinsam
+                    machten. Den Kindern wurde der Gang selbst leichter, kürzer, angenehmer; auch
+                    war ihnen wegen etwa zugestoßener Unfälle weniger bange; das eine verließ sich
+                    auf den Beistand des anderen. Die Eltern selbst wurden durch den Gedanken
+                    beruhigt: die Kimder gehen ja beisammen, - die älteren werden auf die jüngeren
+                    sehen. Jetzt aber fürchten sich die Kinder allein zu gehen, zumal im Herbst und
+                    Winter. Abholen können sie einander nicht, weil hierzu namentlich in den
+                    Hauptschultagen, d. i. im Winter, die Zeit viel zu kurz ist. Die Eltern aber
+                    sind gleichfalls besorgter und halten die Kimder zurück. Wer könnte auch wohl
+                    von einer Mutter verlangen, sie solle ein Kind, z. B. zwischen dem sechsten und
+                    neunten auch zehnten Lebensjahr, vielleicht eine <seg type="comment"><orig>Viertelmeile</orig><note xml:id="nhyg_vr3_yxb">1 Meile waren ca.
+                            7,5 km.</note></seg> über Feld im Winter zur Schule schicken ohne alle
+                    Begleitung? Solches wagen mitunter wohl nicht einmal die um 2000 Schritte fern
+                    Liegenden. <lb/>Ebenso bringt der Ausbau - und auf diesen richte ich
+                    vorzugsweise mein Augenmerk - Nachteile in kirchlicher Hinsicht. Für's Erste hat
+                    diese Absonderung überhaupt auf die Bildung des Sinnes für Geselligkeit, demnach
+                    für diese selbst und für alle aus ihr hervorgehenden sittlichen Beziehungen
+                    mannigfacher Art nachteiligen Einfluss. Nomadische Völker sind allezeit roh, und
+                    nur durch Ackerbau und dadurch, dass dieser die Menschen treibt sich
+                    anzusiedeln, sind sie allmählich entwildert. Gleichwohl hätten feste Wohnsitze
+                    an sich niemals die Kultur in dem Grade befördern können, als sie es der
+                    Erfahrung nach getan haben, wenn sie nicht zugleich die Veranlassung zum
+                    Zusammenleben und so zu geselligem Verkehr geworden wären. Alles was nun die
+                    Geselligkeit Vorteilhaftes für die menschliche Ausbildung mit sich führt - und
+                    wie groß das ist, weiß ja ein jeder - daran hat natürlich das Zusammenleben
+                    bedeutenden Anteil, sowie andererseits die Absonderung störend einwirkt. Man
+                    glaube ja nicht, dass die Absonderung durch den Ausbau unerheblich sei. Man
+                    vergleiche nur das Leben und Treiben auf solchen abgeschiedenen kleinen
+                    Wohnplätzen im Gegensatze des Lebens und Treibens in einem großen Dorfe. Dies
+                    Geben und Nehmen, dies Leihen, gegenseitige Gefälligsein, diese wechselseitige
+                    Teilnahme an Gedanken, Empfindungen, Erfahrungen, dies nachbarliche
+                    Zusammentreten in langen Winterabenden zum Vergnügen und zur Arbeit kann nur
+                    entschieden vorteilhaft auf Gestaltung echt menschlichen Sinns wirken. Man denke
+                    sich ein Kind, welches auf einem Ausbau geboren und erzogen wird. Es ist in der
+                    Regel auf seine häusliche Umgebung beschränkt, kann sich nicht im Spiele tummeln
+                    mit Altersgenossen, denn sie wohnen zu entlegen. Seine wenn auch wirklich in
+                    Ansehung des Alters nicht fern stehenden Geschwister können ihm, weil sie von
+                    ähnlicher Natur sind, unter gleichem Einfluss der Sitten und Gewohnheiten
+                    stehen, niemals das werden, was ihm fremde sein könnten. Zur Schule kann es
+                    wenig geschickt werden, denn der Vater braucht viele Menschen; er hat ja einen
+                    von der Welt sozusagen abgeschlossenen Haushalt, in welchem alles besonders
+                    vorhanden und beschickt werden muss, was sonst viele gemeinsam haben und
+                    besorgen; ohnehin war es ja zu weit zur Schule. Das Kind sah ferner wenige
+                    Menschen außer Vater, Mutter und Bruder, kam wenigstens mit wenigen in nähere
+                    Berührungen. Wie höchst einseitig muss ein solcher Mensch nun erscheinen, wenn
+                    er, erwachsen, ins Leben treten soll? Wie muss er sich unterscheiden von dem,
+                    welcher sich als Kind auf Dorfangern, in der Schule etc. stets mit einer Menge
+                    von ihm selbst sehr verschieden begabten und ganz anders gezogener Kinder mischt
+                    und reibt? stets neben seinen Eltern eine Anzahl von Nachbarn beobachtet? - Für
+                    Mädchen mag jene Erziehung besser sein, wenigstens mit dieser gleich stehen; der
+                    Knabe aber soll nicht einst nur für sein Haus, nicht als Einsiedler leben; und
+                    für das bürgerliche Leben muss man gebildet werden am und im bürgerlichen Leben.
+                    Doch wozu hier noch ein Mehres? Wer über den Einfluss des mehr oder minder
+                    geselligen Lebens auf die Gesittung irgend gelesen, gedacht hat, dem werden gar
+                    viele sehr wichtige Beziehungen vor Augen schweben, denen gemäß ihm in dieser
+                    Hinsicht jede Vereinzelung als nachteilig, sowie jede Vergesellschaftung als
+                    vorteilhaft erscheint. - Man frage nicht: was geht das die Kirche an? Die Kirche
+                    soll für den ganzen inneren Menschen sorgen; sie soll ihn auferbauen nicht
+                    einseitg, sondern allseitig; sie muss ihn frommen und mittelst dessen auch
+                    Bürgersinn pflanzen und nähren. <lb/>Doch es gibt manches, das näher liegt, und
+                    mehr unmittelbar ins kirchliche Leben eingreift. Es wird durch den Ausbau der
+                    Kirchenbesuch vermindert. Abgesehen davon, dass in dieser Beziehung die Macht
+                    des Beispiels gar sehr viel Einfluss hat, der beim Ausbau wegfällt, so wirken
+                    hier noch andere Umstände beeinträchtigend. Wenn die Leute in Dörfern beisammen
+                    wohnen, ist es gar nichts Ungewöhnliches, dass sich aus einem Haus der größte
+                    Teil der Familienmitglieder des Sonntags zur Kirche begiebt. Man überlässt dann
+                    etwa einem alten Mütterchen die einstweilige Aufsicht und Obhut. Der Gedanke,
+                    man sei von allen Seiten von Nachbarn umgeben, vermindert die furchtsame Sorge
+                    für das verlassene Haus; ja man überträgt sich auch wohl wechselweise die
+                    Fürsorge für das Haus des jedesmaligen Abwesenden, die Kinder werden dem Freunde
+                    übergeben etc. Eine abgelegene Wirtschaft muss und kann nur wohlbewacht
+                    verlassen und darf daher nicht Unerfahrenen oder Schwachen übergeben werden.
+                    Also können da schon niemals aus einem Haus so viele zur Kirche; vielleicht und
+                    in der Regel nur einer. Für diesen Einzelnen soll nun, zumal bei schlechtem Wege
+                    und Wetter, eine Fuhre ausgerüstet werden. Da sich das aber nicht der Mühe
+                    verlohnt, bleiben alle zu Hause. So geschiehts öfter, und man entwöhnt - denn
+                    wovon entwöhnt man sich wohl so leicht, als von der Kirche? - sich ganz von der
+                    Teilnahme am öffentlichen Gottesdienst. Sollten wir nicht in unseren Tagen
+                    vollwichtige Geünde haben, den Kirchenbesuch so viel möglich zu befördern?
+                    <lb/>Noch etwas scheinbar vielleicht sehr Unbedeutendes. Wer den Sinn der
+                    sogenannten <seg type="comment"><orig>Gebetsverhöre</orig><note xml:id="ndhl_ds3_yxb">Zur Bedeutung siehe <ref target="https://de.wikisource.org/wiki/Das_Gebet-Verh%C3%B6r">hier</ref>.</note></seg> wohl erwogen, und sich demnach von ihrer
+                    Nützlichkeit überzeugt hat, kann den Wunsch nicht bergen, sie möchten mit recht
+                    vieler Teilnahme von Seiten der Hörenden und mit Liebe und Eifer für die Sache
+                    von den Verhörenden gehalten werden. In neueren Zeiten findet man im Ganzen den
+                    gemeinen Mann gegen dieselben sehr lau, und nur bei nachdrücklichen Bemühungen
+                    gelingt es dem Geistlichen, ein mäßiges Häuflein aufmerksamer Teilnehmer
+                    zusammenzubringen. Ist aber das Gebetsverhör im Dorf, sieht man von allen Seiten
+                    Zurüstungen, den Pfarrer kommen, andere gehen, andere ihre jungen Leute
+                    hinsenden: so lässt sich dadurch so mancher bewegen mit hinzugehen und mancher
+                    Wirt schickt seine Kinder oder Dienstboten aus, durch das Beispiel anderer
+                    erregt. Ist aber das Gebetsverhör bei einem Schulzen, welcher selbst ausgebaut
+                    ist in einem so zerstreuten Dorfe, so fällt manches kleine Anreizungsmittel weg,
+                    und jene schon erwähnten Umstände, dass es wei sei, dass die Leute mehr
+                    gebraucht werden, treten als begründete oder unbegründete Entschuldigungen, aber
+                    zugleich als Hindernisse der Beförderung des kirchlichen und davon abhängigen
+                    christlichen Lebens hinzu. <lb/>Schließlich bemerkt Ref., dass er sich
+                    mitnichten irgend eine Entscheidung oder Autorität in dieser Sache anmaßt, noch
+                    anmaßen kann, sondern einerseits den Gegenstand wegen seiner Wichtigkeit mehr
+                    zur Sprache zu bringen wünscht, als es außerhalb der Sphäre der Wissenschaft
+                    bisher geschehen ist; andereseits aber von Kundigeren hierüber vielleicht eines
+                    Besseren belehrt und somit beruhigt werden möchte.</p>
+                <p>Hffbz.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

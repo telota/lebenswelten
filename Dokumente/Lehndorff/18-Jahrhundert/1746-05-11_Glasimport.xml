@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_sfj_5wx_cqb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Maria Louisa Gräfin von Lehndorff an Friedrich Friedrich II. König von Preußen.
+               Steinort, </title><title>11. Mai 1746</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kulturbeziehungen</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>II. HA, GD, Abt. 7, II, Nr. 3606, Bl. 2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1746-05-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+            </correspAction>
+            <note>Die Abschrift ist eine Beilage zum Bericht der Königsberger Kriegs- und
+               Domänenkammer vom 5. Juli 1746. Am 21. Juli 1746 verlangte der König zu wissen, ob es
+               sich um ein „Trink-, Kutschen- oder Spiegel-Glas oder worin es sonst bestehe‟
+               handelt, in welchem Land es hergestellt wurde und welchen Wert es habe. Daraufhin
+               wurde im Licent-Pack-Haus das „Behältnis, worinnen obbemeldtes Glas eingekommen‟,
+               geöffnet. Es handelte sich um geschliffenes Spiegelglas, 24 Zoll hoch und 13 Zoll
+               breit, „dem Ansehen nach zum Gebrauch in einem Bierau aptiert‟. Es war in <placeName key="ed_uyl_j3c_gy">Danzig</placeName> hergestellt worden, die Rechnung war über 9
+               Rtlr. ausgestellt worden. Am 28. September 1746 entschied der König, dass der Gräfin
+               von Lehndorff, da ihr das Einfuhrverbot unbekannt gewesen war, gegen Zahlung des auf
+               Glas festesetzten Impost (Steuer) von 6 Gr. „vor diesmal ohne Konsequenz‟ die
+               Lieferung ausgehändigt werden solle. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 11. Mai 1746</dateline>
+               <salute>Allerdurchl. pp</salute>
+            </opener>
+            <p>Ich bin zu einem meiner Haus-Meublen eines geschliffenen Glases benötiget gewesen und habe
+                    mir Mühe gegeben, es in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu
+                    erhalten. Da ich aber solches in Königsberg nicht haben können, und mir ein
+                    Vorschlag geschehen, dergleichen Glas aus <placeName key="ed_uyl_j3c_gy">Danzig</placeName> zu verschreiben, und da allda mehr geschickte
+                    Glasschleifer vorhanden, es daselbst sogleich schleifen zu lassen. So habe zum
+                    Ankauf des Glases und auch zur Beschleifung desselben in Danzig jemanden
+                    Kommisison gegeben, und ist dieses Stück den 21. Mai vorigen Jahres mit Schiffer
+                        <persName key="ed_ukt_5yx_cqb">Christoph Laveek</persName> nach Königsberg
+                    gesand, bei E. K. Maj. Licent aber allda vorenthalten und vorgeben worden, dass
+                    das Glas als eine Contraband-Ware nicht herausgegeben werden könne, dass also
+                    bemeldtes Glas bis jetzo, und also fast ein Jahr durch, in der Licent-Kammer
+                    liegt. Nun kann ich auf mein Gewissen sagen, dass mir von dem Verbot E. K. M.,
+                    fremdes Glas dieser Art nicht zu gebrauchen, nicht wissend gewesen; ein
+                    Unwissender aber nicht sündiget. So muss denn E. K. Maj. alleruntertänigst
+                    bitten, mir den Übertritt E. K. M. Verordnung nicht beizumessen und
+                    allergnädigst zu verordnen, dass das Glas gegen den gebührenden Impost mir
+                    abgefolget werde, mit untert. Versicherung, dass, wie es nie getan, auch
+                    hinkünftig nicht tun werde, dass E. K. M. allerhöchsten Verordnungen wissentlich
+                    übertreten sollte. </p>
+            <closer>
+               <salute>Getröste mich allergnädigster Erhörung pp</salute>
+               <signed>L. M. G. v. Lehndorffen</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

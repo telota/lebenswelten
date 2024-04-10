@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zh5_vhq_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Urteil gegen den Windmüller Bartholomäus Stützer wegen Nichterfüllung seines
+               Vertrages. Steinort, 9. Oktober 1732</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Die Verhandlung fand im <orgName key="ed_ltz_hdr_gbb">Hof Steinort</orgName>
+                  statt. Gräfin von Lehndorff hatte dazu ein Delegiertes Gericht aus Drengfurt nach
+                  Steinort kommen lassen. Die Klage gegen den Windmüller wurde durch Herrn von
+                  Schlichting im Namen der Gräfin von Lehndorff vorgebracht. Der Windmüller war
+                  seinen Vertragspflichten nicht nachgekommen, hatte sich sogar für ein halbes Jahr
+                  bei dem Vorwerksbau in Angerburg aufgehalten, so dass der Hof Steinort sein
+                  Getreide in einer fremden Mühle hatte mahlen lassen müssen.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 544, Bl. 2-10v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1732-10-09" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940854"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Urteil</p>
+            <p>In Sachen contra Meister <persName key="ed_fd5_5mq_wsb">Bartholomäus
+                  Stützer</persName>, Windmüller, erkennt ein Delegiertes Gericht Königl. Stadt
+               Drengfurt den Akten nach für Recht. <lb/>Alldieweil Bartholomäus Stützer, Windmüller,
+               gesteht, wie solches auch der Kontrakt vom 4. Dezembr. 1730 ausweist, dass er als
+               Müller die Steinortsche Windmühle auf 6 Jahre angenommen, als ist selbiger Müller
+               auch verbunden, den Kontrakt in allen Stücken zu satisfacieren und die sechs
+               Arrende-Jahre in der Mühle zu verbleiben. Da aber Müller nebst der Steinortschen
+               Mühle jetzo auch die Angerburgsche Mühle angenommen und die Steinortsche Mühle durch
+               einen Werkmeister bestreiten will, ist Müller schuldig, damit Ihrer Hochgräflichen
+               Gnaden wegen der Steinortschen Mühle nicht <unclear reason="illegible" cert="high">gefährdet</unclear> sein, sowohl wegen der übrigen fünftehalbjährigen
+               Arrende-Jahre, als auch wegen etwa Ruinierung der Mühle und daraus entstehendem
+               Schaden und Unglück, eine gültige und sichere Kaution auf zweihundert Rtlr. zu
+               bezahlen. Ehe und bevor aber Meister Müller diese Kaution verschafft, ist er
+               verbunden, seine Frau und Kinder, auch alles das seinige in den Steinortschen Gütern
+               zum Unterpfand zu lassen. Sollte auch Müller diese Kaution nicht leisten und die
+               gnädige Herrschaft zu hintergehen oder aus den Steinortschen Gütern sich wegzumachen
+               suchen, ist die gnädige Herrschaft befugt, diesen Müller als einen Läufer zu
+               verfolgen und zu arrestieren. Da auch Müller überwiesen worden, dass er in der
+               Angerburgschen Mühle gegen gemeines Volk und Bauersleute ungebührliche Redensarten
+               geführt und dadurch seinen schuldigen Respekt nicht observiert, da auch der
+               Staketenzaun <gap reason="illegible"/> nicht verfertigt und die Mühle negligiert,
+               dass vieles Hofgetreide in fremden Mühlen hat müssen gemahlen werden, so sich zwar
+               des <gap reason="illegible"/> Berechnung auf 4 Rtlr. 11 Gr. an Mahlgeld beträgt und
+               Müller zu restituieren schuldig, auch öfters fremde Getreide dem Hofgetreide
+               fürgezogen, als wird Müller <gap reason="illegible"/> auf zehn Floren Strafe an die
+               Rosengartensche Kirche und zu Bezahlung der Gerichts-Sporteln kondemniert mit der
+               Verwarnung, in das Künftige seinen Kontrakt in allen Stücken besser zu observieren
+               und sich so aufzuführen, als einem ordentlichen Müller eignet und gebührt. Die
+               Müllersche aber soll ihre importune und üble Aufführung mit dreitägiger Turmstrafe
+               bei Wasser und Brot büßen. W. R. <gap reason="fm"/>
+               <lb/></p>
+            <p>Johann <gap reason="illegible"/> Richter <persName key="ed_sjt_dnj_2qb">
+                  <lb/>Johann Andreas Borchert</persName> Stadtschreiber</p>
+         </div>
+      </body>
+   </text>
+</TEI>

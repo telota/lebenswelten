@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_kyz_zff_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Friedrich Wilhelm II. König von Preußen ändert das Urteil gegen den
+                    widerspenstigen Gottfried Schwartz. 25. August 1789</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 637, Bl. 68</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1789-08-25" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=637"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Wir <persName key="ed_w15_bk5_sy">Friedrich Wilhelm</persName> von Gottes Gnaden
+                    König von Preußen ppp</p>
+            <p>Unseren gnädigen Gruß zuvor. Edler lieber Getreuer! Die von uns mittelst Bericht vom
+               13. huius unserer Ostpr. Regierung zur Justification eingesandte Untersuchungs-Akte
+               wider den <persName key="ed_dsz_bvm_vsb">Gottfried Schwartz</persName> wegen
+               Widerspenstigkeit erhaltet ihr hierbei in 1 Vol. zurück mit der Nachricht, dass das
+               von euch entworfene Urteil dahin abgeändert worden, dass Inkulpat mit
+               sechsmonatlicher Zuchthausarbeit mit derbem Willkomm und Abschied zu bestrafen.
+               <lb/>Ihr habt dahero hiernach das Urteil zu ändern, zu eröffnen und nach erlangter
+               Rechtskraft zu vollstrecken, zu welchem Ende ihr mit der erforderlichen Verfügung an
+               den Königsbergschen Magistrat zur Annahme des Inkulpaten in das Zuchthaus gegen
+               Erlegung der geordneten Zuchthausgebühren in der verschlossenen Anlage versehen
+               werdet; facta ex<gap reason="illegible"/>tion oder bei dagegen ergriffener <seg type="comment"><orig>remedio</orig><note xml:id="nqcq_hmf_vxb">Widerspruch,
+                     Abhilfe</note></seg> habt ihr auf alle Fälle binnen 14 Tagen, vom Empfang
+               gegenwärtigen Befehles ab mit der Anzeige des Dati zu berichten, wann der Befehl
+               eingelaufen, wann <seg type="comment"><orig>Sententia</orig><note xml:id="nkt4_jmf_vxb">Schriftsatz</note></seg> publiziert, zur Exekution
+               gebracht oder ein remedium dagegen <seg type="comment"><orig>interponiert</orig><note xml:id="nrt2_lmf_vxb">zwischengeschaltet</note></seg>, und was auf das letztere
+               verfügt worden, entgegengesetzten Falls auch die damit verbundenen Strafbefehle und
+               Kosten der Exitatorien selbst beizumessen, überhaupt aber unter abermaliger
+               Beitragung der Akten die Finalkosten-Liquidation zu deren Festsetzung an unsere OPr.
+               Regierung, die seitigen Kosten aber mit 2 Rtlr. 15 Gr. binnen 14 Tagen an den
+               Rendanten der General-Sportelkasse <persName key="ed_ibq_pvm_vsb">Braun</persName>
+               franco einzusenden. <lb/>Sind euch mit Gnaden gewogen. </p>
+            <p><lb/>Gegeben Königsberg, den 25. August 1789.</p>
+            <p>Seiner Königlichen Majestät von Preußen ppp. <lb/>Wirklich Geheimer Etats- und
+               Justizminister, Kanzler, auch zu Dero Ostpr. Regierung verordneter Präsident,
+               Vize-Präsident und Räte</p>
+            <p>
+               <seg type="comment">
+                  <orig>
+                     <persName key="ed_edw_5vm_vsb">Biedersee</persName>
+                  </orig>
+                  <note xml:id="nddx_xwm_vsb">Siehe <ref target="https://books.google.de/books?id=dwQ5XqLMxzMC&amp;pg=PA81&amp;lpg=PA81&amp;dq=Biedersee+ostpreu%C3%9Fische+regierung&amp;source=bl&amp;ots=5Z4kWvgKw1&amp;sig=ACfU3U0obkydDKB8kA_fna2awn5xEgqczA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjj043fgrz2AhWOS_EDHaA6D6EQ6AF6BAgjEAM#v=onepage&amp;q=Biedersee%20ostpreu%C3%9Fische%20regierung&amp;f=false">hier</ref>
+                  </note>
+               </seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

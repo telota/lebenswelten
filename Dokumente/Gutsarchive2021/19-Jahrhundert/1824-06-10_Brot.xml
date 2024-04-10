@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_w21_vns_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Publikandum, dass auf dem Land kein Brot ohne Konzession verkauft werden
+                    darf. Königsberg, 10. Juni 1824</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 381 Familienarchiv Schwerin, Nr. 194, Bl. 13, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1824-06-10" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_w21_vns_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Publikandum.</p>
+            <p>Es ist uns die Anzeige gemacht worden, dass unsere Landbewohner ohne Konzession zum
+               Verkauf auf dem platten Lande Weizen- und Roggen-Brot backen und feil halten. Da aber
+               das Backen zum feilen Verkauf des Brotes auf dem platten Lande nicht anders erlaubt
+               ist, als wenn darüber vorher die vorschriftsmäßige Konzession nachgesucht und erteilt
+               worden, so wird allen Polizei-Behörden hierdurch aufgegeben, den Einsassen ihres
+               Jurisdiktions-Bezirks, welche zum Brotbacken und zum Verkauf auf dem Lande nicht
+               konzessioniert sind, dieses Gewerbe sofort bei Strafe der Konfiskation des Brotes zu
+               untersagen, und zugleich sämtl. Dorf-Schulzen genauest anzuweisen, keinem
+               unkonzessionierten Einwohner das gedachte Gewerbe zu gestatten, wogegen nach <seg type="comment"><orig>§ 8 des Edikts vom 24. Oktobr. v. J.</orig><note xml:id="nyb1_dqh_yxb">Allerhöchste Kabinetsorder vom <ref target="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN781542081&amp;PHYSID=PHYS_0082&amp;view=fulltext-endless">24sten Oktober 1823</ref>, daß den bannberechtig-ten Mühlenbesitzern wegen
+                     Aufhebung des Getränke-Zwangs von Seitendes Staats eine Entschädigung nicht
+                     geleistet werden soll.</note></seg> jedermann ohne Unterschied die Erlaubnis
+               hat, Brot vom platten Lande in die Städte auszuführen und daselbst auf alle Art feil
+               zu bieten. </p>
+            <p> Königsberg, den 10. Juni 1824</p>
+            <p>Polizei-Deputation der Ostpreußischen Regierung</p>
+            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+         </div>
+      </body>
+   </text><?oxy_custom_end?>
+</TEI>

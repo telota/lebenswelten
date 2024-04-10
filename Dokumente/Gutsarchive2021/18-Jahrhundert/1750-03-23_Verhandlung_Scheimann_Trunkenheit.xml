@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_dtw_bm5_kqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Schmied Michael Scheimann aus Stawken wird wegen wiederholter
+                    Gewalttätigkeit in betrunkenem Zustand durch Gräfin von Lehndorff vor das
+                    Patrimonialgericht zitiert. Pristanien, 23. März 1750</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Zur Trunksucht der Untertanen siehe auch das Dokument vom <ref target="lehndorff_o2q_znh_3tb">5. Februar 1746</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 702, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            <date when="1750-03-23" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Auf Requisition der <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName>
+               wird im Hof <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> durch den Richter
+                  <persName key="ed_ovn_2jt_vqb">Langhans</persName> aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gegen den Schmied <persName key="ed_pct_t42_n3b">Michael Scheimann</persName> aus <placeName key="ed_nkz_b12_gy">Stawken</placeName> verhandelt. Dazu wird der Krüger von
+                  <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, der 58-jährige <persName key="ed_onh_ffg_fqb">Christoph Eisermann</persName> verhört. Er gibt zu Protokoll,
+               dass der Schmied sehr häufig mit den Leuten zusammengeraten sei und mit seinen
+               Brüdern viel Unheil in den Gütern anrichte. Er habe die Leute z. B. in der
+               Michaelisnacht beim Feiern gestört, die Magd <persName key="ed_a4b_tpq_vqb">Catharina
+                  Duschkin</persName> geschlagen und andere beschimpft. Nach einem Besuch auf dem
+               Töpfermarkt habe er sich im Krug betrunken, randaliert und andere, die ihn davon
+               abbringen wollten, beschimpft und angegriffen. Die Ursache sei, dass er vor einiger
+               Zeit selbst Krüger werden und ihn herausdrängen wollte. Zeugen der Exzesse seien auch
+               der Schulze zu Labab und der Arrendator von Stawken. <lb/>Der Schmied Michael
+               Scheimann gibt an, 20 Jahre alt und lutherischer Religion zu sein. Nachdem ihm die
+               Anklage verlesen wurde, gibt er alles zu, doch habe ihn die Magd als einen Dieb
+               beschimpft. Sie wird dazu befragt und erklärt, dies stimme nicht. Er hätte ihre
+               Schwester geschlagen, die ihm kein Flachs gebrochen habe, diese hätte ihr gesagt, er
+               hätte schon in <placeName key="ed_h35_jqh_my">Drengfurt</placeName> und <placeName key="ed_pxt_cnh_1y">Steinort</placeName> Prügel bekommen. Scheimann gibt die Magd
+                  <persName key="ed_dg2_gkt_vqb">Dorothea Scheimann</persName> als Zeugin an. Nach
+               Magd und Schwester wird geschickt und Scheimann wegen des Vorfalls im Krug befragt.
+               Er gibt an, in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gewesen zu sein
+               und dort <seg type="comment">
+                  <orig>1 Stof Bier</orig>
+                  <note xml:id="nchy_lkt_vqb">1 Stof = 1,425 Liter</note>
+               </seg> getrunken zu haben, in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               habe er weitere 2 1/2 Stof Bier getrunken, dann sei er „besoffen‟ gewesen, habe sich
+               übergeben müssen und dabei den Rock des Schulzen <persName key="ed_ykw_llq_lpb">Nowack</persName> von <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+               verunreinigt. Was weiter geschehen sei, wisse er nicht, bis ihn der Schulze
+               geschlagen und man ihn herausgeworfen habe. Dann sei er nochmals in die Wirtsstube
+               gegangen und habe den Arrendator von <placeName key="ed_nkz_b12_gy">Stawken</placeName> gefragt, weshalb man ihn geschlagen habe, habe auch noch Bier
+               getrunken. Es hätte jedoch keinen „Lärm‟ mehr gegeben, schon gar nicht hätte er
+               jemanden beschimpft. Da er sehe, „dass ihm alle Leute so feind‟, wolle er den Krug
+               nicht mehr haben, wenngleich „dieser Krüger wegkommen sollte‟. <lb/> Auch der
+               52-jährige <persName key="ed_tqk_3xp_5qb">Bruder</persName> aus <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> wird verhört, der auf dem <placeName key="ed_hz1_4wl_2y">Angerburgschen</placeName> Jahrmarkt dabei war. Gemeinsam mit
+               dem Schulzen zu <placeName key="ed_xpm_112_gy">Labab</placeName> hätten sie 2 Stoff
+               Bier, Scheimann dabei 3 halbe Bier getrunken, der Schulze hätte für Scheimann
+               bezahlt. „Ganz nüchtern‟ seien sie nach <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> gekommen und hätten dort noch 1 Stof Bier getrunken. Er
+               wisse nicht, wovon der Schmied „sich besoffen gehabt‟, es sei denn, er habe bereits
+               anderweit in der Stadt getrunken. Auch habe er einen „schwach Kopf‟. Der Schulze zu
+               Labab <persName key="ed_fyt_syb_t2b">Martin Rompel</persName> meint, sie hätten in
+               der Stadt 1 Stof getrunken, korrigiert aber auf 3 halbe, dann auf 2 Stof. In
+               Pristanien seien es dann 3 Stof gewesen. Scheimann hätte Nowack als einen „Hundsfott‟
+               beschimpft. <lb/>Die eingetroffenen Mägde können nicht bezeugen, dass Scheimann wegen
+               Diebereien geschlagen worden wäre. <lb/> Das Urteil bescheinigt dem Schmied, dass er
+               ein „wüster wilder Mensch‟ sei, der nicht nur dem Trunk, sondern auch der Schlägerei
+               zugetan ist. Aus seinen angestifteten Händeln hätte „Tod und Mordschlag‟ entstehen
+               können. Anderen „gottlosen Leuten zum merklichen Exempel‟ wird er zu 40 Stockschlägen
+               verurteilt und hat 2/3 der Gerichtskosten zu tragen. Dessen Bruder aber, der im Krug
+               ebenfalls Händel angefangen und den Krüger beschimpft hat, wird zu 18 Stockschlägen
+               und 1/3 der Gerichtskosten verurteilt. Die Magd Catharina, die mit ihren falschen
+               Behauptungen zu allem Anlass gegeben hat, wird zu 5 Stockschlägen verurteilt. Schulze
+               Nowack wird ermahnt, bei solchen Händeln, vor allem gegen Betrunkene, nicht tätlich
+               zu werden, auch er müsse sich sonst verantworten. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_dtw_bm5_kqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

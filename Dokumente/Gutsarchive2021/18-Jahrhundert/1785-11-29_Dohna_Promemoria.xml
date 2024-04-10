@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_oq4_wrp_grb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Promemoria über die Anlage von Urbarien für die Bauern auf adeligen Gütern,
+                    welche schollenpflichtig sind</title><title>. [Reichertswalde], 29. November 1785</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+                                        <p>Siehe hierzu das Dokument vom <ref target="lehndorff_ock_r1k_hrb">15. August
+                                                  1785</ref>. <lb/>In einem Brief des Grafen
+                                                Dohna-Schlodien an seinen Vetter in Reichertswalde
+                                                heißt es (6. November 1783, Bl. 18-19v): „Unser
+                                                lieber Graf von Rositten glaubt, dass unsere
+                                                Vorstellungen gute Wirkung tun und den Herrn
+                                                Großkanzler vielleicht bewegen werden. Ich
+                                                überschicke Ihnen mein abgeändertes Projekt zum
+                                                Brief an Sr. Exzellenz; es entstanden dubia wegen
+                                                der aufscheinenden Drohung mit dem Könige und der
+                                                vorläufigen Submission wegen der einzusendenden
+                                                Äußerung der Untertanen über die Zuverlässigkeit
+                                                unserer Angaben. Ersteres könnte nur <gap reason="illegible"/> anrichten, und dem H. von
+                                                  <persName key="ed_rwj_n5g_hy">Carmer</persName>
+                                                vielleicht <gap reason="illegible"/> kürzesten
+                                                helfen, den Kopf aus der Schlinge zu ziehen, uns
+                                                aber ebenso sicher per indi<gap reason="illegible"/>
+                                                zu schaden, das zweite wird vielleicht <gap reason="illegible"/> erfordert, und tut wenigstens
+                                                noch <gap reason="illegible"/>
+                                                <lb/>Nach einem weiteren Brief vom 30. November (Bl.
+                                                19) war das Promemoria auf dem Weg. Es sei der Sache
+                                                „angemessen‟ und er erhoffe sich „gute Früchte davon
+                                                für die Zukunft‟ und dass es „recht gut einschlagen
+                                                wird‟. Das Begleitschreiben an Carmer und dessen
+                                                Antworten vom 25. Dezember 1785 und 28. Februar 1786
+                                                ebd., Bl. 20-24v.</p>
+                                </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 87, Bl. 30-38</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_ehf_grx_5sb">Dohna-Reichertswalde, Friedrich Leopold Burggraf und
+                    Graf zu (1738-1807)</persName>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1785-11-29" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_oq4_wrp_grb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Promemoria <lb/>über die <seg type="comment"><orig>Urbaria</orig><note xml:id="nqyh_myf_vxb">Zur Bedeutung siehe <ref target="https://de.wikipedia.org/wiki/Urbar_(Verzeichnis)">hier</ref>.</note></seg> für die Bauern auf
+                                        adelichen Gütern, welche <seg type="comment">
+                                                <orig>glebae adscripti </orig>
+                                                <note xml:id="nlmy_nqh_prb">
+                                                  <ref target="http://www.zeno.org/Meyers-1905/A/Glebae+adscripti">an die Scholle gebunden</ref>
+                                                </note>
+                                        </seg> sind und vollständigen Besatz auf den Huben haben,
+                                        davon das Eigentum allein der Gutsherrschaft gehört</p>
+            <p>
+               <hi rendition="#u">A. Allgemeine Bemerkungen</hi>
+            </p>
+            <p>1. Die Landesväterliche Absicht Sr. Königl. Majestät, alle Quellen zu Prozessen
+                                        zwischen Gutsherrschaft und ihren Untersassen und glebae
+                                        adscriptis zu verstopfen, ist über alles Lob erhaben und
+                                        erfordert Ehrfurcht und Gehorsam.</p>
+            <p>2. Die deshalb erlassenen Verfügungen E. Königl. Erlauchten Staatsrats verdienen
+                                        reinen Dank, sonderlich in Absicht der Behutsamkeit, mit
+                                        welcher die Commissarii bei Berichtigung zu Werke gehen
+                                        sollen, und wegen der Versicherung, dass die Rechte der
+                                        Gutsbesitzer nicht verringert, nicht gekränkt werden sollen,
+                                        sondern die Regulierung der Urbarii nach den Umständen und
+                                        Verfassung der Provinzen eingerichtet werden soll.</p>
+            <p>3. Zu diesem Zweck aber dürfte unumgänglich nötig sein, die Einnahme der adel.
+                    Güter zu klassifizieren und von jeder Klasse den wahren Begriff
+                    festzusetzen.</p>
+            <p>4. Es sind in Preußen Hauptklassen <lb/>a. glebae adscripti, die vermöge ihrer Geburt
+                                        in den Gütern wohnen müssen, <lb/>b. Einwohner, die aus
+                                        freiem Willen in den Gütern wohnen und ihre Nahrung darin
+                                        suchen. <lb/>Beide Klassen können auf Huben wirtschaften und
+                                        heißen sodann Bauern. <lb/>Allein ihre Kondition und
+                                        Verhältnis gegen den Gutsherrn ist sehr verschieden, wie die
+                                        Preußische Landesordnung von 1640 anzeigt und woselbst sich
+                                        der Artikel <hi rendition="#u">von Pauren</hi> also anfängt
+                                        <lb/>„So ein Paur, wesserlei Condition er sei p.‟ <lb/>Es
+                                        würde zu weitläufig sein und gar nicht hierher gehören, alle
+                                        Klassen von Bauern anzuführen und ihre Kondition zu
+                                        bestimmen. <lb/>Hierher gehören aber folgende Klassen
+                                        <lb/>a) freie Bauern <lb/>Denen gehört Haus, Hof, Acker,
+                                        Vieh pp. alles eigentümlich und zahlen einen gewissen
+                                        Grundzins oder was sonst dabei noch abgemacht worden.
+                                        <lb/>b) Bauern auf Kontrakt und auf bestimmte Zeit.
+                                        <lb/>Diese haben kein Eigentum an Acker, Haus und Hof, aber
+                                        das ganze Inventarium an Pferden, Vieh mancherlei Art, Acker
+                                        und Hausgerät gehört ihm eigentümlich. <lb/>c)
+                                        Scharwerksbauern.  <lb/>Diese haben keine Eigentum, weder an
+                                        Haus und Hof, Acker noch an Vieh, Acker- und Hausgerät und
+                                        Aussaat, sondern das alles gehört dem Gutsherrn, nämlich
+                                        soweit vom <seg type="comment">
+                                                <orig>Inventario als zur Notwendigkeit der Ökonomie
+                                                  erforderlich</orig>
+                                                <note xml:id="nxd5_2w3_prb">Vgl. hierzu APO, Bestand
+                                                  384 Familienarchiv Dohna, Nr. 422 ff. (diverse
+                                                  Inventare).</note>
+                                        </seg> und in dem <seg type="comment">
+                                                <orig>Besatzbriefe</orig>
+                                                <note xml:id="nzcg_rr3_prb">Vgl. hierzu APO, Bestand
+                                                  384 Familienarchiv Dohna, Nr. 91: Besatzregister
+                                                  der Bauern von Silberbach (1508-1936).</note>
+                                        </seg> spezifiziert ist. <lb/>Hat der Bauer mehr von Vieh
+                                        und Geräte, so ist solches zwar sein ungezweifeltes
+                                        Eigentum, ist gut für ihn, gehört aber nicht zum Begriff
+                                        eines Scharwerksbauernhofes.</p>
+            <p>5. Die Abgaben eines Scharwerksbauern bestehen <hi rendition="#u">gemeiniglich</hi>
+                                        in einem Zins-Quanto, das dem Wert der Huben nicht
+                                        angemessen, sondern gering, und die Dienstleistungen machen
+                                        öfters die Hauptsache aus.</p>
+            <p>6. Ein Scharwerksbauer besitzt seinen Hof nicht auf bestimmte Zeit, sondern so
+                    lange er <seg type="comment">
+                  <orig>praestanda praestiert</orig>
+                  <note xml:id="njmy_zqh_prb">pflichtmäßige Abgaben leistet</note>
+               </seg>, und
+                    wenn sich jemand von seinen Söhnen zur guten Wirtschaft qualifiziert, so folgt
+                    er gewöhnlich seinem Vater im Besitz des Hofes, doch lediglich mit Konsens des
+                    Grundherrn, welchem auch allein die Wahl gebührt, wenn mehrere Kinder des Bauern
+                    vorhanden sind. <lb/>Diese Befugnis gründet sich auf das Pr. Landrecht Part. II
+                    Tit. XV S. 1.</p>
+            <p>7. Ein Scharwerksbauer-Erbe unterscheidet sich noch vorzüglich von anderen
+                                        Bauernhöfen dadurch <lb/>a) dass dem Besitzer kein Kontrakt,
+                                        wohl aber ein schriftl. Inventarium gegeben wird, welches
+                                        der Grundherr allein unterschreibt. Das hat bishero keine
+                                        Unordnung oder Streitigkeit und Prozesse veranlasst, denn
+                                        gut gezogene Erb-Untertanen haben Hand und Siegel ihres
+                                        Gutsherrn respektiert ohne zu verlangen, mit ihrem Herrn und
+                                        Vater in forma zu kontrahieren und ihren Namen neben den
+                                        seinigen zu setzen. Sie haben vielmehr den Besatzbrief als
+                                        ein privilegium gratiae und niemals als einen Kontrakt
+                                        angesehen, und das alles aus den Grundsätzen der
+                                        Landordnung, indem daselbst verordnet und allgemein ausführt
+                                        worden, <lb/>b) dass ein Freigeborener, welcher einen
+                                        Scharwerksbauernhof annimmt, <seg type="comment"><orig>eo
+                                                  ipso</orig><note xml:id="ny5m_3zf_vxb">selbst</note></seg> glebae <seg type="comment"><orig>adskribiert</orig><note xml:id="np1x_jzf_vxb">zugeschrieben</note></seg>
+                                        ist, <lb/>c) die Konnexion des Gutsherrn und des
+                                        erbuntertänigen Scharwerksbauern kann also nicht nach den
+                                        Gesetzen eines Miets- oder Pachtkontrakts beurteilt werden,
+                                        wo auch die <seg type="comment"><orig>minutissima</orig><note xml:id="nmxm_lzf_vxb">das Kleinste</note></seg> zu
+                                        verschreiben sind, sondern diese Konnexion nähert sich
+                                        eigentlich einer <seg type="comment">
+                                                <orig>Mascopie</orig>
+                                                <note xml:id="nczg_srh_prb">Handlungsgemeinschaft</note>
+                                        </seg>, wo der Gutsherr allen fonds, alles Vermögen und der
+                                        Bauer allein seine Dienste einbringt, folglich nicht jeder
+                                        Schritt und Tritt und in Rechnung zu Papier gebracht werden
+                                        können, ohne dem Ganzen zu schaden und das Vertrauen
+                                        gegeneinander zu schwächen.</p>
+            <p>
+               <hi rendition="#u">B. Von dem Verhältnis der Dohnaschen Bauern gegen ihren
+                        Grundherrn.</hi>
+            </p>
+            <p>1. Ein Dohnascher Bauer (mit Ausschluss des kleinen Dorfes <unclear reason="illegible" cert="low">Galmen</unclear>, von
+                                        drei Wirten) hat kein Eigentum, so wenig an den Huben, an
+                                        Haus und Hof, als an den Inventarien-Stücken, die zur
+                                        Notwendigkeit gehören, wenngleich alle durch gute Behandlung
+                                        und Lage in den Stand gesetzt sind, ein beträchtliches
+                                        Super-Inventarium zu halten, und dieses allein ist sein
+                                        Eigentum. Zwar liegt ihm ob, Haus, Hof und Inventarium,
+                                        welches 6 bis 700 Rtlr. ausmacht und also in sämtl.
+                                        Dohnaschen Gütern ein Kapital von <gap reason="empty"/>, aus
+                                        der Nutzung des Bauernhofes beständig zu unterhalten,
+                                        dagegen werden ihm aber auch die Materialien an Holz, Ziegel
+                                        und Kalk gegeben. </p>
+            <p>2. Betreffen den Bauern Unglücksfälle, so unterstützt ihn die Herrschaft und
+                    lässt ihn nie zu Grunde gehen.</p>
+            <p>3. Der im Lande fast allgemein bestimmte Termin zu Abtragung des Zinses auf <seg type="comment"><orig>Martini-Tag</orig><note xml:id="niv5_pzf_vxb">11. November</note></seg>
+                                        beunruhigt keinen Dohnaschen Bauern, <seg type="comment">
+                                                <orig>denn es wird ihm nachgesehen, er zahlt, wenn
+                                                  es ihm bequem, man ist auch demnach mit paetialer
+                                                  Solution zufrieden und gibt auch halbe und ganze
+                                                  Jahre Dilation</orig>
+                                                <note xml:id="npc4_hy3_prb">APO, Bestand 384
+                                                  Familienarchiv Dohna, Nr. 538: Vorschüsse an
+                                                  Arbeitnehmer und Beamte in Form von Geld- und
+                                                  Sachleistungen (1508-1936)</note>
+                                        </seg>. <hi rendition="#u">Daher auch kein Exempel das etwas
+                                                durch Exekution beigetrieben wäre.</hi>
+                                </p>
+            <p>4. Fehlt dem Bauern Getreide zur Saat und Brot, so wird es ihm ohne alle
+                    Schwierigkeit von der Herrschaft und ohne alles Interesse gegeben. Man wartet
+                    geduldig ab, bis die Erstattung in natura geschehen kann, wenngleich der
+                    Vorschuss auf den Märkten zu hohen Preisen hätte verkauft werden können.</p>
+            <p>5. Brennen Häuser und Höfe ab, so wird nicht bloß etwas Unterstützung gegeben. Nein!
+                                        in Zeit von 3 Wochen oder 4 Wochen steht Haus und Hof neu
+                                        fertig da, ohne dass der Abgebrannte im Geringsten dazu
+                                        konkuriert, denn die Dohnasche Familie hat in ihren Gütern
+                                        seit undenklichen Zeiten in sich selbst eine <seg type="comment"><orig>Brandbauordnung</orig><note xml:id="nwgt_vzf_vxb">Siehe hierzu die <ref target="lehndorff_lbw_zgj_5pb">Dohnasche Willkür
+                                                  aus dem Jahr 1627</ref>.</note></seg> gehabt, und
+                                        ehe sie im Lande eingeführt gewesen.</p>
+            <p>6. Lediglich auf Kosten der Herrschaft werden einige approbierte und vom Königl.
+                                        Ober-Collegio Medico immatrikulierte Chirurgi zum Nutzen der
+                                        Untertanen in den Gütern gehalten. Die Arzneien werden
+                                        allein erstattet und denen auch dies beschwerlich fiele,
+                                        erhalten sie umsonst. Solche Anstalt hat keinen geringen
+                                        Einfluss auf den Staat. Nach Verhältnis der Güter ziehen die
+                                        Regimenter weit mehr Rekruten aus den Dohnaschen Gütern, als
+                                        aus anderen, können davon viele zu Unteroffiziers brauchen
+                                        und das kommt </p>
+            <p>7. von den tüchtigen Schulanstalten, die lange vorher gemacht und eingerichtet waren,
+                                        ehe sie im Lande verordnet wurden. Eine Folge dieser gut
+                                        eingerichteten Schulanstalten ist, dass wir eine in unserer
+                                        ganzen Provinz berüchtigt gute Race von Menschen haben,
+                                        deren sowohl die Fähigkeit als die Moralität nun so gut ist,
+                                        dass man hier seltener von Erpressen und Bubereien weiß,
+                                        dass selten Prozesse über mein und dein entstehen, und
+                                        Freundlichkeit im Handel, Teilung und Vergleich herrscht.
+                                        Fast alle Herrschaftl. Hausbediente beiderlei Geschlechts
+                                        sind Untertanen, und sind fast ohne Ausnahme treu und
+                                        fleißig und vor andere geschickt und tüchtig befunden
+                                        worden. Nie ist ein untertäniger Mensch mit Geld
+                                        durchgegangen, da doch einem jeden ohne Auswahl solche
+                                        Aufträge anvertraut werden, auch ist bei unser Denken nie
+                                        ein Soldat, deren ppp usw. in Reih und Glieder stehen,
+                                        desertiert.</p>
+            <p>8. Ebenso sind die Armen-Kassen eine alte Veranstaltung der Dohnaschen Familie in
+                    ihren Gütern, und außerdem befindet sich daselbst im Schlodischen Anteil ein
+                    Hospital für 30 Personen, wo auch Kinder erzogen werden, welches alles allein
+                    von der Herrschaft gestiftet worden und erhalten wird. <lb/>Die Hospitaliten
+                    haben einen besonderen daselbst wohnhaften Vorsteher und Vorsteherin, die mit
+                    ihnen von gleichen Tischen speisen, sie wohnen in einem ganz massiven großen
+                    Gebäude, welches ein Quarre mit einem geschlossenen Hofe ausmacht, und werden
+                    gut gespeist und gekleidet, wozu ein jeder durch ganz ungezwungene Arbeit etwas
+                    beiträgt. <lb/>Dabei bleibt es nicht, sondern</p>
+            <p>9. werden viele Alte und Schwache in ihren Wohnungen von der Herrschaft mit
+                    Getreide pp. unterstützt.</p>
+            <p>10. Diese Einrichtungen sind der Provinz notorisch bekannt; daher es denn
+                    geschieht, dass nicht selten frei geborene Leute um die adscripti glebae als
+                    eine Wohltat anhalten, ohne dass sie durch Schulden bei der Herrschaft dadurch
+                    zu liquidieren hätten. Es geschieht aus Vertrauen und Bewusstsein, dass sie und
+                    ihre Nachkommen wirklichen Schutz und in Notfällen Unterstützung finden.</p>
+            <p>11. Seit dem Anfange des Etablissements der Dohnaschen Familie zur Zeit des Deutschen
+                                        Ordens hat die Familie ihr Augenmerk auf gute Administration
+                                        der Justiz gerichtet. Wenigstens seit 200 Jahren sind von
+                                        den letzten verständigsten, redlichsten Dorfschulzen aus
+                                        jedem Anteil der Dohnaschen Güter zwei errichtet, welche
+                                        zusammen das gemeinschaftliche Patrimonial-Gericht unter
+                                        Vorsitz eines Literati und Direktion des Senior familiae
+                                        formiert haben. Dadurch die Untertanen von ihresgleichen
+                                        circa factum beurteilt werden, so kommen wenig
+                                        Streitigkeiten vor, und da solche außer der feierlichen
+                                        juridischen zu aller Zeit vorgetragen werden können, so
+                                        werden solche auch gleich untersucht, mehrenteils durch gute
+                                        Remonstration abgemacht und wenige Urteile gefällt werden.
+                                        Die Gerichts-Versammlung geschieht so oft, als sich Parte
+                                        melden, und das Gerichtshaus befindet sich mitten in den
+                                        gemeinschaftlichen Dohnaschen Gütern, wo der Justitiarius
+                                        beständig wohnt. Seit 1751 ist noch ein Literatus wegen der
+                                        Criminalien hinzugekommen, und alles wird auf Kosten der
+                                        Gutsherrschaft unterhalten, so dass sämtl. Untertanen nur
+                                        wenig beitragen, ohne dass Parte damit beschwert werden.</p>
+            <p>12. Außer dieser unparteiischen freien Rechtspflege hat die Familie längst ein
+                    Mittel erfunden, gewissen Unordnungen und Quellen zu Streitigkeiten vorzubauen.
+                    Jeder Bauer hat an seinem Hause eine kleine Tafel, worauf sein Hauszeichen
+                    gemalen. Auf allen Wirtschaftssachen des Wirts befindet sich sein Hauszeichen
+                    und das erstreckt sich bis auf die Zäune im Felde. Hat jemand etwas Unrecht
+                    getan, dass an andere Orten mit Gefängnis oder dergleichen bestraft wird, so
+                    reicht es hier schon zu, wenn das Hauszeichen auf eine kurze Zeit abgenommen
+                    wird, und die Ambition tut hier mehr Wirkung als andere Strafen.</p>
+            <p>13. Von je an hat die Herrschaft mit ihren glebae adscriptionis und Erbuntertanen in
+                                        einer patriarchalischen Verbindung gestanden, daher dann
+                                        auch die Herrschaft die Nutzung ihrer Gerechtsamen nicht so
+                                        weit ausgedehnt hat, als sie nicht nur gemäß den erhaltenen
+                                        Privilegien, sondern auch nach allen im Lande üblichen
+                                        Rechten mit völliger Gerechtigkeit sehr wohl tun kann und
+                                        tun müsste, wenn die bisherige Konnexion mit ihren
+                                        Untertanen wieder Verhoffen im geringsten abgeändert werden
+                                        sollte. Zum Beispiel die Nutzung der Brauerei und
+                                        Mühlen-Gerechtigkeit. In allen königl. Domänen-Ämtern und
+                                        nicht wenigen adel. Gütern dürfen die Untertanen nicht
+                                        brauen. In den Dohnaschen Gütern haben die Leute nur ein
+                                        sehr geringes Maß von Bier, bei Hochzeiten, Kindtaufen,
+                                        Begräbnissen und wenigen Dorffesten aus der Herrschaftl.
+                                        Brauerei bisher nehmen dürfen, und bei allem übrigen Bedarf
+                                        sind sie in ihrer natürlichen Freiheit nicht gestört worden,
+                                        sich das Getränk selbst zu machen. <lb/>Die Mühlen in den
+                                        Gütern könnten höher verpachtet werden, wenn das bei den
+                                        Königl. Domänen eingeführte Quantum auch hier eingeführt
+                                        würde, anstatt dass die Herrschaft geneigter gewesen,
+                                        weniger Pacht anzunehmen, um nur ihre Untertanen zu
+                                        soulagieren. <lb/>Bei diesen und mehreren Vorteilen, die den
+                                        Untertanen <seg type="comment"><orig>ex mera
+                                                  gratia</orig><note xml:id="nbzq_l1g_vxb">aus
+                                                  reiner Gnade</note></seg> gewährt worden, könnte
+                                        es nicht bleiben, wenn die Dienstleistungen der Bauern und
+                                        Untertanen durch neue Kontrakte reguliert werden müssten,
+                                        für jetzt sind sie in einer Situierung die ihnen erlaubt,
+                                        gegen Kirchen, milde Stiftungen und arme Brüder wohltätig zu
+                                        sein. Vor 2 Jahren streckten 3 Huben-Wirte der Dorfschaft
+                                        Fürstenau Carwindischen Anteils ihrer Kirche zu Tilgung
+                                        ihrer Schulden 50 Rtlr. ohne Interessen vor auf so lange,
+                                        bis diese Summe allmählich abgetragen werden könnte. Die
+                                        Huben-Wirte in Deutschendorf, ebenfalls in diesen Gütern,
+                                        taten vor 3 Jahren starke Beiträge bis zum Dukaten und
+                                        drüber zu einer neuen Orgel. Die Neumarksche Gemeinde legte
+                                        freiwillig 450 Rtlr. zusammen als eine Beisteuer zum Bau
+                                        einer neuen massiven Pfarr-Wohnung. Und im vorigen Jahr
+                                        brannte ein Bauer im Dorfe Liebenau Schlodischen ab, welcher
+                                        durch freiwillige Beisteuer sämtl. Schlodischer
+                                        Gutseinsassen fast seinen ganzen Verlust an Geld, Betten und
+                                        Hausgerät wiederbekommen.</p>
+            <p>
+               <hi rendition="#u">C. Bemerkungen über <hi rendition="#uu">die Art</hi> von
+                        Bestimmung der Urbarien.</hi>
+            </p>
+            <p>1. Außer den mathematischen Bestimmungen gibt es in der Natur keine Bestimmungen,
+                    die so allgemein und unwidersprechlich gemacht werden können, dass sie keinen
+                    Einwendungen unterworfen sein sollten. Die Königl. Landesväterl. Ansichten und
+                    Befehle vom 11. Septbr. 1784 gehen bloß dahin, „den Klagen und Beschwerden
+                    zwischen Herrschaften und Untertanen über die zu leistende praestationes besser
+                    vorzubeugen und abzuhelfen‟.</p>
+            <p>2. Sollte diese gerechte Absicht nicht durch Privat-Urbaria hinreichend erfüllt
+                    werden?, davon <seg type="comment">
+                  <orig>beiliegende Extrakte</orig>
+                  <note xml:id="nj4q_fl3_prb">liegen hier nicht bei</note>
+               </seg> zur Probe
+                    beigefügt werden. Die darin enthaltenen Abgaben und praestanda sind seit langen
+                    Zeiten geliefert worden, ohne dass jemals darüber Streit entstanden, folglich
+                    hat die <hi rendition="#u">Erfahrung</hi> bestätigt, dass sie <hi rendition="#u">gehörig bestimmt</hi> sind.</p>
+            <p>3. Wenn die Urbaria einzuführen, wo Prozesse oder Streitigkeiten zwischen
+                    Herrschaft und Untertanen vorhanden sind, und in Gütern, wo niemals Prozess und
+                    Missverständnis gewesen, <hi rendition="#u">auf einerlei Art und Weise</hi>,
+                    untersucht werden sollten, so ist offenbar, dass die Grundherren, welche mit
+                    ihren Leuten keine Differenzen jemals gehabt haben, unschuldigerweise in die
+                    Verlegenheit gesetzt werden, in Streit und Prozesse zu kommen.</p>
+            <p>
+               <hi rendition="#u">Ursachen</hi>
+            </p>
+            <p>a.) Die Abgaben und praestanda sind in verschiedenen Gütern, ja in Dörfern, die zu
+                                        einem Gut gehören, oft verschieden, ohne dass den Untertanen
+                                        im Geringsten Unrecht geschieht, daher ist sehr zu fürchten,
+                                        dass Untertanen, die mehr zu leisten schuldig als andere,
+                                        aus Dummheit oder Bosheit auf die Gedanken kommen werden,
+                                        ihre bisher ruhig geleistete praestanda verringert zu
+                                        wünschen. Und dieses würde desto mehr an solchen Orten zu
+                                        befürchten sein, wo die Leute wie hier im Wohlstande sind,
+                                        denn dass menschliche Herz ist desto mehr zum Missbrauch
+                                        geneigt, je mehr es sich in guten Umständen fühlt. <lb/>Zwar
+                                        sind die Kommissarien angewiesen, den Leuten mit aller
+                                        Vorsicht bekannt zu machen, was eigentlich der Königliche
+                                        Gnädigste Wille sei, aber der gemeine Mann ist einem Strom
+                                        gleich, der seine Ufer durchbricht, die Ritze oder Spalte im
+                                        Damm mag noch so klein sein. <lb/>b) Wenn der Bauer sieht,
+                                        dass Königl. Kommissarien herumreisen, die alsdann in Acta
+                                        Commissionis mehr vorstellen als sein Grundherr, er mag sein
+                                        wer er will, so ist es mit dem Herrschaftl. Ansehen, wenn es
+                                        gleich niemals gemissbraucht worden, auf immer vorbei, und
+                                        harte und gelinde Herren sind dann nicht mehr zu
+                                        unterscheiden und letztere werden gestraft und ruiniert
+                                        werden, weil die ersteren Unrecht getan haben.</p>
+            <p>4. Es verdient den wärmsten Dank, dass den Gutsherrn erlaubt worden, zu Vermeidung
+                                        der Kosten die Urbaria mit ihren Leuten selbst zu
+                                        regulieren, allein sobald es zur Notwendigkeit gemacht wird,
+                                        dass die Anerkennung der Richtigkeit der Urbarii vor den
+                                        Königl. Commissariis geschehen soll, so werden diejenigen
+                                        Gutsherren, die keine Unrichtigkeiten haben, doch immer an
+                                        ihrem rechtmäßigen Ansehen unwiederbringlich verlieren.</p>
+            <p>5. Diesem mächtigen Ruin könnte dadurch vorgebeugt werden, dass die Urbaria bei
+                    den Patrimonialgerichten in gehöriger Form niedergelegt würden, wo sie von jedem
+                    Interessenten inspiziert werden könnten, ohne dass sie eine Konfirmation von
+                    denen Königl. Landes-Collegio nötig hätten, so lange als kein Streit
+                    entstünde.</p>
+            <p>6. Dieser Wunsch und diese Äußerung kann nichts Bedenkliches in sich halten, denn so
+                                        sehr man die Oberaufsicht und Direktion der Königl.
+                                        Landes-Collegien mit gebührender Submission erkennt, so ist
+                                        es doch den Landesgesetzen nicht nur konform, sondern es
+                                        wird darin besonders verordnet und darauf gehalten, dass die
+                                        Instanzen nicht <seg type="comment"><orig>konfundiert</orig><note xml:id="nxhg_51g_vxb">vermischt</note></seg>
+                                        werden mögen. <lb/>Die Anerkennung eines Dokuments ist an
+                                        sich ein <seg type="comment"><orig>Actus voluntariae
+                                                  jurisdictionis</orig><note xml:id="nxrc_v1g_vxb">Akt freiwilliger Gerichtsbarkeit</note></seg> und
+                                        gehört weder vor E. Königl. Landes-Collegium noch vor
+                                        Königl. Kommissarien privative. Selbst wenn ein Streit und
+                                        Prozess zwischen Gutsherrn und Untertanen entsteht, kann
+                                        ersterer die letzteren nicht anders als vor den
+                                        Patrimonialgerichten belangen. So lange sich diese nicht
+                                        suspekt gemacht haben, wird ihre Glaubwürdigkeit nicht
+                                        bezweifelt.</p>
+            <p>7. Wahrscheinlich werden in Ostpreußen nicht viele Gutsherren sein, die mit ihren
+                    Untertanen uneinig sein und Beschwerden gegeneinander haben. Aber gesetzt, es
+                    sollte sich anders verhalten, so würden doch diejenigen, welche Väter ihrer
+                    Untertanen sind, eine Ausnahme verdienen, damit sie nicht auf gleiche Art mit
+                    denen behandelt würden, die ihre Untertanen zu gegründeten Beschwerden gereizt
+                    hätten.</p>
+            <p>8. Es ist wahr, dass die Königl. Kabinettsordre an einen Commissario denkt, durch
+                                        welchen die Urbaria betrieben werden sollen, aber es ist
+                                        auch nicht im Geringsten zu zweifeln, dass Sr. Königl.
+                                        Majestät eine Ausnahme bei denjenigen Gutsbesitzern erlauben
+                                        und zulassen werden, welche mit ihren Untertanen in
+                                        Jahrhunderten keine Streitigkeiten gehabt und die privat
+                                        Urbaria auch so beschaffen sind, dass daraus keine zu
+                                        befürchten.</p>
+            <p>9. Diese Ausnahmen würden für das gemeine Beste wirken und Nacheiferung erregen,
+                    wie Ehrenzeichen oder praemiae.</p>
+            <p>
+               <hi rendition="#u">D. Bemerkungen über die natürliche Folgen, welche daraus
+                        entstehen, wenn die Urbaria zu strenge zwischen Gutsherrn und glebae
+                        adscripto in Absicht der Dienste reguliert werden sollen.</hi>
+            </p>
+            <p>1. Durch die Bemühung, die Dienste eines Untertanen auf Herrschaftl. Huben mit
+                                        Herrschaftl. Besatz genauer zu spezifizieren und zu
+                                        bestimmen, als bisher geschehen, wird der obgemeldte
+                                        patriarchalische Nexus abgeändert, wo der Untertan kein
+                                        Misstrauen hatte, weder gegen seinen Herrn noch gegen seine
+                                        praestanda, die er ohne Murren leistete und Brot zu dem
+                                        Brote hatte, denn sein Herr zog keine scharfen Linien um
+                                        seine rechtmäßigen Forderungen.</p>
+            <p>2. Gesetzt, es wäre praktikabel, alle Quellen der Prozesse wegen der praestandorum zu
+                                        verstopfen, so ist zu befürchten, dass durch die dazu
+                                        gewählten strengen Mittel eine noch größere Quelle zu
+                                        Exekutionen und andere damit verbundenen Prozesse geöffnet
+                                        werden dürfte. Denn da der Untertan offenbar seine Dienste
+                                        am Buchstaben halten würde, so würde der Gutsherr ein
+                                        Gleiches tun müssen. <lb/>Das heißt, die Zinszahlungstermine
+                                        müssten bei der Hälfte rechtens prompt eingehalten werden,
+                                        die Remission bei Unglücksfällen könnte nun nach keinen
+                                        Principiis von den Untertanen verlangt werden, und wie wenig
+                                        Unterstützung kann das geben. Vorschüsse an Saat und Brot
+                                        würden höchstens gegen Markt-Preis auf eine genaue bestimmte
+                                        Zahlungszeit stattfinden. Und gleichwohl würde die
+                                        Gutsherrschaft nicht die geringste Ungerechtigkeit
+                                        ausüben.</p>
+            <p>Möchte es doch S. Exzellenz dem einsichtsvollen und verehrungswürdigsten Herrn
+                    Groß-Kanzler und Chef der Justiz gefällig sein, dieses pro memoria einigermaßen
+                    erheblich scheinen, und dabei in Erwägung ziehen, dass es S. Königl. Majestät
+                    und Dero Landesväterl. Vorsorge darauf ankomme, die Quellen der Prozesse im
+                    Ganzen zu hemmen. <lb/>Die Regulierung der Urbarien und Anerkennung ihrer
+                    Richtigkeit allenfalls vor den Patrimonialgerichten würde vollkommen hinreichen,
+                    die höchst gerechten Absichten Sr. Majestät zu erreichen, dass die Ursachen zu
+                    Prozessen zwischen Gutsherren und Untertanen gehoben werden. <lb/>Aber die
+                    Regulierung derselben und ihre Anerkennung von Kommissarien der Landes-Collegien
+                    hebt das bishero der Königl. Autorität so unschädliche und zur allgemeinen
+                    Ordnung hilfreiche Ansehen der Gutsbesitzer beinahe ganz auf, und öffnet, wie
+                    schon oben angemerkt, eine größere Quelle zu Exekutions-Prozessen und ihren
+                    Folgen. <lb/>Bei der großen Verschiedenheit der Königl. Provinzien sind ja so
+                    viel Objekte, die nicht in der ganzen Preußischen Monarchie nach einem Plan
+                    reguliert werden können, und ist fast kein Zweifel, S. Königl. Majestät würden
+                    es nicht ungnädig bemerken, wenn die Instruktion zu Regulierung der Urbaria
+                    dahin modifiziert würde, dass die Landes-Collegia durch derselben Kommissarien
+                    nur in den Gütern Ordnung herstellen und festsetzen, wo die Gutsherren ungerecht
+                    gewesen und ihr Ansehen gemissbraucht hätten.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

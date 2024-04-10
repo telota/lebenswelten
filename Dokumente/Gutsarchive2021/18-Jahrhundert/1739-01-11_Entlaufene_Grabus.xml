@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_dr4_b3d_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schreibt an den Bürgermeister und Rat zu Memel wegen
+               Strafverfolgung der entlaufenen Untertanin Helena Dorothea Grabus. Steinort, 11.
+               Januar 1739</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 249, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1739-01-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_l1k_cdj_f3b">Bürgermeister und Rat zu Memel</orgName>
+            </correspAction>
+            <note>Der Akte liegen Abschriften von Briefen der Tochter, die sich nun <persName key="ed_oxc_x33_lpb">Eleonora Janson</persName> nannte, und ihres Ehemanns an
+                  <persName key="ed_vtv_rdj_f3b">Anna Liss</persName> bei. Im Brief vom 27. August
+               1739 heißt es, sie hätten von einem Soldaten erfahren, dass die Mutter hätte schwören
+               müssen, nicht aus den Gütern weichen zu wollen, dass Anne Mariechen den Koch
+                  <persName key="ed_q2m_r2j_f3b">Bluhm</persName> heiraten werde und dass die Gräfin
+               der Hochzeit von Luise mit einem verwitweten Bauern nicht zustimme, sondern ihr einen
+               lahmen Schneider bestimmt hätte. Sie möge ihnen doch schreiben, ob alles war wäre,
+               was berichtet wird. Sie könne die Antwort in Angerburg schreiben lassen, Verwalter
+                  <persName key="ed_y2q_qwh_lpb">Fischer</persName> würde die Zustellung
+               veranlassen. Sie wünschten, die Mutter könne ihre Lebenszeit bei ihnen beschließen
+               und verstehen nicht, warum die Gräfin sie nicht gehen lässt. Sie würden ihr auch ein
+               Pferd schenken. <lb/> Die Briefe und eine nicht abgesandte Antwort gehören zu den
+               Dokumenten im „judicalen Verhör‟ am 15. November 1740 vor dem Stadtrichter <persName key="ed_lbj_cfb_ycb">Billich</persName> zu Rastenburg gegen die verwitwete
+                  <persName key="ed_vtv_rdj_f3b">Anna Liss</persName>. Gegen sie hatte es bereits
+               1738 wegen der geflohenen Tochter eine gerichtliche Untersuchung gegeben um
+               festzustellen, ob sie von den Fluchtplänen etwas gewusst hätte, GStA PK, XX. HA, Rep.
+               54 Gutsarchiv Lehndorff-Steinort, Nr. 246, <ref target="lehndorff_kbx_ptc_f3b">Bürgermeister und Rat zu Memel an Maria Louisa Gräfin von Lehndorff, Memel, 29.
+                  Januar 1739</ref>. Sie hatte damals geschworen, „dass sie als eine Erb-Untertanin
+               mit allen Kindern der Hochgräflich Steinortschen Herrschaft zu aller Zeit treu und
+               gehorsam bleiben und auch solchergestalt leben und sterben und auf keine Art und
+               Weise desertieren noch andere dazu anrätig oder behilflich sein wolle‟. Jeder
+               Kontakt, selbst der Briefwechsel mit ihrer aus den Gütern entlaufenen verwitweten
+               Tochter, war ihr untersagt worden. <lb/> Nachdem sich die Mutter wegen der Flucht der
+               Tochter mehrfach hatte erklären müssen (<ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940854">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 544</ref>, Bl. 47-48), entlief sie
+               1741 ebenfalls nach Memel. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_dr4_b3d_vpb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 11. Januar 1739 </dateline>
+               <salute>Hochwohlgeborener Herr Bürgermeister. Hochedle, Hohe und wohlweise
+                        Herren Ratsverwandte. Hochzuehrende, Hochgeneigte Herren!</salute>
+            </opener>
+            <p>
+               <ref target="lehndorff_kbx_ptc_f3b">Es hat sich in facto begeben, dass vor einiger
+                  Zeit aus meinen Gütern eine mir mit Untertänigkeit zugetane Person, Helena
+                  Dorothea <persName key="ed_vcn_fdj_f3b">Grabuschin</persName>, nicht allein
+                  gottloser Weise heimlich davon gegangen, sondern mir noch dazu Sachen diebischer
+                  Weise entwendet hat. </ref>Dessen nun aber in gewisse Erfahrung gekommen, dass
+               vorbemeldte Grabuschin sich in <placeName key="ed_oxb_txl_5y">Memel</placeName> an
+               einen gewissen Fuhrmann Johann Joachim <persName key="ed_rcb_pm3_lpb">Janson</persName> verheirate habe <gap reason="insignificant"/>
+            </p>
+            <p>
+               <note type="editorial">Der Magistrat zu Memel hatte die Angeschuldigte einem Verhör
+                  unterzogen und ihr den Kontakt zur Mutter untersagt. Trotzdem waren Briefe
+                  zugestellt worden, die 1740 zum Prozess gegen die verwitwete <persName key="ed_vtv_rdj_f3b">Anna Liss</persName> und deren Sohn <persName key="ed_qqw_3dj_f3b">Caspar Grabusch</persName>, Schneidergeselle in den
+                  Steinortschen Gütern, führten, in dem der Krüger aus Rosengarten, der
+                  Schulmeister, der Schulze aus Taberlack und andere als Zeugen befragt wurden. Am
+                  15. November 1740 wurde das Urteil gefällt und Anna Liss für schuldig befunden,
+                  gegen ihren geleisteten Eid verstoßen zu haben. Fluchtpläne konnte man ihr jedoch
+                  nicht nachweisen. Eine Verurteilung zur Zuchthausarbeit wurde deshalb von der
+                  Gräfin abgelehnt. Die Verurteilte hatte sich einer „öffentlichen Aussöhnung‟ mit
+                  der Gemeinde vor Pfarrer <persName key="ed_ctk_rdq_lpb">Kaminski</persName> aus
+                     <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> zu unterziehen. Bei
+                  jedem weiteren Verdacht sollte die Zuchthausstrafe in Anwendung kommen. Der Sohn
+                  wurde in Anbetracht seines jungen Alters und erlernten Handwerks und in Hoffnung
+                  auf Reue und Besserung ebenfalls zur „Aussöhnung mit der Gemeinde‟ an den Pfarrer
+                  in Rosengarten verwiesen. Die 4 1/2 tägige Gerichtsgebüren für Versäumnisse und
+                  Wege in Höhe von 9 Fl. war von beiden gemeinsam zu zahlen. Wegen der
+                  aufrechterhaltenen Korrespondenz, zugesandter Geschenke, grober Lügen, gottlosem
+                  Wesen und der Aufforderung zum Desertieren bat die Gräfin am 23. November 1740 den
+                  Bürgermeister zu Memel <persName key="ed_ggs_y2q_lpb">Schwemschuch</persName>
+                  gegen Helena Dorothea Janson und ihren Ehemann tätig zu werden.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

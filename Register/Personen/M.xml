@@ -1,0 +1,2940 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_es5_qm1_wyb">
+                    <persName type="reg">
+                        <surname>Morgenbesser</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Apellationsgerichtsrat Insterburg (1870)</note>
+                </person>
+                <person xml:id="ed_dx2_vv4_mbb">
+                    <persName type="reg">
+                        <surname>Machholz</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1776 Pfarrer der reformierten Gemeinde in Königsberg</note>
+                </person>
+                <person xml:id="ed_gb5_wnh_tdb">
+                    <persName type="reg">
+                        <surname>Mackenzie</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Engländer (1756, 1769)</note>
+                </person>
+                <person xml:id="ed_ts4_rwf_llb">
+                    <idno type="uri">https://d-nb.info/gnd/118781103</idno>
+                    <persName type="reg">
+                        <surname>Mackenzie</surname>
+                        <forename>Morell</forename>
+                    </persName>
+                    <birth>1837</birth>
+                    <death>1892</death>
+                </person>
+                <person xml:id="ed_zyn_spb_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/118730185</idno>
+                    <persName type="reg">
+                        <surname>Magnus</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth>1799</birth>
+                    <death>1872</death>
+                </person>
+                <person xml:id="ed_wc3_tzf_j5b">
+                    <persName type="reg">
+                        <surname>Magnus</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_etn_wzf_j5b">
+                    <persName type="reg">
+                        <surname>Magnus</surname>
+                        <forename>Sophia</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_tnb_yq5_zdb">
+                    <persName type="reg">
+                        <surname>Mahlmeister</surname>
+                        <forename>Alexander</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schuhmachermeister, Berlin (1942)</note>
+                </person>
+                <person xml:id="ed_l32_tf4_my">
+                    <persName type="reg">
+                        <surname>Mahsmann</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bevollmächtigter der Gräfin von Lehndorff in Gastein (1871)</note>
+                </person>
+                <person xml:id="ed_izg_ssm_zcb">
+                    <persName type="reg">
+                        <surname>Majewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1814)</note>
+                </person>
+                <person xml:id="ed_dhz_ztx_5sb">
+                    <persName type="reg">
+                        <surname>Malinowski</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Schönberg (1785)</note>
+                </person>
+                <person xml:id="ed_cxj_rwl_wcb">
+                    <idno type="uri">http://d-nb.info/137915446</idno>
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Burchard Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_og3_hcb_hfb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Rothenmoor in Mecklenburg (1858)</note>
+                </person>
+                <person xml:id="ed_nv3_qvd_b2b">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Friederike von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Seeliger</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1817)</note>
+                </person>
+                <person xml:id="ed_shd_c5s_vsb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1834)</note>
+                </person>
+                <person xml:id="ed_hxt_qch_1cb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1882, 1889)</note>
+                </person>
+                <person xml:id="ed_tyg_d5p_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/137915683</idno>
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Hans Dietrich Freiherr von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_rqn_gy3_tdb">
+                    <persName type="reg">
+                        <surname>Maltzahn</surname>
+                        <forename>Helmut Burchard Hartwig Freiherr von</forename>
+                    </persName>
+                    <birth>1729</birth>
+                    <death>1797</death>
+                    <note>auf Ivenack, preußischer Geheimer Legationsrat, ehemaliger Gesandter in
+                        Stockholm </note>
+                </person>
+                <person xml:id="ed_mwg_mbh_dvb">
+                    <persName type="reg">
+                        <surname>Mann</surname>
+                        <forename>Gottfried</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schreiber (1748)</note>
+                </person>
+                <person xml:id="ed_b4z_sqf_p2b">
+                    <idno type="uri">https://d-nb.info/gnd/128128232</idno>
+                    <persName type="reg">
+                        <surname>Manneberg</surname>
+                        <forename>Werner</forename>
+                    </persName>
+                    <birth>1923</birth>
+                    <death>2000</death>
+                </person>
+                <person xml:id="ed_ezm_s3b_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/116735996</idno>
+                    <persName type="reg">
+                        <surname>Manteuffel</surname>
+                        <forename>Otto Theodor Freiherr von</forename>
+                    </persName>
+                    <birth>1805</birth>
+                    <death>1882</death>
+                </person>
+                <person xml:id="ed_b3j_dln_scb">
+                    <persName type="reg">
+                        <surname>Marat</surname>
+                        <forename>Johann Baptist</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1820</death>
+                    <note>Sohn des aus Böhmen stammenden Violoncellisten der Berliner Hofkapelle
+                        Ignaz Marat, Violoncellist, Komponist (1764)</note>
+                </person>
+                <person xml:id="ed_rr4_z2k_d2b">
+                    <persName type="reg">
+                        <surname>Maraun</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Condehnen, 1861 Abgeordneter Wahlkreis Schaken</note>
+                </person>
+                <person xml:id="ed_zzg_bjv_yxb">
+                    <persName type="reg">
+                        <surname>Marczinski</surname>
+                        <forename>Charlotte</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Labab (1854)</note>
+                </person>
+                <person xml:id="ed_tfk_ncb_3vb">
+                    <persName type="reg">
+                        <surname>Marhold</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner, Steinort (1850)</note>
+                </person>
+                <person xml:id="ed_tkt_v5d_ndb">
+                    <persName type="reg">
+                        <surname>Marschall</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Marschall von Bieberstein</name>
+                    </persName>
+                    <birth/>
+                    <death>1753</death>
+                    <note>preußischer Legationsrat; Vetter von Ernst Ahasverus Heinrich Graf von
+                        Lehndorff</note>
+                </person>
+                <person xml:id="ed_nw4_ppf_vdb">
+                    <persName type="reg">
+                        <surname>Marschall</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Marschall von Bieberstein</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note><ref target="https://de.wikipedia.org/wiki/Marschall_von_Bieberstein"/></note>
+                </person>
+                <person xml:id="ed_fwh_pyp_lpb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1774)</note>
+                </person>
+                <person xml:id="ed_xw1_drv_scb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kutscher, Steinort (1784)</note>
+                </person>
+                <person xml:id="ed_gqp_db4_5qb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kämmerer, Steinort (1726)</note>
+                </person>
+                <person xml:id="ed_zpg_fl1_tcb">
+                    <persName type="reg">
+                        <surname>Martin</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Küstrin (1762)</note>
+                </person>
+                <person xml:id="ed_nvz_h3g_hy">
+                    <idno type="uri">http://d-nb.info/gnd/128407352</idno>
+                    <persName type="reg">
+                        <surname>Martini</surname>
+                        <forename>Giuseppe</forename>
+                    </persName>
+                    <birth>1922</birth>
+                    <death>2007</death>
+                </person>
+                <person xml:id="ed_bzd_nsf_vdb">
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>August Gebhard von der</forename>
+                    </persName>
+                    <birth>1695</birth>
+                    <death>1753</death>
+                    <note>(1740)</note>
+                </person>
+                <person xml:id="ed_nnw_1qf_vdb">
+                    <idno type="uri">http://d-nb.info/gnd/129410616</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Bodo von der</forename>
+                    </persName>
+                    <birth>1893</birth>
+                    <death>1982</death>
+                </person>
+                <person xml:id="ed_cmb_1lg_hy">
+                    <idno type="uri">http://d-nb.info/gnd/118578472</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Friedrich August Ludwig von der</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1837</death>
+                </person>
+                <person xml:id="ed_ohl_5sf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/107605336X</idno>
+                    <persName type="reg">
+                        <surname>Marwitz</surname>
+                        <forename>Gustav Ludwig von der</forename>
+                    </persName>
+                    <birth>1730</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_stb_3j2_2cb">
+                    <idno type="uri">https://d-nb.info/gnd/137377819</idno>
+                    <persName type="reg">
+                        <surname>Marwitz zu Friedersdorf</surname>
+                        <forename>Behrendt Friedrich August von der</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_j4h_dtf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/118731467</idno>
+                    <persName type="reg">
+                        <surname>Marwitz zu Friedersdorf</surname>
+                        <forename> von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="ed_uyn_sjv_g2b">
+                    <persName type="reg">
+                        <surname>März</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneider, Buddern (1882)</note>
+                </person>
+                <person xml:id="ed_pbf_yvl_wcb">
+                    <persName type="reg">
+                        <surname>Mason</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bankier, Berlin (1835)</note>
+                </person>
+                <person xml:id="ed_hqh_d5w_2lb">
+                    <persName type="reg">
+                        <surname>Massalski</surname>
+                        <forename>Ignacy Jakub </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1762–1794 Bischof von Vilnius <ref target="https://en.wikipedia.org/wiki/Ignacy_Jakub_Massalski"/></note>
+                </person>
+                <person xml:id="ed_zcn_fdb_h2b">
+                    <persName type="reg">
+                        <surname>Massenbach</surname>
+                        <forename>Anna Maria Elise von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Steiner</name>
+                    </persName>
+                    <birth>1861</birth>
+                    <death/>
+                    <note>Heirat: 1880 Franz III. Victor Fabian Johannes Freiherr von Massenbach
+                        (1850-1914), auf Gut Angerhof, Kreis Angerburg</note>
+                </person>
+                <person xml:id="ed_vhm_mqk_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/137396600</idno>
+                    <persName type="reg">
+                        <surname>Massenbach</surname>
+                        <forename>Friedrich von</forename>
+                    </persName>
+                    <birth>1753</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="ed_sqh_5wl_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/116836482</idno>
+                    <persName type="reg">
+                        <surname>Massow</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1794</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_v23_gsp_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/137397135</idno>
+                    <persName type="reg">
+                        <surname>Massow</surname>
+                        <forename>Valentin von</forename>
+                    </persName>
+                    <birth>1712</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_kd2_hg5_xxb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wachtmeister (1818)</note>
+                </person>
+                <person xml:id="ed_ycl_gtc_nwb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Kittlitz (1684)</note>
+                </person>
+                <person xml:id="ed_s5z_hbg_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Klein Steinort (1821)</note>
+                </person>
+                <person xml:id="ed_a4d_b1s_vsb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Brenner, Deputatsempfänger, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_ssn_vt3_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Kittlitz (1808)</note>
+                </person>
+                <person xml:id="ed_mdz_p53_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hospitalit, Kittlitz (1808)</note>
+                </person>
+                <person xml:id="ed_l1d_yrc_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hospitalit, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_afd_cfx_clb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stobben (1745)</note>
+                </person>
+                <person xml:id="ed_h5p_2lj_gy">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan des Grafen von Lehndorff-Steinort, 1795 entlaufen</note>
+                </person>
+                <person xml:id="ed_r5w_bxj_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Jacob Masuch; Taberlack (1722, 1744)</note>
+                </person>
+                <person xml:id="ed_sk5_dyc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Adam</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_omb_fvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Masuch; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_qsp_s3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname><forename> Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Pächters von Taberlack; Jacob Masuch (1718)</note>
+                </person>
+                <person xml:id="ed_lnr_4vr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Gärtner, Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_u4s_gj1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_hzw_mjb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_wpk_pgc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Matthes Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_zwn_ptc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schwester des Michael Masuch; Erbuntertanin, Kittlitz, vor 1718
+                        entlaufen</note>
+                </person>
+                <person xml:id="ed_psg_qgc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Barbara</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Matthes Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_jgg_hsh_bqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Bartel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Jacob Masuch; Kecht im Hof Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_c52_5gg_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1821)</note>
+                </person>
+                <person xml:id="ed_hmn_pqd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Masuch; Magd im Hof Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_ff2_ttw_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Christoph Masuch; Kittlitz (1718)</note>
+                </person>
+                <person xml:id="ed_ayy_fj1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_ztb_t1j_myb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Chr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_zzk_bjb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_bcc_rw1_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Labab (1808)</note>
+                </person>
+                <person xml:id="ed_ot5_cvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Tischler, Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_g1c_hyc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Abraham Masuch; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_k4c_qqc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_lmv_hrc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Gärtner, Labab, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_jpp_rtw_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Untertan, Kittlitz (1716, 1718)</note>
+                </person>
+                <person xml:id="ed_nhd_xgg_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1821)</note>
+                </person>
+                <person xml:id="ed_zkv_fvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Christoph jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Masuch; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_mwc_4tc_nwb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Taberlack (1684)</note>
+                </person>
+                <person xml:id="ed_bjw_d4b_3qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawisken (1689)</note>
+                </person>
+                <person xml:id="ed_plt_ngc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Matthes Masuch; Knecht im Hof Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_q3g_q3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Pächters von Taberlack, Jacob Masuch (1718)</note>
+                </person>
+                <person xml:id="ed_q53_l3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death>1716</death>
+                    <note>Pächter, Taberlack</note>
+                </person>
+                <person xml:id="ed_wkt_2j1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des David Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_thv_1j1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>David sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_lfy_4qd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Masuch; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_qkj_pjb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_kr4_hgq_lpb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stobben (1744), verheiratet mit dem Bauern <persName key="ed_itq_mgq_lpb">Georg Masuch</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_p41_cdv_ysb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1772)</note>
+                </person>
+                <person xml:id="ed_k2z_pqd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Masuch; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_dwy_nyc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Abraham Masuch; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_sj1_ksh_bqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Jacob Masuch; Knecht, Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_x4b_stc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Elsa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schwester des Michael Masuch; Erbuntertanin, Kittlitz, vor 1718
+                        entlaufen</note>
+                </person>
+                <person xml:id="ed_nqs_bvd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Eva</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertanin, Magd, Stobbe (1718)</note>
+                </person>
+                <person xml:id="ed_txb_pkm_33b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Familie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort</note>
+                </person>
+                <person xml:id="ed_dxx_1ht_fqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Fr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1807, 1808)</note>
+                </person>
+                <person xml:id="ed_vqv_kqd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertanin, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_dll_gjc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des David Masuch (gest. 1716), Pächter von Taberlack, Mutter des
+                        David Masuch</note>
+                </person>
+                <person xml:id="ed_q4m_clw_yxb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Fritz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1812)</note>
+                </person>
+                <person xml:id="ed_qhd_cvc_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_qxj_wqc_zqb">
+                    <persName type="reg"><surname>Masuch</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_itq_mgq_lpb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Masuch; Bauer, Stobben (1736, 1740, 1744)</note>
+                </person>
+                <person xml:id="ed_jnk_dd1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Georg jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Georg Masuch; Stawisken (1718)</note>
+                </person>
+                <person xml:id="ed_pmm_bd1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Georg sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Gärtner, Stawisken (1718)</note>
+                </person>
+                <person xml:id="ed_h4m_fvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Gerhard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Masuch; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_onb_s3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname><forename> Gerhard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Pächters von Taberlack, Jacob Masuch (1718)</note>
+                </person>
+                <person xml:id="ed_btl_31j_myb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>J.</forename></persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_wv2_5xg_j5b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Labab (1744)</note>
+                </person>
+                <person xml:id="ed_rtr_fyc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Abraham Masuch; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_azy_vrh_bqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Hirte, Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_od2_33c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des David Masuch (gest. 1716); Pächter, Taberlack (1718) </note>
+                </person>
+                <person xml:id="ed_sg5_xqp_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stiefvater: Pollaschke; übernimmt 1740 den wüsten Hof in Taberlack</note>
+                </person>
+                <person xml:id="ed_edm_xrh_bqb">
+                    <persName type="reg">
+                        <surname>Masuch </surname>
+                        <forename>Jacob jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Jacob Masuch; Knecht, Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_owv_4sc_nwb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Stobben (1684)</note>
+                </person>
+                <person xml:id="ed_stb_v4c_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1808 Knecht (1808), Instmann (1821), Bauer (1824), Taberlack</note>
+                </person>
+                <person xml:id="ed_kmb_y4l_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Taberlack (1824)</note>
+                </person>
+                <person xml:id="ed_a2l_gvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Masuch; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_mkg_rml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, 1735 entlaufen</note>
+                </person>
+                <person xml:id="ed_ahl_mqd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Masuch; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_ncg_fd1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Georg Masuch; Knecht auf dem neuen Vorwerk (?) (1718)</note>
+                </person>
+                <person xml:id="ed_gfh_w3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Justina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Pächters von Taberlack, Jacob Masuch (1718)</note>
+                </person>
+                <person xml:id="ed_zgp_svr_vsb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Deputatsempfängerin, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_klq_nyc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Abraham Masuch; 1718 Serwillen</note>
+                </person>
+                <person xml:id="ed_agr_w3c_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Pächters von Taberlack, Jacob Masuch (1718)</note>
+                </person>
+                <person xml:id="ed_x23_gj1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_sht_3d1_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Georg Masuch; Stawisken (1718)</note>
+                </person>
+                <person xml:id="ed_m5f_njb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_mdt_bmc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Magd, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_cqs_vml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename> Maria Charlotte </forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Puskin</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertanin, 1771 entlaufen</note>
+                </person>
+                <person xml:id="ed_lkd_kfj_3qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauernsohn, Serwillen (1741)</note>
+                </person>
+                <person xml:id="ed_jyg_lgc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Matthes</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann oder Gärtner, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_rwv_cmc_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Mich.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1808, 1824)</note>
+                </person>
+                <person xml:id="ed_srr_p4l_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Taberlack (1824)</note>
+                </person>
+                <person xml:id="ed_nqp_hch_dvb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Masuch; Knecht beim Schmied in Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_bd4_1pl_1vb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Taberlack (1824)</note>
+                </person>
+                <person xml:id="ed_a5l_4x1_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Labab (1808)</note>
+                </person>
+                <person xml:id="ed_nwx_qvr_vqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn von Andreas Masuch; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_ngh_ljc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack, „Hurenkind‟ (1718)</note>
+                </person>
+                <person xml:id="ed_sv5_bjb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_fzk_bsh_bqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Jacob Masuch, Vorreiter in Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_hbt_stw_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Masuch; Kittlitz (1718)</note>
+                </person>
+                <person xml:id="ed_wfq_nqd_2qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Masuch; Knecht beim Schmied in Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_njs_g3p_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1736), 1740 entlaufen</note>
+                </person>
+                <person xml:id="ed_hd4_tml_w2b">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner, Steinort, 1756 entlaufen</note>
+                </person>
+                <person xml:id="ed_fvy_pgc_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Regina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Matthes Masuch; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_k4y_z2s_vsb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Samuel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Musketier in den Befreiungskriegen; Instmann, Serwillen (1819)</note>
+                </person>
+                <person xml:id="ed_l3s_cjb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Valtin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Valtin Masuch jun.; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_ad3_z3b_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Valtin jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_h2t_zfb_5qb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Valtin sen.</forename></persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_obd_5vc_zqb">
+                    <persName type="reg">
+                        <surname>Masuch</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1808)</note>
+                </person>
+                <person xml:id="ed_f11_hyf_j5b">
+                    <persName type="reg">
+                        <surname>Matern</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Maurer, Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_bzn_jzf_j5b">
+                    <persName type="reg">
+                        <surname>Matern</surname>
+                        <forename>Annortha</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_z5m_kyf_j5b">
+                    <persName type="reg">
+                        <surname>Matern</surname>
+                        <forename>Ortha</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Maurers Matern; Steinort (1743)</note>
+                </person>
+                <person xml:id="ed_fy5_kp5_1bb">
+                    <persName type="reg">
+                        <surname>Matthias</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofmann, Steinort (1724)</note>
+                </person>
+                <person xml:id="ed_z1s_1js_2wb">
+                    <persName type="reg">
+                        <surname>Matthias</surname>
+                        <forename>Barbara Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1792</death>
+                    <note>Schumachermeister-Witwe </note>
+                </person>
+                <person xml:id="ed_yys_qxp_lpb">
+                    <persName type="reg">
+                        <surname>Matthias</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Mietsmann, Stawisken (1674)</note>
+                </person>
+                <person xml:id="ed_c3k_fsc_nwb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fischer, Stawisken (1684)</note>
+                </person>
+                <person xml:id="ed_ggc_c3t_fqb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Taberlack (1807, 1808)</note>
+                </person>
+                <person xml:id="ed_v2t_r4c_zqb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_bks_lq1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Hans Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_tdv_hhc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von Maria und Christoph Matzick; Magd, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_ldc_4rc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stawisken, 1710 entlaufen</note>
+                </person>
+                <person xml:id="ed_yl5_dhc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1718</death>
+                    <note>Losmann, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_mg1_2q1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hans Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_ok2_dq1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname><forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hans Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_kkl_3hc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von Maria und Christoph Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_jrd_lq1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Hans Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_o51_hhc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter von Maria und Christoph Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_x3w_1q1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> Erbuntertan, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_lsw_sgn_ypb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_zr5_1hc_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des Christoph Matzick; Losfrau, Taberlack (1718) </note>
+                </person>
+                <person xml:id="ed_vzl_dq1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hans Matzick; vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_vbq_2q1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Hans Matzick; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_v5c_gp1_5qb">
+                    <persName type="reg">
+                        <surname>Matzick</surname>
+                        <forename>Toffel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Schulzen Jan Matzick; nehmen 1721 zusammen ein Bauernerbe in
+                        Taberlack an</note>
+                </person>
+                <person xml:id="ed_zh1_5pl_1vb">
+                    <persName type="reg">
+                        <surname>Matzig</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Taberlack (1824)</note>
+                </person>
+                <person xml:id="ed_wtm_b4m_s3b">
+                    <persName type="reg">
+                        <surname>Maul </surname>
+                        <forename>Jacob von </forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Legendorf</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Maulen</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Lehndorff</name>
+                    </persName>
+                    <birth>1390</birth>
+                    <death>1457</death>
+                    <note>Preußischer Uradel, der zuerst 1236 in Pommerellen erschien; das
+                        Geschlecht nannte sich zuerst Maul, dann Legendorf, nach der Übersiedlung
+                        nach Ostpreußen nahm es den Namen von Lehndorff an. Die meisten Forscher
+                        vermuten eine Abstammung vom deutschen Geschlecht Maulen, während polnische
+                        Forscher eine polnische Abstammung von den Mgowski aus der Kulmer Gegend
+                        (Mgowo) ableiten; Jacob von Maul(en) urkundet 1412-1434 als Herr zu Maulen,
+                        Kreis Königsberg und kauft 1423 Taberlack, Kreis Angerburg, als Teil der
+                        Steinortischen Wildnis.</note>
+                </person>
+                <person xml:id="ed_rs5_pyq_v2b">
+                    <persName type="reg">
+                        <surname>Maupertuis</surname>
+                        <forename>Katharina Eleonore von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Borcke, von</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des 1759 gest. Akademiepräsidenten <persName key="ed_kfz_zw1_fz">von
+                            Maupertuis</persName>, Oberhofmeisterin der Prinzessin Amalie</note>
+                </person>
+                <person xml:id="ed_kfz_zw1_fz">
+                    <idno type="uri">http://d-nb.info/gnd/118731998</idno>
+                    <persName type="reg">
+                        <surname>Maupertuis</surname>
+                        <forename>Pierre Louis Moreau de</forename>
+                    </persName>
+                    <birth>1698</birth>
+                    <death>1759</death>
+                </person>
+                <person xml:id="ed_qqx_3w3_zqb">
+                    <persName type="reg">
+                        <surname>Maurach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note> Schulmeister, Pristanien (1808)</note>
+                </person>
+                <person xml:id="ed_inj_cz3_zqb">
+                    <persName type="reg">
+                        <surname>Maurach</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hirte, Pristanien (1808)</note>
+                </person>
+                <person xml:id="ed_xhr_shh_my">
+                    <idno type="uri">http://d-nb.info/gnd/12190251X</idno>
+                    <persName type="reg">
+                        <surname>Meckelburg</surname>
+                        <forename>Friedrich Adolf</forename>
+                    </persName>
+                    <birth>1809</birth>
+                    <death>1891</death>
+                    <note> </note>
+                </person>
+                <person xml:id="ed_mld_lqn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/119333252</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg</surname>
+                        <forename>Adolf Friedrich Herzog zu</forename>
+                    </persName>
+                    <birth>1874</birth>
+                    <death>1969</death>
+                </person>
+                <person xml:id="ed_osm_x1j_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/118647083</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg-Strelitz</surname>
+                        <forename>Adolf Friedrich IV. Herzog von</forename>
+                    </persName>
+                    <birth>1738</birth>
+                    <death>1794</death>
+                </person>
+                <person xml:id="ed_sxm_55t_flb">
+                    <idno type="uri">https://d-nb.info/gnd/104182172</idno>
+                    <persName type="reg">
+                        <surname>Mecklenburg-Strelitz</surname>
+                        <forename>Karl II. Herzog (Großherzog) von</forename>
+                    </persName>
+                    <birth>1741</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_rn4_v1j_myb">
+                    <persName type="reg">
+                        <surname>Meding</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_k3x_4jc_zqb">
+                    <persName type="reg">
+                        <surname>Meding</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stawisken (1808)</note>
+                </person>
+                <person xml:id="ed_ny3_ndj_zqb">
+                    <persName type="reg">
+                        <surname>Meding</surname>
+                        <forename>Witwe</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_blk_dqx_hkb">
+                    <persName type="reg">
+                        <surname>Meerscheidt-Hüllesem</surname>
+                        <forename>Sophia Louisa von</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Rhenius</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>Gohr</name>
+                    </persName>
+                    <birth>1765</birth>
+                    <death>1823</death>
+                    <note>Heirat: 1) Ahasverus von Gohr (gest. vor 1790), 2) <persName key="ed_bpl_fsj_gy">Wilhelm Andreas Rhenius</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_kn2_f1q_h1b">
+                    <idno type="uri">http://d-nb.info/gnd/104224282</idno>
+                    <persName type="reg">
+                        <surname>Meierotto</surname>
+                        <forename>Johann Heinrich Ludwig</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_vlz_ndp_vcb">
+                    <idno type="uri">http://d-nb.info/gnd/116862297</idno>
+                    <persName type="reg">
+                        <surname>Meil</surname>
+                        <forename>Johann Wilhelm</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1805</death>
+                </person>
+                <person xml:id="ed_lkq_kvw_5sb">
+                    <persName type="reg">
+                        <surname>Meisner</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht, Reichertswalde (1763)</note>
+                </person>
+                <person xml:id="ed_ach_bh1_h2b">
+                    <persName type="reg">
+                        <surname>Meitzen</surname>
+                        <forename>Magnus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Justizrat, Rechtsanwalt und Notar im Bezirk des Königlichen
+                        Oberlandesgerichts zu Königsberg, ansäsisg in Angerburg, Anwalt und Notar
+                        der Familie von Lehndorff (1884)</note>
+                </person>
+                <person xml:id="ed_izm_p5z_zdb">
+                    <persName type="reg">
+                        <surname>Mellenthin</surname>
+                        <forename>Hans Joachim von</forename>
+                    </persName>
+                    <birth>1887</birth>
+                    <death>1971</death>
+                    <note>Heirat: <persName key="ed_vdw_kfv_sdb">Sophie Gräfin von
+                            Kalnein</persName>, geb. von Boddien (1944)</note>
+                </person>
+                <person xml:id="ed_r54_pvp_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/116876212</idno>
+                    <persName type="reg">
+                        <surname>Mencken</surname>
+                        <forename>Anastasius Ludwig</forename>
+                    </persName>
+                    <birth>1752</birth>
+                    <death>1801</death>
+                </person>
+                <person xml:id="ed_hyp_sxj_tcb">
+                    <persName type="reg">
+                        <surname>Mendel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Münzjude, Berlin (1793)</note>
+                </person>
+                <person xml:id="ed_rfn_c4c_zqb">
+                    <persName type="reg">
+                        <surname>Mensack</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Radmacher, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_es2_r35_c2b">
+                    <persName type="reg">
+                        <surname>Mercker</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor, Prökelwitz (1837)</note>
+                </person>
+                <person xml:id="ed_agr_21m_ddb">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Friederike</forename>
+                    </persName>
+                    <birth>1859</birth>
+                    <death/>
+                    <note>(1859)</note>
+                </person>
+                <person xml:id="ed_db2_gvp_dz">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Heinrich Leopold</forename>
+                    </persName>
+                    <birth>1814</birth>
+                    <death>1898</death>
+                    <note>Sohn von Carl H. G. Messerschmidt (verst. 1855); Heirat: 1853 Amalie
+                        Gwiasda aus Groß Steinort (39 Jahre alt), Tochter des Schneiders Ernst
+                        Gwiasda aus Gr. Steinort; Verwalter (‟Wirtschafter‟) von Steinort</note>
+                </person>
+                <person xml:id="ed_flx_d33_xkb">
+                    <persName type="reg">
+                        <surname>Messerschmidt</surname>
+                        <forename>Leopold</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Rosengarten (1853, 1857)</note>
+                </person>
+                <person xml:id="ed_rp1_rxn_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118581465</idno>
+                    <persName type="reg">
+                        <surname>Metternich</surname>
+                        <forename>Clemens Wenzel Fürst von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_zxr_jlz_2qb">
+                    <persName type="reg">
+                        <surname>Metz</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Besitzer des Gutes Masehnen (1742)</note>
+                </person>
+                <person xml:id="ed_hk3_t3m_j5b">
+                    <persName type="reg">
+                        <surname>Meuber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1783 Tischler, Reichertswalde (1783)</note>
+                </person>
+                <person xml:id="ed_tgy_sql_gbb">
+                    <persName type="reg">
+                        <surname>Meusel</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schriftsteller (1908)</note>
+                </person>
+                <person xml:id="ed_a2w_mzw_clb">
+                    <persName type="reg">
+                        <surname>Mey</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberamtmann (1745)</note>
+                </person>
+                <person xml:id="ed_jxr_sxb_3qb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename/></persName>
+                    <birth/>
+                    <death/>
+                    <note>Barten (1808)</note>
+                </person>
+                <person xml:id="ed_tnk_wms_fqb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Pristanien (1751-1757)</note>
+                </person>
+                <person xml:id="ed_jrr_t4q_ybb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erzieher des Grafen <persName key="ed_wtg_nyl_2y">Ahasverus Ernst von
+                            Lehndorff</persName> (1706), 1737 Richter in Lötzen</note>
+                </person>
+                <person xml:id="ed_p4r_n2s_jvb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofmeister (1712)</note>
+                </person>
+                <person xml:id="ed_isn_ssf_fqb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Labab (1753, 1757-1760)</note>
+                </person>
+                <person xml:id="ed_rbh_13x_ssb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1836)</note>
+                </person>
+                <person xml:id="ed_u5j_wnf_fqb">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>N.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Labab (1742)</note>
+                </person>
+                <person xml:id="ed_vxc_p2k_gy">
+                    <persName type="reg">
+                        <surname>Meyer</surname>
+                        <forename>Sigmund</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1911</death>
+                    <note>Bankhaus Meyer Cohn</note>
+                </person>
+                <person xml:id="ed_p4b_ywl_wcb">
+                    <idno type="uri">http://d-nb.info/gnd/131839268</idno>
+                    <persName type="reg">
+                        <surname>Meyerinck</surname>
+                        <forename>Ludwig von</forename>
+                    </persName>
+                    <birth>1789</birth>
+                    <death>1860</death>
+                </person>
+                <person xml:id="ed_asp_txf_ccb">
+                    <persName type="reg">
+                        <surname>Meyhöfer</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Lehrer, Doben (1883)</note>
+                </person>
+                <person xml:id="ed_iqm_53y_ydb">
+                    <persName type="reg">
+                        <surname>Michael</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Maurer, Lehndorffsche Güter (1780)</note>
+                </person>
+                <person xml:id="ed_u5g_qbd_5qb">
+                    <persName type="reg">
+                        <surname>Michael</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter der Gärtnerfrau Maria Michael; Magd, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_xdp_4bd_5qb">
+                    <persName type="reg">
+                        <surname>Michael</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Gärtnerfrau Maria Michael; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_skn_mbd_5qb">
+                    <persName type="reg">
+                        <surname>Michael</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertanin, Gärtnerfrau, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_ztb_rh2_b2b">
+                    <persName type="reg">
+                        <surname>Milthaler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1823)</note>
+                </person>
+                <person xml:id="ed_ahf_gvd_py">
+                    <persName type="reg">
+                        <surname>Milthaler</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>spätestens 1877 Lehrer an der 1861 gegründeten Schule in Kehlerwald;
+                        Vater: Johann Ferdinand Milthaler (1785-1843), Mälzenbräuer, Kaufmann und
+                        Stadtverordneter in Angerburg; Heirat: Emilie Goerke</note>
+                </person>
+                <person xml:id="ed_knd_hj3_h2b">
+                    <persName type="reg">
+                        <surname>Minnigerode</surname>
+                        <forename>Amelie Friederike Caroline von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Schrötter, Freiin von</name>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1902</death>
+                    <note>Heirat: <persName key="ed_dmr_r33_h2b">Wilhelm von Minnigerode</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_dmr_r33_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117578711</idno>
+                    <persName type="reg">
+                        <surname>Minnigerode</surname>
+                        <forename>Wilhelm von</forename>
+                    </persName>
+                    <birth>1840</birth>
+                    <death>1913</death>
+                </person>
+                <person xml:id="ed_jhn_y3q_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/119252910</idno>
+                    <persName type="reg">
+                        <surname>Mirbach-Sorquitten</surname>
+                        <forename>Ernst Freiherr von</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1925</death>
+                </person>
+                <person xml:id="ed_dwy_zsf_p2b">
+                    <persName type="reg">
+                        <surname>Mirecki</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Großkaufmann, Pächter der Gaststätte Talsperre Kriebstein (1947)</note>
+                </person>
+                <person xml:id="ed_lpx_q4h_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/135662486</idno>
+                    <persName type="reg">
+                        <surname>Mitchell</surname>
+                        <forename>Andrew</forename>
+                    </persName>
+                    <birth>1708</birth>
+                    <death>1771</death>
+                </person>
+                <person xml:id="ed_ijg_dgg_fqb">
+                    <persName type="reg">
+                        <surname>Mitmann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Spitzbube, Danzig, 1743 in Angerburg verhaftet</note>
+                </person>
+                <person xml:id="ed_nty_v4r_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Fabian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Wilhelm Mitschke; Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_tkj_qzr_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Fabian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Brauer, Steinort, 1717 entlaufen</note>
+                </person>
+                <person xml:id="ed_zg5_cqp_5qb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Gärtner, Klein Steinort; soll 1740 einen wüsten Hof in Stawisken
+                        übernehmen</note>
+                </person>
+                <person xml:id="ed_dvx_1mr_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Marie</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Michael Mitzka; Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_btl_mrz_tqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Garnknecht, Pristanien (1716)</note>
+                </person>
+                <person xml:id="ed_zj1_1mr_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Sybilla</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Michael Mitzka; Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_n4f_54r_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_l2j_w4r_vqb">
+                    <persName type="reg">
+                        <surname>Mitzka</surname>
+                        <forename>Wilhelm jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Wilhelm Mitschke; Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_nc2_vtp_rdb">
+                    <persName type="reg">
+                        <surname>Mniszech</surname>
+                        <forename>Gräfin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1756) <ref target="https://www.ipsb.nina.gov.pl/a/biografia/jerzy-august-wandalin-mniszech-h-wlasnego"/>
+                    </note>
+                </person>
+                <person xml:id="ed_y2h_tf3_vkb">
+                    <persName type="reg">
+                        <surname>Moddelsee</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor (1897)</note>
+                </person>
+                <person xml:id="ed_uxg_vyl_j5b">
+                    <persName type="reg">
+                        <surname>Moiditz</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Krüger, Taberlack (1750)</note>
+                </person>
+                <person xml:id="ed_tq1_nyr_vqb">
+                    <persName type="reg">
+                        <surname>Makoschei</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, 1711 aus Stawken entlaufen</note>
+                </person>
+                <person xml:id="ed_o2s_m5x_5sb">
+                    <persName type="reg">
+                        <surname>Moler</surname>
+                        <forename>C. G.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Aktuar, Schönberg (1784/85, 1788, 1790)</note>
+                </person>
+                <person xml:id="ed_cw3_1b5_c2b">
+                    <persName type="reg">
+                        <surname>Moliere</surname>
+                        <forename>de</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major (1836)</note>
+                </person>
+                <person xml:id="ed_ewv_5ds_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/104179015</idno>
+                    <persName type="reg">
+                        <surname>Moll</surname>
+                        <forename>Karl Bernhard</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1878</death>
+                </person>
+                <person xml:id="ed_h4m_4nb_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/117081051</idno>
+                    <persName type="reg">
+                        <surname>Möllendorf</surname>
+                        <forename>Wichard von</forename>
+                    </persName>
+                    <birth>1742</birth>
+                    <death>1816</death>
+                </person>
+                <person xml:id="ed_irm_lvt_fqb">
+                    <persName type="reg">
+                        <surname>Molter</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verkäufer eines Grundstück in Rosengarten (Mitte des 19. Jh.) </note>
+                </person>
+                <person xml:id="ed_fwx_1sq_cqb">
+                    <persName type="reg">
+                        <surname>Molter, Johann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1738 Pächter, Rosengarten (1738)</note>
+                </person>
+                <person xml:id="ed_ow2_mdd_py">
+                    <idno type="uri">http://d-nb.info/gnd/118583387</idno>
+                    <persName type="reg">
+                        <surname>Moltke</surname>
+                        <forename>Helmut Karl Bernhard Graf von</forename>
+                    </persName>
+                    <birth>1800</birth>
+                    <death>1891</death>
+                </person>
+                <person xml:id="ed_rfp_1mg_my">
+                    <persName type="reg">
+                        <surname>Moltke</surname>
+                        <forename>Marie Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Burt</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Heirat: 1842 <persName key="ed_ow2_mdd_py">Helmut Graf von
+                            Moltke</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_qv2_dbv_22b">
+                    <persName type="reg">
+                        <surname>Molwitz</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth>1849</birth>
+                    <death>1927</death>
+                    <note>Sohn des Seminar-Oberlehrers Molwitz in Annaberg; Student der Theologie in
+                        Leipzig, 1872/74 Hauslehrer des Grafen von Lehndorff-Steinort, 1874
+                        Promotion in Jena „De anakephalaioseos in Irenaei theologia potestate‟, 1874
+                        Diakonissenanstalt 3. Pfarrer (bis 1892 Hilfsgeistlicher) in Dresden, 1881
+                        Diakonissenanstalt Rektor (bis 1877 Prediger) in Dresden, Emeritierung: 31.
+                        Oktober 1924</note>
+                </person>
+                <person xml:id="ed_xcb_gsw_mbb">
+                    <persName type="reg">
+                        <surname>Mondzig</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Arzt, Angerburg (1784/85), 1802-1805 Bürgermeister <ref target="https://pl.wikipedia.org/wiki/Burmistrzowie_K%C4%99trzyna"/></note>
+                </person>
+                <person xml:id="ed_hgx_vv4_krb">
+                    <persName type="reg">
+                        <surname>Mönicke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Amtmann, Wildenhoff (1668)</note>
+                </person>
+                <person xml:id="ed_mmh_jnt_mtb">
+                    <persName type="reg">
+                        <surname>Mönnichau</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kammerpräsident (1718)</note>
+                </person>
+                <person xml:id="ed_g2r_w33_ycb">
+                    <idno type="uri">http://d-nb.info/gnd/118784811</idno>
+                    <persName type="reg">
+                        <surname>Moreau</surname>
+                        <forename>Jean Victor</forename>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1813</death>
+                </person>
+                <person xml:id="ed_k2g_121_4cb">
+                    <persName type="reg">
+                        <surname>Morre</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Mitarbeiter bei der Regulierung der gutsherrlichen und bäuerlichen
+                        Verhältnisse in den Steinortschen Gütern (1820)</note>
+                </person>
+                <person xml:id="ed_tjq_pnm_scb">
+                    <persName type="reg">
+                        <surname>Morrien</surname>
+                        <forename>Friederike Charlotte von</forename>
+                    </persName>
+                    <birth>1726</birth>
+                    <death>1768</death>
+                    <note>Hofdame der Gemahlin des Prinzen Heinrich; Heirat: <persName key="ed_ov5_jc3_tdb">Friedrich Adolph von Kalckreuth</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_z5w_qqb_3qb">
+                    <persName type="reg">
+                        <surname>Morstein</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Oberstleutnant (1714)</note>
+                </person>
+                <person xml:id="ed_z3s_tyh_yxb">
+                    <persName type="reg">
+                        <surname>Morzahn</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1830)</note>
+                </person>
+                <person xml:id="ed_gtf_bc3_3rb">
+                    <persName type="reg">
+                        <surname>Morzig</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Patrimonialrichter auf den Finckensteinschen Gütern (1769)</note>
+                </person>
+                <person xml:id="ed_k3z_hbc_jlb">
+                    <persName type="reg">
+                        <surname>Morzin</surname>
+                        <forename>Vinzenz Graf</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1882</death>
+                    <note>Oberst, Kämmerer</note>
+                </person>
+                <person xml:id="ed_tgc_gmh_wsb">
+                    <persName type="reg">
+                        <surname>Mosack</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Teilnehmer an den Befreiungskriegen, Träger des eisernen Kreuzes;
+                        Gestütsaufseher in Steinort (1830)</note>
+                </person>
+                <person xml:id="ed_dhh_fbt_fqb">
+                    <persName type="reg">
+                        <surname>Mosenthien</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Stawken (1754)</note>
+                </person>
+                <person xml:id="ed_p3r_k4j_hlb">
+                    <idno type="uri">https://d-nb.info/gnd/11858314X</idno>
+                    <persName type="reg">
+                        <surname>Möser</surname>
+                        <forename>Justus</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1794</death>
+                </person>
+                <person xml:id="ed_wyf_y5p_rdb">
+                    <persName type="reg">
+                        <surname>Moszynski</surname>
+                        <forename>Anton Graf </forename>
+                    </persName>
+                    <birth/>
+                    <death>1737</death>
+                    <note>polnischer Adliger; Schatzmeister König August II.; Heirat: Friederike
+                        Alexandra von Cosel</note>
+                </person>
+                <person xml:id="ed_ids_b5p_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/104702716X</idno>
+                    <persName type="reg">
+                        <surname>Moszynska</surname>
+                        <forename>Friederike Alexandra Gräfin</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Cosel, Gräfin von</name>
+                    </persName>
+                    <birth>1709</birth>
+                    <death>1784</death>
+                    <note>Heirat: <persName key="ed_wyf_y5p_rdb">Anton Graf Moszynski</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_j3r_yyx_hkb">
+                    <idno type="uri">https://d-nb.info/gnd/116941596</idno>
+                    <persName type="reg">
+                        <surname>Motherby</surname>
+                        <forename>William</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1847</death>
+                </person>
+                <person xml:id="ed_p4y_bbh_2z">
+                    <idno type="uri">http://d-nb.info/gnd/118534556</idno>
+                    <persName type="reg">
+                        <surname>Motte Fouqué</surname>
+                        <forename>Friedrich Heinrich Karl Freiherr de la</forename>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="ed_j2r_z3g_wsb">
+                    <persName type="reg">
+                        <surname>Motullo</surname>
+                        <forename>Gotthilf Leberecht</forename>
+                    </persName>
+                    <birth/>
+                    <death>1842</death>
+                    <note>Rektor in Aweiden, ab 1825 Pfarrer in Rosengarten (1830) <ref target="https://de.wikipedia.org/wiki/Christk%C3%B6nigskirche_(Radzieje)"/></note>
+                </person>
+                <person xml:id="ed_inh_wkb_3vb">
+                    <persName type="reg">
+                        <surname>Motullo</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Witwe des Pfarrers in Rosengarten (1850)</note>
+                </person>
+                <person xml:id="ed_a5r_ppl_1vb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Radmacher, Taberlack (1824)</note>
+                </person>
+                <person xml:id="ed_cyd_mqp_5qb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>1740?</death>
+                    <note>Stawisken (1740)</note>
+                </person>
+                <person xml:id="ed_ddn_k3p_5qb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1736)</note>
+                </person>
+                <person xml:id="ed_lsw_qsr_vqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Johann Moczarski; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_cmt_psr_vqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Johann Moczarski; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_mwg_qsr_vqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Johann Moczarski; Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_u3g_nsr_vqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stawken (1718)</note>
+                </person>
+                <person xml:id="ed_frj_dnr_vqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1718 Erbuntertan, Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_trp_plz_tqb">
+                    <persName type="reg">
+                        <surname>Moczarski</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawken (1716)</note>
+                </person>
+                <person xml:id="ed_bwq_qrz_tqb">
+                    <persName type="reg">
+                        <surname>Mozarzik</surname><forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Zinsschuldner, Pristanien (1716)</note>
+                </person>
+                <person xml:id="ed_i5f_kvf_fqb">
+                    <persName type="reg">
+                        <surname>Muga</surname>
+                        <forename>Woyteck</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>verst. Ehemann der Kutzing (1743)</note>
+                </person>
+                <person xml:id="ed_okx_gg4_my">
+                    <persName type="reg">
+                        <surname>Mühler</surname>
+                        <forename>Adelheid von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Goßler</name>
+                    </persName>
+                    <birth>1821</birth>
+                    <death>1901</death>
+                    <note>(1871)</note>
+                </person>
+                <person xml:id="ed_kvq_wkm_s3b">
+                    <persName type="reg">
+                        <surname>Mühlheim</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königsberger Patrizierfamilie (1571)</note>
+                </person>
+                <person xml:id="ed_o41_t1h_tpb">
+                    <persName type="reg">
+                        <surname>Mühlpfort</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kriegsrat, Georgenburg (1741)</note>
+                </person>
+                <person xml:id="ed_rl1_kjx_btb">
+                    <persName type="reg">
+                        <surname>Mühlpfort</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1723 Pächter, Serwillen (1723)</note>
+                </person>
+                <person xml:id="ed_w1v_yns_fqb">
+                    <persName type="reg">
+                        <surname>Mulack</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Pristanien (1740 bis 1742)</note>
+                </person>
+                <person xml:id="ed_tgd_yqj_3qb">
+                    <persName type="reg">
+                        <surname>Mülbe</surname>
+                        <forename>Rittmeister von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1695)</note>
+                </person>
+                <person xml:id="ed_sjq_h4w_mbb">
+                    <persName type="reg">
+                        <surname>Mülbe</surname>
+                        <forename>von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1784)</note>
+                </person>
+                <person xml:id="ed_src_lyw_2qb">
+                    <persName type="reg">
+                        <surname>Mülbe</surname>
+                        <forename>von der</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Kapitäns von der Mülbe (1718)</note>
+                </person>
+                <person xml:id="ed_zc3_wwg_h2b">
+                    <persName type="reg">
+                        <surname>Mulert</surname>
+                        <forename>Alwin Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1876-1901 Pfarrer in Canditten <ref target="http://www.natangen.de/Canditten_Beschreibung.htm"/></note>
+                </person>
+                <person xml:id="ed_zt5_h3c_t2b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kaufmann (1727)</note>
+                </person>
+                <person xml:id="ed_qrk_wyt_q2b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Wachtmeister (1810)</note>
+                </person>
+                <person xml:id="ed_r5f_jwl_wcb">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>Ferdinand</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bereiter beim Königlichen Leibreitstall, Potsdam (1835)</note>
+                </person>
+                <person xml:id="ed_ont_ls5_j5b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Müller</surname>
+                        <forename>Fritz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn der Witwe Wilhelmine Müller; Insterburg (1810)</note>
+                </person>
+                <person xml:id="ed_j3k_3yp_tcb">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Finanzrat (1799)</note>
+                </person>
+                <person xml:id="ed_pnb_fs5_j5b">
+                    <persName type="reg">
+                        <surname>Müller</surname>
+                        <forename>Wilhelmine</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Insterburg (1810)</note>
+                </person>
+                <person xml:id="ed_mnv_hzt_q2b">
+                    <persName type="reg">
+                        <surname>Müller-Reizenstein</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Militär (1810)</note>
+                </person>
+                <person xml:id="ed_vp2_x2h_2z">
+                    <persName type="reg">
+                        <surname>Müller von der Lühne</surname>
+                        <forename>Ludwig Freiherr</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kammerherr der Königin (1762)</note>
+                </person>
+                <person xml:id="ed_my1_zlb_1bb">
+                    <idno type="uri">http://d-nb.info/gnd/117172839</idno>
+                    <persName type="reg">
+                        <surname>Mülverstedt</surname>
+                        <forename>Georg Adalbert von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1914</death>
+                </person>
+                <person xml:id="ed_cdx_cpl_52b">
+                    <idno type="uri">https://d-nb.info/gnd/130631523</idno>
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>August Freiherr von</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1814</death>
+                    <note>1787–1798 Kammerherr am Rheinsberger Hof bei Prinz Heinrich von Preußen;
+                        1808 Aufenthalt in Paris; ab 1810 als Gesandter von Jérôme Napoleon am
+                        bayerischen Hof, die Auflösung des Königreichs Westfalen 1813 bedeutete für
+                        ihn das Ende seiner Existenz; wählte 1814 den Freitod in Paris <ref target="https://weber-gesamtausgabe.de/de/A005662.html"/></note>
+                </person>
+                <person xml:id="ed_lc2_w4f_hy">
+                    <idno type="uri">http://d-nb.info/gnd/115547401</idno>
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>Ernst Friedemann von</forename>
+                    </persName>
+                    <birth>1724</birth>
+                    <death>1784</death>
+                </person>
+                <person xml:id="ed_pfc_jt5_zdb">
+                    <persName type="reg">
+                        <surname>Münchhausen</surname>
+                        <forename>Georg Heino Freiherr von</forename>
+                    </persName>
+                    <birth>1903</birth>
+                    <death>1974</death>
+                    <note>1940 bis 1944 Ordonnanzoffizier des Chefs der Operationsabteilung im OKH
+                        Generalleutant Adolf Heusinger; Inhaftierung im Gestapogefängnis in
+                        Berlin-Moabit im Zusammenhang mit dem Attentat auf Adolf Hitler am 20. Juli
+                        1944 <ref target="https://www.deutsche-digitale-bibliothek.de/item/7VCAKLR2THAXVE5JWHTDPALG5QEXJ5F6"/></note>
+                </person>
+                <person xml:id="ed_cpj_xlp_tdb">
+                    <persName type="reg">
+                        <surname>Munier</surname>
+                        <forename>Frau </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Lothringen; Gouvernante am preußischen Hof (1767)</note>
+                </person>
+                <person xml:id="ed_qby_ct3_zqb">
+                    <persName type="reg">
+                        <surname>Münschlag</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hirte, Stawken (1808)</note>
+                </person>
+                <person xml:id="ed_ck3_rq5_g2b">
+                    <persName type="reg">
+                        <surname>Muschwitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Breslau, Tattersallaktionär (1881)</note>
+                </person>
+                <person xml:id="ed_mw2_ccd_5qb">
+                    <persName type="reg">
+                        <surname>Muscul</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Gärtner, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_dzm_2cd_5qb">
+                    <persName type="reg">
+                        <surname>Muscul</surname>
+                        <forename>Elisabeth</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Gärtners Christoph Muscul; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_u32_2cd_5qb">
+                    <persName type="reg">
+                        <surname>Muscul</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Gärtners Christoph Muscul; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_kdv_sl1_h2b">
+                    <persName type="reg">
+                        <surname>Müsebeck</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth>1870</birth>
+                    <death>1939</death>
+                    <note>Archivar, Historiker <ref target="https://www.deutsche-biographie.de/sfz67163.html"/></note>
+                </person>
+                <person xml:id="ed_z31_f3r_v2b">
+                    <idno type="uri">https://d-nb.info/gnd/118910442</idno>
+                    <persName type="reg">
+                        <surname>Mussin-Puschkin</surname>
+                        <forename>Alexei Iwanowitsch</forename>
+                    </persName>
+                    <birth>1744</birth>
+                    <death>1817</death>
+                </person>
+                <person xml:id="ed_k2q_rxt_sdb">
+                    <idno type="uri">https://d-nb.info/gnd/117204587</idno>
+                    <persName type="reg">
+                        <surname>Mutschmann</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth>1879</birth>
+                    <death>1947</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

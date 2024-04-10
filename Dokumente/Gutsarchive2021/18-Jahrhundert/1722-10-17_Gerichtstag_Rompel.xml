@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_gsk_fvs_mqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gerichtstag im Hof Steinort. Steinort, 17. Oktober 1722</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p> Die Akte enthält mehrere Gerichtstage aus den Jahren 1722 sowie 1750 bis 1773.
+                  Die Vorgänge umfassen meist nur wenige Blatt. Der Vorgänger ist Nr. 686:
+                  Rechtliche Auseinandersetzung der Grafen von Lehndorff mit Gutsuntertanen vor dem
+                  Patrimonialgericht in Steinort bzw. dem Amt Angerburg (1689, 1720, 1732), die
+                  Fortsetzung Nr. 698 (1746, 1750). <lb/> Daneben gab es auch Konvolute
+                  (‟Sachakten‟), die sich über mehrere Jahre hinweg mit speziellen Themen wie
+                  Diebstahl, Holzdiebstahl, entlaufene Untertanen, uneheliche Schwangerschaften,
+                  Erbuntertänigkeit etc. befassten. <lb/> Eine weitere Kategorie sind ausführliche
+                  Akten für Einzelfälle, die nicht vor dem Gericht in Steinort sofort entschieden
+                  werden konnten oder nicht in die Zuständigkeit des Patrimonialgerichts gehörten
+                  (Konsistorialsachen, Kriminalgerichtsbarkeit).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 697, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1722-10-17" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gsk_fvs_mqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum <orgName key="ed_ltz_hdr_gbb">Steinort</orgName> d. 17. Octob. 1722.</p>
+            <p>Es gibt der <unclear reason="illegible" cert="high">Schulze</unclear>
+               <gap reason="illegible"/> von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               an, wie dass er des Arrendators Söhne von <placeName key="ed_xpm_112_gy">Labab</placeName> im Taberlackschen Walde angetroffen, eine große Tanne anhauend,
+               darauf er sie davon jagen und die Tanne stehen geblieben. Der Waldhüter hat den
+               Söhnen die Pferde wollen ausspannen, darauf sie gesagt, er sollte nur kommen und es
+               wagen. Danach sind sie in den Wald weitergefahren und ein ander Fuder Holz gehauen.
+               Des Arrendators Söhne sind nicht zugegen, es bringt aber Arrendator bei, wie dass der
+               Schulze zuletzt sollte zu den Söhnen gesagt haben, ihr könnt wohl die Tanne hauen,
+               ich bin noch dem Vater Erbsen schuldig, und wird wohl so gleich aufgehen, darauf sie
+               des folgenden Tages gefahren und die Tanne völlig abgehauen und nach Hause geführt. </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Demnach der <seg type="comment">
+                  <orig>
+                     <persName key="ed_a2s_czb_t2b">Christoph Rumpel</persName>
+                  </orig>
+                  <note xml:id="nbgj_dws_mqb">Sonst Rompel</note>
+               </seg>, ein Erbuntertan von <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, nun
+               zum dritten Mal bei Ihro <persName key="ed_nyn_ffz_g1b">Majestät</persName> hohe
+               Person sich fälschlich angegeben, dass er kein Untertan, jedoch solches schon vor
+               diesem auf Königl. Befehl im <orgName key="ed_r2q_dc1_tcb">Amt Angerburg</orgName>
+               ist untersucht worden, als ist er seines üblen Aufführens halber vorgefordert und
+               befragt worden, warum er wieder seinen Eid, den er vor dem <placeName key="ed_h35_jqh_my">Drengfurtschen</placeName> Gericht den 10. Mart. 1696 so teuer
+               geschworen, und sich nachmals so oft bei Ihro Königl. Maj. beschwert und viel
+               Verdruss der gnädigen Herrschaft verursacht, warum er sich unterstehe, solche Sachen,
+               so schon einmal abgemacht, so oft aufzunehmen. Der Rompel gibt vor, er habe vor
+               seinen Kopf es getan, dass er <gap reason="illegible"/> die Freundschaft habe ihn
+               dahin beredet, er habe mit dem Könige des Morgens, wie er aus <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> gefahren, in der Litauischen Gasse
+               gesprochen, da er ihn im Fahren mit der Hand gewiesen, dass er sollte sein Gesuch
+               schreiben, darauf er zu Fuß nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gegangen und sich von einem Schulmeister auf dem Sackheim
+               die Supplik verfertigen lassen, da er dann dem Könige die Supplik auf der Gassen, die
+               er geritten gekommen, einem von denen so bei ihm geritten gegeben. </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Es klagt die <persName key="ed_r5w_bxj_5qb">Jacob Masuchsche</persName> von
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName> auf den Schulzen <unclear reason="illegible" cert="high">Gentz</unclear> daselbst, wie des Gentz 8 Schweine
+               die Tür am Garten aufge<unclear reason="illegible" cert="high">hutet</unclear>, in
+               den Garten gegangen und ihr viel Schaden verursacht. Da sie die Schweine herausgejagt
+               und zu des Gentz Jungen gesagt, du hast das Feld mit deinen Schweinen aufgefressen
+               und nun willst du mir meinen Garten auffressen, der Junge hat ihr darauf den Podex
+               hingekehrt und ihr s. v. denselben gewiesen, darauf sie ein Stecken genommen und
+               demselben einen Schlag auf den Rücken geschlagen. Der Junge habe dieses dem Vater
+               geklagt, da sei der alte Gentz gelaufen gekommen mit der Axt vor des Jacobs Tür, und
+               da sie so bald nicht aufmachen wollen, habe er angefangen, mit der Axt die Türe
+               aufzubrechen. Da sie dieselbe aufgemacht, habe der Gentz sogleich mit dem Axten Heft
+               auf sie losgeschlagen, ihr die Hände ganz wund und die Arme blau geschlagen, wie
+               solches noch an der Hand zu sehen, darauf er mit diesen Worten weggegangen: Hure die
+               fast der Herrschaft Gut gestohlen. <lb/>Hierauf der Gentz vernommen, gesteht, dass
+               der Junge ihm klagend gekommen und geweint, dass die Masuchsche ihn geschlagen. Er
+               darauf die Axt genommen, vor die Türe gekommen und mit der Axt, zwischen die Türe
+               stehend, sie aufbrechen wollen, da sei der <unclear reason="illegible" cert="low">Grütschke</unclear> gleich angefangen mit der Axten Holm zu schlagen, sie hat
+               darauf die Forke gegriffen, er hat sie aber ausgerissen und sie noch mehr geschlagen.
+               <lb/>Abschied. <lb/>Auf Anklage der Jacob Masuchschen und geführte Verantwortung des
+               Gentz betreffend der verübten Schlägerei erhellt, dass des Gentz Schweine erstlich
+               zum Streit Anlass gegeben, er, Gentz, aber hernachmals der Masuchschen die Tür mit
+               Gewalt aufbrechen wollen, und da sie aufgemacht worden, sie an Händen und Lenden
+               blutig und blau geschlagen und eine große Gewalt in ihrem Hause verübt, und daferne
+               sie den Jungen zur Ungebühr geschlagen, sein eigener Richter nicht sein sollen, als
+               soll er der Masuchschen 2 Fl. Schmerzlohn und 2 Fl. an Strafe der gnädigen Herrschaft
+               verfallen sein. <gap reason="insignificant"/>
+            </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Demnach der junge <persName key="ed_nws_nxj_5qb">Neumann</persName> vor 4 Jahren von
+               hier entlaufen und sich in Klein Rosenthal aufgehalten, im <placeName key="ed_tnl_sgk_gy">Rastenburgschen</placeName> Jahrmarkt aber vergangenen 14.
+               Oct. in Rastenburg <unclear reason="illegible" cert="high">arrestiert</unclear> und
+               anhero gebracht worden, als ist er seines Weglaufens halber verhört und sagt aus, wie
+               dass er zum ersten Mal vom <persName key="ed_cjc_zxj_5qb">Scheimann</persName> von
+                  <placeName key="ed_xpm_112_gy">Labab</placeName> weggelaufen, aus Ursache, als er
+               im Winter <unclear reason="illegible" cert="low">Strauch</unclear> beim <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Fließ geholt und ihm die Pferde
+               gepfändet worden, ist er aus Furcht der Strafe entlaufen, bei dem Waldknecht in der
+                  <placeName key="ed_xrn_x3h_h2b">Woplaukschen</placeName> Bude, sei hernachmals aus
+               freien Stücken wiedergekommen vor ohngefähr 2 Jahren und bei dem <persName key="ed_tyd_yjb_5qb">Kordack</persName> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> dienen gegangen, sei aber nur bis 3 Wochen da geblieben,
+               und da die Kordacksche wegen des vielen Essens sehr grausam auf ihn geflucht, ist er
+               wieder entlaufen nach <placeName key="ed_kg2_qxj_5qb">Rosenthal</placeName>, wo er
+               bis letztes Jahr als Knecht gedient. Sei vom Woplaukischen Waldhüter entlaufen nach
+               Litauen unter dem <seg type="comment">
+                  <orig>v. Schlieben</orig>
+                  <note xml:id="nobv_kzj_5qb">Christian von Schlieben?</note>
+               </seg> nach <placeName key="ed_vmz_myj_5qb">Katzborn</placeName>. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

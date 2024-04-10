@@ -1,0 +1,31 @@
+{
+    "creators": [
+        {
+            "orcid": "https://orcid.org/0000-0001-9384-2028",
+            "name": "Gaby Huch"
+        },
+        {
+            "orcid": "https://orcid.org/0000-0001-8279-9298",
+            "name": "Frederike Neuber"
+        },
+        {
+            "orcid": "https://orcid.org/0000-0002-6923-0950",
+            "name": "Stefan Dumont"
+        },
+        {
+            "orcid": "https://orcid.org/0009-0008-3678-9070",
+            "name": "Ruth Sander"
+        }
+    ],
+    "version":"1.0.0",
+    "language":"german",
+    "license": "CC BY 4.0",
+
+    "title": "Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive",
+
+
+    "keywords": ["Digital Humanities","Digital Edition","History"],
+    "upload_type":"dataset",
+    "notes":"This dataset contains the XML/TEI-files (documents and indexes) from two digital editions: 'Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert' and 'Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive'. The digital editions are published under the joint name 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive'.\n A previous version of the first digital edition (Lebenswelten Lehndorff) was published on Zenodo with the DOI: 10.5281/zenodo.3842854 and in the GitHub repository lebenswelten-lehndorff (https://github.com/telota/lebenswelten-lehndorff)."
+
+}

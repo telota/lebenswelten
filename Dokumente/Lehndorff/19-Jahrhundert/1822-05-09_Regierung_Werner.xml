@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_ux2_5k1_ycb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Regierung zu Gumbinnen an Carl Leopold Werner. Gumbinnen, 9. Mai 1822</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 539, Bl. 1</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Die Handakte des Rendanten Werner zum Prozess der Kirchengemeinde
+                            Rosengarten gegen Graf Lehndorff in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 198.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>
+               <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName>
+               <date when="1822-05-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1835)</persName>
+            </correspAction>
+            <note>Siehe in der Akte, Bl. 3-5v, das Verhandlungsprotokoll (in den Aktenfalz
+                    gebunden) der in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> am 28.
+                    Februar 1822 stattgefundenen Verhandlung. Ein weiterer Verhandlungstermin wurde
+                    auf den 19. November 1822 festgesetzt, Bl. 12-12v. - Es kam nur zu einer
+                    Ausbesserung der erheblichsten Schäden der Kirche.</note>
+         </correspDesc>
+         <abstract>
+            <p>
+               <note>
+                  <p>Die <orgName key="ed_cyd_wtg_hy">Regierung zu Gumbinnen</orgName>, Abt.
+                            des Innern, wendet sich an den Generalbevollmächtigten des Patrons der
+                            Kirche in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, Herrn
+                            Rendanten <persName key="ed_afr_tvf_2y">Werner</persName>, Angerburg,
+                            auf dessen <seg type="comment">
+                        <orig>Eingabe vom 2. März wegen des
+                                    Kirchenbaus in Rosengarten</orig>
+                        <note xml:id="npzl_svp_hlb">Bereits am <ref target="lehndorff_kjb_fd5_s3b">26. Januar</ref>
+                                    hatte <persName key="ed_yx5_cbg_nbb">Berent</persName>
+                           <persName key="ed_k4z_jgl_2y">Lehndorff</persName> mitgeteilt,
+                                    dass die Regierung auf den Kirchenneubau dränge.</note>
+                     </seg>.
+                            Der Patron sei <quote>nach dem Gesetz die Gemeinde mit verbindender
+                                Kraft zu konvozieren nicht befugt</quote>, die <quote>diesfälligen
+                                Maßregeln</quote> haben von der <quote>Aufsichtsbehörde</quote>
+                            auszugehen. Man habe deshalb Landrat von <persName key="ed_vsv_kl1_ycb">Koeller</persName> darüber in Kenntnis gesetzt.</p>
+               </note>
+            </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940849"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline> </dateline>
+            </opener>
+            <p/>
+            <closer>
+               <salute> </salute>
+               <signed> </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

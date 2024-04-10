@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_pmp_rwm_2bb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gehaltsabrechnung. Nach dem 28. Oktober 1883</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="editorial">
+               <p>Im ziemlichen Gegensatz zu den Einnahmen <persName key="ed_ik3_ckz_2y">Carol
+                            von Lehndorffs</persName> stehen dessen Ausgaben. So gab er am 22.
+                        November 1883 für diverse Uniformstücke allein 214 RM aus (Bl. 434).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 262, Bl. 409</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1883-10-28" to="1883-10-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Gehaltsabrechnung für Herrn Lieutenant <persName key="ed_ik3_ckz_2y">Graf von
+                        Lehndorff</persName> pro Oktober 1883</p>
+            <p>
+               <table rows="10" cols="6">
+                  <row>
+                     <cell/>
+                     <cell>Soll erhalten</cell>
+                     <cell>Mk</cell>
+                     <cell>Pf</cell>
+                     <cell>Mk</cell>
+                     <cell>Pf</cell>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Gehalt</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>84</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>Wohnungszuschuss</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>18</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>Servis</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>36</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>Tischgelder</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>6</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>Rationsgelder</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>Kommandoumlagen</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>18</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Summa</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>163</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Davon gehen ab</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>Witwenkassenbeitrag</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2. </cell>
+                     <cell>Kleiderkassenbeitrag</cell>
+                     <cell>36</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell>Lebensbedarf</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell>Musik</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell>Bibliothek</cell>
+                     <cell/>
+                     <cell>50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell>Privat</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell>Zum Lotteriespiel No. 15.423</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell>Mittagstisch</cell>
+                     <cell>17</cell>
+                     <cell>50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell>Einkommen resp. <seg type="comment">
+                           <orig>Klassensteuer</orig>
+                           <note xml:id="nmmw_tls_gbb">Bescheide 1881 bis 1883 in: StA L, Bestand 21950 Familienarchiv
+                                        Lehndorff, Nr. 287.</note>
+                        </seg>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell>Kasino-Fonds 300 M 100 M</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell>Bilderkasse</cell>
+                     <cell/>
+                     <cell>50</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12.</cell>
+                     <cell>Beitrag zum Kavallerie-Divis.-Raum</cell>
+                     <cell>6</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell>für 1 Stuhl an Tischler Lange</cell>
+                     <cell>21</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>14.</cell>
+                     <cell>Diener am 29.8.</cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>98</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Bleiben</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>64</cell>
+                     <cell>94</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <gap reason="illegible"/> Zahlmeister</p>
+         </div>
+      </body>
+   </text>
+</TEI>

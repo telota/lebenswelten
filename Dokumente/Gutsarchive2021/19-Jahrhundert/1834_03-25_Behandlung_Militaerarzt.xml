@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_pbl_kfj_xrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Arzt Gallen aus Angerburg rechtfertigt sich für eine fehlgeschlagene Behandlung
+               bei dem Vorarbeiter Schulz in Taberlack. Angerburg, 25. März 1834</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 79, Bl. 71-76v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_vwx_xns_vsb">Gallen, (-)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1834-03-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941440"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, den 25. März 1834</dateline>
+            </opener>
+            <p>Ew. Exzellenz entschuldigen, wenn ich mir erlaube, Folgendes an dieselben gelangen zu
+               lassen, wozu die Veranlassung Folgende ist:</p>
+            <p>Ich habe vernommen, dass der üble Erfolg meiner Kur an Vorarbeiter <persName key="ed_vy2_c4s_vsb">Schulz</persName> bei Ew. Exzellenz gegen mich gesprochen und
+               böser Leumund es vermocht hat, meine Bemühungen, für Ew. Exzellenz pecuniäres
+               Interesse stets besorgt zu sein, in ein dunkles Licht zu stellen, allein ich kann
+               mich für diesen Fall durch Folgendes rechtfertigen.</p>
+            <p>Als ich Abends zum Vorarbeiter Schulz in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> ankam, fand ich, als den Verband anlegen wollte, <seg type="comment">
+                  <orig>bei Ansehung desselben</orig>
+                  <note xml:id="nwvs_tgj_xrb">Es fehlt ein Wort: dessen Bein</note>
+               </seg> so zerschmettert, dass ich beim Verband durch das Gefühl verschiedene
+               Knochenstücke entdeckte, welches ich auch dem Kranken und die Umstehenden äußerte. Da
+               ich bedeutende Entzündung, welche oftmals in Brand unter solchen Umständen übergeht,
+               vermutete, blieb ich beim Kämmerer über Nacht, die ich schlaflos wegen Ungeziefer im
+               Bett zubrachte. <lb/>
+               <seg type="comment">
+                  <orig>Bernstein in seinem Praktischen Handbuch für Wundärzte</orig>
+                  <note xml:id="nxn3_p4s_vsb">
+                     <ref target="https://www.digitale-sammlungen.de/de/view/bsb10392431?page=,1">Johann Gottlob Bernstein's Praktisches Handbuch für Wundärzte nach
+                        alphabetischer Ordnung; nebst einem französischen und einem vollständigen
+                        deutschen Register. 1786-1787</ref>
+                  </note>
+               </seg> unter dem Titel Beinbruch sagt: Den ersten Verband kann man für gut angelegt
+               halten, wenn der Leib unter dem Verband zwar geschwollen, die Geschwulst aber weich
+               ist. In solchen Fällen lässt man den Verband, welches auch hier der Fall war, ruhig
+               liegen. Ferner sagt selbiger am angeführten Ort: Ein Knochenbruch heilt zuweilen sehr
+               schwierig, oft gar nicht zusammen, und zwar wenn ein häutiges Wesen sich zwischen die
+                  <gap reason="illegible"/> begibt, 2) wenn durch öftere Bewegung die Bruchenden
+               glatt und gleichsam mit Knorpel überzogen werden, 3) wenn ein Knochenstückchen sich
+               zwischen beide Bruchenden legt und gegenseitige Berührung derselben hindert. Kann
+               nicht einer der hier angegebenen Ursachen Hindernis zur Heilung gegeben haben?
+               <lb/>Wohl sagte ich auch dem Schulz einigemal vor meiner Abreise des Morgens, dass
+               alles auf den ersten Verband und dessen Dauer ankäme. Wenn dieses 12 bis 14 Tage
+               ungestört bleiben könnte, desto sicherer würde die Heilung gelingen, doch ich wurde
+               leider schon den 7. Tag durch ein Schreiben des p. <persName key="ed_clc_sfl_wcb">Scheimann</persName> zum Schulz verlangt und eine Fuhre nach mir geschickt, indem
+               ihm der Fuß schmerzte. Bei meiner Ankunft sagte dessen Frau, sie hätte ihm die
+               Bänder, so die Schiene festhielten, locker machen müssen, wonach der Fuß ihm
+               angefangen hätte zu schmerzen. Mir blieb also nichts übrig, als den ganzen Verband
+               aufzumachen und zu erneuern, dass die Lage eines Beinbruchkranken äußerst unangenehm,
+               ist wohl nicht zu bezweifeln, dass aber diese in der Chirurgie abzuändern unmöglich
+               ist, wird jeder sich überzeugen, da die geringste Unruhe des gebrochenen Gliedes,
+               besonders wie hier mit Zerschmetterung des Knochens der Fall war, nachteilige Folgen
+               nach sich ziehen musste. <lb/>Selbst bei meinen nachmaligen zwei Besuchen war
+               äußerlich nichts in die Augen fallendes Nachteiliges zu erkennen. Sobald Kranker
+               etwas Veränderliches an seinem Fuße bemerkte, hätte er ja nur einem der Beamten davon
+               Anzeige machen lassen, da alle Tage welche nach <placeName key="ed_s3k_b12_gy">Taberlack</placeName> kommen. Der Haupt- und zweckmäßigste Verband muss am 14.
+               Tage erst stattfinden, indem von da ab die Kallus - oder Knorpelbildung beginnt (<seg type="comment">
+                  <orig>Caspers Wochenschrift für die gesamte Heilkunde</orig>
+                  <note xml:id="njss_qps_vsb">
+                     <ref target="https://archive.org/details/wochenschriftfr07caspgoog">Johann
+                        Ludwig Caspers Wochenschrift für die gesammte Heilkunde</ref>
+                  </note>
+               </seg> No. 49. 52 über Behandlung der Knochenbrüche vom Kreis Physikus Dr. Ludwig zu
+               Euskirchen). Dass der Beinbruch des p. Schulz einem von den äußerst ungewöhnlichen
+               Knochenzerschmetterungen bei der nun seit Monaten sorgfältig gepflogenen Kurpflege
+               zuzuschreiben ist, wird jedem Kunstverständigen, dem Laien vielleicht nicht
+               einleuchtend sein. Dass ich das Interesse Ew. Exzellenz Kranker vorzog, beweist ein
+               Schreiben der Frau <persName key="ed_lbc_h53_yxb">v. Saucken</persName>, welches ich
+               noch besitze, wo zu ihrem Gemahl berufen wurde, ich aber derselben antwortete: dass
+               ich erst nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> müsste, um den
+               Jungen des dasigen Hirten <persName key="ed_c5f_vzf_1vb">Schönfeldt</persName>, so
+               den Fuß gebrochen hatte, zu verbinden. Die bestellte Fuhre vom Herrn <persName key="ed_hfw_vbg_h1b">v. Sauken</persName> kam den anderen Tag nicht wieder, ich
+               verlor diese Familie dadurch, dass ich den Jungen des Hirten vorzog. Herr v. Sauken
+               bezahlte mich jedesmal würdevoll. <persName key="ed_cgw_y53_yxb">Schönfeldts</persName> Fuß, die Fleischbedeckungen und der gebrochene
+               Unterschenkel, da solcher vom Schlitten an einen Stein geschleudert worden, war weder
+               brandig, doch bei seiner Folgsamkeit und gutem Verhalten <gap reason="illegible"/> im
+               Hause seines Vaters gut geheilt, obgleich auch hier Knochensplitter zu fühlen waren.
+               Selbiger jetziger Stiefelknecht und sein Fuß hat keine <gap reason="illegible"/>lichkeit erlitten. Wohl habe ich während der geraumen Zeit, dass in den Vorwerken
+               Ew. Exzellenz als Arzt und Wundarzt praktiziert habe, wohl manche schwierige Aufgabe
+               gelöst, aber leider kommen solche in Vergessenheit. Seit dem Jahre 1816 kann auch
+               niemand in hiesiger Stadt und Gegend sagen, dass jemand durch mich zum Krüppel
+               geworden ist. Ein ähnlicher Vorfall, als wie mit Schulz, hatte ich mit dem <gap reason="illegible"/> vom hiesigen früheren Artillerie-Kommando, dem auch durch die
+               elende ungeschickte Teilung eines Balkens (so wie dies auch bei Schulz der Fall
+               gewesen) bei einer Scheune des verstorbenen Rendanten <persName key="ed_wp3_3v3_yxb">Krüger</persName> der Unterschenkel zerschmettert und gequetscht wurde, die
+               Fleischbedeckungen, brandig, mussten wegen der bedeutenden Eiterung täglich verbunden
+               werden, und dauerte solche Kurpflege über 5 Monate. Während dieser Kur kam
+               Regimentsarzt <persName key="ed_wrd_nqs_vsb">Dr. Flemming</persName> aus <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>, um die Superrevision des Invaliden zu
+               verrichten. Ich zeigte ihm diesen Kranken. Nach Besichtigung desselben sagte er zu
+               mir, ihnen ist es besser gegangen als mir. Ein Dragoner fiel mit dem Pferde, brach
+               den Unterschenkel, welchen ich den 4. Tag darauf abnehmen musste. Hinlängliche
+               Genugtuung für mich, da dieser Mann im Rufe eines geachteten Arztes und Wundarztes
+               steht. <lb/>Mag immerhin die Frau des Vorarbeiters Schulz sagen, dass die Weiber in
+                  <placeName key="ed_h35_jqh_my">Drengfurt</placeName> besser Beinbrüche wissen zu
+               heilen als ich, doch sie weiß ja nicht, dass es auch sehr diffizile Beinbrüche zu
+               heilen gibt. Dem Senator <persName key="ed_m42_5qs_vsb">Eckert</persName> in
+                  <placeName key="ed_uyl_j3c_gy">Danzig</placeName> fiel ein Ziegel auf den einen
+               Unterschenkel, die ausgesuchtesten Ärzte von verschiedenen Nationen, die damals in
+               Besatzung waren, waren bei jedesmaligem Verband, ich war auch dazu eingeladen und
+               habe einige Nächte bei ihm zugebracht. Er starb am Beinbruch den 10. Tag. <gap reason="insignificant"/>
+               <note type="editorial"> Es folgen weitere Beispiele von erfolglosen Behandlungen von
+                  Brüchen in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> und <placeName key="ed_xrv_gwb_by">Berlin</placeName>.</note>
+               <lb/>Selbst während der Zeit, dass ich in den Gütern Ew. Exzellenz fungiert, habe ich
+               auch das Interesse auf Begehren des jedesmaligen Inspektors so wie in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> als auch in <placeName key="ed_nkz_b12_gy">Stawken</placeName> in Betreff der <gap reason="illegible"/>
+               Besatzmannschaft von den Gütern, so viel, wie mir nur möglich war, berücksichtigt,
+               wenn es hieß, ja diesen und jenen Bauern <gap reason="illegible"/> nicht entbehren,
+               besonders wenn die Übung des hiesigen Bataillons begann. Obrist-Leutnant <persName key="ed_flv_brs_vsb">v. Duve</persName> und Major <persName key="ed_fbp_drs_vsb">Johannes</persName> zu <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               waren einmal beim Departements-Geschäft, es wäre <gap reason="illegible"/> gut, dass
+               ich als Militär auch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> als Arzt
+               fungierte, wohl wusste ich, worauf dies zielte. Dem Major Johannes kamen verschiedene
+               Male Atteste von Garde-Landwehr Männern aus Ew. Exzellenz Gütern zu Augen, die Ihm
+               verdächtig schienen. Der Kämmerer <persName key="ed_pkh_3gv_mbb">Poltzien</persName>
+               hatte 3 bis 4 Mal Attest, dass er an einem kranken Fuß jedesmal litt, wenn er nach
+                  <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zur Übung beordert wurde. Im
+               Jahr 1830, wo wegen der <seg type="comment"><orig>Revolution in Polen</orig><note xml:id="ncgg_sv3_yxb"><ref target="https://de.wikipedia.org/wiki/Novemberaufstand">Novemberaufstand von
+                        1830/31</ref></note></seg> auch das Garde-Landwehr-Bataillon mobil gemacht
+               wurde, musste auch Poltzien nach Königsberg sich gestellen, ich gestehe, um Ew.
+               Exzellenz diesen Poltzien hier zu erhalten, handelte ich aufs Neue pflichtwidrig, ich
+               gab auf einem Attest Poltzien als innerlich krank an, um Zeit zu gewinnen, ihm die
+               früher in dem Attest angegebenen Fußgeschwüre zu erkünsteln. Der jetzige Inspektor
+                  <persName key="ed_om1_nxl_ddb">Pohl</persName> nahm ihn sodann mit der
+               Getreidefuhre nach Königsberg, beschwichtigte den damalige Bataillons-Arzt <persName key="ed_ahf_trs_vsb">Klingspor</persName> vom Garde-Landwehr-Bataillon mit einem
+                  <seg type="comment"><orig>d'or gratuis</orig><note xml:id="nhwx_xv3_yxb">Bestechungsgeld</note></seg>, so dass derselbe diese Geschwüre chronisch oder
+               als eingewurzelte anerkannte. Major Johannes über das ofte Ausbleiben von den Übungen
+               beruhigte sich nicht, er bestand auf einer Superrevision, die Regimentsarzt <persName key="ed_c2h_bw3_yxb">Albrecht</persName> verrichtete, der solche nicht als alte
+               Geschwüre anerkennen wollte. Inspektor Pohl zeigte Ew. Exzellenz, die gerade in
+               Königsberg sich befanden, dies an, Ew. Exzellenz schrieben an General-Arzt <persName key="ed_xsc_3ss_vsb">Krantz</persName>, der p. Pohl davon unterrichtete, dass
+               Poltzien nochmals zur Besichtigung gesandt werden sollte, auf wessen Veranlassung ist
+               mir entfallen, so dass der Bataillons-Arzt sich graviert fühlte. Poltzien kam zum
+               General-Arzt Dr. Krantz und wurde durch seinen Spruch das Gutachten des
+               Bataillons-Arztes bestätigt. Letzterer warnte mich in einem nachherigen Schreiben,
+               künftig bei ähnlichen Fällen behutsam zu handeln, indem Major Johannes den Poltzien
+               ins Lazarett hätte nehmen wollen, um Versuche zur Heilung der Geschwüre zu machen
+                  <gap reason="insignificant"/>
+               <note type="editorial">Im Lazarett hätte er den Betrug gestehen sollen, wofür er als
+                  Soldat entlassen worden wäre. Gegen den Arzt wäre eine Untersuchung angestrengt
+                  worden. In diesem Fall hätte er sich belastender Schreiben Lehndorffs „erinnert‟,
+                  der ihn mehrfach zu diesen „Gefälligkeiten‟ aufgefordert hätte. Auch Wachtmeister
+                     <persName key="ed_tgc_gmh_wsb">Mosack</persName> hatte Lehndorff auf diese
+                  Weise vom Regiment gelöst; dieser hatte daraufhin verbreitet, dass Lehndorff bis
+                  zu seinem Tode ihn zu ernähren habe. </note>
+               <lb/>Die Verabredung wegen Ew. Exzellenz Untertanen in Betreff der Kurpflege nach dem
+               Tode des p. <persName key="ed_oxt_jzb_tcb">Kayser</persName> betraf auch nur
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und die dazu gehörigen
+               Vorwerke, so wie Herr Bataillons-Arzt <persName key="ed_x3z_5ss_vsb">Schillinger</persName> solche übernommen hat. <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               waren damit nicht gemeint, weil beide der damalige Pächter <persName key="ed_ps5_zkj_hlb">Berent</persName> nach diesem getroffenen Übereinkommen noch
+               einige Jahre in Pacht hatte. Wohl hatte ich einen Kämmerer und Knecht von dem Pächter
+               Berent in Kurpflege, für welche er mir besonders bezahlte. Während der Zeit, dass der
+               Inspektor <persName key="ed_esj_fts_vsb">Strehl</persName>
+               <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> verwaltete, habe ich dann und wann einige Kranke zu
+               behandeln gehabt, für welche Behandlung ich nichts erhalten, auch von mir nichts
+               liquidiert worden ist. Doch während der Zeit des Inspektors <persName key="ed_vlc_dfl_wcb">Gericke</persName> und dem kleinen Zeitraum des Inspektors
+                  <persName key="ed_wcn_2fl_wcb">Käsewurm</persName> vermehrte sich die Reisen und
+               Verschreibungen der Kranken zu Stawken und Pristanien, so wie auch solches die
+               Rechnungen des Apothekers <persName key="ed_gxx_pts_vsb">Buchholtz</persName>
+               beweisen werden. Oftmals erinnerte ich den verstorbenen Inspektor Gericke, dass es
+               nicht meine Schuldigkeit sei, Stawken und Pristanien in Betreff der Kranken umsonst
+               zu besuchen, sondern insbesondere Renumeration mir dafür zuteil werden müsste, welche
+               er auch oftmals nach vorhergegangener Besprechung mit Ew. Exzellenz zu leisten
+               versprach. Ew. Exzellenz werden es mir daher nicht übel deuten, wenn ich vor 4 Jahren
+               für die in Stawken und Pristanien geleisteten ärztlichen Dienstreisen, gemachte
+               Aderlässe und Rezeptverschreibungen, in Betreff wegen der Kranken geschriebener
+               Briefe 40 Rtlr. pro Jahr 10 Gr. hiermit liquidiere, und dabei Ew. Exzellenz gehorsam
+               bitte, den jetzigen Inspektor <persName key="ed_afr_tvf_2y">Werner</persName> zur
+               Zahlung dieser Summe zu veranlassen. <gap reason="insignificant"/>
+               <note type="editorial">Zur besseren Erinnerung des Grafen erinnert er an den Fall des
+                  Hochzinsers zu Stawken, der, vom dortigen Jäger gestoßen, monatelang an einer
+                  Gehirnerschütterung litt, die im schlimmsten (Todes)Fall in einem Prozess und mit
+                  hohen Ausgaben geendet hätte. Auch für dessen Kurpflege war er nicht entschädigt
+                  worden, eben sowenig für Arzneimittel, als die Ruhr in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> grassierte. </note>
+               <lb/>Ich habe wahrheitsliebend diese weitläufige Vorstellung nur deshalb unternommen,
+               um zu beweisen, dass ich das Interesse Ew. Exzellenz bei allen vorkommenden
+               Gelegenheiten, ohne den mindesten Gewinn extraordinäre dadurch gehabt zu haben,
+               wahrgenommen habe, dass ich den Vorarbeiter Schulz und dessen Frau beim Verbinden in
+               ihrem Jammer damit trösten zu müssen glaubte, dass, wenn nachteilige Folgen durch
+               diese Verletzung zurückbleiben möchten, Ew. Exzellenz für seine künftige Existenz
+               wohl Sorge tragen würden, da solches in Hochdero Diensten geschehen wäre, dadurch
+               glaubte ich keinen Missgriff getan zu haben, viel mehr glaubte ich es den Menschen
+               schuldig zu sein, da ich einen ähnlichen Fall in den Gütern des Herrn <persName key="ed_shd_c5s_vsb">Grafen von Maltzahn</persName> im damaligen Südpreußen zu
+               beobachten Gelegenheit gehabt habe.</p>
+            <closer>
+               <salute>Mit vollkommenstem Respekt zeichne ich mich als Ew. Exzellenz
+                        gehorsamster Diener</salute>
+               <signed>Gallen</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

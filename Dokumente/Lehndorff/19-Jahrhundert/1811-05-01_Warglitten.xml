@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_uqc_gnk_4qb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Heinrich von Lehndorff an Carl Friedrich Ludwig Graf von Lehndorff.
+                    Königsberg, 1. Mai 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 491, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_pv1_b4g_hy">Lehndorff, Heinrich August Emil Graf von
+                        (28.07.1777-Warglitten 1.5.1835)</persName>
+               <date when="1811-05-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            </correspAction>
+         </correspDesc>
+         <abstract>
+            <p>
+               <persName key="ed_pv1_b4g_hy">Heinrich von Lehndorff</persName> teilt seinem
+                    Bruder <persName key="ed_k4z_jgl_2y">Carl Friedrich Ludwig</persName> mit, dass
+                    er vom Pächter einen Brief erhalten habe, in dem dieser erklärt, die Pacht nicht
+                    fortsetzen zu können, wenn er keine Unterstützung erhält. Da ihm unklar ist,
+                    worin diese Unterstützung bestehen könne, habe er sich nach <placeName key="ed_hts_ttp_vcb">Warglitten</placeName> begeben. Der Pächter wünscht
+                    eine bare Vergütung eines Teils seiner geleisteten Vorschüsse. In den
+                    „bedrängten Zeiten‟ habe er dafür zwar Verständnis, denke aber, dass es nicht
+                    gut wäre, solche Zugeständnise zu machen, denn dann könnte man die Pacht auch
+                    selbst übernehmen. Deshalb habe er den Pächter gebeten, seiner <persName key="ed_gnc_c1m_2y">Mutter</persName> ein Schreiben zu schicken, indem er
+                    seine Forderungen auf drei Alternativen richten soll: 1. Was er an Remission von
+                    der Pacht wünsche? 2. Was er an Vergütung seiner gemachten Vorschüsse wünsche,
+                    wenn er keine Remission erhielte und in der Pacht bliebe? 3. Wie eine
+                    Auseinandersetzung aussehen soll, wenn er die Pacht abgäbe und das angeschaffte
+                    Inventar auf den Gütern ließe. Er hofft, dass der Bruder bei der
+                    Auseinandersetzung dabei sein wird, damit man einen gemeinsamen Beschluss fassen
+                    kann. Variante 1 und 2 sind problematisch, da er, der Bruder und die Ysenburgs
+                    auf die Revenuen der <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName>
+                    Güter assigniert sind. Immer ist Geld notwendig und der endliche Zweck, „die
+                    Güter aus den Händen der Pächter zu ziehen‟, wird nicht erreicht. Im Fall der
+                    dritten Alternative wäre er bereit, die Bewirtschaftung der Güter zu übernehmen.
+                    Dies wäre „ein großer Schritt, um uns von <persName key="ed_htq_syn_5qb">Schmidt</persName> zu trennen‟. In diesem Fall würde er auf sein „Projekt
+                    von <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> Verzicht leisten‟. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline/>
+               <salute/>
+            </opener>
+            <p/>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_m43_pqq_2qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff überlässt den Bauern in seinen Gütern </title><title>Pferde als Inventar. Sommer 1807</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 670,
+                  die Aufstellung über die vom französischen Militär auf den Gütern und Vorwerken
+                  verursachten Schäden (1807) und den <ref target="lehndorff_ots_tqv_vcb">Brief des
+                     Inspektors Berent an Graf von Lehndorff vom 31. März 1807</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 139, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1807-06-01" to="1807-08-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_m43_pqq_2qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachweisung von denen <seg type="comment"><orig>nach dem Friedensschluss</orig><note xml:id="no51_p2j_wxb">Am 9. Juli war in <ref target="https://de.wikipedia.org/wiki/Friede_von_Tilsit">Tilsit</ref> der
+                     Friedensschluss erfolgt.</note></seg> an hiesige Bauern gegebenen Pferde, im
+               Sommer 1807</p>
+            <p>
+               <table rows="6" cols="2">
+                  <row role="label">
+                     <cell>Namen der Dörfer und Bauern</cell>
+                     <cell>haben an Pferden erhalten</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Bauer <persName key="ed_qw3_4gt_fqb">Kien</persName>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Bauer <persName key="ed_etd_tgt_fqb">Kordack</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>Bauer <persName key="ed_qqg_wgt_fqb">Jarreck</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>B. Fr. <persName key="ed_dxx_1ht_fqb">Masuch</persName>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>B. Jo. <persName key="ed_nv5_2ht_fqb">Uwis</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Fr. <persName key="ed_us2_3ht_fqb">Scheimann</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_ts1_lht_fqb">Smolenga</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_bhs_nht_fqb">Kiworra</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_l1r_rht_fqb">Rautenberg</persName>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_psb_wht_fqb">Hesse</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_cpv_yht_fqb">Gellesch</persName>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_ggc_c3t_fqb">Matzick</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_krg_23t_fqb">Gritzka</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_qbm_h3t_fqb">Schönfeldt</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>B. <persName key="ed_zkh_43t_fqb">Scheimann</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>B. <persName key="ed_ygj_w3t_fqb">Schönfeldt</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_wsf_z3t_fqb">Peter Berger</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_uyv_cjt_fqb">Mich. Gellesch
+                                jun</persName>.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>B. <persName key="ed_x2y_2jt_fqb">
+                           <persName key="ed_x2y_2jt_fqb">Schack</persName>
+                        </persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>B. <persName key="ed_snp_gjt_fqb">Uwis</persName>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_gm3_njt_fqb">Georg Scheimann</persName>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_is5_pjt_fqb">David Scheimann</persName>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_yc2_sjt_fqb">Gellesch</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_bzg_vjt_fqb">Gritzka</persName>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_mbn_t24_gqb">Georg Scheimann</persName>
+                     </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>51</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

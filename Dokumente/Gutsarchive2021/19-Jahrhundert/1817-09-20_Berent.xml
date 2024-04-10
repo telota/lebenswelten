@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_lkh_clp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet über die Lage in Steinort. Steinort, 20. September
+               1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-09-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 9.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_lkh_clp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>No. 9 Steinort den 20. Sept. 1817</dateline>
+               <salute>Ew. Hochgeboren</salute>
+            </opener>
+            <p>beide gnädige Briefe vom 20. und 22. v. M. habe ich richtig erhalten und werde die
+               darinnen enthaltenen Befehle gründlich befolgen. Die Pferde habe ich sogleich auf
+               Stall gezogen <gap reason="insignificant"/>
+               <note type="editorial">Es folgen Ausführungen zu Pferdezucht und -verkauf. </note>Die
+               übrigen jungen Pferde sind zwar jetzt noch alle gesund, ich fürchte aber für die
+               Zukunft, denn den halben Monat August bis Anfang September hat es hier beständig
+               geregnet und alle Wiesen stehen noch unter Wasser. Auf unserem Lehmboden ist alles
+               vom Vieh und Pferden ganz schwarz getreten, wo Niederung ist, steht Wasser, der See
+               ist seit Menschen Denken nicht so hoch mit Wasser bestanden gewesen, und Weide und
+               Futter wird knapper wie voriges Jahr werden und Pferde und Schafe werden wieder viel
+               sterben. Die Nässe besonders auf unserem Boden war zu groß und zu anhaltend, jetzt
+               haben wir seit dem 4. Sept. sehr schönes Wetter, allein die Pferde arbeiten sich fast
+               alle zu Tode; vom Regen der Lehm festgeschlagen jetzt 14 Tage, Wind und Sonnenschein,
+               mehr darf ich ja Ew. Hochgeboren von der Beackerung auf unseren Böden nichts sagen.
+                  <lb/><seg type="comment"><orig>Den 2. Sept. kamen auch durch <persName key="ed_b4v_4ld_b2b">H. Schmalz</persName> sein sächsischer Schäfer mit
+                     unseren Schafe an</orig><note xml:id="nulm_gnt_xxb">Siehe den Brief vom <ref target="lehndorff_m4x_pkp_3tb">8. August 1817</ref>.</note></seg>, nach der
+               Thaerschen Ökonomie-Administrations-Schreiben sollen sein: alter Stamm aus Frankreich
+               4 St. Mutterschafe und 2 Böcke 1 1/2 Jahr alt aus der Stamm-Schäferei, von den
+               sächsischen ist eins gleich in <placeName key="ed_lpt_52g_hy">Möglin</placeName>
+               geblieben, eines ist unterwegs gestorben und 2 St. starben gleich bei der Ankunft.
+               Die Schafe haben leider alle <seg type="comment"><orig>Pocken</orig><note xml:id="nphy_lnt_xxb">Siehe <ref target="https://de.wikipedia.org/wiki/Pockenseuche_der_Schafe_und_Ziegen">hier</ref>.</note></seg> und ungefähr einige Fünfzig haben wir gleich <gap reason="covered"/> gesetzt, sowie auch unsere Lämmer, es sind sehr alte Schafe und
+               viele sehr klein und schlecht, und es werden von denen, die die Pocken mitbrachten,
+               gewiss 10 bis 12 St. sterben. Sie sind gar zu schlecht, denn just in dem Regenwetter
+               traf den Schäfer der böse Weg auf Lehmboden. Dem H. Schmalz seine Schafe waren
+               besser, groß und kräftig, nur die Pocken hatten auch viele, von den 2 Stammböcken ist
+               einer recht gut und hat schöne Wolle, allein der andere ist sehr schlecht an <gap reason="illegible"/> und Wolle, der Farbe nach muss er auch kein echter sein.
+               Wegen der Kosten werde ich mir mit H. Schmalz berechnen. <note type="editorial">Den
+                  Brief an <persName key="ed_dlv_cjv_mbb">Farenheid</persName> habe er bestellt,
+                  dieser sei allerdings seit April zur Kur in <placeName key="ed_zy5_jhm_gbb">Wiesbaden</placeName> und <placeName key="ed_oqh_kdd_lwb">Pyrmont</placeName>.
+                  Generalleutnant <persName key="ed_mvs_2f2_b2b">von Borstel </persName>sei wegen
+                  der Pferde noch nicht in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                  gewesen. Zu den Pferden. Tod des <persName key="ed_abl_pyy_4kb">Werse</persName>
+                  an einer Lebererkrankung, er wird schwer zu ersetzen sein. </note> Eingeerntet ist
+               auf allen Vorwerken, mit dem Einschnitt ist nicht zu prahlen, denn die Scheunen sind
+               lange nicht voll. Durch die so lang anhaltende Nässe ist viel verdorben, besonders
+               Erbsen; wie wir alles gut durchfuttern werden weiß Gott. Nur trocken ist alles
+               geerntet, auch den zweiten Schnitt Klee haben wir gut einbekommen, und ich habe es
+               dann doch durch alle mögliche Mühe dahin gebracht, dass auf allen Vorwerken das, was
+               hat gesät werden können, jetzt alles zugesät ist, worüber als auch über den Kleeebau
+               einliegend eine <seg type="comment"><orig>Nachweisung</orig><note xml:id="nrhc_1cc_3yb">Diese liegt dem Brief bei.</note></seg> erfolgt, und was
+               unsere Pferde ausgehalten haben, und wie solche aussehen, davon will ich nichts
+               sagen, Gott gebe uns gute Folgen. <seg type="comment"><orig><lb/>Im Flügel ist alles
+                     trocken und sobald jetzt schlechtes Wetter wird, werde alles wieder zumachen
+                     lassen.</orig><note xml:id="nkxz_b4t_xxb">Erst nach den Kriegsjahren waren hier
+                     die Arbeiten fortgesetzt worden. Mit dem Ergebnis der Bauarbeiten war Lehndorff
+                     nicht zufrieden und haderte noch Jahre später damit: „Was den neuen Flügel
+                     betrifft, so ist Charles damit nicht zufrieden. Da er während seiner
+                     Abwesenheit gebaut wurde, hat man den großen Fehler gemacht, ihn niedriger als
+                     das andere zu bauen, so dass man, um in diesen zu gelangen, einige Stufen
+                     hinaufgehen muss. Die untere Tür ist bereits fertig, aber die obere ist noch
+                     nicht durchgebrochen. Charles ist so ärgerlich über diesen Übelstand, dass ich
+                     mich nicht traue, mit ihm darüber zu sprechen, aber ich hoffe, dass er sich mit
+                     der Zeit darüber wegtröstet, vor allem durch die Verbindung, die er mit dem
+                     reizenden Zimmer seiner verstorbenen Mutter gewinnt. Wo er sich selbst
+                     untergebracht hat? – In dem gestrichenen Zimmer mit dem Alkoven und dem blauen
+                     Schrank. Wo er sich aufhält? – Im Simson-Zimmer, das, wie Sie wissen, schon
+                     immer ein Arbeits- und Leseraum war.“ GStA PK, IX. HA, I 1108/87 (Gräfin Amelie
+                     an Friederike Herzogin von Holstein-Beck, 30. September 1819).</note></seg> Mit
+               den Stuben konnte ich nichts machen, da die Handwerker keine Leute haben, und dann,
+               wann Ew. Hochgeboren nur erst jemanden hätten, ich kann ja auch in der Stube am
+               Gewölbe solange wohnen und werde mir schon mit allem behelfen. <seg type="comment"><orig><lb/>Ich dächte Ew. Hochgeboren verpachteten noch <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und übertrügen das übrige dem
+                     Hegemeister, er ist ja ein junger Mann und hat doch in 9 Monaten, wenn just die
+                     mehrsten Arbeiten bei der Wirtschaft vorkommen, gar nichts zu tun, nehmen
+                     hernach die Pferde nach <placeName key="ed_xpm_112_gy">Labab</placeName>, die
+                     Schafe nach <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName> und
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>, das junge Vieh nach
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und dann bleibt doch
+                     noch etwas übrig zu futtern in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>. </orig><note xml:id="nrdj_l4t_xxb">Siehe Lehndorffs
+                     Überlegungen <ref target="lehndorff_evy_2mk_2tb">1815/16</ref>.
+               </note></seg><lb/>Die Bauern oder ihre Deputierten von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+               und <placeName key="ed_xpm_112_gy">Labab</placeName> sind schon wieder in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gewesen und haben auf
+               Auseinandersetzung angetragen. Herr Präsident <persName key="ed_rqm_zch_1cb">von
+                  Sydow</persName> hat es mir geschrieben; da er vermutet, dass Ew. Hochgeboren
+               bereits jemanden zu diesem Geschäft bevollmächtigt haben werden, so hat er einen
+               Kommissarius beauftragt, das Geschäft zu beginnen, aber noch ist er nicht erschienen;
+               sollte er kommen, so kann er sein Wesen immer treiben, nur vollziehen lasse ich
+               nichts, bis Ew. Hochgeboren mir schriftlich Dero Willensmeinung aufgetragen haben.
+               Den Serwillern dächte ich, nehmen Sie die Hälfte Acker weg, damit sie mehr
+               eingeschränkt werden, den Pristanger lassen Sie das Ganze, denn der Pächter kann
+               schon diesen nicht allein beackern und bei Labab werde ich durchaus auf Versetzung
+               antragen. Ich habe ihnen auch allen aufgesagt und werde auch mich dazu präparieren.
+               Einer von den Serwillschen Bauern, <persName key="ed_fpr_ctc_zqb">Kuckel
+                  jun.</persName>, hat dem Präsidenten vorgetragen, dass ich sie betrogen habe, ich
+               wäre an allem Schuld, so Sie wie die Lababer und Pristanger hatte ich zu armen Leuten
+               gemacht, tue den besten Acker wegnehmen und viel weniger in die Stelle geben, wie sie
+               erst hatten. <lb/>Ich muss auch 2 Pferde zur Landwehr zum Exerzieren gestellen und
+               die Besetzungs-Kommission zum stehenden Heer wird mir beinahe 5 Knechte einziehen.
+               <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Der Pächter in
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName> hat mir einliegenden Brief
+               sowie H. <persName key="ed_b4v_4ld_b2b">Schmalz</persName>
+               übergeben,<?oxy_custom_end?> die ich überschicke und mir zur ferneren Gnade
+               empfehle</p>
+            <closer>
+               <salute>Ew. Hochgeboren untertänigster Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

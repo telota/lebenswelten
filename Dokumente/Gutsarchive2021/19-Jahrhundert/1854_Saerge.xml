@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_bmx_gqz_vxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Tischler Poltzien legt eine Rechnung für die Bezahlung gefertigter Särge für
+                    Einsassen der Güter. Steinort, 31. Dezember 1854</title><title> </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword"><p>Kategorie: Gutsherrliche Pflichten</p></note>
+                <note type="editorial">
+                    <p>Die Akte endet mit den 1880/81 gefertigten Arbeiten. 123 Rtlr. und 50 D.
+                        waren im Jahr 1880, 136 Rtlr. 50 Gr. im Jahr 1881 von Graf von Lehndorff an
+                        Tischlermeister Poltzien dafür gezahlt worden, Bl. 129. Abrechnungen für die
+                        Jahre 1858-1864, 1866-1867, 1873-1874, 1877-1881 in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941290">APO, Bestand 382 Familianarchiv Lehndorff, Nr. 151</ref>.</p>
+                </note>
+                <note type="editorial">
+                    <p>Im Folgejahr fertigte Poltzien 26 Särge, davon 7 Kindersärge, sowie „3 Särge
+                        zu die Überreste der Leichen auf dem Kirchhof‟, die man bei der Errichtung
+                        des Erbbegräbnisses gefunden hatte.</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 150, Bl. 3</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1854-12-31" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941290"/>
+    </facsimile>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bmx_gqz_vxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>
+                    <table rows="15" cols="5">
+                        <row>
+                            <cell>1854</cell>
+                            <cell/>
+                            <cell>Rtlr.</cell>
+                            <cell>Sgr.</cell>
+                            <cell>D.</cell>
+                        </row>
+                        <row>
+                            <cell>d. 28. März</cell>
+                            <cell>Ein Sarg für die Witwe <seg type="comment"><orig><persName key="ed_tfv_bwj_j5b">Schwikowsky</persName></orig><note xml:id="nknh_zfv_yxb">im 18. Jahrhundert hatte sich die
+                                        Familie Schwikowski genannt.</note></seg>, <seg type="comment"><orig>hier</orig><note xml:id="nuyx_bgv_yxb"><placeName key="ed_pxt_cnh_1y">Steinort</placeName></note></seg></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 5. April</cell>
+                            <cell>Hirt <persName key="ed_ffz_fgv_yxb">Puschke</persName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 14. April</cell>
+                            <cell>Hospitalitin <persName key="ed_rtt_qgv_yxb">Jarreck</persName>,
+                                    <placeName key="ed_hrb_hc2_gy">Serwillen</placeName></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 3. Mai</cell>
+                            <cell>Schäferfrau <persName key="ed_rvw_vgv_yxb">Nieswandt</persName>,
+                                    <placeName key="ed_ohv_kf2_gy">Pristangen</placeName></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 21. Mai</cell>
+                            <cell>Losmann <persName key="ed_q4c_hfg_1vb">Scheimann</persName>,
+                                    <placeName key="ed_xpm_112_gy">Labab</placeName></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 6 Oktobr.</cell>
+                            <cell>Instmann <persName key="ed_sr5_nhv_yxb">Schwikowsky</persName>
+                                seine Schwiegermutter, Pristangen</cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 11. Octbr.</cell>
+                            <cell>Witwe <persName key="ed_cpp_zhv_yxb">Scheimann</persName>,
+                                    <placeName key="ed_nkz_b12_gy">Stawken</placeName></cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 16. Oktbr.</cell>
+                            <cell>Witwe <persName key="ed_yk3_h3v_yxb">Bartnick</persName>,
+                                hier</cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 22. Oktbr.</cell>
+                            <cell>Instmann <persName key="ed_lcw_g5h_wqb">Scheimann</persName> sein
+                                Kind, <placeName key="ed_xpm_112_gy">Labab</placeName></cell>
+                            <cell/>
+                            <cell>15</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 15. Novbr.</cell>
+                            <cell>Maurer <persName key="ed_qnh_s3v_yxb">Breese</persName> seine
+                                Tochter, Pristangen</cell>
+                            <cell/>
+                            <cell>18</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 23. Novbr.</cell>
+                            <cell>Instmann <persName key="ed_qns_y3v_yxb">Wilewka</persName>,
+                                Pristangen</cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 2. Dezbr.</cell>
+                            <cell>Charlotte <persName key="ed_zzg_bjv_yxb">Marczinski</persName>,
+                                Labab</cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d. 29. Dezbr.</cell>
+                            <cell>Instmann <persName key="ed_ypt_2jv_yxb"><persName key="ed_ypt_2jv_yxb">Waschke</persName></persName>,
+                                hier</cell>
+                            <cell/>
+                            <cell>20</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>Summa</cell>
+                            <cell>8</cell>
+                            <cell>13</cell>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+                <p>Steinort, d. 31. Dezember 1854</p>
+                <p>Quitiere untertänigst <persName key="ed_wkt_5q4_s3b">Poltzien</persName>, d. 9.
+                    Februar 1855</p>
+            </div>
+        </body>
+    </text>
+</TEI>

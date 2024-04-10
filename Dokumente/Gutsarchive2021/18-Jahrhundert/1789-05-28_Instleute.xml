@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_h2c_lx2_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Pächter von Buchholtz aus Scharschau bittet das Patrimonialgericht um Hilfe gegen
+               die widerspenstigen Instleute Wendt, Sobietzki, Redke und Blumberg. Scharschau, 28.
+               Mai 1789</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Dokument vom <ref target="lehndorff_wxz_5kz_hrb">23. Mai 1789</ref>.
+                  Gegen die Instleute <persName key="ed_zdh_2sm_vsb">Wendt</persName>, <persName key="ed_ckz_fsm_vsb">Sobietzki</persName>, <persName key="ed_dfb_2tm_vsb">Redke</persName> und <persName key="ed_wc3_3sm_vsb">Blumberg</persName> sollte
+                  am nächstfolgenden Gerichtstag verhandelt werden, jedoch war der Instmann Wendt
+                  bereits vorher abgezogen, und die anderen „haben sich weiter nicht beschwert‟, so
+                     <persName key="ed_qwb_kc3_3rb">Neumann</persName>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 633, Bl. 3-4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_cm1_lsm_vsb">Buchholtz, A. W. von (-)</persName>
+               <placeName key="ed_knj_nrm_vsb">Scharschau</placeName>
+               <date when="1789-05-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_gk1_t1y_gvb">Patrimonialgericht zu Schönberg</orgName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=633"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Scharschau d. 28. Mai 1789</dateline>
+            </opener>
+            <p>Einem gräflich Schönbergschen Patrimonialgericht zeige ich in Ergebenheit an, dass
+               den Grfl. Administr. <persName key="ed_qwb_kc3_3rb">Neumann</persName>
+               wiederholentlich ersucht gehabt habe, mich in dem mir zukommenden Dienstzwang zu
+               assistieren, indem unter anderen Exzessen der Instmann <persName key="ed_dfb_2tm_vsb">Redke</persName> sich gegen mir mit dem Zaunpfahl widersetzt hatte. Er tat es
+               auch nach Möglichkeit, sämtliche Instleute durch Vermahnungen in meiner Stube
+               zurechtzuweisen. Da er aber durch des Instmanns <persName key="ed_zdh_2sm_vsb">Wendt</persName> tatsächliche Brutalität in Gegenwart des Schulzen <persName key="ed_ufh_qtm_vsb">Woyczechowski</persName> aufs äußerste beleidigt wurde,
+               versprach er selbige vor Gericht zu belangen und auf exemplarische Bestrafung
+               anzutragen. Dass wir unseren Endzweck nicht erreicht haben, hat für mich nachteilige
+               Folgen gehabt, nicht genug, <ref target="lehndorff_wxz_5kz_hrb">dass sämtliche
+                  Instleute trotziglich den Freizettel gefordert</ref>, sondern sie haben auch den
+                  <persName key="ed_k25_5tm_vsb">Ludwig Sonntag</persName>, der meinen Sohn im Hofe
+               in Dienst hatte, allen Vorschub getan, mit allen den Seinigen zu entlaufen. Welche
+               anziehen wollen, wurden abgeredet, also ist es nicht möglich, alle abziehen zu lassen
+               und das Dorf ledig zu machen. <lb/>Der Vorwand, das einige noch nicht berechnet
+               seien, berechtigt sie gar nicht zur Widersetzlichkeit. Redke und <persName key="ed_ckz_fsm_vsb">Sobietzki</persName> sind berechnet und die übrigen können
+               täglich berechnet werden. Sie haben jeder meinen Zettel, nach welchem sie leichtlich
+               einen Überschlag selbst machen könnten, was jeder an mich zu bezahlen oder vor Arbeit
+               zu fordern hat. Schmidt <persName key="ed_kst_15m_vsb">Schiedlowski</persName> und
+               Bauer <persName key="ed_m4x_b5m_vsb">Wrobel</persName> haben den Ludwig Sonntag alle
+               das Seinige, auch sogar die Sommersaat, die ihm gelehnt, wie es heißt, abgekauft und
+               gegen die Nacht abgeholt, und Redke hat ihm die Ochsen gelehnt, sein letztes Brotkorn
+               zu verkaufen. <lb/>Ich bitte dahero E. Gräfl. Finckenst. Patrimonialgericht auf das
+               Dringendste, mich bei meinem Pacht-Kontrakt nicht allein kräftigst zu schützen,
+               sondern auch die tätliche Widersetzlichkeiten an d. Herrn Administr. Neumann und mich
+               selbsten exemplarisch zu bestrafen. Auf Erfordern werde mich in <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName> sogleich einfinden, weshalb dem
+               Instmann Wendt und Redke wie auch dem Schmied Schiedlowski und Bauer Wrobel in causa
+               Ludwig Sonntag zu adicieren bitte, damit alles auf einmal könne abgemacht werden.</p>
+            <closer>
+               <salute>Mit schuldigster Hochachtung habe die Ehre unausgesetzt zu sein <lb/>E. Gräfl.
+                        Finckenst. Patrimonialgericht ganz gehorsamster Diener <lb/>
+               </salute>
+               <signed>
+                  <persName key="ed_cm1_lsm_vsb">A. W. v. Buchholtz</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

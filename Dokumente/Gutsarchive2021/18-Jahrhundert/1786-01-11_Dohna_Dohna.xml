@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_pzr_n2k_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Graf zu Dohna-Schlodien bittet seinen Vetter in Reichertswalde um dessen Meinung
+               zur Anlage von Urbarien. Schlodien, 11. Januar 1786</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 87, Bl. 25-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_tcp_tpm_vsb">Dohna-Schlodien, Wilhelm Burggraf und Graf zu
+                        (1724-1787)</persName>
+               <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName>
+               <date when="1786-01-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_ehf_grx_5sb">Dohna-Reichertswalde, Friedrich Leopold Burggraf
+                        und Graf zu (1738-1807)</persName>
+            </correspAction>
+            <note>Siehe hierzu das Dokument vom <ref target="lehndorff_ock_r1k_hrb">15. August
+                  1785</ref>. - Das Schreiben des Justizkommissars <persName key="ed_cgb_2qm_vsb">Rohde</persName> und des Ökonomiekommissars <persName key="ed_ykh_gqm_vsb">Hellbarde</persName>, Mohrungen, 24. Januar 1786, APO, Bestand 384 Familienarchiv
+               Dohna, Nr. 87, Bl. 27-27v. Die Urbarien auf den adeligen Gütern waren „ohne
+               Dazwischenkunft der Kommissarien durch Hoch Dero Justitiarien innerhalb zweien
+               Monaten‟ einzurichten.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_pzr_n2k_hrb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Schlodien, 11. Januar 1786</dateline>
+               <salute>Sehr teurer und wertgeschätzter Herr Vetter!</salute>
+            </opener>
+            <p>Schon wieder erscheint ein Komet aus <placeName key="ed_c3f_wxz_g1b">Schlodien</placeName> am Horizont von <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>, doch ohne ein Unglück zu weisen und ohne einen langen
+               Schweif von Akten. <lb/>Das Kreditiv von <placeName key="ed_xrv_gwb_by">Berlin</placeName> ist süß im Munde, besonders auf der ersten Seite, und
+               approbiert doch das Material unserer Probe-Nachrichten. Das Formale bleibt wohl eben
+               so schlimm, und es wäre davon noch viel zu sagen. So wie auch auf die Frage, ob Sr.
+               Exzellenz nach den im Briefe getroffenen Modifikationen die Ostpreußische Regierung
+               bescheiden könnten? noch manches zur sehr nötigen Kautel beizufügen wäre. - Aber das
+               hiesige Resultat ist dahin ausgefallen, noch etwas mit der Antwort zu zögern und
+               womöglich zu erfahren, was die Geschäfte im ganzen Lande für einen Gang und Wendung
+               nehmen werden. <lb/>Ich bitte Sie also, bester Herr Vetter, um Ihre gütige Meinung
+               hiervon und womöglich um Nachricht, was zwischen dem H. Richter Rohde und der
+               Regierung weiter vorgefallen. <lb/>Unter die notwendigsten Kautelen rechne ich auch,
+               dass man sich ganz ausdrücklich vorbehalte, diese jetzige Regulierung nicht zu einem
+               unwiderruflichen Gesetz anzunehmen, sondern nach Veränderung der Umstände darin auch
+               Abänderungen, zwar nicht nach eigener Willkür und privatim, sondern in aller Form zu
+               machen, welches man sich und seinen Untertanen unmöglich beschneiden kann. <lb/>Ich
+               hoffe Ew. Liebden allerseits in <placeName key="ed_ijp_zjc_gy">Schlobitten</placeName> auf dem heimischen Schatten Schauplatz zu erblicken und
+               wäre gern in Person erschienen, wenn ich heute nicht notwendig <gap reason="illegible"/> setzen müsste.</p>
+            <closer>
+               <salute>Ich nenne mich mit der größesten Hochachtung Ew. Hochgeboren! ganz
+                  ergebenster Freund</salute>
+               <signed>Dohna</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_wbc_j4y_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bewerbung um die Stelle eines Wirtschafters in Steinort. Garbnicken, 19. Februar
+               1838</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword"> </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ppx_yym_hvb">Kähler, (-)</persName>
+               <placeName key="ed_g1y_4ym_hvb">Grabnicken</placeName>
+               <date when="1838-02-19" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Die Stelle eines Wirtschafters in Steinort war begehrt. Der Kandidat wurde durch
+               den Grafen selbst ausgewählt. Als sie 1852 erneut neu zu besetzen war, bewarb sich
+               ein Kandidat aus <placeName key="ed_twr_fjf_1vb">Langheim</placeName>, bot an, sich
+               persönlich vorzustellen und seine Zeugnisse vorzulegen. Er war „militärisch frei‟,
+               und hatte vier Jahre als Wirtschafter gearbeitet. Der aus <placeName key="ed_exy_rfk_wcb">Goldap</placeName> stammende <persName key="ed_jjf_zxm_hvb">Gisevius</persName> bewarb sich, um „die Wirtschaft in einer fruchtbaren Gegend
+               kennenzulernen‟ und seine Kenntnisse „in Gütern, die der guten Bewirtschaftung wegen
+               renommiert sind‟, zu vervollständigen. Er war „des Feldmessens kundig‟, was bei der
+               Einteilung von Schlägen im Feld und in der Forstwirtschaft nützlich war. Es ging ihm
+               nicht um ein gutes Gehalt, sondern um seine Ausbildung, siehe beide Briefe in der
+               Akte. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wbc_j4y_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Garbnicken, d. 19. Februar 1838</dateline>
+               <salute>Hochgeborner, <lb/>Hochzuverehrender Herr General-Lieutenant, <lb/>Gnädigster
+                        Reichsgraf und Herr!</salute>
+            </opener>
+            <p>Erlauben Ew. Exzellenz, dass ich es wagen darf, Hochdieselben mit diesen Zeilen zu
+               behelligen. <lb/>Unter dem 15. Septbr. v. J. sandte mir Frau <persName key="ed_nlc_fym_hvb">v. Bergfeld</persName> auf <placeName key="ed_vnk_mjp_k5b">Powarben</placeName> 4 Rtlr. und schrieb mir dabei, dass Ew. Exzellenz mir
+               dieselben als Beihilfe sendeten und dass sie sich bei Hochdenenselben für mich ohne
+               mein Wissen verwandt habe; zugleich teilte mir Frau v. Bergfeld Hochdero gnädiges
+               Rückschreiben mit. Den gehorsamsten Dank sage ich Ew. Exzellenz für die übersandte
+               gnädige Unterstützung in meiner so sehr bedrückten Lage. Die Ursache, warum ich
+               nicht, wie es meine Schuldigkeit gewesen wäre, sofort meinen untertänigsten Dank
+               abgestattet habe ist, dass hier allgemein erzählt wurde, Ew. Exzellenz wäre zur Mitte
+               September nach <placeName key="ed_xrv_gwb_by">Berlin</placeName> verreist und würden
+               sobald nicht wiederkommen, und so wollte ich warten, bis Ew. Exzellenz wieder zu
+               Hause sein würden. Erst jetzt habe ich mit Gewissheit erfahren, dass Ew. Exzellenz
+               schon längst zu Hause gekommen sind, und so unterlasse ich nicht, sofort meiner
+               Schuldigkeit nachzukommen und meine innigste Dankbarkeit für die gnädige
+               Unterstützung hier darzutun. <lb/>Wahrlich, gnädigster Herr Graf, es geht mir ohne
+               mein Verschulden recht schlecht. Die vielen erlittenen Unglücksfälle an Viehsterben
+               und Misswachs haben mich auf meiner letzten Pacht fast ganz zugrunde gerichtet; all
+               mein Fleiß und Sorgfalt, all unser Einschränken und Sparen hat uns nichts geholfen.
+               Zwar habe ich gegen hohe Miete hier in <placeName key="ed_g1y_4ym_hvb">Grabnicken</placeName> bis zum 1. Juni c. eine notdürftige Wohnung gefunden,
+               indes habe ich keine Aussichten, wieder eine Pachtung annehmen zu können, und eine
+               Wirtschafterstelle, die ich gern nehmen mögte, habe ich auch nicht finden können,
+               weil die meisten Gutsherren Unverheiratete suchen und so sehe ich mit meiner armen
+               Familie ohne mein Verschulden einer furchtbaren, sehr elenden Zukunft entgegen. Indes
+               da ich Ew. Exzellenz schon so mannigfach mit meinen Briefen beschwerlich gefallen
+               bin, so wollte ich es bis jetzt nicht mehr wagen, um mir nicht Ew. Exzellenz Ungnade
+               zuzuziehen und für unverschämt und aufdringlich gehalten zu werden; allein dieser
+               Danksagungsbrief, den ich meinem Gefühl nach schreiben musste, gibt mir Gelegenheit,
+               und ich kann es unmöglich unterlassen, meine früheren Wünsche hier nochmals in
+               Anregung zu bringen. <lb/>Sollten Ew. Exzellenz es denn gar nicht möglich machen
+               können, mir irgendeine Wirtschaftsstelle zu verschaffen, da ich mir doch bewusst bin,
+               einer solchen Stelle ebenso gut vorzustehen als irgendein anderer, und wie
+               Hochdieselben doch auch wissen, mit den nötigen Kenntnissen dazu hinreichend
+               ausgerüstet bin. <lb/>Vor einigen Jahren haben Ew. Exzellenz in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> einen besonderen Wirtschafter gehabt.
+               Beabsichtigen Hochdieselben nicht vielleicht die Stelle wieder mit einem Wirtschafter
+               zu besetzen, und dürfte ich dann nicht bitten, dass Hochdieselben die Gnade hätten,
+               mir die Stelle anzuvertrauen? Gewiss sollte mein stetes Bestreben sein, mich Hochdero
+               Vertrauens von neuem recht wert zu machen, und mich unermüdet zu befleißigen, alle
+               meine Obliegenheiten aufs Pünktlichste zu erfüllen. <lb/>Verzeihen Ew. Exzellenz
+               diesen abermaligen Versuch mich Hochdenenselben ins Gedächtnis zu bringen und nehmen
+               Hochdieselben diese Zeilen nicht ungnädig auf. Sehr würde ich mich beglückt fühlen,
+               wenn Hochdieselben mich mit einigen Zeilen geneigter Antwort zu beehren die Gnade
+               hätten. <lb/>Schließlich empfehle ich mich und die Meinigen Hochdero fortdauerndem
+               gnädigen Wohlwollen bestens und nenne mich stets in tiefster Ehrfurcht</p>
+            <closer>
+               <salute>Ew. Exzellenz untertänigster Diener</salute>
+               <signed>Kähler</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_imj_vml_25b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auszug aus einer Denkschrift des Grafen Alexander zu Dohna wegen des
+               General-Hubenschosses. [Königsberg, 31. Januar 1717]</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu das Schreiben an den König in: GStA PK, VI. HA, Familienarchiv
+                  Dohna-Reichertswalde, Nr. 215: „Sollte es so sein, dass Ew. Königl. Majestät uns
+                  als Dero getreue Diener und Untertanen dermaßen niederschlagen wollten, so ist ja
+                  unsere Intention nicht uns zu weigern, so wenig den letzten Heller als den letzten
+                  Blutstropfen vor Dieselbe darzugeben. Wir bitte aber, dass Ew. Königl. Majestät
+                  uns mit Gnaden ansehen und bei der ohnedem konsiderablen bisherigen mit solcher
+                  Freimütigkeit gern abgetragenen Kontribution nach Dero allergnädigst gegebenen
+                  Erklärung lassen wollen. Ob wir zwar ohne fremde Mittel dabei in die Länge zu
+                  bestehen uns nicht flattieren, so wollen wir dennoch, wofern Gott uns die Leute,
+                  die wir noch haben, lassen will, und durch Krieg, Pestilenz und Hungersnot unsere
+                  Güter nicht ruiniert, so viel wie wir vorhin gegeben als ein Beständiges, worauf
+                  Ew. Königl. Majestät Staat machen können, zu entrichten uns treulich angelegen
+                  sein lassen.“ <lb/>Der König versicherte sie daraufhin seiner „vollkommenen
+                  Gnade“, sollte die Kommission die „ihr gesetzten Grenzen überschritten“ haben,
+                  doch alle Beteiligten hätten „auf ihr Gewissen und Pflicht versichert, wie bei
+                  Klassifikation derer Dohnaschen Güter nichts weniger als einige Praegravation
+                  vorgegangen sein könnte, indem dieselben nicht anders als aller übrigen Vasallen
+                  Güter ohne einige Absicht auf die Possessores nach ihrer Bonität und denen Retibus
+                  judiciret“ worden seien. Graf von Dohna werden „von selbsten ermessen“, dass es
+                  bei dem festgesetzte Hubenschoss sein Bewenden haben müsse. Nichtsdestotrotz stehe
+                  ihm frei, „solide Argumenta und reelle Zeugnisse“, die dagegen sprächen,
+                  vorzubringen; auch würde eine besondere Revisions-Kommission abschließend prüfen.
+                  Die im Dohnaschen Memorial erbetene Separation der Güter „von dem Corpore der
+                  übrigen Preußischen Ritterschaft“ müsse er jedoch für „eine Sache halten, die sie
+                  ohne Konsequenz vor andere und sonder Dero hohen Präjudiz nicht akkordieren
+                  könne“, was der Burggraf wohl „von selbsten wohl begreifen und von diesem Petito
+                  abstehe.“ GStA PK, VI. HA, Familienarchiv Dohna-Reichertswalde, Nr. 216. </p>
+               <p>. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Aufzeichnungen über die Vergangenheit der Familie Dohna, T. 3,
+                     Berlin 1882, S. 337 f.</bibl>
+               </witness>
+            </listWit>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_qv5_zdq_mbb">Dohna-Schlobitten, Alexander Burggraf und Graf zu
+               (1661-1728)</persName>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1717-01-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_imj_vml_25b"/>
+   </facsimile>
+   
+   <text type="document">
+      <body>
+         <div>
+            <p>Bedenken wegen <seg type="comment"><orig>Introduzierung des General-Hubenschosses in
+                     Preußen und Abschaffung des vorigen modus contribuendi</orig><note xml:id="nbyz_wbt_qwb">
+                     <p> Der <ref target="https://de.wikipedia.org/wiki/Generalhufenscho%C3%9F">General-Hubenschoss</ref> war eine durch Karl Heinrich Graf Truchsess zu
+                        Waldburg und Peter von Blanckensee unter Friedrich Wilhelm I. in Ostpreußen
+                        eingeführte Steuer. Die Abgabe wurde anstelle der vielen ständischen Steuern
+                        eingeführt, wobei diese zu einer einzigen Grundsteuer zusammengefasst
+                        wurden. Dabei wurde der adelige Grundbesitz wesentlich stärker belastet, der
+                        mittlere und kleinere aber entlastet. </p>
+                  </note></seg></p>
+            <p>Die Bonität des Bodens ist zwar beständig, dieselbe wird aber nicht gleichmäßig
+               ausgenutzt, sei es aus Unkenntnis, Mangel an Fleiß oder wegen anderer
+               verschiedenartiger widriger Verhältnisse. <lb/>Wer den Boden hoch nutzt, hält viele
+               Leute, zahlreichen Viehstand, baut etc. Deshalb gleicht der alte sehr niedrige
+               Hubenschoss den Druck der Steuer mehr aus, indem der niedrig Nutzende sehr wenig an
+               Tranksteuer, an Horn- und Klauenschoss sowie an Kopf-Akzise zahlt, der hoch Nutzende
+               aber um soviel mehr zu diesen anderen Steuern kontribuieren muss. Außerdem bringt der
+               alte Steuer-Modus einen viel sichereren Steuerertrag, da sich bei diesem jeder
+               Besitzer in Not und Unglücksfällen sehr viel besser über Wasser halten kann, und zwar
+               durch Entlassung von Gesinde, Verkauf von Vieh oder anderweite Einschränkung;
+               hierdurch überrragen die guten Wirte die schlechten. <lb/>Sollten aber alle den
+               gleichen erhöhten Hubenschoss zahlen, so werden die armen schlechten Wirte und
+               verwahrlosten Leute vollständig zu Grunde gehen; dies würde dann nach keiner Seite
+               hin Vorteil bringen, da schon gar zu viel Land herrenlos ist und wüst liegt.
+               <lb/>Schränken sich die ländlichen Wirte nun mehr ein, so mindert sich hierdurch der
+               Gesamt-Steuerertrag in weit geringerem Grade, als wenn diese Leute ganz verderben;
+               das entlassene Gesinde sucht anderweites Unterkommen, die Wolle wird unter allen
+               Umständen doch verkauft, das Bier, was der Besitzer selbst braut, wird im Krug
+               konsumiert. (Der bisherige Modus hat Ähnlichkeit mit der indirekten Steuer.)</p>
+            <p>Die Heranziehung der verschwiegenen und der Steuer entzogenen Huben wird den
+               Steuerertrag auch nicht erhöhen, denn durch Horn- und Klauenschoss, Tranksteuer etc.
+               haben diese Huben bisher indirekt immer schon zur Steuer kontribuiert, falls sie
+               genutzt wurden; arme und schlechte Wirte, welche diese Huben nicht genutzt haben,
+               gehen an der Steuer für dieselben ganz unter. Diese Defraudationen würden außerdem
+               gar nicht vorkommen, wenn die Kontrolle eine gewissenhafte und regelmäßige wäre;
+               dieser Mangel an Kontrolle ist wesentlich der Gegnerschaft zwischen dem Landkasten
+               und der Kriegskammer (Kommissariat) zuzuschreiben. Plötzliche scharfe Untersuchungen,
+               bei denen plötzlich große Nachzahlungen gefordert werden, ruinieren viele der kleinen
+               Wirte rettungslos und nutzen deshalb auch nicht in entsprechender Weise.</p>
+            <p>Wenn auch von der neuen Kommission die tatsächliche Nutzung der Huben angeblich
+               berücksichtigt wird, so kann dies doch nur in geringem Maße geschehen, und die
+               hierbei unvermeidlich werdenden Rücksichtslosigkeiten werden die Landleute mutlos und
+               desperat machen; niemand wird mehr in Preußen gern Geld platzieren.
+               <lb/>Augenblicklich noch ist Preußen wie ein Kranker zu betrachten; bei dem alten
+               Modus kann man nicht nur in gleicher Weise, sondern weit sicherer auf Erhöhung der
+               Steuererträge rechnen als bei dem projektierten Modus, falls nur die Ursachen der
+               allgemeinen Misere gehoben werden könnten, wenn man nämlich also den Misswachs, die
+               schlechten Kommerzien, den Mangel an Menschen etc. beseitigen könnte; so lange diese
+               Kalamitäten andauern, ist überhaupt kein besserer Ertrag der Steuern zu erzielen.
+               <lb/>Außerdem kostet die Kommission behufs Einführung des General-Hubenschosses an
+               sich schon große Summen, die nützlicher zu verwenden sein würden. Die erforderlichen
+               Unterstützungen für das Land würden dasselbe schon in bessere Verfassung bringen,
+               ohne andere und neue Einrichtungen, und die Änderung der Art der Steuer schadet mehr
+               als sie in jetziger Zeit nutzen kann.</p>
+            <p>Wenn aber der General-Hubenschoss dennoch durchgeführt werden soll, „so muss ein
+               jeder von Herzen wünschen, dass der hiedurch zu erwartende Nachteil durch beständig
+               fruchtbringende Jahre, florierende <hi rendition="#i">negocien</hi> (was ebenso
+               erfolgreich auch ohnedem sein würde) besser als nach menschlicher Einsicht möglich
+               abgewandt werde.‟</p>
+            <p>
+               <lb/></p>
+         </div>
+      </body>
+   </text>
+</TEI>

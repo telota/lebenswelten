@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_kj1_ggd_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Untertan des Burggrafen und Grafen zu Dohna, Gärtner Michael Flade, schließt
+               mit seinen Erben einen Teilungsvertrag, Lauck, 12. Juni 1725</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Weitere Teilungsverträge in der Akte. <lb/> Im Beisein des Dorfschulzen wurde der
+                  gesamte Besitz inventarisiert und taxiert, um eine gerechte Teilung zwischen allen
+                  Erben zu ermöglichen. <lb/>Siehe auch das Dokument vom <ref target="lehndorff_kj1_ggd_vpb">12. Juni 1725</ref> und StA L, Bestand 21950
+                  Familienarchiv Lehndorff, Nr. 62: Teilungsvertrag über das Kowalewsche Erbe, Lyck,
+                  27. Januar 1700. Abdruck des Teilungsvertrages des kölmischen Schulzen <persName key="ed_cyt_p5b_3qb">Melchior Rettkowitz</persName> aus dem Dorf <placeName key="ed_d1q_t5b_3qb">Gilgenau</placeName> vom 13. Oktober 1727, in: „Unser
+                  Masuren-Land“. Familienkundliche und regionalgeschichtliche Beiträge aus der
+                  Heimatbeilage der „Lycker Zeitung“, Bd. 1: 1925 bis 1935, S. 456-458.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 7, Bl. 23-26</idno>
+               </msIdentifier>
+            </msDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Flade, Dietrich, Quellen, Materialien und Sammlungen. Aus
+                            dem Archiv der Grafen zu Dohna-Reichertswalde. Familienkundliche
+                            Aktenauszüge aus einem ostpreußischen Gutsarchiv 1596–1933, Hamburg
+                            1996, S. 35-37 (Quellen, Materialien und Sammlungen zur altpreußischen
+                            Familienforschung, 7). </bibl>
+               </witness>
+            </listWit>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1725-06-12" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_kj1_ggd_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Da der hiesige Gartenierer <persName key="ed_v3h_3dm_4pb">Michael Flade</persName>
+               durch Absterben seiner ersten Ehegattin Witwer worden und jetzo zur anderen Ehe zu
+               schreiten gesonnen ist, hat ihm gebührt mit seinen in erster Ehe erzeugten 3 Kindern,
+               nämlich <persName key="ed_dyt_kdm_4pb">Jacob</persName> so 9, <persName key="ed_cyg_ldm_4pb">Hans</persName> 6 und <persName key="ed_ynx_ldm_4pb">Maria</persName> ins 4 Jahr alt, vorher Schicht und Teilung zu halten, weshalb
+               solche im heutigen Dato mit Konsens der Hochburggräflichen Herrschaft im Beisein des
+               hiesigen Schulzen und Gerichtsgeschworenen <persName key="ed_oqf_ndm_4pb">Hans
+                  Böttcher</persName> wie auch beider Dorfgeschworenen bewerkstelliget, vorher aber
+               der hiesige Jäger <persName key="ed_h5t_4dm_4pb">Hans Liedke</persName> und
+               Bauersmann <persName key="ed_wqd_sdm_4pb">Michel Öhlert</persName> den Unmündigen zu
+               Vormündern bestätigt und des Schichtgebers Vermögen taxiert worden als:</p>
+            <table rows="29" cols="5">
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>an Vieh</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>Gulden</cell>
+                  <cell>Groschen</cell>
+                  <cell>Anzahl</cell>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>15</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>Kühe im 8. Jahr</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>9</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>Stärke im 8. Jahr</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>5</cell>
+                  <cell/>
+                  <cell>2</cell>
+                  <cell>Schweine</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>18</cell>
+                  <cell>2</cell>
+                  <cell>Gänse</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>an Hausgerät</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>18</cell>
+                  <cell>1</cell>
+                  <cell>Holz-Äxte</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>9</cell>
+                  <cell>1</cell>
+                  <cell>Spaten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>18</cell>
+                  <cell>1</cell>
+                  <cell>Halbe zum Trinken</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>12</cell>
+                  <cell>1</cell>
+                  <cell>Viertel zum Trinken</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>18</cell>
+                  <cell>1</cell>
+                  <cell>offen Ton</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>15</cell>
+                  <cell>1</cell>
+                  <cell>Spinnrocken</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>6</cell>
+                  <cell>1</cell>
+                  <cell>Butterfass</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>20</cell>
+                  <cell>1</cell>
+                  <cell>Backtrog</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>14</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>Herdkessel</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>6</cell>
+                  <cell>1</cell>
+                  <cell>Laterne</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>12</cell>
+                  <cell>1</cell>
+                  <cell>Lehnstuhl</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>15</cell>
+                  <cell>1</cell>
+                  <cell>Kasten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>An Kleider, Linnen und Betten</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>15</cell>
+                  <cell>1</cell>
+                  <cell>schwarz Laken Charge Futter Hemd</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>bunt Zeug Futter Hemd</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>schwarz gewalkt Kittel</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>bunt Zeug Kittel</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>roter alter Rock</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>18</cell>
+                  <cell>1</cell>
+                  <cell>
+                     <unclear reason="illegible" cert="high">calmänken
+                                Scheuer-Wüst</unclear>
+                  </cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell/>
+                  <cell>2</cell>
+                  <cell>drillichte Tischtücher</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>15</cell>
+                  <cell>1</cell>
+                  <cell>alt linnen Tischtücher</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>Laken mit 2 Nähten und rundum angenäht</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>15</cell>
+                  <cell>1</cell>
+                  <cell>Laken mit 2 Nähten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>dito mit der Naht und ausgenäht</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>alt Laken mit der Naht</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>weiß linnen Vorhang, der in 3 Teilen besteht ohne Nähte</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>Vorhang mit 2 Nähten, welcher alt ist</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell>27</cell>
+                  <cell>7</cell>
+                  <cell>Kissen Zeug</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell>6</cell>
+                  <cell>dito mit Nähten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>27</cell>
+                  <cell>7</cell>
+                  <cell>Mieder, welche alt und von Gewandlinnen</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell>15</cell>
+                  <cell>3</cell>
+                  <cell>Mieder</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>15</cell>
+                  <cell>5</cell>
+                  <cell>Schurztücher</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>2</cell>
+                  <cell>6</cell>
+                  <cell>4</cell>
+                  <cell>Zimpeltücher</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell>18</cell>
+                  <cell>1</cell>
+                  <cell>Zimpeltuch von Weberleinwand</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>18</cell>
+                  <cell/>
+                  <cell>3</cell>
+                  <cell>Betten mit drillichter Einfütterung</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell>15</cell>
+                  <cell>3</cell>
+                  <cell>Kissen mit drillichter Einfütterung</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>4</cell>
+                  <cell/>
+                  <cell>4</cell>
+                  <cell>dito</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>7</cell>
+                  <cell>Hauben </cell>
+                  <cell rows="3">sind vor die Tochter untaxiert gelassen</cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>10</cell>
+                  <cell>Streichtücher </cell>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell>5</cell>
+                  <cell>Schleier</cell>
+               </row>
+               <row>
+                  <cell>125</cell>
+                  <cell>23</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell>24</cell>
+                  <cell/>
+                  <cell>Von obige Summa der 125 Gulden 23 Groschen geht aber</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>1</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>in die Ratsbüchse beim Schulzen zu bezahlen</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>an Teilungsunkosten</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>bleiben übrig, so zu teilen</cell>
+                  <cell/>
+               </row>
+               <row>
+                  <cell>117</cell>
+                  <cell>29</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+               </row>
+            </table>
+            <p>Davon sollten 58 Gulden, 29 Groschen, 9 D. dem Schichtgeber als die eine, und 58
+               Gulden, 29 Groschen, 9 D. den drei Kindern als die andere Hälfte gebühren, weil aber
+               in billige Betrachtung gezogen, dass der Kinder Erziehung dem Vater noch Beschwerden
+               geben wird, so ist mit Bewilligung der Vormünder von der Kinderquote 4 Gulden, 29
+               Groschen, 9 D. zurückgeschlagen und auf derselben Schulgeld anzuwenden dem Vater zum
+               Besten gelassen. Behalten also die 3 Kinder zum mütterlichen Anteil 54 Gulden. Trifft
+               auf jedes derselben 18 Gulden.</p>
+            <p>Der Schichtgeber ist resolviert, den Kindern ihre 54 Gulden mit Betten und Linnen aus
+               der Teilung sofort gutzutun und an die Vormünder abzuliefern, welche dann ermahnt
+               werden, solches in guter Verwahrung zu halten und denen Unmündigen zum Besten
+               aufzuheben, auch auf deren gute Erziehung mit Acht zu haben, maßen der Vater
+               verpflichtet bleibt, dieselben, bis sie bei anderen Leuten können ihr Brot verdienen,
+               in Kost und notdürftiger Kleidung zu erhalten, insonderheit aber zur Schule, dem
+               Lieben Gebot und allem Guten anzuführen.</p>
+            <p>Diese Teilung haben Seine Hochburggräfliche Exzellenz vor billig gefunden und danhero
+               dieselbe mit Dero eigenhändiger Unterschrift und beigefügtem gräflichen Insiegel
+               konfirmiert.</p>
+            <p> Reichertswalde d. 19. Novembr. 1725 <persName key="ed_u2b_c2m_4pb">Christoph Fr. B.
+                  Graf zu Dohna</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

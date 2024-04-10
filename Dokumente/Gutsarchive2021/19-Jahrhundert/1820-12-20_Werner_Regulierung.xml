@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_sjp_fzy_cqb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Rendant Werner beschwert sich beim Ministerium des Innern über die
+                    Regulierung der gutsherrlichen und bäuerlichen Verhältnisse in den Steinortschen
+                    Gütern. Angerburg, 20. Dezember 1820</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>I. HA, Rep. 87 B, Nr. 17639, Bl. 5-9v, Anlagen Bl. 10-13v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1835)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1820-12-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_o2g_htj_2qb">Ministerium des Innern</orgName>
+            </correspAction>
+            <note>
+                                        <ref target="lehndorff_rly_vzz_xz">Am 28. Dezember 1820
+                                                schrieb <persName key="ed_h5l_ny1_1bb">Krüger</persName> dem Ministerium, es sei die
+                                                Anzeige des Bevollmächtigten des Grafen von
+                                                Lehndorff eingegangen, der sich über die Regulierung
+                                                beschwert habe.</ref> Er selbst habe die Regulierung
+                                        abgeschlossen, die Rezesse aufgenommen und „mehr als eine
+                                        Ursache zu glauben, dass der von der General-Komission zu
+                                        erfordernde Bericht die Sache in ihrem wahren Zusammenhang
+                                        nicht darstellen wird‟. Da er nicht glaubte, dass er den
+                                        Bericht zu Gesicht bekomme, verfasste er selbst für das
+                                        Ministerium einen Bericht über die Vorgänge, der die Angaben
+                                        Werners stützte. <lb/>Am 15. Februar 1821 sollte sich die
+                                        General-Kommission zu der Beschwerde äußern. Der Bericht
+                                        erfolgte am 18. April 1821. <persName key="ed_cbc_pd1_4cb">Podlasky</persName> hatte zwischenzeitlich darum
+                                        gebeten, ihn mit der Regulierung von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> nicht
+                                        weiter zu beauftragen. <lb/>Am 11. Mai 1821 schrieb
+                                                <persName key="ed_uvr_lxn_zdb">Hardenberg</persName>
+                                        an die General-Kommission, dass Podlasky seit dem Reskript
+                                        vom 18. April von der Steinortschen Regulierung abgezogen
+                                        sei, und es der Kommission überlassen bleibe, Werner „von
+                                        dessen Schuldhaftigkeit in Kenntnis zu setzen‟. <p/> Siehe
+                                        hierzu: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                                        Lehndorff-Steinort, Nr. 856: Regulierungsverhandlungen (ca.
+                                        1818-1821), Nr. 857: Auseinandersetzungsverhandlung auf den
+                                        Steinortschen Gütern (ca. 1819/20) und Nr. 650: Zustand der
+                                        bäuerlichen Erbe seit der Anlegung des Generalhubenschosses
+                                        bis zur beendeten Regulierung der bäuerlichen Verhältnisse
+                                        nach dem Edikt von 14. September 1811 in den Steinortschen
+                                        Gütern (o. D.). Die Antworten, die Lehndorff ca. 1818-1820
+                                        dem Regierungsrat <persName key="ed_kjv_ztq_3qb">Schiverz</persName> auf dessen Fragenkatalog zur
+                                        Verteilung des ländlichen Grundeigentums, bäuerlichen
+                                        Besitzverhältnissen, Verkehr mit Grundstücken und
+                                        landwirtschaftlichen Wirtschaftsmethoden gab, sind aufgrund
+                                        des schlechten Erhaltungszustandes der Reinschrift nicht
+                                        benutzbar, ebd., Nr. 527.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_sjp_fzy_cqb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, 20. Dezember 1820</dateline>
+            </opener>
+            <p>
+                                        <seg type="comment">
+                                                <orig>Als Bevollmächtigter des abwesenden Besitzers
+                                                  der Steinortschen Güter,</orig>
+                                                <note xml:id="nbgj_kkx_gqb"> Die schriftliche <ref target="lehndorff_sjp_fzy_cqb">Legitimationsurkunde für den
+                                                  Feuerkassen-Rendanten Carl Leopold Werner in
+                                                  Angerburg als Bevollmächtigtem Graf
+                                                  Lehndorffs</ref> auf dessen Gütern bei Abwesenheit
+                                                  des Reichsgrafen wurde rückwirkend 1824
+                                                  ausgefertigt. </note>
+                                        </seg> des Königl. General-Major <persName key="ed_k4z_jgl_2y">Reichsgrafen von
+                                                Lehndorff</persName>, nehme ich mir die Freiheit,
+                                        ein Königliches Hochpreisliches <orgName key="ed_o2g_htj_2qb">Ministerium des
+                                                Innern</orgName> mit einer Beschwerde gegen die
+                                        Königliche <orgName key="ed_t5q_tst_fqb">Generalkommission
+                                                zur Regulierung der gutsherrlichen und bäuerlichen
+                                                Verhältnisse</orgName> untertänigst anzutreten.</p>
+            <p>Die Regulierung der bäuerlichen Verhältnisse in den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern wurde im Jahr 1818
+                                        dem Ökonomie-Kommissarius <persName key="ed_wkv_cd1_4cb">Bitt</persName> übertragen. Derselbe traf den 16.
+                                        Juli 1818 ein, arbeitete mit einem Gehilfen 4 Wochen lang in
+                                        Steinort, nahm während der Zeit die Generalverhandlungen
+                                        auf, <unclear reason="illegible" cert="low">instruierte</unclear> die Streitpunkte, und das
+                                        Resultat seiner Verhandlungen wurde mit Sehnsucht erwartet,
+                                        als unterm 18. Januar 1819 von der Königlichen
+                                        General-Kommission resolviert wurde, dass über die
+                                        strittigen Gegenstände noch nicht entschieden werden könnte,
+                                        sondern ein anderer Kommissarius zur spruchreifen
+                                        Instruktion der strittigen Gegenstände ernannt werden
+                                        sollte. </p>
+            <p>Den 26. März 1919 wurde von der Königlichen General-Kommision der
+                    Ökonomie-Kommissarius <persName key="ed_cbc_pd1_4cb">Podlasky</persName> in
+                        <placeName key="ed_u5p_w3p_tdb">Schippenbeil</placeName> zur Fortsetzung der
+                    Regulierung bestimmt.</p>
+            <p>Dieser traf am 5. Juli 1819 in Steinort ein und fing das Regulierungsgeschäft,
+                    ohne auf die früheren Verhandlungen des Kommissarii Bitt im mindesten zu
+                    rücksichtigen, von vorn an, nahm Generalverhandlungen auf, instruierte
+                    Streitpunkte und versuchte es, selbst die durch Vergleich abgemachten Klagen von
+                    neuem dadurch in Streitpunkte umzuwandeln, dass die Bauern auf Aufhebung der
+                    abgeschlossenen Vergleiche antragen müssten.</p>
+            <p>Alle Kosten, welche durch den ersten Kommissarius Bitt veranlasst wurden, waren
+                                        umsonst. <seg type="comment">
+                                                <orig>Durch die Aufreizung der Gemüter entstanden
+                                                  neue Prozesse, die zum Teil noch in der dritten
+                                                  Instanz fortschweben, </orig>
+                                                <note xml:id="nhms_ztt_fqb">Siehe hierzu GStA PK,
+                                                  XX. HA, Rep. 54 Gutsarchov Lehndorff-Steinort, Nr.
+                                                  608: Rechtsstreit vor dem Patrimonialgericht in
+                                                  Groß Steinort zwischen der Gutsherrschaft und elf
+                                                  Bauern aus Pristanien und die Verwirklichung des
+                                                  Regulierungsediktes vom 11. September 1811 und die
+                                                  Deklaration vom 29. Mai 1816 (1817/18) sowie <ref target="lehndorff_n1j_fmz_nxb">hier</ref>. </note>
+                                        </seg>und der Bauer wird zum Teil durch die Kosten mit
+                                        ruiniert.</p>
+            <p>Mein Machtgeber, der p. Graf von Lehndorff, traf im Sommer 1819 selbst in Steinort
+                                        ein, ihm wurde der Fortgang der Regulierung bekanntgemacht
+                                        und er hat sich in einem unterm 16. September 1819 an die
+                                        Königliche General-Kommission abgestatteten Bericht über das
+                                        Regulierungs-Verfahren ausgesprochen, auch gegen jede
+                                        Kostenzahlung für die ersten, 4 Wochen lang gedauerten
+                                        Geschäfte protestiert.</p>
+            <p>Die Kosten wurden demunerachtet exekutive eingezogen, ich behalte die Beschwerde
+                                        hierüber meinem Machtgeber ganz gehorsamst vor, und folge in
+                                        gegenwärtigem Bericht dem Laufe der Regulierung.</p>
+            <p>Am 10. Oktobr. 1918 deputierte der Kommissarius Podlasky den
+                    Ökonomie-Kommissarius <persName key="ed_k2g_121_4cb">Morre</persName> zur
+                    Bonitierung der Bauernländereien behufs der Ausmittelung, und letzterer traf mit
+                    einem Gehilfen den 20. Oktbr. 1819 in Steinort ein: der Regierungs-Kondukteur
+                        <persName key="ed_vfx_11m_ddb">Stechern</persName> war der
+                    Bonitierungs-Kommission als Feldmesser und zwei vereidigte Kreisboniteure zur
+                    Wahrnehmung der Rechte der Gutsherrn und Bauern zugeordnet.</p>
+            <p>Beim Bonitierungsgeschäft selbst bin ich nicht zugegen gewesen, indem mir einmal als
+                                        Partei hierbei keine Stimme zusteht, und nächstdem, wenn das
+                                        Resultat der Bonitierung das Interesse des Gutsherrn
+                                        gefährdet, mir der Weg der Appelation offen bleibt.</p>
+            <p>Ich musste nach denen über das Bonitierungsgeschäft bestehenden Verordnungen
+                    annehmen, dass das Resultat der Klassifikation von jedem einzelnen Dorfe in
+                    einer Verhandlung von sämtlichen Bonitierungs-Kommissaren vollzogen, festgesetzt
+                    und die einzelnen Acker-Klassen vor dem auf die Karten getragen würden, wenn
+                    über die Klasse selbst kein Streit mehr stattfand.</p>
+            <p>Ob ersteres geschehen ist, müssen die Akten erweisen, und letzteres folgt, wenn
+                    die Bonitierung als legal angenommen werden soll, von selbst.</p>
+            <p>Herr p. Morre reiste, nachdem die Bonitierung vollendet war, den 1. November 1819 von
+                                                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                                        ab und wurde von Herrn Podlasky auf dessen Schreiben vom 21.
+                                        November 1819 zur Ergänzung des Fehlenden in den Rissen und
+                                        zur Bonitierungs-Berechnung mit Zuziehung des Kondukteurs
+                                                <persName key="ed_vfx_11m_ddb">Stechern</persName>
+                                        deputiert. Er traf den 28. Novbr. den Kondukteur Stechern in
+                                        Steinort anwesend, und machte, nach denen aufgenommenen
+                                        Bonitierungs-Verhandlungen, an denen auf die Karten
+                                        getragenen Acker-Klassen mit der Bonitierungs-Berechnung,
+                                        ohne die von p. Stechern auf die Karten getragenen Zahlen zu
+                                        ändern, den Anfang.</p>
+            <p>Nachdem die beiden Herren 2 Tage gerechnet hatten, musste Herr Kondukteur
+                    Stechern dringender Verhältnisse wegen abreisen, und obgleich ich mich zur
+                    Beschleunigung des Geschäftes erbot, den Regierungs-Kondukteur <persName key="ed_hhn_qmh_wqb">Vogt</persName> zur Fortsetzung der Berechnung zu
+                    vermögen, so fand es hernach Herr p. Morre doch für gut abzureisen. Die
+                    Berechnung wurde nun bei der Spezial-Kommission fortgesetzt.</p>
+            <p>Am 17. Juni 1820 traf Herr Podlasky selbst in Steinort ein und legte mir die
+                                        Bonitätsberechnung nebst den Karten zur Erklärung vor. Zu
+                                        meinem nicht geringen Erstaunen fand ich Rasuren auf allen
+                                        Karten, ausgenommen auf der Karte vom Dorf <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>. Ohne mich
+                                        jedoch hierüber gleich auszulassen, frug ich erst beim Herrn
+                                        Kondukteur Stechern an, ob die Radierungen beim
+                                        Bonitierungsverfahren vorgenommen wären oder nicht, und die
+                                        Antwort war verneinend mit der Versicherung, dass nur (was
+                                        auch nur gesetzlich ist) dann erst die Acker-Klassen
+                                        aufgetragen worden wären, wenn die Boniteure mit den
+                                        Kommissarien einig gewesen, aus letzterem die Acker-Klassen
+                                        bestimmt hätten. </p>
+            <p>Als ich dieses Herrn p. Podlasky mündlich vortrug und ihn auf die Verfälschungen der
+                                        Karten aufmerksam machte, wurde ich scharf zurückgewiesen
+                                        mit der Androhung, dass er dazu da wäre, um die Bonitierung
+                                        zu revidieren, worauf ich erwiderte, dass eine Revision der
+                                        Bonitierung nur in 2. Instanz zulässig sei, und dass ich
+                                        nicht über das Resultat der Bonitierung, sondern über das
+                                        widerrechtliche Verfahren der Verfälschung der Karten mich
+                                        beschweren würde.</p>
+            <p>Was ich früher, durch das Benehmen der Königlichen Spezial-Kommission veranlasst,
+                    befürchtete, musste jetzt bei mir zur Gewissheit [werden], denn wenn das
+                    Resultat der Bonitierung auch noch so hoch oder niedrig ausgefallen wäre, wenn
+                    auch keine Appellation gegen dieses Resultat stattfand, eher war kein
+                    Kommissarius befugt, durch eigenmächtige Abänderungen Karten und Verhandlungen
+                    zu verfälschen. </p>
+            <p>Ich protestierte nun bei der Königlichen General-Kommission gegen jedes fernere
+                                        Verfahren der Spezial-Regulierungs-Kommission zu <placeName key="ed_u5p_w3p_tdb">Schippenbeil</placeName>, und
+                                        in <gap reason="illegible"/> gegen Herrn Podlasky in der
+                                        Steinortschen Regulierungs-Sache, denn von dieser Kommission
+                                        waren die Bonitierungs-Veränderungen, wenn gleich von einem
+                                        Deputierten derselben aufgenommenen und wenngleich derselbe
+                                        das offenbar widersetzliche Verfahren auffallen müsste,
+                                        dennoch als gesetzlich anerkannt und mir zur Erklärung
+                                        vorgelegt. </p>
+            <p>Eine Abschrift meiner Protestation füge ich ganz gehorsamst bei. <seg type="comment">
+                  <orig>Beilage A</orig>
+                  <note xml:id="nhy2_flz_cqb">Steinort,
+                            15. Juni 1820, Bl. 10-11.</note>
+               </seg>
+            </p>
+            <p>Auf diese Beschwerde deputierte die Königliche General-Kommission den
+                                        Oberkommissarius Herrn Landes-Ökonomie-Rat <persName key="ed_h5l_ny1_1bb">Krüger</persName> zur
+                                        Fortsetzung der Regulierung, und den gründlichen Einsichten,
+                                        verbunden mit geschäftskundigem liberalen Verhalten dieses
+                                        Mannes gelang es, die aufgeregten Gemüter der Bauern zu
+                                        beruhigen, ihnen begreiflich zu machen, was rechtlich und
+                                        was widersinnig sei, und die Regulierung bis zur Vollziehung
+                                        der Rezesse zu beendigen. Ich war auch zufrieden, da die
+                                        Hauptsache erfüllt und die Regulierung in rechtlichen Händen
+                                        war, und gab dem Herr Landes-Ökonomie-Rat Krüger das
+                                        Versprechen, nichts weiter in meiner Beschwerdesache zu
+                                        tun.</p>
+            <p>Den 27. Novbr. erhielt ich jedoch einen Bescheid von der Königl.
+                    General-Kommission auf meine Beschwerde, welcher ebenfalls in Abschrift ganz
+                    gehorsamst beiliegt. <seg type="comment">
+                  <orig>Anlage B</orig>
+                  <note xml:id="nqx2_klz_cqb">Königsberg, 1. November 1820, Bl.
+                        11-12v.</note>
+               </seg>
+            </p>
+            <p>Nach diesem ist Herr Podlasky auf Grund einer von Morre abgegebenen einseitigen
+                                        Erklärung, die in allen Punkten falsch ist und deren
+                                        Unwahrheit zum Teil schon aus den Akten hervorgeht, hier
+                                        ganz schuldlos erklärt und die Verfälschung der Karten p.
+                                        nur ein unförmliches Verfahren genannt, ja sogar dem Herrn
+                                        Podlasky eine Injurien-Klage gegen mich überlassen.</p>
+            <p>Ist es möglich, dass ich mich bei dieser Entscheidung beruhige?</p>
+            <p>Abgesehen davon, dass ich durch diesen Bescheid vor der Welt als falscher
+                    Denunziant entehrt werde, so wird denen Spezial-Kommissarien durch eine solche
+                    unverdiente Protektion noch mehr Recht eingeräumt, bei ihren Regulierungen der
+                    Willkür freie Zügel zu lassen und den Gutsbesitzer oder dessen Stellvertreter
+                    herabwürdigend zu behandeln. </p>
+            <p>Nicht mir allein, sondern der ganzen Provinz war ich es schuldig, wiederholt
+                    gegen die Regulierung des p. Podlasky in den Steinortschen Gütern zu
+                    protestieren, und habe ich diese Protestation, von welcher eine Abschrift ganz
+                    gehorsamst beiliegt, der Königlichen General-Kommission eingereicht. <seg type="comment">
+                  <orig>Anlage C</orig>
+                  <note xml:id="nk5z_ymz_cqb">Angerburg,
+                            2. Dezember 1820, Bl. 12v-13v</note>
+               </seg>
+            </p>
+            <p>Ein Königliches Hochpreisliches Ministerium des Innern bitte ich ganz
+                    gehorsamst</p>
+            <p>Durch Einsicht der Akten über die Regulierung in den Steinortschen Gütern sich von
+                                        der unverlegten Wahrheit meiner Angebung und
+                                        Beschwerde-Punkte höchstgnädigst zu überzeugen und hiernach
+                                        die Spezial-Kommission zu <placeName key="ed_u5p_w3p_tdb">Schippenbeil</placeName> von jeder Einmischung in
+                                        die Steinortsche Regulierungs-Sache zu entfernen.</p>
+            <p>Wenn ich gleich überzeugt bin, dass dieses die kleinste Strafe für das illegale
+                    Verfahren der gedachten Kommission ist, so begebe ich mich doch aller weiteren
+                    Anträge, denn mir liegt nichts weiter an der gesetzlichen Bestrafung der
+                    Kommissarien, nur das kann und werde ich nie zugeben, dass widerrechtliche
+                    Handlungen als gesetzlich passieren, dass die Behörde, welche so handelt,
+                    protegiert wird.</p>
+            <p>Vor der Gerechtigkeit eines Königlichen Hochpreislichen Ministeriums darf ich keine
+                                        Fehlbitte fürchten. Von Höchstdemselben geht das Recht aus,
+                                        welches kein Unrecht neben sich duldet.</p>
+            <closer>
+               <salute>Einer Hochgeneigten Resolution sehe ich entgegen und ersterbe mit tiefstem
+                                                Respekt Einem Königlichen Hochpreislichen Ministerii
+                                                untertänigster Diener</salute>
+               <signed>Werner <lb/>Rendant der Königl. Landfeuer-Sozietäts-Kasse</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

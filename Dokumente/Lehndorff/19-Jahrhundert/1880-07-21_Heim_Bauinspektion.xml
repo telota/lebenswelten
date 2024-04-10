@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_q5z_jhy_pz">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Ludwig Heim an die X. Bauinspektion des Berliner Magistrats. Berlin, 21. Juli
+                    1880 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>LA Berlin</institution>
+                  <idno>A Rep. 010-01-02, Nr. 2573, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yp2_hfm_gbb">Heim, (-)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1880-07-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_v3n_jfm_gbb">Bauinspektion des Magistrats zu Berlin</orgName>
+            </correspAction>
+            <note>Am 15. August 1880 hatte die Bauinspektion <persName key="ed_zkm_whl_2y">
+                        Lehndorff</persName> mitgeteilt, dass die Erfüllung der von der Stadt
+                    übernommenen Verpflichtung der Pflasterung der Unterbaumstraße in guter Qualität
+                    aufgrund der noch nicht abgeschlossenen Baumaßnahmen insgesamt nicht möglich
+                    sei. Noch am 28. April 1881 war die vereinbarte Neu- bzw. Umpflasterung der
+                    Unterbaum- und Friedrich-Carl-Uferstraße nicht erledigt, vgl. das Schreiben
+                        <persName key="ed_yp2_hfm_gbb">Heims</persName> von diesem Tag in der Akte.
+                    Da er sich persönlich für die Zurverfügungstellung des Platzes bei Lehndorff
+                    verwendet hatte, war es ihm sehr unangenehm, dass die Gegenleistung nicht
+                    erfüllt war. Ebenso unangenehm war es ihm, in der Sache den Weg der Beschwerde
+                    zu beschreiten. Nach einer Randnotiz vom 30. April 1881 sollte die Umgestaltung
+                    im Sommer erfolgen, da sich die Wege nach den Bauarbeiten nun genügend gesetzt
+                    hätten. Am 3. Juni 1881 teilte Heim in Lehndorffs Auftrag Bauinspektor <persName key="ed_abj_hqs_g2b">Krause</persName> von der X. Bauinspektion mit, dass
+                    der Graf sich entschlossen habe, zwei Bauplätze nach anliegender Skizze (am Ende
+                    des Schreibens) zur Ausführung der Unterführung der Unterbaumstrasse zur
+                    Verfügung zu stellen, die entsprechend der Vereinbarungen zu räumen seien. (Ende
+                    der Akte)</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Heim Baumeister W. Berlin Kurfürsten-Strasse 9 <lb/>Berlin, den 21.
+                        Juli 1880</dateline>
+               <salute>An die X. Stadtbauinspektion <lb/>hier</salute>
+            </opener>
+            <p>In Verfolg der geehrten Zuschrift vom 14. Juli c. erwidere ich im Auftrag des
+                    Herrn <persName key="ed_zkm_whl_2y">Grafen von Lehndorff</persName> ergebenst,
+                    dass der Herr Graf der X. Bauinspektion sehr gern gefällig ist und einer
+                    weiteren Benutzung des Platzes zur Lagerung von Pflastersteinen unter der
+                    Bedingung jederzeitigen Widerrufs gestatten will, sich dagegen aber berechtigt
+                    hält, eine sofortige Herstellung des Pflasters zu verlangen in der Weise, wie
+                    solches früher <hi rendition="#u">vereinbart</hi> ist. </p>
+            <closer>
+               <salute>Hochachtungsvoll</salute>
+               <signed>Heim</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

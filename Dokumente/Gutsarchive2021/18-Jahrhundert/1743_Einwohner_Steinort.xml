@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_fww_zj2_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der Einwohner von Steinort einschließlich Kindern, Gesinde und Vieh.
+               Ca. 1743</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Inventar der Untertanen vom <ref target="lehndorff_tkq_b54_5pb">4.
+                     April 1718</ref>. Weitere Untertanenverzeichnisse in: GStA PK, XX. HA, Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, <ref target="lehndorff_ajm_l2s_33b">Nr. 307:
+                     Nachweisung der Einkünfte aus Steinort und Pristanien und namentliches
+                     Verzeichnis der Bauern (1730</ref>), Nr. 139: <ref target="lehndorff_u45_z24_gqb">Seelen-Tabelle der Gräflich Steinortschen Güter
+                     (Herbst 1808)</ref> und Nr. 188: <ref target="lehndorff_d55_sz4_5pb">Nachweisung sämtlicher in den Steinortschen Gütern in Lohn und Deputat
+                     stehenden Personen. Namentliche Aufstellung von Bedienten und Untertanen auf
+                     den Gütern Gr. Steinort, Labab, Stawisken, Taberlack, Serwillen, Stobben,
+                     Stawken, Marschallsheide (1810).</ref> Weitere Einwohnerlisten in: StA L,
+                  Bestand 21950 Familienarchiv Lehndorff, <ref target="lehndorff_xj4_x12_gy">Nr. 51
+                     (1795)</ref>, <ref target="lehndorff_ojk_td2_gy">Nr. 53 (1830)</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 318, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1743-01-01" to="1743-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_fww_zj2_ctb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Spezifikation der Einwohner samt den Kindern und Gesinde zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+            <p>
+               <persName key="ed_amp_vtg_bqb">Michel Jünger</persName>. Freier <lb/>dessen Frau
+                        <persName key="ed_uml_y3f_j5b">Maria</persName>
+               <lb/>der Sohn <persName key="ed_lmv_cjf_j5b">Christian</persName> 20 Jahr
+                    <lb/>noch 1 Sohn <persName key="ed_x2l_djf_j5b">Heinrich Ahasverus</persName> 2
+                    1/4 Jahr <lb/>Tochter <persName key="ed_svv_bjf_j5b">Louisa</persName> 16 Jahr
+                    <lb/>2 Kühe, 2 Kälber, 1 Stute nebst 1 Fohlen, 3 Schweine</p>
+            <p>
+               <persName key="ed_bbx_rjf_j5b">Michael Speisiger</persName>. 36 Jahr. Freier <lb/>die
+               Frau <persName key="ed_z4n_5jf_j5b">Maria Louisa</persName> 31 Jahr <lb/>Sohn
+                  <persName key="ed_bbx_rjf_j5b">Mich. Ernst</persName> 6 Jahr <lb/>noch 1 Sohn
+                  <persName key="ed_f2g_hkf_j5b">Hans Christ.</persName> 2 1/2 <lb/>noch 1 Sohn
+                  <persName key="ed_pjw_2kf_j5b">Gerhard Gottfried</persName> 6 Wochen <lb/>Eine
+               Kuh, 1 Kalb, 1 Stute, 1 Ferkel von 1/2 Jahr</p>
+            <p>
+               <persName key="ed_a1v_mkf_j5b">Hans Georg Raffall</persName>. 45 Jahr. Freier - ist
+               auf <seg type="comment"><orig>Michel</orig><note xml:id="nqls_fcw_txb">29.
+                     September</note></seg> 1743 angezogen<lb/>sein Weib <persName key="ed_j5d_rkf_j5b">Maria</persName> 34 <lb/>Sohn <persName key="ed_qlb_tkf_j5b">Christian</persName> 7 Jahr <lb/>Tochter <persName key="ed_rbn_tkf_j5b">Anna</persName> 1 Jahr </p>
+            <p>
+               <persName key="ed_q2m_r2j_f3b">Ahasverus Bluhm</persName>. Koch <lb/>
+               <persName key="ed_ndn_clf_j5b">Anna Maria</persName> 33 Jahr <lb/>Sohn <persName key="ed_dcr_flf_j5b">Mich. Gerhard</persName> 3 Jahr <lb/>noch 1 Sohn
+                        <persName key="ed_blg_glf_j5b">Heinrich Ahasverus</persName> 1/2 Jahr
+                    <lb/>Eine Kuh, 1 Kalb, 1 Pferd, 2 Schweine</p>
+            <p>Ein Losweib <persName key="ed_d4c_5xf_j5b">Elisabeth Pelkin</persName>. Frei
+                    <lb/>die Tochter <persName key="ed_mmx_5xf_j5b">Helena</persName> 33 Jahr</p>
+            <p>Eine Witwe <persName key="ed_p4y_zxf_j5b">Ortha Lojewska</persName>
+               <lb/>Sohn <persName key="ed_rrs_1yf_j5b">Michel</persName> 16 Jahr <lb/>noch 1 Sohn
+                  <persName key="ed_op4_byf_j5b">Ahasverus</persName> 9 Jahr <lb/>Tochter <persName key="ed_jxl_cyf_j5b">Eleonora</persName> 9 Iahr <lb/>Eine Kuh, 1 Stute, <gap reason="lost"/>
+            </p>
+            <p>Maurer <gap reason="empty"/>
+               <persName key="ed_f11_hyf_j5b">Matern</persName>. Freier <lb/>sein Weib <persName key="ed_z5m_kyf_j5b">Ortha</persName>
+               <lb/>Tochter <persName key="ed_bzn_jzf_j5b">Annortha</persName> 9 Jahr</p>
+            <p>
+               <persName key="ed_rf1_mzf_j5b">Jan Roloff </persName>28 Jahr. Freier <lb/>das
+                    Weib <persName key="ed_ipp_4zf_j5b">Anna</persName> 26 <lb/>Dienstmagd Eva 13
+                    <lb/>Eine Kuh, 2 Kälber, paar Pferde, 2 Schafe, 4 Schweine</p>
+            <p>Eine Witwe <persName key="ed_wc3_tzf_j5b">Marie Magnussin</persName> 60 Jahr
+                    <lb/>eine Tochter <persName key="ed_etn_wzf_j5b">Sophia</persName> 18 <lb/>Eine
+                    Kuh, 1 Schwein</p>
+            <p>
+               <persName key="ed_z2k_11g_j5b">Jacob Zwikowski</persName>. 53 Jahr. Freier
+                    <lb/>das Weib <persName key="ed_p5j_d1g_j5b">Catharina</persName> 60 <lb/>Sohn
+                        <persName key="ed_jkb_j1g_j5b">Andreas</persName> 18 <lb/>1 Kalb, 1 Stute
+                    nebst 1 Fohlen, 4 Schafe, 2 Ferkel von 6 Wochen</p>
+            <p>
+               <persName key="ed_grb_m1g_j5b">Andreas Reisberg</persName>, 60 Jahr. Freier
+                    <lb/>das Weib <persName key="ed_nwc_p1g_j5b">Anna</persName> 40 <lb/>Sohn
+                        <persName key="ed_enq_51g_j5b">Jacob</persName> 20 <lb/>noch 1 Sohn
+                        <persName key="ed_kzj_v1g_j5b">Martin</persName> 10 <lb/>noch 1 Sohn
+                        <persName key="ed_vyz_v1g_j5b">Michel</persName> 6 <lb/>Tochter <persName key="ed_mtl_t1g_j5b">Anna</persName> 15, ist lahm <lb/>Eine Kuh, 1 Stärke, 4
+                    Kälber, paar Pferde, 2 Schweine. 3 Ferkel</p>
+            <p>
+               <persName key="ed_npj_jwt_fqb">Michel Nolde</persName>. Freier <lb/>das Weib
+                        <persName key="ed_vw4_3bg_j5b">Maria</persName>
+               <lb/>Sohn <persName key="ed_ljy_3bg_j5b">Jacob</persName> 12 Jahr <lb/>noch 1
+                    Sohn <persName key="ed_vng_kbg_j5b">Jan</persName> 8 <lb/>noch 1 Sohn <persName key="ed_h5q_kbg_j5b">Gottlieb</persName> 1 1/2 <lb/>Tochter <persName key="ed_tbm_lbg_j5b">Eleonora</persName> 4 <lb/>Eine Kuh, 1 Kalb, 2
+                    Schweine</p>
+            <p>
+               <persName key="ed_efw_b2f_j5b">Christian Puschke</persName>
+               <lb/>Weib <persName key="ed_qwl_wbg_j5b">Maria</persName> 50 Jahr <lb/>Sohn
+                        <persName key="ed_xsx_ybg_j5b">Christian</persName> 9 1/2 Jahr <lb/>Tochter
+                        <persName key="ed_xbv_zbg_j5b">Catharina</persName>
+               <del rendition="#s">12</del>
+               <lb/>noch 1 Tochter <persName key="ed_qwl_wbg_j5b">Maria</persName> 9 <lb/>Eine
+                    Kuh, 1 Kalb, 1 Schwein</p>
+            <p>
+               <persName key="ed_qz1_gcg_j5b">Mich. Reck</persName>. 55 Jahr. Freier <lb/>Weib
+                        <persName key="ed_jzs_gcg_j5b">Dorothea</persName> 42 <lb/>Sohn <persName key="ed_sh4_hcg_j5b">Jan</persName> 16 <lb/>
+               <persName key="ed_a4x_jcg_j5b">Jacob</persName> 7 <lb/>
+               <persName key="ed_lbk_kcg_j5b">Mich.</persName> 1
+                    <lb/>Tochter <persName key="ed_ksf_lcg_j5b">Anna</persName> 13 <lb/>
+               <persName key="ed_w41_mcg_j5b">Barbara</persName> 10 <lb/>2 Kühe, 1 Kalb, 3 Schafe, 1
+                    Stute nebst 1 Fohlen, 2 Schweine</p>
+            <p>
+               <persName key="ed_a1z_5cg_j5b">Jacob Skrzypek</persName>
+               <lb/>Weib <persName key="ed_fhk_wcg_j5b">Ortha</persName>
+               <lb/>Sohn <persName key="ed_ijh_ycg_j5b">Johann Gerhard</persName> 2 Jahr
+               <lb/>Tochter <persName key="ed_z1h_zcg_j5b">Anna</persName> 7 <lb/>Eine Kuh, 1
+               Stutchen ins 2. Jahr, 2 Ferkel</p>
+            <p>Noch ist allhier die Magd <persName key="ed_pgp_2dg_j5b">Anna
+                        Flandersche</persName> NB. erhält sich selbst</p>
+            <p>
+               <persName key="ed_j4y_ndg_j5b">Georg Schuja</persName>
+               <lb/>Weib <persName key="ed_j5x_4dg_j5b">Frosina</persName>
+               <lb/>Sohn <persName key="ed_htr_sdg_j5b">Michel</persName> 11 Jahr
+                        <lb/>
+               <persName key="ed_qc3_tdg_j5b">Christoff</persName> 2 1/2 <lb/>Eine
+                    Kuh, 1 Ferkel</p>
+            <p>
+               <persName key="ed_rmr_wx4_5qb">Michel Harrasch</persName>
+               <lb/>sein Weib <persName key="ed_cyy_12g_j5b">Maria</persName>
+            </p>
+            <p>Hofmann <persName key="ed_gmd_22g_j5b">Johann Herrendorff</persName>. Frei
+                    <lb/>sein Weib <persName key="ed_yq4_f2g_j5b">Maria</persName>. Frei
+                        <lb/>
+               <persName key="ed_bhz_32g_j5b">Christoff Fiedler</persName> 20 Jahr
+                    <lb/>Knechte: <persName key="ed_rdm_q2g_j5b">
+                  <lb/>Jan Liss </persName>27 Jahr
+                        <persName key="ed_vxn_52g_j5b">
+                  <lb/>Mich. Bertsch</persName> 23
+                    <lb/>Jungens: <lb/>
+               <persName key="ed_uj3_bfg_j5b">Michael Jarreck</persName> 20
+                        <lb/>
+               <persName key="ed_xsc_w2t_vqb">Andreas Plesska</persName> 18
+                    <lb/>Mägde: <lb/>
+               <persName key="ed_fhg_mfg_j5b">Elsa Rabowna</persName> 36
+                        <lb/>
+               <persName key="ed_gbv_4fg_j5b">Anna Schujowna</persName> 29 <lb/>ihr
+                    Sohn <persName key="ed_snm_rfg_j5b">Christoff</persName> 8 Wochen</p>
+            <p>Ein Losweib <persName key="ed_xlq_yfg_j5b">Ortha </persName>
+               <seg type="comment">
+                  <persName key="ed_xlq_yfg_j5b">
+                     <orig>Seska</orig>
+                  </persName>
+                  <note xml:id="ndz5_zfg_j5b">Seska</note>
+               </seg>
+               <lb/>Sohn <persName key="ed_vrg_cgg_j5b">Matthias</persName> 6 Jahr <lb/>Tochter
+                  <persName key="ed_xng_ggg_j5b">Ortha</persName> 3</p>
+            <p>In der Waldbude</p>
+            <p>
+               <persName key="ed_cyh_lgg_j5b">Jan Kuckel</persName>
+               <lb/>Weib <persName key="ed_ews_mgg_j5b">Anna</persName>
+            </p>
+            <p>Losweib <persName key="ed_jfc_rgg_j5b">Kascha Rompelsche</persName>
+               <lb/>Sohn <persName key="ed_gwv_sgg_j5b">David</persName> 7 Jahr <lb/>Jan 4 1/2 </p>
+         </div>
+      </body>
+   </text>
+</TEI>

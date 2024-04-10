@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_bvg_zhz_hqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der verschuldete Friedrich Braunfeldt erklärt sich zum Erbuntertan der Gräfin
+                    von Lehndorff. Stawisken, 2. Dezember 1689</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe GStA PK, XX. HA. Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 683: Rechtliche
+                  Auseinandersetzungen in Erbuntertänigkeitsangelegenheiten (1696, 1703-1706,
+                  1715-1722), Nr. 684: Aufnahme in die Erbuntertänigkeit (1673, 1696, 1723) und Nr.
+                  701: Vereidigung von Erbuntertanen (1720, 1751, 1772).</p>
+               <p>Noch am <ref target="lehndorff_fpj_rmg_v1b">18. April 1724</ref> leistete der
+                  Lehndorffsche Untertan Michael Bannasch seinen Eid in polnischer Sprache.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 67, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+            <date when="1689-12-02" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bvg_zhz_hqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Kund und zu wissen sei hiermit, welcher Gestalt <persName key="ed_nrq_sdp_mbb">Friedrich Braunfeldt</persName>, aus dem <orgName key="ed_rmy_4zj_4qb">Insterburgischen Amt</orgName> gebürtig, nachdem derselbe ao. 84 von dem Wohlsel.
+               Herrn <persName key="ed_zyw_ncf_2y">Oberburggrafen von Lehndorff </persName>als
+               unserem gnädigen Herrn von denen Soldaten losgemacht worden, sich unter hochgedachter
+               Herrschaft mit einer Erbuntertanin nicht allein ehelich trauen lassen, sondern auch
+               in besagtem Dorfe <placeName key="ed_s3k_b12_gy">Taberlack</placeName> unter
+               scheidendem Jahre und bis dato zwei Huben auf hohen Zins besessen. Wenn denn derselbe
+               ao. 88 sieben und zwanzig, de ao. 89 fünfzig Mark, zusammen sieben und siebzig Mark,
+               an seinem gefälligen Hubenzins schuldig verblieben und solche Post wegen seiner
+               nachlässigen und unachtsamen Wirtschaft nicht hat richtig machen können, als hat sich
+               derselbe bei seiner gräflichen Herrschaft, der gnädigen Frau <persName key="ed_wwb_gcm_2y">Oberburggräfin und Gräfin von Löhndorff</persName>, gebührend
+               angegeben und wohlbedächtig, auch freiwillig, im Beisein unten benannter Zeugen
+               versprochen, dass weilen Ihm Hochgedachte Seine gnädige Frau die schuldig gewordenen
+               sieben und siebzig Mark erlassen hätte, er, Fr. Braunfeldt, sich Kraft diesem benebst
+               seinem aus erster Ehe erzeugten ältesten Sohn und allen Kindern, so er ins künftige
+               zeugen möchte, seiner gnädigen Herrschaft, der gnädigen Frau Oberburggräfin von
+               Löhndorff, zu Erbuntertanen ergeben habe, und künftig in allen Stücken gegen Seine
+               gnädige Herrschaft sich dergestalt untertänig erweise, wie es einem treuen,
+               gehorsamen und ehrlichen Untertanen eignet und gebürt. Zu mehrerer Versicherung
+               dessen bezeugen dieses die anwesenden nachgesetzten Zeugen.</p>
+            <p>So geschehen Stawisken den 2. Dezembr. ao. 1689</p>
+            <p>
+               <persName key="ed_nrq_sdp_mbb">Friedrich Braunfeldt</persName>
+            </p>
+            <p>
+               <persName key="ed_bjw_d4b_3qb">David Masuch</persName>
+            </p>
+            <p>
+               <persName key="ed_fwq_j4b_3qb">Michel <unclear reason="illegible" cert="low">Kulpers</unclear>
+               </persName> als Zeugen</p>
+            <p>
+               <persName key="ed_wb3_n4b_3qb">J. W. Schneider</persName> Secretar jur. als ein
+                    hierzu berufener Zeuge</p>
+         </div>
+      </body>
+   </text>
+</TEI>

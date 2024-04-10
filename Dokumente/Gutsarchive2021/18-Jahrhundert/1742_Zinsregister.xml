@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_of3_2vp_2qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auszug aus dem bäuerlichen Zinsregister für das Gut Kittlitz. 1742</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu die Dokumente von <ref target="lehndorff_q5q_kzy_hqb">1716</ref> und
+                     <ref target="lehndorff_p5z_j5r_1qb">1740</ref>. - Das Zinsregister verzeichnet
+                  auch die Zinsen der Bauern aus Taberlack, Labab, Serwillen, Stawken, Pristanien
+                  und Stobben. <lb/>In Labab hatten die 10 Bauern je 33 Rtlr. 5 Gr. zu geben (den
+                  Bauern <persName key="ed_sd4_d4p_5qb">Scheimann</persName>, <persName key="ed_ill_t2y_5qb">Uwis</persName> und <persName key="ed_kpf_3x4_5qb">Jan
+                     Brose</persName> wurden alle drei Jahre 1 Rtlr. 40 Gr. erlassen, so auch 1742).
+                  <lb/>In Stawisken hatten die 13 Bauern je 30 Rtlr. 5 Gr. mit Ausnahme der Bauern
+                  Schaack (Zuordnung nicht möglich), <persName key="ed_lwr_w5f_fqb">Haberland</persName> und <persName key="ed_tdn_ffy_5qb">Schmidt</persName> (42
+                  Rtlr.) und des Bauern <persName key="ed_hjm_3fy_5qb">Kruschinski</persName> (2
+                  Rtlr.) zu zahlen. Bauer Rabe (Zuordnung nicht möglich) zahlte nach einer separaten
+                  Berechnung 33 Rtlr. 29 Gr. 4 D. <lb/>Die 14 Bauern in Taberlack zahlten je 32
+                  Rtlr. 5 Gr. (mit Ausnahme des Bauern <persName key="ed_emp_qfy_5qb">Dardai</persName>, 42 Rtlr.) und des Bauern <persName key="ed_ap1_h1p_5qb">Schafftzig</persName> (27 Rtlr.). <lb/>In Serwillen zahlten die 8 Bauern je 33
+                  Rtlr. 21 Gr. <lb/>Die 7 Bauern aus Stawken zahlten je 28 Rtlr. 22 Gr. <lb/>Die 9
+                  Bauern in Pristanien zahlten je 28 Rtlr. 22 Gr. mit Ausnahme des <persName key="ed_onh_ffg_fqb">Ch. Eisermann</persName> (30 Rtlr.), des <persName key="ed_bpc_bxp_5qb">König</persName> (37 Rtlr.) und des <persName key="ed_tqk_3xp_5qb">Martin Eisermann</persName> (30 Rtlr.), in Stobben 31
+                  Rtlr. </p>
+               <p>Nicht überall war der Saldo ausgeglichen. Bauer Kruschinski in Stawisken
+                        waren 7 Rtlr 96 Gr. erlassen worden, Bauer Schmidt, ebenfalls Stawisken,
+                        hatte noch 24 Rtlr. zu zahlen und bei Haberland fehlt der Eintrag über
+                        eingegangene Zahlungen völlig. <lb/>Bauer <persName key="ed_hd5_3l1_5qb">Klein</persName> aus Taberlack hatte 23 Fl. 27 Gr., offen Bauer
+                            <persName key="ed_lww_gz4_5qb">Kuckel</persName> (ebd.) noch 18 Rtlr. 22
+                        Gr., von Bauer <persName key="ed_slg_3ds_vqb">Seska</persName> (ebd.)
+                        waren nur 19 Rtlr. eingegangen und auch von <persName key="ed_gvz_cnz_tqb">Gwiasda</persName> und <persName key="ed_sgm_rn1_5qb">Georg
+                            Wilewka</persName> fehlten noch 15 Rtlr., bei <persName key="ed_x3v_vds_vqb">Chalier</persName> 25 Rtlr. <lb/>Mehreren Bauern in
+                        Serwillen war der Rest erlassen worden. <lb/>In Stawken war <persName key="ed_o3c_gcx_fhb">Zwikowski</persName> 12 Rtlr. 7 Gr. schuldig, in
+                        Pristanien Bauer <persName key="ed_fp3_ywp_5qb">Preiß</persName> 16 Rtlr. 22
+                        Gr. </p>
+               <p>Nicht alle Zahlungen waren bar geleistet worden, einige hatten den Zins auch mit
+                  Vieh, Pferden, Salz, Getreide oder Einkünften aus der Fischerei bezahlt.
+                  <lb/>Wenige Bauern (<persName key="ed_oyw_5md_2qb">Gonneck</persName> aus Stobben
+                  + 15 Gr., Bauer <persName key="ed_g4p_zrd_2qb">Schack</persName> aus Stobben + 1
+                  Rtlr. 12 Gr., Bauer Bartnick (Zuordnung nicht möglich) aus Stobben + 1 Rtlr. 4
+                  Gr.) hatten mehr gezahlt, als sie mussten, so dass ihnen der überzahlte Betrag gut
+                  geschrieben oder rückgezahlt wurde. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 176, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1742-01-01" to="1742-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_of3_2vp_2qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="19" cols="4">
+                  <row role="label">
+                     <cell>Namen der Bauern</cell>
+                     <cell>sollen zahlen 1742</cell>
+                     <cell>haben gezahlt</cell>
+                     <cell>restieren</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                     <cell><seg type="comment"><orig>R. </orig><note xml:id="ngvy_2bw_txb">Rtlr.</note></seg>Gr.</cell>
+                     <cell>R. Gr.</cell>
+                     <cell>R. Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_t1j_v2t_fqb">Nowack</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">31 R bar bezahlt den 7. Okt. 1742 <lb/>Jungviehcher 1 R
+                                18 Gr. Garn und Stiebel Geld dito</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_qdc_z2t_fqb">Borcksche</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">14 R 21 Gr. mit 1 Fass Salz 7. Okt. <lb/>13 R. bar den
+                                7.Okt. 1742 <lb/>
+                        <hi rendition="#u">3 R 9 Gr. bar </hi>den 20. Okt.
+                                1742 <lb/>31 R Jungviehcher 1 R 18 Gr Garn und Stiebel Geld
+                                dito</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_sjg_cft_fqb">Gritzka</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">24 R bar bezahlt den 7. Okt. 1742 <hi rendition="#u">
+                           <lb/>7 R bar </hi>bezahlt den 20. Okt. <lb/>31 R Jungviehcher 1
+                                R 18 Gr. Garn und Stiebel Geld dito</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_bqm_2lq_lpb">Kiworra</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">14 R 21 Gr. mit 1 Fass weiß Salz 7 Okt. <lb/>
+                        <hi rendition="#u">16 R 9 Gr. bar</hi> den 7.Oct. <lb/>31 R.
+                                Jungviehcher 1 R 18 Gr. Garn und Stiebelgeld</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_pzj_jft_fqb">Kuckel</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">14 R 21 Gr. mit 1 Fass weiß Salz 7. Okt. <lb/>
+                        <hi rendition="#u">16 R 9 Gr. bar</hi> den 7. Okt. 1742 <lb/>31 R
+                                Jungviehcher 1 R 18 Gr. Garn und Stiebel Geld d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <persName key="ed_qbb_mft_fqb">Schuja</persName>
+                     </cell>
+                     <cell>31</cell>
+                     <cell cols="2">23 R 15 Gr. bar bezahlt den 7. Okt. <hi rendition="#u">
+                           <lb/>7 R 15 Gr. bar</hi> den 20. Okt. <lb/>31 R. Jungviehcher 1
+                                R 18 Gr. Garn und Stiebel Geld</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

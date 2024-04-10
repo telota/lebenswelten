@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_gll_3gp_2qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet Graf von Lehndorff über Missstände in der
+               Landwirtschaft. Steinort, 7. August 1808</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 141, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1808-08-07" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe hierzu auch Berents Briefe vom <ref target="lehndorff_gsy_zmy_bdb">11.
+                  Juli</ref> und vom <ref target="lehndorff_mkh_3sy_bdb">29. Juli 1808</ref>.
+               <lb/>Am 24. August 1808 war die Witterung für die Ernte „vortrefflich‟, so dass in
+               Steinort Weizen, Gerste und Hafer bereits eingebracht waren. Regen hatte es noch
+               immer nicht gegeben, so dass Pflügen und Eggen unmöglich war. So hatte man genug Zeit
+               zum Dreschen, so dass Berent nur wenig Korn zukaufen musste, das als Saatgut und zur
+               Brennerei verwendet wurde. Es mangelte jedoch an Saaterbsen und -Gerste. <lb/> Im
+               Brief vom <ref target="lehndorff_d11_hzy_bdb">12. Oktober 1808</ref> geht es nochmals
+               um die notwendigen Veränderungen, über die Lehndorff mit seiner Mutter sprechen
+               sollte. Wann bzw. ob dieses Gespräch stattfand, ist aus den Briefen nicht
+               ersichtlich. Erst 1811 scheint sich Lehndorff dann mit den notwendigen Veränderungen
+               tatsächlich auseinandergesetzt zu haben und fasste die inzwischen ergangenen
+               zahlreichen Verordnungen über einzuführende oder zu verändernde Abgaben und Dienste
+               in einem Promemoria zusammen. Darin setzte er sich u. a. mit dem angekündigten Gesetz
+               der „Bauernbefreiung‟ auseinander, in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+               Lehndorff-Steinort, Nr. 50.<p/> Weitere Briefe an Lehndorff, die Land- und
+               Gutswirtschaft auf den Steinortschen Gütern betreffend, ebd., Nr. 861-869
+               (1800-1853). </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gll_3gp_2qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, 7. August 1808</dateline>
+               <salute>Gnädigster Herr Graf</salute>
+            </opener>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+            <p>In den Gütern ist noch alles gesund und gut, nur die Hitze ist drückend und auch
+               verderbend, denn wenn nicht in kurzem Regen kommt, so sind die Kartoffeln auch
+               verloren. Der wirtschaftliche Geschäftsgang im Äußern leidet auch eine Stockung. Heu
+               und Korn ist eingeerntet, Weizen und Sommerfrüchte sind noch nicht reif, und pflügen
+               und eggen können wir bei uns gar nicht, und künftige Woche kommt alles auf einmal.
+               Das Korn wird besser scheffeln wie voriges Jahr, nur im Ganzen ist wenig in den
+               Scheunen. <lb/>Gnädigster Herr Graf, wenn ich so das Ganze mit allen seinen Folgen in
+               unseren Gütern durchschaue, so muss ich aufrichtig gestehen, dass bei aller meiner
+               sonstigen Mühe ich ganz verzagt werde. Meine größte Hoffnung setzte ich im Ertrage
+               auf den Weizen. Bei genauer Untersuchung ist er auf sämtlichen Vorwerken voller
+               Brand, Korn ist wenig und unrein, die Erbsen sind total missraten. Die späte Gerste
+               ist von der Hitze ausgebrannt, das bisschen frühe Gerste und der Haber können im
+               Ganzen nicht viel beitragen. Untersuche ich den Bauern, welches Leben in der Zukunft
+               öffnet sich da, durch den Krieg ausgesogen und sein Übriges dieses Jahr zum
+               Brotbedarf zugesetzt. <lb/>Vorigen Herbst haben sehr viele äußerst wenig, ja einige
+               gar kein Korn gesät, und davon wenig und das mehrste <gap reason="illegible"/>
+               gebaut, regnet es nicht bald, so wird von den Kartoffeln gar nichts. <lb/>Gnädigster
+               Herr Graf, ich halte es für eine meiner größten Pflichten, die Sachen aus dem
+               Gesichtspunkt vorzustellen, wie sie wirklich sind, dann da ich nach allen Ansichten
+               und wahrscheinlichen Gründen wohl einsehe, dass unsere Wirtschaft noch keine neue
+               Verbesserungen und Einrichtungen erhalten wird, so bitte ich Ew. Hochgeboren um Ihrer
+               selbst willen untertänigst, sprechen sie mit Ihro Exzellenz Dero <persName key="ed_gnc_c1m_2y">Frau Mutter</persName> über diese Sache ernstlich, denn der
+               Bauer kann und wird sich selbst nicht helfen; wenn die Sachen so wie vorhin beim
+               Alten fortgehen, dann muss er mit Saat und Angespann unterstützt werden oder er fällt
+               künftiges Jahr ganz aus und mit und durch ihn die Vorwerke selbst. Wenn die wüsten
+               Erben unbesetzt bleiben, so muss das Vorwerks-Angespann vermehrt werden. <lb/>Ich
+               möchte meinen ganz billigen ungefähren Überschlag vorlegen. Wir haben noch 63.
+               untertänige Bauern, geben Sie nur jedem 5 Schfl. Korn zur Saat, so sind es <lb/>
+               <table rows="5" cols="2">
+                  <row>
+                     <cell>
+                        <lb/>315 Schfl à 10 Fl. pro Schfl. nur gerechnet</cell>
+                     <cell> 1.050 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <lb/>ich will überhaupt nur 100 Schfl. kaufen</cell>
+                     <cell>333 Rtlr. 30 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>2/3 von den Bauern will ich nur jedem 2 Pferde in Ermangelung der Ochsen
+                        anrechnen, sind 80 Stück à 30 Rtlr.</cell>
+                     <cell>2.400 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <lb/>wenn die Vorwerke gut bestellt werden sollen, so brauche ich noch
+                        wenigstens 20 St. Pferde à 50 Rtlr.</cell>
+                     <cell>1.000 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <lb/>dann 16 St. Ochsen à 50 Rtlr.</cell>
+                     <cell>800 Rtlr.<lb/>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> in Summe </cell>
+                     <cell>5.583 Rtlr. 30 Gr.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Diese Rechnung werden Ew. Hochgeboren doch gar nicht übertrieben finden? Nach dem
+               Kassenabschluss sind jetzt 800 Rtlr. im Bestand, bezahle ich künftigen Monat die
+               Kontribution, das Quartal an Leutelohn und Handwerker, so bleibt nicht viel übrig und
+               Einnahme ist gar keine. Wir bleiben immer in jeder Hinsicht in einer üblen Lage. </p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+            <p>Sollten Ew. Hochgeboren so viel Platz in ihrem Wagen haben, so bitte ich an
+                    Kaffee zu gedenken, hier kostet er schon 5 Fl. und drüber, Zucker ist noch
+                    Vorrat, wie auch Pulverschrot, hier kostet 1 Pfd. Schrot schon 36 Gr.</p>
+            <closer>
+               <salute>Meine Frau mit mir empfehlen uns sämtl. Hohen Herrschaften zur fernerer Gnade
+                  und ich habe die Ehre mich mit allem Respekt zu unterzeichnen Ew. Hochgeboren
+                  untertänigster Diener</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

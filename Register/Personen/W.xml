@@ -1,0 +1,2635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127560115">
+                        <surname>Huch</surname>
+                        <forename>Gaby</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Datenmodellierung</resp>
+                    <persName ref="http://d-nb.info/gnd/1034877364">
+                        <surname>Dumont</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <orgName>TELOTA IT/DH, Berlin-Brandenburgische Akademie der
+                        Wissenschaften</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen
+                    Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby
+                    Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2019. URL:
+                    https://lebenswelten-lehndorff.bbaw.de </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName>Berlin-Brandenburgische Akademie der Wissenschaften</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2020-05-25</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Distributed under the Creative Commons Attribution 4.0</p>
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb">https://lebenswelten-lehndorff.bbaw.de/register/index.xql</idno>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="ed_rks_mmb_3vb">
+                    <persName type="reg">
+                        <surname>Wachholz</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1857)</note>
+                </person>
+                <person xml:id="ed_zn1_smb_3vb">
+                    <persName type="reg">
+                        <surname>Wachholz</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1857)</note>
+                </person>
+                <person xml:id="ed_hdl_qmb_3vb">
+                    <persName type="reg">
+                        <surname>Wachholz</surname>
+                        <forename>Willi</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1857)</note>
+                </person>
+                <person xml:id="ed_ydp_gyr_vsb">
+                    <persName type="reg">
+                        <surname>Wachnert</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Müller, Deputatsempfänger, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_lb4_dfq_rdb">
+                    <idno type="uri">https://d-nb.info/gnd/139940154</idno>
+                    <persName type="reg">
+                        <surname>Wackerbarth-Salmour</surname>
+                        <forename>Joseph Anton Gabaleon Graf von</forename>
+                    </persName>
+                    <birth>1685</birth>
+                    <death>1761</death>
+                </person>
+                <person xml:id="ed_sww_2kj_2qb">
+                    <persName type="reg">
+                        <surname>Waehner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Müller, Steinort (1810)</note>
+                </person>
+                <person xml:id="ed_tsq_t2c_t2b">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Samuel</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1727)</note>
+                </person>
+                <person xml:id="ed_hcb_j33_tdb">
+                    <persName type="reg">
+                        <surname>Wagelin</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Wegelin?</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau von <persName key="ed_cv5_xms_52b">Wilhelm Kaspar
+                            Wegely</persName>? (1759)</note>
+                </person>
+                <person xml:id="ed_hyb_45q_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118805894</idno>
+                    <persName type="reg">
+                        <surname>Wagener</surname>
+                        <forename>Hermann</forename>
+                    </persName>
+                    <birth>1815</birth>
+                    <death>1889</death>
+                </person>
+                <person xml:id="ed_mhn_qb3_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/118770640</idno>
+                    <persName type="reg">
+                        <surname>Wagner</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth>1894</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_wlc_cwg_hy">
+                    <persName type="reg">
+                        <surname>Wagner</surname>
+                        <forename>R.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verlagsbuchhändler, Berlin (1881/82)</note>
+                </person>
+                <person xml:id="ed_elh_zlv_glb">
+                    <idno type="uri">https://d-nb.info/gnd/137669380</idno>
+                    <persName type="reg">
+                        <surname>Wahlen-Jürgaß</surname>
+                        <forename>Georg Ludwig Alexander von</forename>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1833</death>
+                </person>
+                <person xml:id="ed_wrr_vck_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118805975</idno>
+                    <persName type="reg">
+                        <surname>Waldeck</surname>
+                        <forename>Benedict</forename>
+                    </persName>
+                    <birth>1802</birth>
+                    <death>1870</death>
+                </person>
+                <person xml:id="ed_o1b_2bd_gy">
+                    <idno type="uri">http://d-nb.info/gnd/118628658</idno>
+                    <persName type="reg">
+                        <surname>Waldersee</surname>
+                        <forename>Alfred von</forename>
+                    </persName>
+                    <birth>1832</birth>
+                    <death>1904</death>
+                </person>
+                <person xml:id="ed_njh_zbl_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/117561274</idno>
+                    <persName type="reg">
+                        <surname>Waldersee</surname>
+                        <forename>Franz Heinrich von</forename>
+                    </persName>
+                    <birth>1791</birth>
+                    <death>1873</death>
+                </person>
+                <person xml:id="ed_dkl_hdh_scb">
+                    <idno type="uri">http://d-nb.info/gnd/139094474</idno>
+                    <persName type="reg">
+                        <surname>Waldow</surname>
+                        <forename>Friedrich Siegmund von</forename>
+                    </persName>
+                    <birth>1682</birth>
+                    <death>1743</death>
+                </person>
+                <person xml:id="ed_f3l_zdv_22b">
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>Bertha Laura Ernestine Gräfin von</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1905</death>
+                    <note>Schrifstellerin (1872)</note>
+                </person>
+                <person xml:id="ed_zgs_wsq_rdb">
+                    <idno type="uri">http://d-nb.info/gnd/128788712</idno>
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>Johann Ernst von</forename>
+                    </persName>
+                    <birth>1615</birth>
+                    <death>1697</death>
+                </person>
+                <person xml:id="ed_ogz_p2c_t2b">
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>Luise Katharina von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Tettau, von</name>
+                    </persName>
+                    <birth>1672</birth>
+                    <death>1732</death>
+                    <note>Witwe von Sigismund Graf von Wallenrodt, Wirklicher Geheimer Staatsrat und
+                        Obermarschall in Preußen (1652-1723) <ref target="https://de.wikipedia.org/wiki/Sigismund_von_Wallenrodt"/></note>
+                </person>
+                <person xml:id="ed_lql_2cq_clb">
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>Maria Catharina Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Podewils, von</name>
+                    </persName>
+                    <birth>1672</birth>
+                    <death>1738</death>
+                    <note>Heirat: Heinrich Christoph Graf von Wallenrodt (1656-1702)</note>
+                </person>
+                <person xml:id="ed_lhd_rnr_fkb">
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>Martin von</forename>
+                    </persName>
+                    <birth>1620</birth>
+                    <death>1666</death>
+                    <note>1659-1666 Amtshauptmann zu Angerburg</note>
+                </person>
+                <person xml:id="ed_xyb_srb_tcb">
+                    <persName type="reg">
+                        <surname>Wallenrodt</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death>vor 1785</death>
+                    <note>Obermarschall (1785) </note>
+                </person>
+                <person xml:id="ed_umk_yhb_3vb">
+                    <persName type="reg">
+                        <surname>Wallner</surname>
+                        <forename>A.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Frau des Schmieds in Steinort (1854)</note>
+                </person>
+                <person xml:id="ed_hkh_3pg_my">
+                    <persName type="reg">
+                        <surname>Walter</surname>
+                        <forename/>
+                    </persName>
+                    <birth>1822?</birth>
+                    <death>1889</death>
+                    <note>Hegemeister, Mittenort (1889); wahrscheinlich Sohn des 1889 verstorbenen
+                        Hegemeisters Eduard Walter</note>
+                </person>
+                <person xml:id="ed_zxt_35b_tcb">
+                    <persName type="reg">
+                        <surname>Walter</surname>
+                        <forename>Dr.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Naturalien-Sammler (1785)</note>
+                </person>
+                <person xml:id="ed_jkb_yk5_c2b">
+                    <persName type="reg">
+                        <surname>Walter</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1840)</note>
+                </person>
+                <person xml:id="ed_xzw_ttc_zqb">
+                    <persName type="reg">
+                        <surname>Wandkowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hochzinser, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_ulj_hnz_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117136999</idno>
+                    <persName type="reg">
+                        <surname>Wangemann</surname>
+                        <forename>Hermann Theodor</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1894</death>
+                </person>
+                <person xml:id="ed_f4y_btc_nwb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Fischer, Taberlack (1684)</note>
+                </person>
+                <person xml:id="ed_anx_wrh_4cb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stadtverordnetenvorsteher (1862)</note>
+                </person>
+                <person xml:id="ed_hsk_z4c_5qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Adam</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Jan Werda; Erbuntertan, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_dbn_1pc_5qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Barbara</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Jan Werda; Erbuntertan, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_d1x_dyw_2qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Cathrin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Mattes Warda (1718)</note>
+                </person>
+                <person xml:id="ed_jkh_2yw_2qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Matthes Warda (1718)</note>
+                </person>
+                <person xml:id="ed_vfy_sld_2qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_jzd_w4c_5qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_rdl_x4c_5qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Jan jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Jan Werda; Erbuntertan, vor 1718 entlaufen</note>
+                </person>
+                <person xml:id="ed_gyy_xld_2qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Jacob Warda; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_ag2_1yw_2qb">
+                    <persName type="reg">
+                        <surname>Warda</surname>
+                        <forename>Matthes</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Schäfer, Klein Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_rgg_vhd_d2b">
+                    <persName type="reg">
+                        <surname>Warschauer</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kornmagazin-Rat (1857)</note>
+                </person>
+                <person xml:id="ed_erq_d4c_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/139095160</idno>
+                    <persName type="reg">
+                        <surname>Wartenberg</surname>
+                        <forename>Friedrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1725</birth>
+                    <death>1807</death>
+                </person>
+                <person xml:id="ed_upc_pl5_22b">
+                    <persName type="reg">
+                        <surname>Wartensleben</surname>
+                        <forename>Alfred Gneomar Cäsar Graf von</forename>
+                    </persName>
+                    <birth>1844</birth>
+                    <death>1908</death>
+                    <note>(1871)</note>
+                </person>
+                <person xml:id="ed_jz5_nhp_tdb">
+                    <persName type="reg">
+                        <surname>Wartensleben</surname>
+                        <forename> Graf von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Regiment Thadden; Sohn des Hofmeisters und Obermarschalls der Königin von
+                        Preußen, Friedrich Graf von Wartensleben (1707-1782)</note>
+                </person>
+                <person xml:id="ed_sbf_x53_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/1076779301</idno>
+                    <persName type="reg">
+                        <surname>Wartensleben</surname>
+                        <forename>Leopold Alexander Graf von</forename>
+                    </persName>
+                    <birth>1710</birth>
+                    <death>1775</death>
+                </person>
+                <person xml:id="ed_rly_wmz_ny">
+                    <persName type="reg">
+                        <surname>Wartensleben</surname>
+                        <forename>Ludwig Christian Graf von</forename>
+                    </persName>
+                    <birth>1733</birth>
+                    <death>1806</death>
+                    <note>Schlosshauptmann</note>
+                </person>
+                <person xml:id="ed_csv_jwt_zdb">
+                    <idno type="uri">http://d-nb.info/gnd/1027691218</idno>
+                    <persName type="reg">
+                        <surname>Waschinski</surname>
+                        <forename>Emil</forename>
+                    </persName>
+                    <birth>1872</birth>
+                    <death>1971</death>
+                </person>
+                <person xml:id="ed_ypt_2jv_yxb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Steinort (1854)</note>
+                </person>
+                <person xml:id="ed_kpq_d3g_1vb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kittlitz (1821)</note>
+                </person>
+                <person xml:id="ed_j4q_zy3_zqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Pristanien (1808)</note>
+                </person>
+                <person xml:id="ed_cpc_rkc_zqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_ip2_11d_5qb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Gärtners Hans Waschke; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_nxc_grh_bqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Catharina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Christoph Waschke; Magd, Labab (1718)</note>
+                </person>
+                <person xml:id="ed_jlt_2tr_vsb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Invalide, Steinort (1796)</note>
+                </person>
+                <person xml:id="ed_txs_zzc_5qb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Gärtners Hans Waschke; Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_vhl_tqh_bqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Fischer, Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_nt1_wqh_bqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Christoph jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Christoph Waschke: Knecht beim Pächter von Labab (1718)</note>
+                </person>
+                <person xml:id="ed_pdn_rhg_1vb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1821)</note>
+                </person>
+                <person xml:id="ed_lcv_gpc_zqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Gotth.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_pd1_yzc_5qb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1718 Erbuntertan, Gärtner, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_ym2_4hg_1vb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Joh.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1821)</note>
+                </person>
+                <person xml:id="ed_wtz_wqh_bqb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Christoph Waschke; Magd, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_qnc_s2b_tcb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht auf den Steinortschen Gütern (1785)</note>
+                </person>
+                <person xml:id="ed_cfk_25g_j5b">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1744)</note>
+                </person>
+                <person xml:id="ed_ppx_3zw_hkb">
+                    <persName type="reg">
+                        <surname>Waschke</surname>
+                        <forename>Matthis</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Taberlack (1773)</note>
+                </person>
+                <person xml:id="ed_mbr_qf2_2qb">
+                    <persName type="reg">
+                        <surname>Weber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Serwillen (1732)</note>
+                </person>
+                <person xml:id="ed_wdr_sws_g2b">
+                    <persName type="reg">
+                        <surname>Weber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pastor, Zschochau (1880)</note>
+                </person>
+                <person xml:id="ed_ggw_dcq_tcb">
+                    <persName type="reg">
+                        <surname>Wedack</surname>
+                        <forename>Friedrich Wilhelm</forename>
+                    </persName>
+                    <birth/>
+                    <death>ca. 1800</death>
+                    <note>deutscher Prediger der reformierten Gemeinde in Leipzig</note>
+                </person>
+                <person xml:id="ed_bzk_qrv_h2b">
+                    <idno type="uri">https://d-nb.info/gnd/117206253</idno>
+                    <persName type="reg">
+                        <surname>Wedel</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1919</death>
+                </person>
+                <person xml:id="ed_bj3_kmn_fz">
+                    <idno type="uri">http://d-nb.info/gnd/117206989</idno>
+                    <persName type="reg">
+                        <surname>Wedell</surname>
+                        <forename>Carl Heinrich von</forename>
+                    </persName>
+                    <birth>1712</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_y53_1p4_vcb">
+                    <persName type="reg">
+                        <surname>Wegelin</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death>vor 1805</death>
+                    <note>Legationsrat in St. Petersburg</note>
+                </person>
+                <person xml:id="ed_cv5_xms_52b">
+                    <idno type="uri">https://d-nb.info/gnd/118629905</idno>
+                    <persName type="reg">
+                        <surname>Wegely</surname>
+                        <forename>Wilhelm Kaspar</forename>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1764</death>
+                </person>
+                <person xml:id="ed_bdw_4jm_33b">
+                    <persName type="reg">
+                        <surname>Weichler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor (1907)</note>
+                </person>
+                <person xml:id="ed_lbt_dv5_12b">
+                    <persName type="reg">
+                        <surname>Weihrauch</surname>
+                        <forename>Hans Robert</forename>
+                    </persName>
+                    <birth>1909</birth>
+                    <death>1980</death>
+                    <note>Kunsthistoriker <ref target="https://fr.wikipedia.org/wiki/Hans_Robert_Weihrauch"/></note>
+                </person>
+                <person xml:id="ed_u5q_kjm_j5b">
+                    <persName type="reg">
+                        <surname>Weinert</surname>
+                        <forename>jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Töpfer, Silberbach (1783)</note>
+                </person>
+                <person xml:id="ed_sn3_hjm_j5b">
+                    <persName type="reg">
+                        <surname>Weinert</surname>
+                        <forename>sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Töpfer, Silberbach (1783)</note>
+                </person>
+                <person xml:id="ed_s1j_nfs_vsb">
+                    <persName type="reg">
+                        <surname>Weinholtz</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rendant, Schönberg (1814)</note>
+                </person>
+                <person xml:id="ed_vrm_24t_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/1028623860</idno>
+                    <persName type="reg">
+                        <surname>Weise</surname>
+                        <forename>Erich</forename>
+                    </persName>
+                    <birth>1895</birth>
+                    <death>1972</death>
+                </person>
+                <person xml:id="ed_rgx_lhw_h2b">
+                    <persName type="reg">
+                        <surname>Weismayr</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Ehefrau des Pächters des Hotels „Badeschloss‟ in Bad Gastein, Ludwig
+                        Weismayr (1893)</note>
+                </person>
+                <person xml:id="ed_ux4_yxz_ncb">
+                    <persName type="reg">
+                        <surname>Weiß</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kommerzienrat (1784)</note>
+                </person>
+                <person xml:id="ed_erc_wyy_ny">
+                    <persName type="reg">
+                        <surname>Weiß</surname>
+                        <forename>Agnes von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kunstmalerin (19. Jh.)</note>
+                </person>
+                <person xml:id="ed_ep5_yxp_lpb">
+                    <persName type="reg">
+                        <surname>Weiß</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Stawisken (1674)</note>
+                </person>
+                <person xml:id="ed_mqg_jbz_ssb">
+                    <persName type="reg">
+                        <surname>Weißberg</surname>
+                        <forename>Andreas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1735)</note>
+                </person>
+                <person xml:id="ed_v2x_blp_5qb">
+                    <persName type="reg">
+                        <surname>Weißberg</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1735, 1736)</note>
+                </person>
+                <person xml:id="ed_cfh_npt_flb">
+                    <idno type="uri">https://d-nb.info/gnd/119489694</idno>
+                    <persName type="reg">
+                        <surname>Weitsch</surname>
+                        <forename>Friedrich Georg</forename>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1828</death>
+                </person>
+                <person xml:id="ed_tby_x3c_tcb">
+                    <persName type="reg">
+                        <surname>Wenckstern</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kleelieferant (1785)</note>
+                </person>
+                <person xml:id="ed_l1g_1fw_2lb">
+                    <persName type="reg">
+                        <surname>Wendel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Amtmann; Pächter, Landkeim (1735)</note>
+                </person>
+                <person xml:id="ed_ljd_wyz_g2b">
+                    <persName type="reg">
+                        <surname>Wendland</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Regierungsassessor; 1883 Direktor der Südbahn</note>
+                </person>
+                <person xml:id="ed_zdh_2sm_vsb">
+                    <persName type="reg">
+                        <surname>Wendt</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Scharschau (1789)</note>
+                </person>
+                <person xml:id="ed_xz5_ykn_my">
+                    <persName type="reg">
+                        <surname>Wenk</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Förster, Steinort (1915)</note>
+                </person>
+                <person xml:id="ed_rwp_fxr_2wb">
+                    <persName type="reg">
+                        <surname>Wentzeck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1736)</note>
+                </person>
+                <person xml:id="ed_dpr_y5t_fqb">
+                    <persName type="reg">
+                        <surname>Wentzeck</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Verkäufer eines Grundstücks in Rosengarten (1844)</note>
+                </person>
+                <person xml:id="ed_n4c_rnc_43b">
+                    <persName type="reg">
+                        <surname>Wentzell</surname>
+                        <forename>Eduard Woldemar Adolph</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1895</death>
+                    <note>St. Petersburg (1869)</note>
+                </person>
+                <person xml:id="ed_vd2_jdd_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/119434911</idno>
+                    <persName type="reg">
+                        <surname>Werder</surname>
+                        <forename>August Graf von</forename>
+                    </persName>
+                    <birth>1808</birth>
+                    <death>1887</death>
+                </person>
+                <person xml:id="ed_wxq_lzz_g1b">
+                    <idno type="uri">http://d-nb.info/gnd/1019460180</idno>
+                    <persName type="reg">
+                        <surname>Werder</surname>
+                        <forename>Hans Ernst Dietrich von</forename>
+                    </persName>
+                    <birth>1740</birth>
+                    <death>1800</death>
+                </person>
+                <person xml:id="ed_vt4_rl4_s3b">
+                    <persName type="reg">
+                        <surname>Werder</surname>
+                        <forename>Johann Wilhelm von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rittmeister (1810)</note>
+                </person>
+                <person xml:id="ed_arb_4sq_cqb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Rosengarten (1738)</note>
+                </person>
+                <person xml:id="ed_d1p_kjx_ssb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor, Serwillen (1836)</note>
+                </person>
+                <person xml:id="ed_zfw_l2x_2qb">
+                    <persName type="reg">
+                        <surname>Werner </surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Rosengarten; verliert 1754 seinen Hof wegen nicht gezahlter
+                        Kontribution</note>
+                </person>
+                <person xml:id="ed_nv2_kgg_tvb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Inspektor, Stawken (um 1830)</note>
+                </person>
+                <person xml:id="ed_rry_fwl_gfb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>August</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pfarrer in Basedow <ref target="https://de.wikipedia.org/wiki/Kirche_Basedow_(Mecklenburg)"/>
+                        (1852)</note>
+                </person>
+                <person xml:id="ed_qkh_mbk_d2b">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Carl</forename>
+                    </persName>
+                    <birth>1818</birth>
+                    <death>1880</death>
+                    <note>Gutspächter, Stawisken; 1861 Wahlmann</note>
+                </person>
+                <person xml:id="ed_afr_tvf_2y">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Carl Leopold</forename>
+                    </persName>
+                    <birth/>
+                    <death>1836</death>
+                    <note>aus Bischdorff stammend, 1816 eingebürgert, 1817 Stadtverordneter von
+                        Angerburg; Landsteuer-Sozietätskassenrendant; Bevollmächtigter Carl
+                        Friedrich Ludwig Graf von Lehndorffs bei dessen Abwesenheit von den Güters
+                        seit 1824<ref target="http://angerburg.de/bewohner.htm"/></note>
+                </person>
+                <person xml:id="ed_hsy_l4j_ctb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Conrad</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tagelöhner, Groß Guja (1750)</note>
+                </person>
+                <person xml:id="ed_osv_wf4_5sb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth/>
+                    <death>1750</death>
+                    <note>Fischer, Werder Pristanien (1742-1750)</note>
+                </person>
+                <person xml:id="ed_x2n_nll_wcb">
+                    <idno type="uri">https://d-nb.info/gnd/120432722</idno>
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Jacob Friedrich</forename>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1782</death>
+                </person>
+                <person xml:id="ed_bqc_4mb_3vb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Marta</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Wachholz</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1857)</note>
+                </person>
+                <person xml:id="ed_hfn_fg4_5sb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Fischers Werner; Pächter der Sommerfischerei in Steinort
+                        (1749-1752)</note>
+                </person>
+                <person xml:id="ed_mjx_gnb_3vb">
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Uderwangen (1857)</note>
+                </person>
+                <person xml:id="ed_wrx_rm3_tcb">
+                    <idno type="uri">http://d-nb.info/gnd/118767208</idno>
+                    <persName type="reg">
+                        <surname>Werner</surname>
+                        <forename>Zacharias</forename>
+                    </persName>
+                    <birth>1768</birth>
+                    <death>1823</death>
+                </person>
+                <person xml:id="ed_lt4_lkg_j5b">
+                    <persName type="reg">
+                        <surname>Wernick</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Unteroffizier (1724)</note>
+                </person>
+                <person xml:id="ed_adf_nn1_tcb">
+                    <persName type="reg">
+                        <surname>Wernicke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hofschneider, Berlin, Breite Straße (1783)</note>
+                </person>
+                <person xml:id="ed_hyv_vdg_fqb">
+                    <persName type="reg">
+                        <surname>Wernsdorff</surname>
+                        <forename>Frau Obristleutnantin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1743)</note>
+                </person>
+                <person xml:id="ed_imc_2cb_h2b">
+                    <persName type="reg">
+                        <surname>Wernsdorff</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major, Truntlack (1885)</note>
+                </person>
+                <person xml:id="ed_abl_pyy_4kb">
+                    <persName type="reg">
+                        <surname>Werse</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Aktuar (1817), Justitiar (1818), Steinort </note>
+                </person>
+                <person xml:id="ed_tgv_smh_4cb">
+                    <idno type="uri">http://d-nb.info/gnd/121284638</idno>
+                    <persName type="reg">
+                        <surname>Werther</surname>
+                        <forename>Heinrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1772</birth>
+                    <death>1859</death>
+                </person>
+                <person xml:id="ed_b5y_k5p_rdb">
+                    <persName type="reg">
+                        <surname>Werthern</surname>
+                        <forename>Johanna Gräfin von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Buchwald, von</name>
+                    </persName>
+                    <birth/>
+                    <death>1764</death>
+                    <note>(1756)</note>
+                </person>
+                <person xml:id="ed_v2d_rbc_ydb">
+                    <idno type="uri">https://d-nb.info/gnd/1177201917</idno>
+                    <persName type="reg">
+                        <surname>Werthern</surname>
+                        <forename>Johann Georg Heinrich Graf</forename>
+                    </persName>
+                    <birth>1735</birth>
+                    <death>1790</death>
+                    <note/>
+                </person>
+                <person xml:id="ed_ccr_jvt_s3b">
+                    <idno type="uri">https://d-nb.info/gnd/133660486</idno>
+                    <persName type="reg">
+                        <surname>Westarp</surname>
+                        <forename>Otto Franz Viktor von</forename>
+                    </persName>
+                    <birth>1825</birth>
+                    <death>1879</death>
+                </person>
+                <person xml:id="ed_ojh_v2m_gbb">
+                    <persName type="reg">
+                        <surname>Westphal</surname>
+                        <forename>Gustav Peter</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1868-1890 Pfarrer in Drengfurt <ref target="https://www.wikiwand.com/de/Evangelische_Pfarrkirche_Drengfurt"/></note>
+                </person>
+                <person xml:id="ed_nlc_33g_y5b">
+                    <persName type="reg">
+                        <surname>Weyer</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Neubauer, Stärkenau (1772)</note>
+                </person>
+                <person xml:id="ed_wdh_bj2_qz">
+                    <persName type="reg">
+                        <surname>Wiedebach und Nostitz</surname>
+                        <forename>Ursula von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Veltheim, von</name>
+                    </persName>
+                    <birth>1895</birth>
+                    <death>2008?</death>
+                    <note>Heirat: Georg von Wiedebach- und Nostitz-Jänkendorf</note>
+                </person>
+                <person xml:id="ed_wfv_2f2_2qb">
+                    <persName type="reg">
+                        <surname>Wiedtke</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Drengfurt; Pächter, Serwillen (1743-1748)</note>
+                </person>
+                <person xml:id="ed_utv_pgx_clb">
+                    <persName type="reg">
+                        <surname>Wiedtke</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Drengfurt; Pächter, Serwillen (1742 bis 1748)</note>
+                </person>
+                <person xml:id="ed_il1_ntp_rdb">
+                    <persName type="reg">
+                        <surname>Wielhorska</surname>
+                        <forename>Gräfin </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1756)</note>
+                </person>
+                <person xml:id="ed_i4g_wtp_rdb">
+                    <persName type="reg">
+                        <surname>Wielhorski</surname>
+                        <forename>Michael Graf</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1794</death>
+                    <note>Gesandter der Konföderierten in Paris (1756)</note>
+                </person>
+                <person xml:id="ed_dxw_qzz_2y">
+                    <persName type="reg">
+                        <surname>Wielopolska</surname>
+                        <forename>Eliza Gräfin </forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Warschau (1897)</note>
+                </person>
+                <person xml:id="ed_bhv_vgj_f3b">
+                    <persName type="reg">
+                        <surname>Wiemar</surname>
+                        <forename>Simon</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>aus Salzburg eingewandert; Waldhüter, Drengfurter Heide (1761)</note>
+                </person>
+                <person xml:id="ed_dlj_wwg_yqb">
+                    <persName type="reg">
+                        <surname>Wien</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hirte, Taberlack (1810)</note>
+                </person>
+                <person xml:id="ed_uby_ynx_gsb">
+                    <persName type="reg">
+                        <surname>Wieszies</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Zimmermeister, Angerburg (1897)</note>
+                </person>
+                <person xml:id="ed_ttq_pxw_42b">
+                    <persName type="reg">
+                        <surname>Wiggerd</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Porträtmaler (1727)</note>
+                </person>
+                <person xml:id="ed_ydm_svl_wcb">
+                    <idno type="uri">http://d-nb.info/137423381</idno>
+                    <persName type="reg">
+                        <surname>Wilamowitz-Möllendorf</surname>
+                        <forename>Hugo Graf von</forename>
+                    </persName>
+                    <birth>1806</birth>
+                    <death>1865</death>
+                </person>
+                <person xml:id="ed_wpy_n42_b2b">
+                    <persName type="reg">
+                        <surname>Wilczeck</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Rittmeister bei den Braunen Husaren (1825)</note>
+                </person>
+                <person xml:id="ed_z5w_xl1_my">
+                    <persName type="reg">
+                        <surname>Wild</surname>
+                        <forename>H.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bürovorsteher in einem Anwaltsbüro in Magdeburg, dann in Strousbergs
+                        Diensten; Beteiligter an der Affäre um den Eisenbahnkönig <persName key="ed_cws_vm1_my">Bethel Henry Strousberg</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_vlr_rm5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/117580473</idno>
+                    <persName type="reg">
+                        <surname>Wildenbruch</surname>
+                        <forename>Louis von</forename>
+                    </persName>
+                    <birth>1803</birth>
+                    <death>1874</death>
+                </person>
+                <person xml:id="ed_zk5_1bj_myb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Serwillen (1856)</note>
+                </person>
+                <person xml:id="ed_qns_y3v_yxb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Pristanien (1854)</note>
+                </person>
+                <person xml:id="ed_tjc_mbg_1vb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Klein Steinort (1821)</note>
+                </person>
+                <person xml:id="ed_gcv_vbc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Albrecht</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Wileffka, Wilewka</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des David Wilewka/Stiefsohn des Georg Preiß; Kunstgärtner in Steinort
+                        (1724); Taberlack (1736)</note>
+                </person>
+                <person xml:id="ed_a5y_tcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Anna</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Wilewka; Magd beim Hofmann in Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_lls_ybc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Barb</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_nsc_rcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Barb</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Wilewka; Magd beim Schulzen in Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_o1c_pcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Cathrin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_zrt_zs1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Cathrin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stieftochter des Georg Preiß; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_ds4_sbc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_r1x_nxd_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Georg Wilewka; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_gmh_bkb_hkb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Stobben (1717)</note>
+                </person>
+                <person xml:id="ed_d3y_141_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Kuckel?</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stieftochter des Georg Wilewka; Magd, Krimlack (1718)</note>
+                </person>
+                <person xml:id="ed_md5_1l1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Michael Wilewka; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_o1h_zbc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_fqv_mcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Eleonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Wilewka; Magd im Hof Steinort (1718)</note>
+                </person>
+                <person xml:id="ed_xq1_ys1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Esther</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stieftochter des Georg Preiß; Magd, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_sgm_rn1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_nnv_lxd_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Georg</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_ovc_pxd_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Georg jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Georg Wilewka; Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_qgw_tn1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des Georg Wilewka; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_pmk_wz4_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Jan</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1736)</note>
+                </person>
+                <person xml:id="ed_p1h_vbc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn des David Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_mbc_c4z_tqb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Jürgen jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1716)</note>
+                </person>
+                <person xml:id="ed_l11_nmz_tqb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Jürgen sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack (1716)</note>
+                </person>
+                <person xml:id="ed_wbk_zs1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stieftochter des Georg Preiß; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_zwx_yn1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Kuckel?</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stieftochter des Georg Wilewka; Magd, Serwillen (1718)</note>
+                </person>
+                <person xml:id="ed_p3c_341_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Georg Wilewka; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_es3_1cc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des David Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_wy2_kcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Valtin Wilewka (1718)</note>
+                </person>
+                <person xml:id="ed_yzf_zk1_5qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Michael Wilewka; Taberlack (1718)</note>
+                </person>
+                <person xml:id="ed_yl2_xlz_tqb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Taberlack (1716, 1718)</note>
+                </person>
+                <person xml:id="ed_hr3_hcc_2qb">
+                    <persName type="reg">
+                        <surname>Wilewka</surname>
+                        <forename>Valtin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Stobben (1718)</note>
+                </person>
+                <person xml:id="ed_q1v_c53_zqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Losmann, Kittlitz (1808)</note>
+                </person>
+                <person xml:id="ed_tlt_dz2_yqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schäferknecht, Klein Steinort (1810)</note>
+                </person>
+                <person xml:id="ed_vwd_xcj_zqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Instmann, Stobben (1808)</note>
+                </person>
+                <person xml:id="ed_fzb_ynz_z5b">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Ahasverus</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Stawken, 1818 eingezogen</note>
+                </person>
+                <person xml:id="ed_nwl_cf2_2qb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Albrecht</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Serwillen (1735 bis 1742)</note>
+                </person>
+                <person xml:id="ed_nyj_rnj_2qb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Augustina Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Albrecht Wilewski; Serwillen (1742)</note>
+                </person>
+                <person xml:id="ed_upz_2jx_clb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1745)</note>
+                </person>
+                <person xml:id="ed_gd4_s3g_j5b">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Soldat (1742)</note>
+                </person>
+                <person xml:id="ed_hzz_vmq_lpb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort (1748)</note>
+                </person>
+                <person xml:id="ed_olp_tqs_fqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Serwillen (1761)</note>
+                </person>
+                <person xml:id="ed_omn_f5g_bqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>David</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Stobben (1741, 1746, 1750, 1754)</note>
+                </person>
+                <person xml:id="ed_hsf_2zr_vqb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Erbuntertan, Serwillen, 1710 entlaufen </note>
+                </person>
+                <person xml:id="ed_lvr_zvr_vsb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Leonora</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Deputatsempfängerin, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_s2l_wwr_vsb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Maria</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Deputatsempfängerin, Steinort (1799)</note>
+                </person>
+                <person xml:id="ed_znr_pnj_2qb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Maria Louisa</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Albrecht Wilewski; Serwillen (1742)</note>
+                </person>
+                <person xml:id="ed_ifn_qnj_2qb">
+                    <persName type="reg">
+                        <surname>Wilewski</surname>
+                        <forename>Sophia Dorothea</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Tochter des Albrecht Wilewski; Serwillen (1742)</note>
+                </person>
+                <person xml:id="ed_dyf_r4z_tqb">
+                    <persName type="reg">
+                        <surname>Wilhelm</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Taberlack, Maurer (1716)</note>
+                </person>
+                <person xml:id="ed_k5h_zd3_3rb">
+                    <persName type="reg">
+                        <surname>Wilkam</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauernwitwe (1814)</note>
+                </person>
+                <person xml:id="ed_usb_3nw_f2b">
+                    <persName type="reg">
+                        <surname>Wilkens</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Geheimer Finanzrat, Disconto-Gesellschaft Berlin (1877)</note>
+                </person>
+                <person xml:id="ed_pb2_km2_b2b">
+                    <persName type="reg">
+                        <surname>Wilsky</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>1817-1845 Hofstaatssekretär am Hof des Prinzen Friedrich <ref target="https://actaborussica.bbaw.de/organigramme/detail.xql?id=P0009940"/></note>
+                </person>
+                <person xml:id="ed_btd_2cx_clb">
+                    <persName type="reg">
+                        <surname>Willem</surname>
+                        <forename>Lorentz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1745)</note>
+                </person>
+                <person xml:id="ed_stv_2dt_xxb">
+                    <persName type="reg">
+                        <surname>Willimzig</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter von Stawken und Pristanien (1817)</note>
+                </person>
+                <person xml:id="ed_kml_2jg_wqb">
+                    <persName type="reg">
+                        <surname>Willimzig</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schreiber, Steinort (1808)</note>
+                </person>
+                <person xml:id="ed_irv_ptm_zcb">
+                    <persName type="reg">
+                        <surname>Willimzig</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kämmerer, Steinort (1808, 1810, 1814, 1817)</note>
+                </person>
+                <person xml:id="ed_ldf_rqm_vsb">
+                    <persName type="reg">
+                        <surname>Willkam</surname>
+                        <forename>Thomas</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schönberg (1788)</note>
+                </person>
+                <person xml:id="ed_vrr_5qf_fqb">
+                    <persName type="reg">
+                        <surname>Willutzki</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1742)</note>
+                </person>
+                <person xml:id="ed_o5l_qw5_22b">
+                    <idno type="uri">https://d-nb.info/gnd/117395692</idno>
+                    <persName type="reg">
+                        <surname>Wilmowski</surname>
+                        <forename>Karl von</forename>
+                    </persName>
+                    <birth>1817</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_rfz_r13_cdb">
+                    <persName type="reg">
+                        <surname>Windischbauer</surname>
+                        <forename>Alois</forename>
+                    </persName>
+                    <birth>1846</birth>
+                    <death>1917</death>
+                    <note>Hotelier und Begründer der Windischbauer-Hoteldynastie (Elisabethpark,
+                        Kaiserhof, Gasteinerhof, Savoy, Regina, Astoria, Söntgen). Im Jahr 1867 kam
+                        er mit nur 60 Gulden in der Tasche nach Bad Gastein und eröffnete gegenüber
+                        der Villa Solitude ein Geldwechslergeschäft. Später stieg er in die
+                        Hotellerie ein. 1882 ließ er das Hotel Elisabethhof erbauen. 1893 bis 1898
+                        ließ er von Angelo Comini nach Plänen des Wiener Architekten Ludwig Tischler
+                        das Hotel Gasteinerhof bauen. Im Jahre 1900 erbaute sein Schwiegersohn den
+                        Kaiserhof. Im Jahr 1887 unternahm er den ersten Versuch eines kommerziellen
+                        Vertriebes des Gasteiner Heilwassers <ref target="https://www.sn.at/wiki/Alois_Windischbauer"/></note>
+                </person>
+                <person xml:id="ed_mm1_lcg_fwb">
+                    <persName type="reg">
+                        <surname>Winkelowski</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pächter, Sommerau (1789)</note>
+                </person>
+                <person xml:id="ed_sfz_n3j_3qb">
+                    <persName type="reg">
+                        <surname>Winkler</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kämmerer, Labab (1830)</note>
+                </person>
+                <person xml:id="ed_rb5_2y5_22b">
+                    <persName type="reg">
+                        <surname>Winkler</surname>
+                        <forename>Wilhelm</forename>
+                    </persName>
+                    <birth>1831</birth>
+                    <death>1898</death>
+                    <note>Lehrer in Gastein. Quelle: Ein Leben im alten Gastein. Lese-Erinnerungen
+                        von Wilhelm Winkler (1831-1898), Salzburg 1976 </note>
+                </person>
+                <person xml:id="ed_opj_5k1_tcb">
+                    <persName type="reg">
+                        <surname>Winter</surname>
+                        <forename>Johann Christoph Ludwig</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>evangelischer Pfarrer (1758)</note>
+                </person>
+                <person xml:id="ed_ekw_b4c_gy">
+                    <idno type="uri">http://d-nb.info/gnd/117409782</idno>
+                    <persName type="reg">
+                        <surname>Winter</surname>
+                        <forename>Leopold von</forename>
+                    </persName>
+                    <birth>1823</birth>
+                    <death>1893</death>
+                </person>
+                <person xml:id="ed_wjh_yrf_vdb">
+                    <idno type="uri">https://d-nb.info/gnd/143159348</idno>
+                    <persName type="reg">
+                        <surname>Winterfeld</surname>
+                        <forename>Friedrich Wilhelm von</forename>
+                    </persName>
+                    <birth>1720</birth>
+                    <death>1787</death>
+                </person>
+                <person xml:id="ed_bc4_bwv_scb">
+                    <idno type="uri">https://d-nb.info/gnd/118975943</idno>
+                    <persName type="reg">
+                        <surname>Winterfeld</surname>
+                        <forename>Hans Karl von</forename>
+                    </persName>
+                    <birth>1707</birth>
+                    <death>1757</death>
+                </person>
+                <person xml:id="ed_t2r_5kd_2y">
+                    <persName type="reg">
+                        <surname>Winterfeld</surname>
+                        <forename>Pauline von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Roeder, von</name>
+                    </persName>
+                    <birth>1842</birth>
+                    <death>1914</death>
+                    <note>Heirat: Rudolf von <persName key="ed_k4p_fld_2y">Winterfeld</persName>
+                    </note>
+                </person>
+                <person xml:id="ed_k4p_fld_2y">
+                    <idno type="uri">https://d-nb.info/gnd/103155095X</idno>
+                    <persName type="reg">
+                        <surname>Winterfeld</surname>
+                        <forename>Rudolf von</forename>
+                    </persName>
+                    <birth>1829</birth>
+                    <death>1894</death>
+                </person>
+                <person xml:id="ed_mfb_mjp_1gb">
+                    <persName type="reg">
+                        <surname>Wippert</surname>
+                        <forename>Bernd</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Museumsleiter Burg Kriebstein <ref target="https://www.degruyter.com/document/isbn/9783422022027/html?lang=de"/></note>
+                </person>
+                <person xml:id="ed_wxy_4wv_h2b">
+                    <persName type="reg">
+                        <surname>Wirzien</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Baumeister (1892)</note>
+                </person>
+                <person xml:id="ed_rsr_3kc_zqb">
+                    <persName type="reg">
+                        <surname>Wissmann</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Soldatenweib, Stawisken (1808)</note>
+                </person>
+                <person xml:id="ed_ixj_3x2_n2b">
+                    <persName type="reg">
+                        <surname>Wittek</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                    <birth>1857</birth>
+                    <death>1927</death>
+                    <note>1874 Lehre bei dem Orgelbauer August Terletzki in Elbing, ab 1879 Geselle;
+                        eröffnete 1884 eine eigene Werkstatt in Graudenz, 1489 in Gnesen (Provinz
+                        Posen); übernahm 1893 die Werkstatt seines Lehrmeisters und führte sie als
+                        „Orgelbauanstalt Max Terletzki, Elbing, Inhaber Ed. Wittek“; 1906 ernannte
+                        ihn Prinz Friedrich Leopold von Preußen zum Hoflieferanten, 1916 würdigte
+                        Kaiser Wilhelm II. ihn bei der Einweihung der Orgel in der Hofkirche in
+                        Cadinen; die Orgelbauanstalt lieferte Instrumente vor allem nach
+                        Westpreußen, aber auch von Stettin bis in das Memelland, nach Russland und
+                        Österreich; 1927 übernahm sein Sohn Eduard Wittek (1898-1978) die Firma,
+                        nach dem Krieg war er in Würzburg als Orgelbauer tätig <ref target="https://de.wikipedia.org/wiki/Eduard_Wittek"/></note>
+                </person>
+                <person xml:id="ed_jjd_wgq_f2b">
+                    <persName type="reg">
+                        <surname>Wittenberg</surname>
+                        <forename>Emma</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Angestellte im Waisenhaus Rosengarten (1874)</note>
+                </person>
+                <person xml:id="ed_xyf_gkj_h3b">
+                    <persName type="reg">
+                        <surname>Wittgenstein</surname>
+                        <forename>Fürst</forename>
+                    </persName>
+                    <persName type="alt">
+                        <name>Sayn-Wittgenstein-Berleburg</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>russischer Offizier</note>
+                </person>
+                <person xml:id="ed_xdl_zl3_s5b">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Drengfurt (1742)</note>
+                </person>
+                <person xml:id="ed_bhb_yr5_j5b">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename/></persName>
+                    <birth/>
+                    <death/>
+                    <note>Lehrer (1809)</note>
+                </person>
+                <person xml:id="ed_w2q_njg_wqb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Koch, Steinort (1808)</note>
+                </person>
+                <person xml:id="ed_ylw_vxc_zqb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Stawken (1808)</note>
+                </person>
+                <person xml:id="ed_nry_whj_2qb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hegemeister, Steinort (1810)</note>
+                </person>
+                <person xml:id="ed_nrm_ml5_j5b">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Charlotte</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1808)</note>
+                </person>
+                <person xml:id="ed_gs2_tlz_z5b">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Ernst</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Steinort, 1808 eingezogen</note>
+                </person>
+                <person xml:id="ed_qyw_jkj_2qb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Frau</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Köchin, Steinort (1810)</note>
+                </person>
+                <person xml:id="ed_ywf_25m_zcb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Friedrich</forename>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1823</death>
+                    <note>Hofkoch, Steinort (1807, 1810, 1814)</note>
+                </person>
+                <person xml:id="ed_mzs_3lx_clb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Johann</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1745)</note>
+                </person>
+                <person xml:id="ed_r1k_vn5_scb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>jun.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Sohn von <persName key="ed_ywf_25m_zcb">Friedrich Wittke</persName>, Lehre
+                        beim Förster (1784, 1807, 1814)</note>
+                </person>
+                <person xml:id="ed_fhb_nz3_3qb">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Jürgen</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Brettschneider, Königsberg (1689)</note>
+                </person>
+                <person xml:id="ed_mrd_srl_j5b">
+                    <persName type="reg">
+                        <surname>Wittke</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Lehrer, Taberlack (1750)</note>
+                </person>
+                <person xml:id="ed_ox4_xbb_zqb">
+                    <persName type="reg">
+                        <surname>Wittkowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneider, Stawisken (1808)</note>
+                </person>
+                <person xml:id="ed_rb3_q3j_3qb">
+                    <persName type="reg">
+                        <surname>Wittkowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kämmerer, Klein Steinort (1830)</note>
+                </person>
+                <person xml:id="ed_rtq_1z5_zdb">
+                    <idno type="uri">https://d-nb.info/gnd/118992775</idno>
+                    <persName type="reg">
+                        <surname>Witzleben</surname>
+                        <forename>Erwin von</forename>
+                    </persName>
+                    <birth>1881</birth>
+                    <death>1944</death>
+                </person>
+                <person xml:id="ed_g53_4sz_g2b">
+                    <persName type="reg">
+                        <surname>Witzleben</surname>
+                        <forename>Oskar Friedrich Karl Alfred von</forename>
+                    </persName>
+                    <birth>1820</birth>
+                    <death>1894</death>
+                    <note>Herr auf Ober-Steinkirch, 1883 königlich-preußischer Oberstleutnant <ref target="https://www.einegrossefamilie.de/egf/abfrage.pl?aktion=person_zeigen&amp;person_id=19418&amp;sprache=da"/></note>
+                </person>
+                <person xml:id="ed_ur1_2sh_wqb">
+                    <persName type="reg">
+                        <surname>Witzorreck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Pristanien (1718)</note>
+                </person>
+                <person xml:id="ed_pcb_cjz_ny">
+                    <persName type="reg">
+                        <surname>Wobeser</surname>
+                        <forename>Blanka von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kunstmalerin; Verfasserin von: Kleine Reit-Instruktion für Damen, Berlin
+                        1884; GStA PK, I. HA, Rep. 77, Tit. 904, Lit. W,Nr. 312 (Unterstützung
+                        Wobeser, Blanka von) (1891)</note>
+                </person>
+                <person xml:id="ed_nv3_zbb_2lb">
+                    <persName type="reg">
+                        <surname>Wobeser</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>Kunheim</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1776)</note>
+                </person>
+                <person xml:id="ed_j21_qz1_3vb">
+                    <persName type="reg">
+                        <surname>Woelck</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Reichertswalde (1850)</note>
+                </person>
+                <person xml:id="ed_txm_d1b_3vb">
+                    <persName type="reg">
+                        <surname>Woelck</surname>
+                        <forename>Christoph sen.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Altsitzer, Silberbach (1850)</note>
+                </person>
+                <person xml:id="ed_d4b_4z1_3vb">
+                    <persName type="reg">
+                        <surname>Woelck</surname>
+                        <forename>Jacob</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Goldbach (1850)</note>
+                </person>
+                <person xml:id="ed_dhd_qth_wqb">
+                    <persName type="reg">
+                        <surname>Woelck</surname>
+                        <forename>Michael</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Stobben (1808, 1818)</note>
+                </person>
+                <person xml:id="ed_ncw_3l2_3fb">
+                    <persName type="reg">
+                        <surname>Woike</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Konsistorial- und Schulrat (1868)</note>
+                </person>
+                <person xml:id="ed_ydg_h4p_jlb">
+                    <persName type="reg">
+                        <surname>Woitkowitz</surname>
+                        <forename>Heinrich</forename>
+                    </persName>
+                    <birth>21.1.1845 (Kollatischken)</birth>
+                    <death>8.1.1945 (Greifswald)</death>
+                    <note>Rentier, 1883 Mitglied des Kriegervereins in Angerburg</note>
+                </person>
+                <person xml:id="ed_fnz_rwp_lpb">
+                    <persName type="reg">
+                        <surname>Woitku</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Labab (1674)</note>
+                </person>
+                <person xml:id="ed_a2b_sgz_ssb">
+                    <persName type="reg">
+                        <surname>Wölck</surname>
+                        <forename>Fritz</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Silberbach (1738)</note>
+                </person>
+                <person xml:id="ed_cg1_3vw_5sb">
+                    <persName type="reg">
+                        <surname>Wölck</surname>
+                        <forename>Hans</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Knecht, Abrahamsheide (1763)</note>
+                </person>
+                <person xml:id="ed_y5l_2dz_ssb">
+                    <persName type="reg">
+                        <surname>Wölck</surname>
+                        <forename>Peter</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Silberbach (1737)</note>
+                </person>
+                <person xml:id="ed_shs_zmx_5sb">
+                    <persName type="reg">
+                        <surname>Woldeck</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Landrat (1784)</note>
+                </person>
+                <person xml:id="ed_sqf_b35_dlb">
+                    <persName type="reg">
+                        <surname>Wolden</surname>
+                        <forename>Frau von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1763)</note>
+                </person>
+                <person xml:id="ed_f1s_wpw_h2b">
+                    <persName type="reg">
+                        <surname>Wolf</surname>
+                        <forename>Julius Wilhelm Robert</forename>
+                    </persName>
+                    <birth>1862</birth>
+                    <death>1932</death>
+                    <note>Getreidekaufmann, Angerburg (1896)</note>
+                </person>
+                <person xml:id="ed_hw3_cp5_ccb">
+                    <idno type="uri">http://d-nb.info/gnd/1051215366</idno>
+                    <persName type="reg">
+                        <surname>Wolff</surname>
+                        <forename>Arthur von</forename>
+                    </persName>
+                    <birth>1828</birth>
+                    <death>1898</death>
+                </person>
+                <person xml:id="ed_zt1_15h_3rb">
+                    <idno type="uri">https://d-nb.info/gnd/117614521</idno>
+                    <persName type="reg">
+                        <surname>Wolff</surname>
+                        <forename>Johann Eduard</forename>
+                    </persName>
+                    <birth>1786</birth>
+                    <death>1866</death>
+                </person>
+                <person xml:id="ed_pjz_zpw_h2b">
+                    <persName type="reg">
+                        <surname>Wolff</surname>
+                        <forename>Paul Emil A.</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Administrator in Steinort (ab 1896); Heirat: Johanna G. Wieczorek </note>
+                </person>
+                <person xml:id="ed_bcm_mpp_vcb">
+                    <idno type="uri">https://d-nb.info/gnd/117433012</idno>
+                    <persName type="reg">
+                        <surname>Wolkonsky</surname>
+                        <forename>Pjotr Michailowitsch</forename>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1852</death>
+                </person>
+                <person xml:id="ed_ykn_l1y_42b">
+                    <persName type="reg">
+                        <surname>Wolleben</surname>
+                        <forename/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Wohlleben</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Königliches Oberlandesgericht (1887)</note>
+                </person>
+                <person xml:id="ed_e5t_ldz_z5b">
+                    <persName type="reg">
+                        <surname>Wollweber</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Pfarrer (1818)</note>
+                </person>
+                <person xml:id="ed_zl4_tnt_g2b">
+                    <persName type="reg">
+                        <surname>Wolter</surname>
+                        <forename>Friedrich Ludwig Johannes</forename>
+                    </persName>
+                    <birth>1864</birth>
+                    <death/>
+                    <note>Hilfsprediger in Königsberg, 1889-1899 Pfarrer in Rosengarten <ref target="https://de.wikipedia.org/wiki/Christk%C3%B6nigskirche_(Radzieje)"/></note>
+                </person>
+                <person xml:id="ed_scj_xvh_tdb">
+                    <idno type="uri">https://d-nb.info/gnd/142185701</idno>
+                    <persName type="reg">
+                        <surname>Woronzow</surname>
+                        <forename> Fürst</forename>
+                    </persName>
+                    <persName type="alt">
+                        <surname>Woronzow</surname>
+                        <forename>Michael Larionowitsch Fürst</forename>
+                    </persName>
+                    <birth>1714</birth>
+                    <death>1767</death>
+                </person>
+                <person xml:id="ed_ufh_qtm_vsb">
+                    <persName type="reg">
+                        <surname>Woyczechowski</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schulze, Schönberg (1789)</note>
+                </person>
+                <person xml:id="ed_ufk_jr1_h2b">
+                    <persName type="reg">
+                        <surname>Woyna</surname>
+                        <forename>Anna Dewitz von</forename>
+                    </persName>
+                    <birth>1838</birth>
+                    <death>1930</death>
+                    <note>Hofdame von Maria Anna von Preußen (1837–1906, Gemahlin von Prinz
+                        Friedrich Karl von Preußen); Enkelin von Friedrich Freiherr von Ende
+                        (Hofmarschall des Erbprinzen Carl Friedrich von Sachsen-Weimar und der
+                        Erbprinzessin Maria Pawlowna) <ref target="https://actaborussica.bbaw.de/register/personen/detail.xql?id=P0008932"/></note>
+                </person>
+                <person xml:id="ed_yxn_53r_gz">
+                    <idno type="uri">https://d-nb.info/gnd/102930260X</idno>
+                    <persName type="reg">
+                        <surname>Wrangel</surname>
+                        <forename>August Friedrich Ludwig Freiherr von</forename>
+                    </persName>
+                    <birth>1774</birth>
+                    <death>1851</death>
+                </person>
+                <person xml:id="ed_wjt_nwh_h2b">
+                    <persName type="reg">
+                        <surname>Wrangel</surname>
+                        <forename>Baronin von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1870, 1887)</note>
+                </person>
+                <person xml:id="ed_s2f_r5j_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/117426059</idno>
+                    <persName type="reg">
+                        <surname>Wrangel</surname>
+                        <forename>Friedrich Freiherr von</forename>
+                    </persName>
+                    <birth>1784</birth>
+                    <death>1877</death>
+                </person>
+                <person xml:id="ed_esz_wbh_ldb">
+                    <persName type="reg">
+                        <surname>Wrede</surname>
+                        <forename>Freiherr von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Corps Borussia Bonn (1846)</note>
+                </person>
+                <person xml:id="ed_llg_b3q_v2b">
+                    <persName type="reg">
+                        <surname>Wreech</surname>
+                        <forename>Ludwika von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1775)</note>
+                </person>
+                <person xml:id="ed_m4x_b5m_vsb">
+                    <persName type="reg">
+                        <surname>Wrobel</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Bauer, Schönberg (1789)</note>
+                </person>
+                <person xml:id="ed_p2v_4qm_vsb">
+                    <persName type="reg">
+                        <surname>Wrobel</surname>
+                        <forename>Christina</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schönberg (1788)</note>
+                </person>
+                <person xml:id="ed_zfc_41q_rdb">
+                    <persName type="reg">
+                        <surname>Wulfenstjerna</surname>
+                        <forename>Gustav</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>schwedischer Gesandter in Berlin (1756)</note>
+                </person>
+                <person xml:id="ed_sxy_wnc_zqb">
+                    <persName type="reg">
+                        <surname>Wulff</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Schneider, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_nbc_jrc_zqb">
+                    <persName type="reg">
+                        <surname>Wulff</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Hospitalit, Taberlack (1808)</note>
+                </person>
+                <person xml:id="ed_zvz_mt3_tdb">
+                    <persName type="reg">
+                        <surname>Wulffen</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>auf Pietzpuhl (1762)</note>
+                </person>
+                <person xml:id="ed_fv3_hnf_1vb">
+                    <persName type="reg">
+                        <surname>Wülknitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Kapitän, Rastenburg (1820)</note>
+                </person>
+                <person xml:id="ed_yd5_m2x_f2b">
+                    <idno type="uri">https://d-nb.info/gnd/117375772</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>August Prinz von</forename>
+                    </persName>
+                    <birth>1813</birth>
+                    <death>1885</death>
+                </person>
+                <person xml:id="ed_e4g_tyl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/117753416</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>Friedrich Eugen Herzog von</forename>
+                    </persName>
+                    <birth>1732</birth>
+                    <death>1797</death>
+                </person>
+                <person xml:id="ed_mp5_5ps_52b">
+                    <idno type="uri">https://d-nb.info/gnd/118560158</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>Karl Eugen Herzog von</forename>
+                    </persName>
+                    <birth>1728</birth>
+                    <death>1793</death>
+                </person>
+                <person xml:id="ed_f3y_dnm_cz">
+                    <idno type="uri">http://d-nb.info/gnd/132356716</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>Ludwig Prinz von</forename>
+                    </persName>
+                    <birth>1756</birth>
+                    <death>1817</death>
+                </person>
+                <person xml:id="ed_yjw_5yl_cz">
+                    <idno type="uri">http://d-nb.info/gnd/11933075X</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>Sophie Dorothee Prinzessin von</forename>
+                    </persName>
+                    <birth>1759</birth>
+                    <death>1828</death>
+                    <note>Hochzeit: als Maria Feodorowna 1776 Paul I. Kaiser von Russland </note>
+                </person>
+                <person xml:id="ed_y4n_21c_d2b">
+                    <idno type="uri">https://d-nb.info/gnd/118633058</idno>
+                    <persName type="reg">
+                        <surname>Württemberg</surname>
+                        <forename>Wilhelm I. König von</forename>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1864</death>
+                </person>
+                <person xml:id="ed_enm_cq4_vcb">
+                    <persName type="reg">
+                        <surname>Wussow</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Major (1805)</note>
+                </person>
+                <person xml:id="ed_evl_3mg_ccb">
+                    <persName type="reg">
+                        <surname>Wüstenfeld</surname>
+                        <forename>Helene</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>(1883)</note>
+                </person>
+                <person xml:id="ed_ac1_dtl_wxb">
+                    <persName type="reg">
+                        <surname>Wusterwitz</surname>
+                        <forename>von</forename>
+                    </persName>
+                    <birth/>
+                    <death/>
+                    <note>Obristleutnant (1811)</note>
+                </person>
+                <person xml:id="ed_ayg_r5j_gz">
+                    <idno type="uri">http://d-nb.info/gnd/117227617</idno>
+                    <persName type="reg">
+                        <surname>Wylich und Lottum</surname>
+                        <forename>Carl Friedrich Graf von</forename>
+                    </persName>
+                    <birth>1767</birth>
+                    <death>1841</death>
+                </person>
+                <person xml:id="ed_abw_lg2_b2b">
+                    <idno type="uri">https://d-nb.info/gnd/137874391</idno>
+                    <persName type="reg">
+                        <surname>Wylich und Lottum</surname>
+                        <forename>Heinrich Christoph Karl Hermann von</forename>
+                    </persName>
+                    <birth>1773</birth>
+                    <death>1830</death>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

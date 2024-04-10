@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_yxq_1nj_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gerichtsschreiber Szczepanski fordert Gräfin von Lehndorff auf, sich wegen eines
+               früheren Knechts zu erklären. Angerburg, 10. März 1750</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 411, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_cln_c3r_fkb">Szczepanski, Jacobus (Jacob) August
+                        (1720-1782)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1750-03-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Luisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+            <note>
+               <persName key="ed_zrf_44j_ctb">
+                  <persName key="ed_zrf_44j_ctb">Hintzmann</persName>
+               </persName> hatte bei seiner Befragung im <orgName key="ed_r2q_dc1_tcb">Hauptamt
+                  Angerburg</orgName> am 21. Februar angegeben, <persName key="ed_hsy_l4j_ctb">Conrad Werner</persName> hätte bei ihm in <placeName key="ed_lqp_ndf_n2b">Groß
+                  Guja</placeName> um Martini eine Arbeit angenommen. Bei seinem Eintritt hätte er
+               von ihm einen Dienstschein erbeten, dieser hätte ihn jedoch nicht vorzeigen können
+               und sich damit entschuldigt, dass der Schulze in Labab des Schreibens unkundig sei
+               und es keinen Schulmeister gäbe. Er hätte ihm versichert, dass er nicht entlaufen,
+               sondern vom Schulzen in Labab nach 1 1/2 Jahren Dienst ausgezahlt worden sei. Er sei
+               willig, den Knecht sogleich zu entlassen, wenn das Hauptamt dies für Recht erkenne.
+               Doch sei der Schulze <persName key="ed_fyt_syb_t2b">Martin Rompel </persName>in Groß
+               Guja gewesen und hätte ihm erklärt, dass der Knecht nicht entlaufen , sondern von ihm
+               aus dem Dienst entlassen worden wäre. Die <persName key="ed_q4s_xyl_2y">Gräfin</persName> wolle ihn jedoch deshalb wiederhaben, da sein verstorbener
+               Vater der Steinortschen Herrschaft Schulden hinterlassen hätte, die er abtragen
+               müsse.<p/> Der 21-jährige Werner gibt in der Befragung an, kein Steinortscher
+               Untertan zu sein. Sein Vater hätte auf dem Werder in Pristanien die Fischerei in
+               Pacht gehabt, seine Mutter sei vor dem Vater gestorben, die Brüder seien in Kittlitz
+               bei der Stiefmutter. Der Vater sei 29 Fl. 15 Gr. schuldig geblieben, dafür hätte man
+               ihm gutes Vieh abgenommen, das aber nicht taxiert worden war. Er sei niemand etwas
+               schuldig.<p/> Hintzmann wird aufgefordert, auf den Knecht bis zur Entscheidung ein
+               „wachsames Auge‟ zu haben, anderenfalls werde er zur Verantwortung gezogen.<p/> Am
+               24. März 1750 fällte das Hofgericht sein Urteil gegen den Wunsch der Gräfin, man
+               könne ihr „keine Satisfaktion verschaffen‟; sie solle „mit diesen Leuten gnädig‟
+               umgehen und die Sache nicht per Gericht weiter verfolgen, „auch diejenigen, die in
+               Dero Güter nicht bleiben wollen, zu rechter Zeit und wenn sie sich aufgesagt‟ ziehen
+               lassen.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_yxq_1nj_ctb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, 10. März 1750</dateline>
+               <salute>Hochgeborene Reichsgräfin <lb/>gnädige Frau!</salute>
+            </opener>
+            <p>Ew. Hochgeboren Reichsgräfliche Gnaden wird auf spezialen Befehl des Herrn
+               Tribunal-Vize-Präsidenten und Amtsverwesern <persName key="ed_drn_pbj_f3b">von
+                  Grabowski</persName> Hochwohlgeboren kognitiv beikommendes Protokoll von Amtswegen
+               kommuniziert und Hochdieselben amtlich ersucht, sich darüber, wofern Ew. Hochgeboren
+               Reichsgräfl. Gnaden den <persName key="ed_hsy_l4j_ctb">Conrad Werner</persName>, der
+               bei dem Arrendator <persName key="ed_zrf_44j_ctb">Hintzmann</persName> in <placeName key="ed_lqp_ndf_n2b">Groß Guja</placeName> Dienste angenommen, den an ihn
+               gemachten Ansprüche zu erlassen nicht geneigt sind, näher gegen das Amt zu
+               erklären.</p>
+            <closer>
+               <salute>Ich beharre mit ausnehmendem Respekt Ew. Hochgeboren Reichsgräfl. Gnaden ganz
+                  gehorsamster Diener</salute>
+               <signed>
+                  <persName key="ed_rk5_v5t_fqb">Szczepanski</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

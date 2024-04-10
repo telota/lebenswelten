@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_sww_2nf_zdb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 15. Juli bis September 1799</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p> </p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="editorial">
+               <p>Neben der Korrespondenz unterhielt Lehndorff Beziehungen nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu den Grafen <persName key="ed_m1c_btk_w2b">Finckenstein</persName>, den Grafen <persName key="ed_kph_h2r_v2b">Dönhoff</persName>, den <persName key="ed_cpm_33y_ydb">Schliebens</persName> und den <persName key="ed_n2h_2xz_g2b">Dohnas</persName>, <quote>die überall auf der Welt
+                            zur guten Gesellschaft gehören würden</quote>, vgl. ebd., S. 303.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Lehndorff, Ernst Ahasverus Heinrich von, Am Hof der
+                            Königin Luise. Das Tagebuch vom Jahr 1799, übersetzt und eingel. von Eva
+                            Ziebura, Berlin 2009, S. 234 ff.</bibl>
+               </witness>
+            </listWit>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <abstract>
+            <p>Aus <placeName key="ed_pxt_cnh_1y">Steinort</placeName> treffen Lehndorffs Gärtner
+               und sein Kutscher mit 4 Pferden ein. Sie waren 14 Tage unterwegs und haben 84 Meilen
+               (591 km) zurückgelegt. Lehndorff beginnt, seine Rückreise nach <placeName key="ed_uvt_4j4_dz">Preußen</placeName> vorzubereiten. Am 11. August sind die
+               Koffer gepackt und die Verabschiedung von allen Höfen erledigt, am 12. August beginnt
+               die Rückreise, die ihn über bekannte Orte führt. Vielfach begegnet er
+               Persönlichkeiten, die er aus seinem Leben am preußischen Hof kennt. Die Reise führt
+               auch durch ehemals polnische Gebiete, die Lehndorff bereist hatte, als sie preußisch
+               geworden waren. <quote>Man spürt in diesem Land noch viel von der sarmatischen
+                  Schweinerei, obgleich es unter der preußischen Herrschaft schon besser geworden
+                  ist. Ich finde meine Voraussagen von damals, als dieser Teil <placeName key="ed_f5m_fxv_mbb">Polens</placeName> an Preußen fiel, genau bestätigt. Die
+                  Bevölkerung ist sehr zufrieden, nur die Großen trauern über den Verlust ihrer
+                  ehemaligen Macht. Das Land ist sehr entwicklungsfähig, überall sieht man frisch
+                  gerodete Gebiete und gemauerte Häuser mit Schornsteinen. Früher kam der Rauch dort
+                  heraus, wo er konnte, und die Leute hatten das geistige Niveau und das Aussehen
+                  von Räuchergänsen.</quote> - Am 27. August trifft er bei seiner Nichte <persName key="ed_gpx_gv5_vcb">Groeben</persName>, geb. Podewils ein. - Am 1. September
+               reist er weiter nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, muss aber
+               in Schloss <placeName key="ed_gjy_fkp_tdb">Prassen</placeName> bei den Dönhoffs
+               Station machen, da er seine Pferde verpasst. - Am folgenden Tag wird er in <placeName key="ed_y5w_wtp_dz">Barten</placeName> vom dortigen Pächter <persName key="ed_hjq_ttv_scb">Henrici</persName> begrüßt, in <placeName key="ed_h35_jqh_my">Drengfurt</placeName> kommen ihm Inspektor <persName key="ed_yx5_cbg_nbb">Berent</persName> und Verwalter  <persName key="ed_d42_1st_ncb">Sperling</persName> entgegen. Am folgenden Samstag und Sonntag geht er mit seinen
+                  <quote>Leuten und einigen Reformierten aus der Nachbarschaft zum Abendmahl</quote>
+               und lädt alle für zwei Tage zum Essen ein. - Er empfindet die Veränderung der
+               Lebensweise <quote>sehr stark. Aus der großen Welt kommend, bin ich nun mit meiner
+                     <persName key="ed_gnc_c1m_2y">Frau</persName> allein. Man muss sich daher viel
+                  beschäftigen, um seinen Tag auszufüllen und alles aufbieten, um sich über den
+                  Mangel an guter Gesellschaft hinweg zu trösten. Die Korrespondenz wird mir dabei
+                  helfen.</quote>
+            </p>
+         </abstract>
+         <creation>
+            <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf von
+                    (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+            <date from="1799-07-15" to="1799-10-01" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

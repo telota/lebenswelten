@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_vmq_jq2_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entwurf des Grafen von Lehndorff für Verträge mit Gärtnern. Steinort, 1810
+            </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Die Akte ist überschrieben: Verhältnisse der Bauern und Instleute in den
+                        Steinortschen Gütern und Ideen zu deren Verbesserung. Entwurf des Grafen
+                        Carl Ludwig Christian v. Lehndorff (1710-1854)</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 327, n. f. </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1810-01-01" to="1810-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_vmq_jq2_ctb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>P. M.</p>
+            <p>In den <placeName key="ed_bxm_sxb_5bb">Dobenschen</placeName> Gütern ist ein Gärtner
+               derjenige, was man in den Gr. <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern einen Instmann nennt, welcher aber auch
+               verpflichtet ist, jede herrschaftl. Arbeit zu leisten. <lb/>Er ist nämlich verbunden
+               von Ostern ab bis <seg type="comment"><orig>Martini</orig><note xml:id="nkrs_2nl_wxb">11. November</note></seg> mit seiner <seg type="comment"><orig>Margel</orig><note xml:id="nkjv_xnl_wxb">Magd</note></seg> (welche jeder
+               Gärtner hält, d. h., wenn ein solcher nicht eine erwachsene Tochter hat) tagtäglich
+               in die herrschaftliche Arbeit zu kommen und dafür erhält selbiger von der Herrschaft<list>
+                  <item>an Lohn 3 Rtlr. 30 Gr.</item>
+                  <item>an Deputat 4 Schfl. Korn</item>
+                  <item>7 1/2 Schfl. Gerste</item>
+                  <item>9 Schfl. Haber und </item>
+                  <item>1 Schfl. Erbsen</item>
+               </list></p>
+            <p>Er hat seinen bestimmten Morgen in jedem Felde und 3 Schfl. Aussaat, welchen selbiger
+               mit seinem eigenen einen Pferdewagen und wozu der Gärtner herrschaftliche Ochsen
+               erhält, bestellen muss. Was die Düngung dieses Morgens anbetrifft, geschieht bei
+               jedesmaliger <gap reason="illegible"/>, wo selbiger zur Ausfuhr des Düngers
+               herrschaftliches Angespann erhält, d. h. wenn mit den Ausfuhren des herrschaftlichen
+               Düngers beendigt ist. </p>
+            <p>Der Gärtner hat das Recht auf der herrschaftlichen Weide zu halten<list>
+                  <item>2 Kühe</item>
+                  <item>1 Pferd</item>
+                  <item>2 Schafe und</item>
+                  <item>2 Schweine</item>
+               </list></p>
+            <p>Erhält hierauf zu Winterausfütterung zwei Fuder Heu, die aber nur klein sind.
+               <lb/>Was das Brennholz anbetrifft, halten die Gärtner zusammen in jeder Woche einen
+               bestimmten Holztag, wo es ihnen freisteht, das Lese- und Raffholz für sich zu
+               benutzen. <lb/>Beim Dreschen des herrschaftlichen Getreides ist der Gärtner so wie in
+               den hiesigen Gütern auf den 11. Scheffel Verdienst gesetzt. <lb/>Was die Abgaben
+               eines solchen Gärtners, die selbiger an die Herrschaft entrichten muss, anbetrifft,
+               als <list>
+                  <item>für Wohnung</item>
+                  <item>für Garten</item>
+                  <item>Kopfschoss</item>
+                  <item>Weidegrund für die Kühe, Pferd, Schaf und Schwein</item>
+               </list></p>
+            <p>ist auch eine Festsetzung, die ich in diesem Augenblick nicht hier erwähnen kann,
+               welche aber in kurzem hier nachgetragen werden wird, als</p>
+            <p>
+               <table rows="5" cols="2">
+                  <row>
+                     <cell>für Wohnung </cell>
+                     <cell><gap reason="illegible"/></cell>
+                  </row>
+                  <row>
+                     <cell>für Garten</cell>
+                     <cell><gap reason="illegible"/></cell>
+                  </row>
+                  <row>
+                     <cell>Kopfschoss p. Person jährlich</cell>
+                     <cell>35 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Weidegeld für die Kuh</cell>
+                     <cell>24 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Weidegeld für ein Pferd</cell>
+                     <cell>15 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Weidegeld für ein Schaf</cell>
+                     <cell>3 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Weidegeld für ein Schwein</cell>
+                     <cell>3 Gr.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

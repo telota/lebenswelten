@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_khv_rlb_3rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf zu Dohna-Reichertswalde wegen eines Jagdverstoßes in seinen Gütern. 31.
+               Dezember 1849</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p/>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 732, Bl. 36-37</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lyr_1g5_c2b">Dohna-Reichertswalde, Friedrich Burggraf und Graf
+                        zu (1799-1873)</persName>
+               <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+               <date when="1849-12-31" cert="high"/>
+               
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_khv_rlb_3rb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Reichertswalde, 31. Dezember 1849</dateline>
+            </opener>
+            <p>Zu meinem größten Befremden betrachten Euer Hochehrwürden den neulichen
+               beklagenswerten Vorfall ganz <seg type="comment"><orig>cavatierement</orig><note xml:id="nfk5_jy5_yxb">Bedeutung unklar.</note></seg> als etwas sehr
+               unangenehmes fatales, das Ihnen auch allenfalls leid tut, unterdes Sie meines
+               Erachtens Gründe genug hätten, denselben von einer viel ernsteren Seite anzusehen. Es
+               scheint dies von einer Unklarheit und Verschwobenheit der Ansichten herzurühren, die
+               sich bei Ihrem Stande nicht entschuldigen lässt, umso weniger, als sie mir ein
+               Resultat des Jahres 1848 und seiner allhier einfundierenden Konsequenzen zu sein
+               scheint. Es war mindestens ein Mangel an Zart- und Wirklichkeitsgefühl, als
+               unmittelbar nach jener Katastrophe Euer Hochehrwürden Ihre Jagdstreifereien begannen,
+               und als die total zerrütteten Jagd-Polizei-Gesetze durch die neue <seg type="comment"><orig>Jagd-Polizei-Ordnung</orig><note xml:id="nq4c_k1v_yxb">Als Folge der
+                     Revolution von 1848 war das Jagdregal des Adels aufgehoben und jedem Bürger die
+                     Ausübung der Jagd auf seinem Grundbesitz gestattet worden, siehe <ref target="https://de.wikipedia.org/wiki/Geschichte_der_Jagd_in_Deutschland">hier</ref>.</note></seg> revidiert wurden, war die Art und Weise, wie Sie
+               diese Jagd-Polizei-Ordnung ignorierten, gesetzwidrig. Dennoch ignorierte ich die
+               Sache, so lange sie sich in den Grenzen der Feldjagd bewegte, als mir aber der Jäger
+               von Pirschfahrten Meldung tat, die ich kaum glauben wollte, war ich nicht wenig
+               überrascht, Sie auf einer Pirschfahrt nach Rehwild zu treffen, wobei der Organist
+               noch unnütz mitgeschleppt ward nebst einem dritten Begleiter. Die Absicht des
+               Unternehmens ist durch die untersuchte Ladung des Gewehrs genügend konstatiert.
+               Übrigens traf ich Sie auf meinem Jagdterritorio und hielt Sie auf einem Viehwagen an,
+               wenn Sie also von Ihrem Lande sprechen, so weiß ich nicht, was damit gesagt sein
+               soll, denn:</p>
+            <list type="ordered">
+               <item>waren Sie, wie gesagt, gar nicht auf Ihrem Lande, vielmehr als ich Sie
+                        traf auf einem zum Territorio des Dorfes <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName> gehörigen Fleck,</item>
+               <item>gehört die Jagd auf Ihrem Lande nicht Ihnen sondern mir einmal als Patron,
+                        sodann aber angenommen, wenn auch nicht zugegeben, dass dies Verhältnis
+                        angezweifelt werden könnte, so gehört sie mir, jedenfalls als Jagdpächter
+                        des bäuerlichen Territorii von <placeName key="ed_ufx_hfc_3rb">Silberbach</placeName>.</item>
+            </list>
+            <p>Hiernach würde ich also, selbst wenn Sie einen Jagdschein gehabt haben würden,
+               dennoch vollständig befugt zur Konfiskation des Gewehres gewesen sein, und es liegt
+               zur Zeit lediglich ein doppeltes Vergehen vor, unterdes es bei Vorhandensein eines
+               Jagdscheins nur ein einfaches gewesen sein würde. Hiernächst haben Euer Hochehrwürden
+               ein sehr namhaftes Ärgernis gegeben, was Sie wahrhaft bereuen sollten, da dies aber
+               gar nicht der Fall zu sein scheint, so muss ich die Ursache Ihrer Ansicht, wie schon
+               gesagt, in einer ganz irrtümlichen oder vielmehr falschen Auffassung des
+               Sachverhältnisses suchen.</p>
+            <p>Einem solchen bin ich schon bei anderen Veranlassungen verschiedentlich begegnet, und
+               hat es mich nicht befremdet, als ich von zuverlässigen Personen hörte, dass Euer
+               Hochehrwürden sowohl in den Kreis-Synoden als anderweit Äußerungen getan hätten von
+               offenbar destruktiver Tendenz. Der Umgang mit einem Geistlichen der Nachbarschaft,
+               welcher nebst seinen beiden Brüdern Ansichten erwähnter Art vielfach gehuldigt hat
+               und noch jetzt noch huldigt, mag Sie zu ähnlichen Meinungen disponiert haben, ich
+               muss Ihnen aber bemerkbar machen, dass dieselben bei der Majorität der der
+               Geistlichkeit vorgesetzten Behörden durchaus keinen Beifall finden, und die Nachteile
+               davon sich früher oder später bewahrheiten. Unter diesen Umständen wird es lediglich
+               zu Ihrem eigenen Besten gereichen, wenn Sie die Dinge vermeiden, die Ihnen Schaden
+               und Nachteil bringen können.</p>
+            <p>Meinerseits will ich Ihretwegen und des öffentlichen Ärgernisses wegen den Skandal
+               einer polizeilich-gerichtlichen Untersuchung und Bestrafung vermeiden. Die Sache aber
+               oberflächlich als Faktum betrachten und der Vergessenheit übergeben ist ein Unding,
+               denn was 10 Augen gesehen und 10 Ohren gehört haben, das kann nicht sofort
+               ungeschehen und ungehört gemacht werden. Sie selbst aber haben unnützerweise 2 Zeugen
+               für den Vorfall geliefert, von denen der Organist noch obendrein verführt zu sein
+               behauptet. Sollte er sich abermals verführen lassen, so würde ich eine
+               Strafverfolgung beantragen, um ihn vor dergleichen zu bewahren.</p>
+            <p>Übrigens habe ich mich, als Er einen Jagdschein beantragte, meines Erachtens recht
+               deutlich über den Gegenstand und meine Ansicht darüber ausgesprochen, wie man sieht
+               ohne Erfolg, obschon Euer Hochehrwürden behaupten, es würde nur eines Winks bedurft
+               haben.</p>
+            <p>Was das konfiszierte Gewehr betrifft, so habe ich dasselbe dem hiesigen Revierjäger
+                  <persName key="ed_gxv_mct_vsb">Bähr</persName> übergeben, zu dessen Kompetenz es
+               gehört, und ich wundere mich über die Annahme, dass ich mich um diese Bagatelle noch
+               irgendwie kümmern würde, da ich wahrlich mehr zu tun habe.</p>
+            <p>Wer es zu haben wünscht, mag sich mit dem Bähr in Einvernehmen setzen, der es jetzt
+               es <seg type="comment"><orig>juste titulo</orig><note xml:id="nzz2_s1v_yxb">rechtmäßig</note></seg> als Eigentum besitzt.</p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

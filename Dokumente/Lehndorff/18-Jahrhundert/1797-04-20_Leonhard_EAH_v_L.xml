@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_cyy_zcf_cy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Grenadier Leonhard an Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin, 20. April 1797</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke </p>
+               <p>Kategorie: Leben am Hof</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>BPH, Rep. 192 NL Ritz, Johann Friedrich, Nr. 1249, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_h1t_kdf_cy">Leonhard (Grenadier), (-)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1797-04-20" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            </correspAction>
+            <note>Johann Friedrich <persName key="ed_u3x_4rl_2y">Ritz</persName> war 1792 zum
+                    Geheimen Kämmerer ernannt worden. Er findet in Lehndorffs <bibl sameAs="zotero-830786-RN4R2AZG">Tagebuch</bibl> mehrfach Erwähnung. Vgl.
+                    auch in dessen Nachlass (ebd., Nr. 1250) das Gesuch der Geschwister Leonhards,
+                    datiert <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName> 23. August 1795,
+                    Lehndorff möge sich beim König für die Beförderung des in <placeName key="ed_jbg_kpz_2y">Potsdam</placeName> beim Regiment Leibgarde
+                    stationierten Grenadiers verwenden. Das Gesuch blieb erfolglos, am 3. Juni 1796
+                    schrieb Leonhard an Lehndorff, dass er sich noch immer in derselben Position
+                    befinde. Vgl. den zeitgenössischen Eintrag <ref target="https://huch:AL18ehn30dorff@xmledit.bbaw.de/ediarum/webdav/db/projects/lehndorff/data/Dokumente/18.%20Jahrhundert/Universal-Lexicon der Gegenwart und Vergangenheit">Schauspielkunst</ref> im Piererschen Universal-Lexixon der Gegenwart und
+                    Vergangenheit.</note>
+         </correspDesc>
+         <abstract>
+            <p>Leonhard wendet sich an Lehndorff als Mittelsmann mit seiner Bitte an den
+                        <persName key="ed_w15_bk5_sy">König</persName>, um ihn um Erlaubnis zu
+                    bitten, in Berlin eine Schauspieltruppe zu bilden, um französische Komödien
+                    aufzuführen. Er allein könne seine Bitte unterstützen und sie ihm gewähren
+                    lassen; er sei der Mäzen der Talente.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

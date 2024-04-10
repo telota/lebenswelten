@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_qfw_43d_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Michael Schönfeldt und seine Ehefrau leisten der Gräfin von Lehndorff den
+               Untertaneneid. Steinort, 4. September 1741</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch das Dokument vom <ref target="lehndorff_wwc_yts_hrb">18. Oktober
+                     1668</ref> sowie GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                  683: Rechtliche Auseinandersetzungen in Erbuntertänigkeitsangelegenheiten (1696,
+                  1703-1706, 1715-1722), Nr. 684: Aufnahme in die Erbuntertänigkeit (1673, 1696,
+                  1723) und Nr. 701: Vereidigung von Erbuntertanen (1720, 1751, 1772).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 133, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1741-09-04" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qfw_43d_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ich N. N. schwöre zu Gott dem Allmächtigen eine körperlichen Eid, dass ich der
+               Erlauchten und Hochgeborenen Frauen Frauen <persName key="ed_q4s_xyl_2y">Maria Louisa
+                  Reichsgräfin von Lehndorff</persName> meiner gnädigsten Frauen und derselben
+               Reichsgräflichen Familie Steinortschen Hauses als ein mit Erbuntertänigkeit
+               Hochderoselben verhafteter Untertan treu, aufrichtig und gehorsam sein und
+               verpflichtet, die mir übergebene Wirtschaft und dazu gehörige Besatz-Stücke
+               getreulich in Acht nehmen, die Wirtschaft mit allem Fleiß fortsetzen und mich aus den
+               Hochgräfl. <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern auf keine
+               Art noch Weise, auch unter keinerlei Vorwand wegbegeben oder durch Flucht heimlich
+               davon machen, sondern bis an mein Lebensende darinnen verbleiben und meiner
+               gnädigsten Herrschaft Bestes jederzeit getreulich in Acht nehmen will, als wahr mir
+               Gott helfe und sein Heil. Wort durch Jesum Christum Amen!</p>
+            <p>Vorstehenden Eid hat <persName key="ed_cwr_w4g_bqb">Michael Schönfeldt</persName> und
+               dessen Eheweib <persName key="ed_mqz_nmj_2qb">Maria geborene Schneidereit</persName>
+               nach vorgängiger ad <gap reason="illegible"/> Erklärung und Einschärfung des Eids, so
+               durch Herrn Pfarrer aus <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+               geschehen, <seg type="comment">
+                  <orig>me per legente</orig>
+                  <note xml:id="natv_rxx_5qb">im Sinne von persönlich vor dem
+                     Gerichtsschreiber</note>
+               </seg> im heutigen Dato im Hochgräflichen Steinortschen Hofe wirklich abgeschworen.
+               <lb/>
+            </p>
+            <p>Welches bescheinigt Steinort den 4. September 1741 <lb/>
+               <persName key="ed_g52_q2h_tdb">S. Salomon</persName> Adel. Gerichtsschreiber zu
+                  <placeName key="ed_bzz_pwf_cy">Lötzen</placeName></p>
+         </div>
+      </body>
+   </text>
+</TEI>

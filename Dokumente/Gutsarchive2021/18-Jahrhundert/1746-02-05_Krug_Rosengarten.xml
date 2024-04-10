@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_o2q_znh_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff suppliziert beim König wegen des Kruges in Rosengarten.
+               Steinort, 5. Februar 1746</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort. Nr. 360, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Luisa Gräfin von (Ragnit b. Tilsit
+                  12.10.1696-Königsberg 12.2.1775)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1746-02-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+            </correspAction>
+            <note>Zu den bereits aus früheren Jahren verhärteten Fronten zwischen der Gutsherrschaft
+               und dem Rosengartener Krug siehe das Dokument vom <ref target="lehndorff_dgg_znq_wsb">25. Februar 1735</ref> und <ref target="lehndorff_mh2_chd_vpb">hier</ref>.
+               <lb/>Bis 13. Januar 1748 war nichts entscheiden. In einem weiteren Schreiben
+               unterstrich sie, dass <quote>weder Gewinnsucht, noch andere unlautere Absichten,
+                  sondern lediglich die höchst notwendige Konservation meiner Untertanen und die
+                  Abwendung denselben hieraus</quote> entstehenden Schadens sie zu ihrer Eingabe
+               bewogen hätten. Die Entscheidung des Königs enthält die Akte nicht. Jedoch war auch
+               vor dem Patrimonialgericht Trunksucht und deren Folgen häufig Gegenstand der
+               Verhandlungen. So fand <ref target="lehndorff_dtw_bm5_kqb">1750</ref> gegen den
+               Schmied aus Stawken <persName key="ed_pct_t42_n3b">Michael Scheimann</persName> ein
+               Prozess statt, da dieser in betrunkenem Zustand mehrfach gewalttätig geworden war. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_o2q_znh_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort in Preußen unterm Amte Angerburg den. 5. Febr.
+                        1746</dateline>
+               <salute>Allerdurchlauchtigster Großmächtigster König, <lb/>allergnädigsterKönig und
+                        Herr!</salute>
+            </opener>
+            <p>Ew. Königl. Majestät haben unter Dero Preußischem Amte Angerburg ein Amtsdorf,
+                  <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> genannt, welches von
+               anderen Amtsdörfern hauptsächlich durch mir zugehörige <placeName key="ed_pxt_cnh_1y">Steinorter</placeName> Güter abgeschnitten. In diesem Dorfe besitze ich einen
+               kölmischen privilegierten Krug. Solchen haben meine Vorfahren hauptsächlich darum zu
+               aquirieren gesucht, damit derselben Untertanen in Ordnung erhalten und dieselben
+               nicht durch Übermäßigkeit im Trinken und andere Geiste der Krüger mitgenommen und
+               entkräftet würden. Diese abgezielten Entsetzung wurde aber bald ver<gap reason="illegible"/>, nachdem das Amt Angerburg allda einen Bauernkrug angelegt
+               und anfänglich selben aus dem Amte mit Bier verlegt. Mehr und schädlicher aber ist
+               vor mich die Sache worden, da das Amt Angerburg um der Entlegenheit des Ortes einem
+               gewissen Menschen den eigene Bauern nachgegeben, welcher auch nur <gap reason="illegible"/> Art seinen Vorteil sucht und ohne alle Reflexion alles, was
+               nur immer möglich, an sich zieht und alles, was ein durchbringerischer Mensch nur
+               hinbringen will, annimmt, wodurch ich denn in Betracht meiner Untertanen, welche auch
+               den ihnen gegebenen Besitz wieder alle meine Vorsicht nicht scheuen, sondern ihre
+               Saat, Kleider und teils Vieh bei diesem eigennützigen Menschen vertun, gar sehr leide
+               und gedrungen werde, Ew. Königl. Majestät höchsten Gnaden Thron anzuflehen und den
+               Vorschlag zu tun, Ew. Königl. Majestät geruhten diesen Krug allergnädigst zu heben,
+               und damit Ew. Königl. Majestät höchstes Interesse darunter nicht leide, dasjenige,
+               was das Amt Angerburg erweislich von der Brauerei des Amtskrügers genieße, auf seinen
+               Krug zu legen, mir daneben die allergnädigste Versicherung erteilen zu lassen, dass
+               sodann weiter kein Schankhaus oder Krug von Seiten des Amts allda gehalten werden
+               möge. Ich getröste mich hierunter Ew. Königl. Majestät allergnädigste Gewährung,
+               nachdem ich meiner Einsicht nach nichts verlange, so Ew. Königl. Majestät hohes
+               Intresse entgegen läuft, und erinnere nichts mehr als meine Konservation, möchte Ew.
+               Königl. Majestät aber so huldreich sein, dass Allerhöchstdieselbe niemanden Schaden
+               lassen wollen</p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

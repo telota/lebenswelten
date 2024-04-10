@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_alg_yl5_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der </title><title>adelige Gerichtsschreiber Johann Andreas Borchert klagt gegen eine
+                    ungerechtfertigte Exekution. Steinort, 30. Juni 1739</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 544, Bl 41-41v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_sjt_dnj_2qb">Borchert, Johannes Andreas (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1739-06-30" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_dks_4zh_lpb">Cibrovius, G. H. (-)</persName>
+            </correspAction>
+            <note>Am Rand: Schreiben an H. Amtmann Cibrovius nach Angerburg wegen der den 27. Jun.
+               in dem Rosengartschen Kruge eingelegten Exekution. Steinort, d. 30. Jun. 1739. Mit
+               dem Schulzen war es bereits <ref target="lehndorff_mh2_chd_vpb">früher</ref> zu
+               Reibereien gekommen und als am 23. Mai 1739 der Waldhüter aus Taberlack vor dem
+               Patrimonialgericht einen Walddiebstahl anzeigte, dessen Spur nach Rosengarten führte,
+               hatte der Schulze eine Haussuchung in Rosengarten abgelehnt und erklärt und „Wenn der
+               Teufel auch den ganzen Wald holt, so werde ich nicht visitieren lassen‟, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940855">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 545</ref>, Bl. 13-13v. <lb/> Der
+               Streit hatte eine Vorgeschichte, siehe dazu <ref target="lehndorff_dgg_znq_wsb">hier</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940854"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div>
+         <p>
+            Da am Sonnabend, als den 27. Jun., in Ihro Hochgräfl. Gnaden der Frau
+                     <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName> ihrem Kruge in
+                     <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> eine militärische
+                  Exekution wegen 4 Rtlr. 22 Sgr. 9 D. vor die Rosengartsche Freihuben eingelegt
+                  worden, die 4 Rtlr. 22 Gr. 9 D. aber gemäß Dero Hochedl. eigenhändiger Quittung
+                  unterm 21. April 1739 pro 1739 richtig bezahlt sind, so folgt darin nichts
+                  anderes, als dass Ihro Hochgr. Gnaden diese vor aller Welt höchst unbillige
+                  Einlegung der Exekution auf das schmerzlichste empfinden muss. Wie ich aber
+                  nunmehr glaube, dass Ew. Hochedl. sich hierinnen also präzipiert haben, vielmehr
+                  solches der ganz unerlaubten Freiheit des <seg type="comment">
+                     <orig>rachgierigen Schulzen <persName key="ed_yvl_pd3_lpb">Fleischer</persName>
+                     </orig>
+                     <note xml:id="nk1b_jz5_wsb">Siehe das Dokument vom <ref target="lehndorff_mh2_chd_vpb">26. November 1738</ref>.</note>
+                  </seg> zuschreiben, also bitte mir eine schriftliche Deklaration durch diesen
+                  Expressen hiermit aus, ob Ew. Hochedl. der Frau Gräfin eine eklatante Satisfaktion
+                  wieder diesen Schulzen schaffen wollen, welche aber nicht anders als durch eine
+                  öffentl. Leibesstrafe geschehen kann, und zwar nach der hohen Ankunft Ihro Königl.
+                  Majestät, wobei jemand aus dem Steinortschen Hofe zugegen sein muss. Widrigenfalls
+                  Ihro Hochgräfl. Gnaden höheren Orts wie über den Schulzen also auch über Ew.
+                  Hochedl. selbst, wenn es auch an Ihro Königl. Majestät höchste Person kommen soll,
+                  Beschwerde zu führen und ihr eine anständige Revanche zu suchen nicht unterlassen
+                  wird. </p>
+         <closer>
+               <salute>Erwarte nun Ew. Hochedl. beliebige Entschließung und bin indessen Ew.
+                        Hochedl.</salute>
+               <signed/>
+                     </closer>
+         
+            
+         </div></body>
+      
+   </text>
+</TEI>

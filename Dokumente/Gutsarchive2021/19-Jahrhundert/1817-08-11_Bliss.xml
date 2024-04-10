@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_sn2_5kp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Hegemeister Bliss berichtet über die Lage in Steinort. Steinort, 11. August
+               1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_if5_ftm_zcb">Bliss, (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-08-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_sn2_5kp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort den 11. August 1817</dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p><seg type="comment"><orig> In der Anlage</orig><note xml:id="njms_2nl_lwb">Liegt dem
+                     Brief bei; Fragmente der Forstrechnungen 1792-1910 in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941344">APO, Bestand 382 Familienarchiv Lehndorff-Steinort, Nr.
+                  221</ref>.</note></seg> verfehle ich nicht, Ew. Hochgeboren den Kassen-Abschluss
+               des letzt verflossenen Etats-Jahres 1816/17 ganz gehorsamst zu überreichen. An
+               demselben werden Herr Graf gnädigst zu ersehen geruhen, dass die Forst-Kasse
+               bedeutende Ausgaben gehabt hat, besonders für Brettschneider-Lohn, an
+               Achtelholzschläger und Teichgräber, und haben dies vergangene Frühjahr 6 Eisen
+               geschnitten und ohne die vielen Bretter, die dieses Jahr zu den Neubauten und
+               Reparaturen aufgegangen sind, ein recht ansehnlicher Vorrat von Brettern ist, und
+               auch noch gegenwärtig immer mit 3 Eisen fortgeschritten wird. Was die Ausgabe für
+               geschlagenes Achtelholz betrifft, ist dafür so viel Holz geschlagen, dass dieses Jahr
+               nicht allein der hiesige Bedarf, sondern auch lauter geschlagenes Holz wird verkauft
+               werden können. <seg type="comment"><orig>Die Teichgräber haben den Graben im
+                        <placeName key="ed_nkz_b12_gy">Stawkenschen</placeName> und <placeName key="ed_xjg_d12_gy">Stobbenschen</placeName> Revier an der roten Brücke den
+                     Ew. Hochgeboren vergangenen Herbst gesehen haben, gegraben und dann noch
+                     mehrere Graben im <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName>
+                     Großen und Kleinen Eichwalde. </orig><note xml:id="ng3h_sgt_xxb">Siehe hierzu
+                     den Brief vom <ref target="lehndorff_sn2_5kp_3tb">11. August
+                  1817.</ref></note></seg><lb/>Der <seg type="comment"><orig>Weimuts-Kiefern</orig><note xml:id="nogd_wgt_xxb"><ref target="https://de.wikipedia.org/wiki/Weymouth-Kiefer">Weymouths-Kiefer</ref></note></seg>- und Akazien-Samen ist der größte Teil
+               dieses Frühjahr davon ausgesät, nämlich im <placeName key="ed_xzt_112_gy">Stawisker</placeName> und <placeName key="ed_s3k_b12_gy">Taberlackschen</placeName> Revier, und auch die von Ew. Hochgeboren mir
+               angewiesene Flecken im Baumgarten der Samen ist möglichst aufgegangen, besonders der
+               Akazien. Der übrige Samen soll auf den Spätherbst ausgesät werden. Die
+               Pappel-Plantagen befinden sich in gutem Stande, nur sind dieses Frühjahr außer auf
+               dem Werder Upalten keine angelegt, die übrigen dazu bestimmten Plätze sind diesen
+               Sommer gedüngt und werden zum künftigen Frühjahr zum Bestecken präpariert werden. Die
+               im Herbst gelegten Kastanien sind die mehrsten aufgeschlagen und werden diesen Herbst
+               wieder welche einsammeln und legen. Die auf dem <placeName key="ed_h1w_jc2_gy">Werder
+                  Upalten</placeName> gepflanzten wilden Obststämme zeigen einen guten Fortgang und
+               sind davon schon die kleinsten diesen Sommer durch den <persName key="ed_uzl_ymk_w2b">Seska</persName> okuliert worden, die größten sollen künftiges Frühjahr
+               gepfropft werden, auch werde ich noch diesen Herbst 30 Stück dergleichen Obststämme
+               dazu pflanzen wozu die Löcher künftigen Monat sollen gegraben werden. Die im Herbst
+               gesetzten Stämmchen vor dem Haus sind gleichfalls möglichst fortgegangen. Das neue
+               Brettermagazin auf dem alten Kutschstall ist eingerichtet und sind alle Eichenbohlen,
+               Dielen, wie überhaupt von sämtlichem harten Holz geschnittenes Tischlerholz
+               hereingebracht, so dass das alte Brettermagzin mit lauter Eichen und Tannendielen
+               ganz voll angefüllt ist. <seg type="comment"><orig>Bei dem Holzschlagen habe dieses
+                     Frühjahr die Sägen gebraucht,</orig><note xml:id="nkzq_rht_xxb">Jahrhundert
+                     fand die Holzernte überwiegend mit der Axt statt. Die Säge wurde zunächst zum
+                     Ablängen der Hölzer, erst später dann auch für die Fällung verwendet. Weitere
+                     Werkzeuge waren Eisenkeil, Wendehaken, Schäleisen und die leichte Axt für die
+                     Entastung.</note></seg> es sind im Eichwald 30 1/2 Achtel Eichenholz mit den
+               Sägen geschnitten, der Verlust an Holzbaumschlagen durchs Kerben hat hinlänglich
+               bewiesen, dass, wenn man für ein Achtel Holz mit der Axt gekerben 60 Gr. Schlägerlohn
+               bezahlt, 75 Gr. mit der Säge geschnitten bezahlen kann, besonders, da das Holz immer
+               mehr im Preis steigt. Die Arbeiter verdienen die 15 Gr. mehr per Achtel weil sie viel
+               mehr Zeit gebrauchen, wenn sie mit der Säge schneiden, besonders bei altem starken
+               Holze. Ich werde mit der ersten Gelegenheit nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> noch mehrere Sägen kommen lassen, um so viel als möglich
+               durch dieselben das Achtelholz aufarbeiten zu lassen. <lb/>Sonst Unglücksfälle sind
+               keine vorgefallen, außer durch Windbruch in sämtlichen Revieren 85 Stück Tannenholz
+               von verschiedenen Größen, welches Holz dieses Frühjahr teils zu Mieten aufzuschichten
+               ist und das übrige zu Pfahl-Holz an die Vorwerker zu den Feldzäunen in den
+               Bauer-Feldern und Feld-Brüchen verausgabt ist. <lb/>Für die gnädigst überschickten
+               forstwissenschaftlichen Bücher sage Ew. Hochgeboren den untertänigsten Dank, ich
+               werde mich bemühen, das mögliche daraus nach meinen Kräften suchen zu nutzen.</p>
+            <closer>
+               <salute>Mit dem tiefsten Respekt verharre</salute>
+               <signed>Ew. Hochgeboren untertänigster Bliss</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

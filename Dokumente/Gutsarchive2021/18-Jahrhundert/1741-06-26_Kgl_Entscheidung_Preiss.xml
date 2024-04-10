@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_y5h_bdq_gqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der König korrigiert eine Entscheidung des Gerichts wegen entlaufener
+                    Untertanen. 26. Juni 1741</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Amtliche Kontakte</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Erbuntertänigkeit</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+                </note>
+                <note type="editorial">
+                    <p>Der Akte liegt das ausführliche Protokoll der Vernehmung des Knechts
+                            <persName key="ed_zzb_bdx_clb">Barthel Preiß</persName> und der
+                        Magd
+                            <persName key="ed_gdv_wp3_gqb">Dorothea Gwiasda</persName> bei.
+                        Ihnen wurde das „boshafte Entlaufung und Verführung anderer Untertanen zu
+                        Entlaufen und Diebstahl‟ vorgeworfen. Preiß war Erbuntertan, 24 Jahre alt
+                        und lutherischer Religion, seine Eltern waren bereits verstorben. Er hatte
+                        in
+                            <placeName key="ed_xpm_112_gy">Labab</placeName>,
+                            <placeName key="ed_nkz_b12_gy">Stawken</placeName> und zuletzt in
+                            <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> bei Bauer
+                            <persName key="ed_kcd_ffj_3qb">Bluhm</persName> als Knecht
+                        gedient. Bereits drei Jahre zuvor war er schon einmal aus
+                            <placeName key="ed_xjg_d12_gy">Stobben</placeName> nach
+                            <placeName key="ed_z15_pdp_tcb">Litauen</placeName> entlaufen,
+                        war aber nach
+                            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                        zurückgebracht worden und hatte geschworen, nicht mehr zu entlaufen. Er gibt
+                        an, den Bauernsohn
+                            <persName key="ed_lkd_kfj_3qb">Martin Masuch</persName>
+                        angestiftet zu haben, indem er ihm Versprechungen gemacht habe, er würde
+                        nicht gefunden werden und müsse kein Untertan mehr sein; andere Hofknechte,
+                        die er ebenfalls angestiftet hatte, hatten es sich dann anders überlegt.
+                        Nach der Ursache gefragt, kann er diese nicht angeben, er habe sich bei den
+                        Bauern nicht völlig satt essen können. Das wird vom Gericht zurückgewiesen,
+                        da Knechte in solchem Fall sich im Hof zu melden und Klage zu führen hätten.
+                        <lb/>Dorothea Gwiasda, 20 Jahre alt, Tochter des verstorbenen Schulzen aus
+                        Labab, war ebenfalls bereits das zweite Mal entlaufen. Das erste Mal war sie
+                        nach einem Diebstahl nach
+                            <placeName key="ed_ynm_2zv_scb">Rössel</placeName> entlaufen, wo
+                        sie zur katholischen Religion übergetreten war. Nach drei Jahren war sie
+                        zurückgekehrt und hatte eine Stelle als Magd bei dem Bauer
+                            <persName key="ed_my5_rfj_3qb">Brosch</persName> in
+                            <placeName key="ed_xpm_112_gy">Labab</placeName> angenommen. Als
+                        ihr die Leute beim Kirchgang in
+                            <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                        vorgeworfen hatten, dass sie die Kleider, die sie getragen habe, in Rössel
+                        gestohlen habe, sei sie aus Scham wieder entlaufen und habe auch ihre
+                        18-jährige Schwester
+                            <persName key="ed_slq_yfj_3qb">Anna</persName> dazu angestiftet.
+                        In Rosengarten hatte sie der Bauer
+                            <persName key="ed_g3j_tzh_lpb">Dolenga</persName> aufgegriffen
+                        und zurückgebracht.  <lb/>Das Drengfurtsche Gericht verurteilt Bartel Preiß
+                        und Dorothea Gwiasda wegen mehrmaligem Weglaufen und Verführung anderer
+                        Untertanen zum Entlaufen und Stehlen zu einer 3/4 jährigen bzw. 1/4 jährigen
+                        Zuchthausstrafe, die andere abschrecken soll, Martin Masuch und Anna Gwiasda
+                        zu 30 bzw. 20 Schlägen. Sie hatten die Kosten des Verfahrens zu tragen.
+                        <lb/> Preiß, der die Strafe nicht im Zuchthaus, sondern bei einem Hofmann
+                        angetreten hatte, war trotz Fußfessel wieder entlaufen, aufgegriffen und
+                        durch das delegierte Gericht in
+                            <placeName key="ed_tnl_sgk_gy">Rastenburg</placeName> zu 70, 40
+                        und 30 Stockschlägen an hintereinander folgenden Tagen als abschreckendes
+                        Exempel verurteilt worden. Zugleich wurde bekannt gemacht, dass jeder, der
+                        den schuldigen Gehorsam verletzt künftig auch ohne Haltung eines
+                        Gerichtstages zu Schlägen oder einer Geldstrafe verurteilt werden würde.</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 251, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1741-06-26" cert="high"/>
+         </creation>
+         <abstract>
+            <p>
+                    <persName key="ed_x2r_52f_cy">König Friedrich II.</persName>
+                    korrigiert die Entscheidung des Hofrichters Johann Dietrich von Röder in der
+                    Angelegenheit des Knechts
+                       <persName key="ed_zzb_bdx_clb">Barthel Preiß</persName> und der Magd
+                        <persName key="ed_gdv_wp3_gqb">Dorothea Gwiasda</persName> und legt
+                    als Strafen drei Monate für Preiß und sechs Wochen für Gwiasda fest. Beide waren
+                    nicht nur mehrfach entlaufen, sondern hatten auch andere Untertanen dazu
+                    angestiftet. Die Inquisiten sind auf ihre Kosten ins Zuchthaus zu überstellen.
+                    Die vom Gericht in
+                        <placeName key="ed_h35_jqh_my">Drengfurt</placeName> festgesetzten
+                    Strafen für
+                        <persName key="ed_lkd_kfj_3qb">Martin Masuch</persName> und
+                        <persName key="ed_slq_yfj_3qb">Anna Gwiasda</persName> sollen sofort
+                    vollstreckt werden. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_y5h_bdq_gqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

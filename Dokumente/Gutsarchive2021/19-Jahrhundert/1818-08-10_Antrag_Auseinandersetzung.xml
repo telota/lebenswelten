@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hlg_4jz_nxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Anträge zu den Auseinandersetzungen in Labab und Serwillen. </title><title>Steinort, 10. August 1818</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Gerichtliche Auseinandersetzngen/ Patrimonialgericht</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 608, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1818-08-10" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hlg_4jz_nxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Anträge der Stellvertreter des Besitzers der Steinortschen Güter zu den
+                    Auseinandersetzungs-Akten von <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName>
+                </p>
+                <p>In jedem dieser beiden Bauerndörfer sind gegenwärtig nur 4 Bauernhöfe besetzt,
+                    deren Bewirtschafter nach dem Edikt vom 14. Septbr. 1811 Ansprüche auf die
+                    Eigentumsverleihung machen können. Die Ansprüche werden 7 Bauern und bis auf den
+                    Bauern <persName key="ed_xbq_mwh_wqb">Michael Kuckel</persName> in Serwillen,
+                    welcher letztere ohne Genehmigung der Gutsherrschaft nach dem Tode seines Vaters
+                    vor 5 Jahren sich in den Besitz des Erbes gesetzt hat, ohne dass ihm solches
+                    übergeben ist, und welchem deshalb die Rechte auf Eigentumsansprüche bestritten
+                    werden müssen, eingeräumt; jedoch gebietet die Lokalität der Bauernländereien,
+                    welche mit den herrschaftlichen Vorwerkern in Serwillen und Labab grenzen,
+                    sowohl als die Erhaltung der Wirtschaftsfähigkeit in den übrigen Vorwerkern,
+                    dass die Bauern in Labab und Serwillen transloziert werden. <lb/>In dem
+                    Bauerndorf <placeName key="ed_s3k_b12_gy">Taberlack</placeName> sind durch
+                    freiwillige Abtretung 9 Bauernhöfe ledig geworden. Das Vorwerk Taberlack ist an
+                    sich schon so groß, dass dasselbe nicht durch die Äcker dieser 9 Bauernhöfe
+                    vergrößert werden kann, und selbst die im Dorfe noch verbliebenen 2 Bauern, die
+                    auf Verleihung ihrer Höfe als Eigentum angetragen haben, können nicht
+                    subsistieren, sobald sie mit ihren Ländereien separiert und aus aller Gemeinheit
+                    gesetzt werden sollten. <lb/>Die Stellvertreter der Gutsherrschaft tragen
+                    demnach auf Translokation der Bauern von Serwillen und Labab nach dem Bauerndorf
+                    Taberlack an. Sollte von den Bauern in Labab einer es vorziehen, in dem
+                    angrenzenden Dorfe <placeName key="ed_xzt_112_gy">Stawisken</placeName> das
+                    ebenfalls erledigte bebaute Erbe zu beziehen, so wird auch hierin von den
+                    Stellvertretern des Gutsherrn gewilligt. <lb/>Wenngleich die Ländereien, die zu
+                    einem Bauernhofe in Labab und Serwillen gehören, mit denen Ländereien in
+                    Taberlack hinsichts der Qualität um etwas abweichen werden, so wird der Inhalt
+                    des Bodens, die vielen und guten Wiesen und die großen Gärten den Wert eines
+                    Bauernhofes in Taberlack mit dem Wert eines Erbes in Labab und Serwillen gleich
+                    fallen. Sollte jedoch wider Verhoffen dieserhalb denen Bauern eine Entschädigung
+                    gesetzlich zustehen, so soll solche denen Bauern nicht vorenthalten werden; so
+                    wie es sich denn von selbst versteht, dass die Bauern bei der Translokation nach
+                    Taberlack weder weniger noch schlechtere Gebäude als wie selbige gegenwärtig
+                    bewohnt haben, erhalten sollen. <lb/>Die Stellvertreter stellen der resp.
+                    Kommission die Anlegung eines Translokations-Plans anheim, und werden bei
+                    Vorlegung desselben ihre besonderen Anträge formieren. <lb/>Das Gesetz vom 14.
+                    Septbr. 1811 § 45 gestattet dem Gutsherrn die Translokation der Bauern, und es
+                    würde also wegen der Translokation selbst keine und nur etwa wegen der
+                    gegenseitigen Entschädigungen Widersprüche stattfinden können. <lb/>Die 9
+                    Bauernerbe in Taberlack werden mit Ostern 1819 erledigt und an die
+                    Gutsherrschaft abgegeben, und es wird daher von Seiten der Stellvertreter dahin
+                    angetragen, dass: <lb/>1. die Translokation der Bauern aus Labab und Serwillen
+                    nach Taberlack und Stawisken auch mit Ostern 1819 bestimmt und in jedem Falle
+                    erfolge, und <lb/>2. die zu translozierenden Bauern dieserhalb angewiesen
+                    werden, schon bei der in diesem Jahre einzustreuenden Wintersaat auf denen ihnen
+                    in Taberlack anzuweisenden Erben ihre Gerechtsame wahrzunehmen und bei der
+                    Besäung gegenwärtig zu sein; wogegen die Gutsherrschaft ebenfalls ihr Interesse
+                    wegen Bestellung der Wintersaat auf den abzutretenden Erben wahrnehmen wird.
+                    <lb/>Ziehen die Bauern es vor, schon diesen Herbst ihr Erbe in Taberlack selbst
+                    zu bestellen, so wollen die Stellvertreter hierin willigen und die Bestellung
+                    der abzutretenden Erbe in Serwillen und Labab ebenfalls übernehmen. <lb/>Weigern
+                    sich die Bauern, die Bedingung ad 2 einzugehen, so wären selbige mit jedem
+                    künftigen Einwande der nicht gehörig erfolgten Bestellung der Wintersaat
+                    abzuweisen. <lb/>Sollte wider Verhoffen dieser Antrag nicht berücksichtigt
+                    werden, so bleiben die 9 Erbe in Taberlack für das folgende Jahr wüst, da, wie
+                    gesagt, das angrenzende Vorwerk Taberlack schon jetzt zu groß ist, dass es der
+                    Gutsherrschaft fast unmöglich werden wird, die Ländereien im künftigen Jahr bei
+                    Entbehrung des Scharwerks von 9 Bauern zu bestellen, und an die Bestellung
+                    dieser Bauernerbe also gar nicht zu denken ist. <lb/>Wird auch der Betrag der
+                    gegenseitigen Entschädigung bis Ostern 1819 nicht finaliter entschieden, so kann
+                    doch die Abänderung eines Auseinandersetzungs-Plans rücksichtlich der
+                    Landentschädigung ohne Berücksichtigung, ob die Zulässigkeit der Translokation
+                    oder nur die diesfällige Abfindung strittig war, nach § 182 des Edikts vom 20.
+                    Juni 1817 niemals Gegenstand einer Appellation sein. <lb/>Die besonderen Anträge
+                    bei der hochlöbl. General-Kommission wegen Beschleunigung der Bestätigung der
+                    Auseinandersetzungs-Rezesse, ohne welche nach § 202 des gedachten Edikts die
+                    Ausführung der Auseinandersetzung nicht erfolgen kann, werden von Seiten der
+                    Stellvertreter formiert werden. <lb/>Die Tendenz des allerhöchsten Edikts vom
+                    14. Septbr. 1811, am Schluss des Edikts so deutlich ausgesprochen, ist:
+                    Erhaltung auch des Gutsbesitzers, und es darf daher wohl nicht befürchtet
+                    werden, dass denen rechtlichen Anträgen der Stellvertreter der Gutsherrschaft
+                    Hindernisse, die die Beendigung der Auseinandersetzung enthalten, und dadurch
+                    der Gutsherrschaft schaden, aber die Sache selbst dennoch nicht abändern können,
+                    in den Weg gelegt werden sollten.</p>
+                <p>Groß Steinort, den 10. August 1818</p>
+                <p><persName key="ed_afr_tvf_2y">Werner</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

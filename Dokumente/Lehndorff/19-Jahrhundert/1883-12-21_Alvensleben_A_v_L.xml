@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_gvx_xmz_3fb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Werner Gebhard Louis von Alvensleben an Anna Gräfin von Lehndorff. Rodehlen,
+                    21. Dezember 1883</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 555, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yfl_ll2_3fb">Alvensleben, Werner Gebhard Louis von
+                        (1832-1910)</persName>
+               <date when="1883-12-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Nach der als Abschrift beiliegenden Urkunde (Königsberg, 24. Januar 1884)
+                    sollten 7.500 Mark dem Vorstand des <orgName key="ed_zyz_2sr_kfb">Krankenhauses
+                        der Barmherzigkeit in Königsberg</orgName> als Gründungskapital übergeben
+                    werden, mit dem eine <quote>Freistelle für einen Schwerleidenden
+                        gestiftet</quote> mit dem Namen <quote>Freibett zum Gedenken des
+                        Reichsgrafen Carl Lehndorff auf Steinort, weiland Vorsitzender des
+                        Verwaltungsrates der Ostpreußischen Südbahn-Gesellschaft</quote>. Die Gräfin
+                    sollte auf Lebenszeit ein Wahlrecht über diejenigen, die dort verpflegt werden,
+                    erhalten. Danach sollte das Recht an die Südbahn fallen und vorzugsweise
+                    Bediensteten der Südbahn und deren Familienmitgliedern zu Gute kommen. Schon bei
+                    seiner Beileidsbekundung hatten der Verwaltungsrat und die Direktion der Südbahn
+                    das Projekt angesprochen, siehe das Schreiben Anna von Lehndorffs vom 31. Januar
+                    1884 in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 934, n. f. </note>
+         </correspDesc>
+         <abstract>
+            <p>Er dankt für die Übersendung von Geschäftspapieren und Briefen des verstorbenen
+                    Carl Meinhard Graf von Lehndorff, seines <quote>herzlich geliebten und
+                        hochverehrten</quote> Freundes. Er übermittelt ihr den Wunsch des
+                    Verwaltungsrates und der Direktion der Ostpreußischen Südbahn, zum Andenken an
+                    den Verstorbenen, der länger als 15 Jahre an der Spitze der Verwaltung der
+                    Südbahn gestanden hatte, eine <orgName key="ed_cn4_qtq_jlb">Graf
+                        Lehndorff-Stiftung</orgName> ins Leben zu rufen. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline> </dateline>
+               <salute> </salute>
+            </opener>
+            <p/>
+            <closer>
+               <salute> </salute>
+               <signed> </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

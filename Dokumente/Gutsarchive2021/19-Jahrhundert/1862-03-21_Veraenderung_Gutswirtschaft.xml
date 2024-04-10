@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_z5c_n2d_vrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Graf von Lehndorff führt Veränderungen in der Stellung der Gutsleute in Steinort ein.
+               Steinort. 21. März 1862</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Auf Bl. 26v die Erklärung für Stawken, Bl. 27 folgte die Liste der
+                  Dünger-Entschädigungs-Berechtigten für Stawken. Auf Bl. 29 die Erklärung für
+                  Stawisken und Klein Steinort einschl. der Namen der Berechtigten. Auf Bl. 33 die
+                  Erklärung für Stobben, die Berechtigten fehlen. Auf Bl. 34v die Erklärung für
+                  Taberlack, Bl. 35 die Liste der Berechtigten. Auf Bl. 37-37v die Erklärung und
+                  Liste für Serwillen. <lb/>Am 16. Juli 1871 wurde diese Bestimmung „in Erinnerung‟
+                  gebracht (Bl. 39). Ab 1876 bekamen die Instleute, die zwei Scharwerker hatten und
+                  diese regelmäßig zur Arbeit schickten, für den zweiten Scharwerker Manntagelohn.
+                  Kam die Frau als vierte Kraft zur Arbeit, erhielt sie im Sommer von Frühstück bis
+                  Abend 4 Sgr. Tagelohn, sonst für den Nachmittag 2 Sgr. (Bl. 39v).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 4, Bl. 26-26v, 28-29, 32-32v,
+                     34-34v, 36-37v </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1862-03-21" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_z5c_n2d_vrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ich habe unter Beirat meiner Herren Pächter beschlossen, vom 1. April ab einige
+               Verbesserungen und Veränderungen in der Stellung der Gutsleute der ganzen Steinorter
+               Begüterung einzuführen, und hoffe ich, dass alle Gutseinsasen die ihnen gewährten
+               Vorteile erkennen und sich bemühen werden, durch vermehrten Fleiß, Treue und Gehorsam
+               ihrem Brotherrn diese Verbesserungen zu vergelten und ihren eigenen Haus und
+               Wirtschaftsstand zu heben.</p>
+            <p>§ 1. <lb/>An Stelle der Dünger-Entschädigung, die künftig nicht mehr gegeben wird,
+               bekommen die Instleute vom 1. April bis zum 1. Oktober auf jede 31 Arbeitstage,
+               gleichviel ob Manns-, Frauen- oder Scharwerkstage einen Scheffel Brotgetreide außer
+               dem üblichen Tagelohn. Hierbei wird den Frauen der Instleute und dem 3. Arbeiter
+               einer Familie der Tag sowohl auf Lohn als auf Getreide für voll gerechnet, wenn sie
+               auch nur 3/4 Tag in Arbeit gewesen sind. <lb/>Diejenigen alten Instleute, die im
+               ersten Jahre ihrer Anstellung keine Dünger-Entschädigung erhalten haben, und denen
+               deshalb bei ihrem Abgang diese zustehen würde, behalten sie zu gut. Sie können die
+               Dünger-Entschädigung nach ihrem Willen allmählich erheben oder für ihre Witwe und
+               Kinder resp. für den Fall ihres Abgangs zu gut behalten.</p>
+            <p>§ 2. <lb/>Der in einigen Gütern noch bestehende Abzug von 6 Manns- und 6 Frauentagen
+               als sogenannte Scharwerkstage wird hiermit aufgehoben.</p>
+            <p>§ 3. <lb/>Von der Spreu bekommen die Instleute künftig von Roggenspreu die Hälfte, an
+               Haferspreu den 10. Teil, von anderem Getreide nichts. Vom Brotgetreide wie früher den
+               6. Teil.</p>
+            <p>§ 4. <lb/>Alle Deputanten sind verpflichtet, einen Scharwerker zu stellen, auch wo es
+               bisher nicht beobachtet sein sollte, und erhalten dafür 2 Silbergroschen Tagelohn und
+               vom 1. April bis zum 1. Oktober auf jede 31 Arbeitstage einen halben Scheffel
+               Brotgetreide. Diesen Deputanten-Scharwerkern wird 3/4 Tag für voll gerechnet.</p>
+            <p>§ 5. <lb/>Alle übrigen Leistungen, Abgaben, Verpflichtungen und Berechtigungen der
+               Gutsleute bleiben unverändert bestehen. Herrn Ober-Inspektor <persName key="ed_yhd_smc_3vb">Sassnick</persName> und sämtliche Herren Pächter ersuche ich,
+               vorstehende Bestimmungen auf den resp. Vorwerken den versammelten Instleuten deutlich
+               vorzulesen und nötigenfalls zu erklären, <seg type="comment"><orig>eine Liste
+                     derjenigen Instleute aufzunehmen, die nach dieser Bestimmung die
+                     Dünge-Entschädigung noch zu Gute behalten, dieser Liste gegenwärtige Schrift
+                     beizufügen, auf dieser Schrift die geschehene Verlesung zu
+                     notieren,</orig><note xml:id="nbng_1gw_yxb">Siehe hierzu die
+                  Anmerkung.</note></seg> dieselbe dann in Verwahrung zu nehmen und mir eine
+               wörtliche Abschrift der Bestimmung nebst Liste der zur Dünger-Entschädigung
+               berechtigten Instleute und Vorlassungsvermerk gefälligst einzureichen.</p>
+            <p>Steinort, den 31. März 1862</p>
+            <p>gez. Gf. Lehndorff</p>
+         </div>
+      </body>
+   </text>
+</TEI>

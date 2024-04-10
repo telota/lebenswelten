@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_ukv_ql1_my">
+   <teiHeader>
+      <fileDesc><titleStmt><title>H. Wild an Carl Meinhard Graf von Lehndorff. Wien, 1. Dezember 1875</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 24, Bl. 9-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_z5w_xl1_my">Wild, (-)</persName>
+               <placeName key="ed_ztb_bm1_my">Wien</placeName>
+               <date when="1875-12-01" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Graf von (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+            </correspAction>
+            <note>
+               <persName key="ed_cws_vm1_my">Strousberg</persName> war 1875 im Zug von <placeName key="ed_act_bq1_my">Moskau</placeName> nach <placeName key="ed_qvp_nnz_2y">St.
+                  Petersburg</placeName> wegen der Nichteinlösung fälliger Wechsel festgenommen
+               worden, siehe das Dokument vom <ref target="lehndorff_nhf_zxb_ffb">12. Mai
+               1875</ref>. Wenige Wochen später wurde er wegen Anstiftung zu Kreditvergehen in
+               Moskau angeklagt. Seine Unternehmen gingen in Konkurs. 1876 wurde er zur Aberkennung
+               der in Russland verliehenen Rechte verurteilt und ausgewiesen. Vgl. <ref target="http://kulturportal-west-ost.eu/biographien/strousberg-bethel-henry-strausberg-barthel-heinrich-2">http://kulturportal-west-ost.eu/biographien/strousberg-bethel-henry-strausberg-barthel-heinrich-2</ref>.
+               Zu den Geschäftsbeziehungen Lehndorff-Strousberg: APO, Bestand 382 Familienarchiv
+               Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941205">Nr.
+                  17</ref>; GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 406.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941212"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Wien, 1. Dezember 1875</dateline>
+               <salute>Hochverehrter Herr Graf!</salute>
+            </opener>
+            <p>In Beantwortung Ihrer mir erst heute zugekommenen Zeilen vom 22. v. M. bemerke
+                    ich vor allem, dass ich es sehr begreiflich finde, wenn Sie, Herr Graf, den
+                    Verhältnissen des Dr. <persName key="ed_cws_vm1_my">Strousberg</persName>
+                    teilnehmende Beachtung schenken – auch ich bedaure das Geschick dieses gewiss
+                    höchst geistvollen Mannes lebhaft und würde mich sehr freuen, wenn ich ihm
+                    helfen könnte. Leider liegen die Verhältnisse so, dass dazu wenig Aussicht ist.
+                    Was speziell Ihre mir geäußerte Ansicht bezüglich der <seg type="comment">
+                  <orig>Waagthalbahn</orig>
+                  <note xml:id="njqs_ny3_jfb">in
+                        Ungarn</note>
+               </seg> betrifft, so sind wir uns auch im Klaren, dass eine
+                    Regelung der Sache wenn Dr. Strousberg hier wäre einfacher und rascher möglich
+                    wäre. Angesichts der in <placeName key="ed_xrv_gwb_by">Berlin</placeName> und
+                        <placeName key="ed_uw4_cn1_my">Prag</placeName> zu Tatsachen gewordenen
+                    Konkurseröffnung muss jedoch der Verwaltungsrat infolge der auf ihm lastenden
+                    Verantwortung in der durch die Gesellschaftlichen Statuten der
+                    Konzessionsurkunde und den bestehende Verträgen vorgeschriebener Weise vorgehen,
+                    um den Erwartungen der Aktionäre bezüglich Wahrung ihrer Interessen und
+                    besonders den strikten Forderungen der Königlich-Ungarischen Regierung als
+                    Aufsichtsbehörde gerecht zu werden. Da ich infolge der Jagdsaison den letzten
+                    Sitzungen des Verwaltungsrates nicht beiwohnte, so kann ich, indem mir selbst
+                    genaue Informationen über alle Details mangeln, Ihnen auch nicht ausführlichere
+                    Mitteilungen machen. Sie werden jedoch begreiflich finden, dass eine <gap reason="illegible"/> der eingetretenen Verhältnisse gesellschaftlich
+                    unumgänglich war. </p>
+            <closer>
+               <salute>Empfangen Herr Graf diese meine offenherzige Antwort mit größter Achtung</salute>
+               <signed>Ihr Wild</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

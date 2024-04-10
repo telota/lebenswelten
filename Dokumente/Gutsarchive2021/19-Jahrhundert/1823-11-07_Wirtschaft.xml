@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_gjy_24n_wtb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Anordnung des Grafen von Lehn</title><title>dorff zu Veränderungen in der Wirtschaft und einer Umstellung der Administration
+               auf Tantiemen, Steinort, 7. November 1823 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>2. Exemplar Bl. 43-45v.</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu das Dokument vom <ref target="lehndorff_z5c_n2d_vrb">21. März
+                     1862</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienachiv Lehndorff, Nr. 273, Bl. 40-45v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf von
+               (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg 7.2.1854)</persName>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1823-11-07" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gjy_24n_wtb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Um eine reine Übersicht von den Einkünften meiner Güter sowie von den Kosten des
+               inneren Haushalts zu erhalten, besonders aber, um eine beabsichtigte und für die
+               Zukunft bereits eingegangene Administration auf Tantiemen schon jetzt einzuleiten,
+               habe ich folgende Anordnung und Veränderung in den bisherigen
+               Wirtschaftsverhältnissen für nötig befunden: </p>
+            <p>1. Die Wirtschaftsadministration wird vom 1. Januar 1824 ab, wo diese Festsetzungen
+               in Wirksamkeit treten, von dem inneren Haushalt vollkommen getrennt. Zu diesem Behuf
+               habe ich für den letzteren, welcher mit der Wirtschafts-Administration in keine
+               Berührung kommt, bestimmt, und derselben zu ihrer Richtschnur die abschriftliche
+               Anleitung gegeben.</p>
+            <p>2. Die Wirtschaftsrechnungen zerfallen demnach wie bisher in zwei Abteilungen, als
+               <lb/>a. alle die Gegenstände, welche zur äußeren Wirtschaftsführung speziell gehören,
+               wozu die Bauten und alle die Gehälter und Deputate der der äußeren Wirtschaft
+               zugehörigen Offizianten zu rechnen sind, und <lb/>b. in meine Privatausgaben, wozu
+               die Gehälter der bei der inneren Wirtschaft oder zu meinem speziellen Dienst
+               angestellten Individuen zu rechnen sind, und ihre Deputate, sowie die zu<gap reason="illegible"/> Interessen und auf den Gütern haftenden persönlichen Lasten.
+               <lb/>Die Forsttaxe-Rechnungen werden wie bisher separat geführt; das Deputat der
+               Forstbeamten aber fällt der Administration zur Last, weil dieselbe das Holz  von der
+               Forst gratis erhält; ebenso bleiben die Holzfuhren für den Gebrauch des Hauses und
+               die für den inneren Haushalt und Reparatur meines Hauses etwa nötigen Fuhren und
+               Materialien ein Onus der Administration; die baren Auslagen aber werden aus meiner
+               Privatkasse berichtigt.</p>
+            <p>3. Alles was danach von der Vorsteherin des inneren Haushalts für dasselbe von der
+               Administration verlangt wird und solche herausgeben kann, soll von dieser füre bare
+               Zahlung oder in etwaigem Fall gegen interimistische Bescheinigung geliefert werden.
+               Dazu gehört alles Getreide, Kartoffeln, Schlachtvieh und Getränke, welches nach
+               folgenden Sätzen ohne Berücksichtigung der wechselnden Preise in guter Qualität
+               verabreicht wird: <lb/>der Scheffel Weizen à 1 Rtlr. 10 Sgr. <lb/>der Scheffel Roggen
+               à 25 Sgr. <lb/>der Scheffel Erbsen à 25 Sgr. <lb/>der Scheffel Gerste à 20 Sgr.
+               <lb/>der Scheffel Hafer à 10 Sgr. <lb/>die Tonne Bier 2 Rtlr. 20 Sgr. <lb/>die Tonne
+               Halbbier à 1 Rtlr. <lb/>Das Schlachtvieh richtet sich zwar nach der Qualität
+               desselben, jedoch wird zur angeführten Norm angenommen, dass die innere Wirtschaft
+               das Pfund ausgeschlachtetes Rindfleisch inkl. der Beilagen zu 1 Sgr. erhält. Die
+               Felle verbleiben der Administration. <lb/>Das Pfund Schweinefleisch à <gap reason="empty"/>
+               <lb/>Das Pfund Kalbfleisch à <gap reason="empty"/>
+               <lb/>Die Gans <gap reason="empty"/>
+               <lb/>Das Huhn <gap reason="empty"/>
+               <lb/>Eier werden wie bisher gratis geliefert. <lb/>Das zum Unterhalt des Federviehs
+               nötige Wintergetreide bezahlt der innere Haushalt der Administration mit dem halben
+               hier festgesetzten Preis. <lb/>Die Küchen-Kühe treten vom 1. Januar 1824 in die Pacht
+               und bleibt es dem inneren Haushalt überlassen, ihren Bedarf für bar Geld von
+               derselben zu kaufen. <lb/>Die Wirtschaftsbeamten werden vom inneren Haushalt
+               beköstigt d. h. sie essen an meinem gemeinschaftlichen Tisch zu Mittag und Abend.
+               Frühstück besorgt sich ein jeder selbst, und es werden für die Beköstigung eines
+               jeden Beamten, für Betten, Licht p. von der Administration dem inneren Haushalt 100
+               Rtlr. jährlich bar gezahlt. <lb/>Für die zur Aufwartung der Wirtschaftsbeamten
+               bestimmte Magd werden dem inneren Haushalt 25 Rtlr. gezahlt, sowie für den Schäfer,
+               so lange derselbe hier beköstigt wird, 40 Rtlr. Der Hegemeister zahlt dem inneren
+               Haushalt für seine Beköstigung ebenfalls 100 Rtlr. <lb/>Dagegen bezahlt der innere
+               Haushalt seinen Bedarf an Wildbret der Forstkasse nach folgenden Sätzen: <lb/>der
+                  <gap reason="illegible"/> à <gap reason="empty"/><lb/>ein Schwein à <gap reason="empty"/><lb/>ein Hase <gap reason="empty"/><lb/>Enten und Rebhühner <gap reason="empty"/><lb/>kleines Federwildbret <gap reason="empty"/><lb/>Krammsvögel
+                  <gap reason="empty"/></p>
+            <p>4. Das Getränk, welches außer den Mahlzeiten konsumiert wird, gehört zu den äußeren
+               Wirtschaftsausgaben.</p>
+            <p>5. Zu dem Haushalt gehören alle Hausoffizianten, Pensionäre und solche Leute, welche
+               der Wirtschaft nicht angehören, als <persName key="ed_vqv_qp5_vcb">Tochtermann</persName> und seine Familie, der Gärtner und Gartenknecht, die
+               Hausmägde, deren Besodung und ihre Beköstigung, sie geschieht für Rechnung des
+               inneren Haushalts. <persName key="ed_tgc_gmh_wsb">Mosack</persName> als Aufseher des
+               Gesindes gehört zum äußeren Haushalt. </p>
+            <p>6. Bis zu weiterer Verfügung und solange ich nicht permanent auf den Gütern wohne,
+               gehört der Stall und all seine Attribute zur Administration und alle aus der
+               Pferdezucht entspringenden Revenuen fließen in diese Kasse. Ich selbst zahle
+               derselben für jedes junge rohe Pferd, welches ich für mich nehme, 100 Rtlr., für
+               jedes gerittene 150 Rtlr.</p>
+            <p>7. Die Nutzung des Obst- und Küchengartens gehört dem inneren Haushalt. Das Heu aus
+               dem Garten sowie die Schafweide benutzt die Wirtschaft, liefert dagegen den zum
+               Garten nötigen Dünger und leistet die zur Bestellung nötige Gespann- und Pflugarbeit
+               gratis. Braucht der Gärtner Tagelöhner im Garten zu Arbeiten, welche nicht etwa durch
+               Knechte oder Mäde abgemacht werden können, so wird der übliche Tagelohn aus dem
+               Haushalt bezahlt.</p>
+            <p>8. Alle Holz-, Mühlen-, Sand- und sonstigen Fuhren für das Hauswesen, alle
+               Reparaturen am herrschaftlichen Wohnhause oder zur etwaigen Verschönerung des Gartens
+               leistet die Administration gratis. </p>
+            <p>9. Alle persönliche Wäsche der Wirtschafts- oder Hausoffizieanten hört künftig auf
+               und jeder besorgt sich seine Wäsche selbst. Zur Bedienung der Wirtschaftsbeamtin in
+               dem Administrationshaus wird eine Magd gehalten, welche den Lohn aus der
+               Wirtschaftskasse erhält, vom Haushalt aber für die eben erwähnte Vergütigung
+               beköstigt wird. <lb/>Die Vorsteherin des inneren Haushalts wird mit der
+               Administration zu gehöriger Zeit die nötige Abrede nehmen, um sich ihren Bedarf zu
+               festgesetzten Perioden besonders an Schlachtvieh zu sichern. <lb/>Sollten
+               Hausoffizianten und die dazu gerechnet werden Deputat-Kühe erhalten, so vergüte ich
+               der Administration solche mit 19 Rtlr. aus meiner Privatkasse. <lb/>Die Benefizien
+               der Hospitaliten an Geld und Deputat werden ein Onus der Administration. <lb/>Sollten
+               sich bei der Ausführung dieser Festsetzungen noch Ungewissheiten ergeben, so behalte
+               ich mir vor, solche näher zu bestimmen,</p>
+            <p>Steinort, 7. Novbr. 1823</p>
+            <p>G. v. Lehndorff</p>
+         </div>
+      </body>
+   </text>
+</TEI>

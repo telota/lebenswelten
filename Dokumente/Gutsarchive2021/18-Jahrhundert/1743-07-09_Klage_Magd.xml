@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_dgj_cbv_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die Frau des Schulzen aus Stawken klagt vor dem Patrimonialgericht gegen die
+               Pächterin von Stawken wegen schlechter Behandlung ihrer Tochter. Steinort, 9. Juli
+               1743</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 545, Bl. 18</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Präsent. den 9. April 1743</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1743-07-09" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940855"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Steinort, d. 9. Juli 1743</p>
+            <p>Des Schulzen aus <placeName key="ed_nkz_b12_gy">Stawken</placeName><seg type="comment">
+                  <orig>
+                     <persName key="ed_w44_dwr_vqb">Michel Ducecki</persName>
+                  </orig>
+                  <note xml:id="nevq_3dv_wsb">Duschig</note>
+               </seg>
+               <seg type="comment">
+                  <orig>Ehegattin</orig>
+                  <note xml:id="nrmz_3dv_wsb">
+                     <persName key="ed_zx4_pss_vqb">Anna Duschig</persName>
+                  </note>
+               </seg> klagt, dass die Arrendatorin daselbst nicht allein ihr Kinde, so bei ihr in
+               Diensten, übel traktiert, sondern sie selbst, als sie die Arrendatorin hierüber zur
+               Rede gestellt, geschlagen und zur Tür hinaus gestoßen hatte. <lb/>Des Arrendators von
+                  <gap reason="illegible"/> Ehegattin antwortet, die Tochter der Schulzin, so bei
+               ihr als Margelle in Diensten, habe das Kind fallen lassen, deshalb habe sie selbige
+               mit einem Spänchen geschlagen, und als die Margelle hierauf zur Mutter gelaufen, habe
+               sie selbige zurückgeholt und ihr mit einer Rute einige Schläge über den Rücken
+               gegeben, die Mutter sei darauf in ihr Haus gekommen und habe ein liederliches Maul
+               gehabt, dahero sie dieselbe zur Tür hinaus gestoßen habe, negiert aber, dass sie
+               selbige geschlagen; hiernächst doliert Arrendatorin, dass die Klägerin ihr beständig
+                  vor<gap reason="illegible"/>, dass sie mit ihrem Mann, ohne sie an selbige <gap reason="illegible"/>, zu Unfall gekommen sei, und dass sie die Tochter nun ihr
+               weggenommen haben, so sie doch bis Mart. a. c. gemietet.</p>
+            <p>Bescheid</p>
+            <p>Die Schulzin aus Stawken soll ihre Tochter sofort wieder in den Dienst der
+               Arrendatorin bis <seg type="comment"><orig>Martini</orig><note xml:id="nut5_qbw_txb">11. November</note></seg> a. c. abfolgen lassen und sich bei 2 Rtlr.
+               fiskalischer Strafe oder in Ermangelung des Geldes bei empfindlicher Leibesstrafe,
+               nicht unterstehen, ihr die <gap reason="illegible"/> Umstände und dass sie zu Unfall
+               gekommen vorzuwerfen, als worinnen dieselbe verfallen sein soll, so bald die
+               Arrendatorin sie dessen überführt; hingegen soll die Arrendatorin, weil sie die
+               Schulzin zur Tür hinaus gestoßen hat, 1 Rtlr. Strafe an das Hospital hierselbst
+               alsofort erlegen. <gap reason="illegible"/>
+            </p>
+            <p>
+               <persName key="ed_lbj_cfb_ycb">G. E. Billich</persName>, Richter <persName key="ed_zvb_34f_fqb">
+                  <lb/>G. S. Stabenow</persName>, Stadtschreiber</p>
+         </div>
+      </body>
+   </text>
+</TEI>

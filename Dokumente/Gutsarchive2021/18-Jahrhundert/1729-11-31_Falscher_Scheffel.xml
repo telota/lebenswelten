@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_mcz_rzl_kqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Wallenrodt rechtfertigt sich, niemals einen falschen Scheffel
+               gebraucht zu haben</title><title>. Landkeim 31. November 1729</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 68, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lql_2cq_clb">Wallenrodt, Maria Catharina Gräfin von
+                  (1672-1738)</persName>
+               <placeName key="ed_enz_4vz_g1b">Landkeim</placeName>
+               <date when="1729-12-01" cert="high"/>
+            </correspAction>
+            <note>Auf der Rückseite gezeichnet: <persName key="ed_xfp_cr4_5qb">Thomas
+                  Saffran</persName>. Jud. Del. Advoc. Der Akte liegen Pachtverträge und ein
+               Verpachtungsanschlag der Landkeimschen Güter bei.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_mcz_rzl_kqb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Landkeim, 31. November 1729</dateline>
+               <salute>Hochwohlgeborener Herr Land-Rat und Land-Voigt, <lb/>Hochansehnlicher Herr Wirklicher
+                        Kämmerer und Obrister, <lb/>Höchstgeehrter, Höchstgeneigter Herr</salute>
+            </opener>
+            <p>E. Hochwohlgeb. haben mir ohnlängst beiliegendes Amtsschreiben d. d. <placeName key="ed_ofb_m4r_gbb">Schaken</placeName> d. 4. Nov. a. c. laut <seg type="comment">
+                  <orig>Beil. A</orig>
+                  <note xml:id="nczq_pbm_kqb">Abschrift liegt dem Brief bei.</note>
+               </seg> zustellen lassen, vermöge welchem ich wegen nicht befundenem neuen Maß bei
+               meinen <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Gütern von jedem Gut
+               zwanzig Rtlr. fiskalische Kontraventions-Strafe dem Amt ohnfehlbar <seg type="comment">
+                  <orig>subproena exentionis</orig>
+                  <note xml:id="nfzw_qp4_5qb">unter Androhung von Strafe</note>
+               </seg> einliefern soll. Ist mir zuvorderst unbekannt, zu welcher Zeit die Visitierung
+               der neuen Maße bei mir vorgegangen sein sollte, dass ich seit derselben eine
+               Kontraventions-Strafe verdient hätte. Es ist zwar ohngefähr im April oder Mai dieses
+               jetzt zu Ende gebrachten Jahres ein Land-Räter <persName key="ed_lsx_5bm_kqb">Tabel</persName> in meinen Hof gekommen, welcher, nachdem er das Maß sonst
+               richtig befunden, ein bleiernes Maß, dergleichen ich zwar gehabt, jedoch mit einem
+               Loch und einem dabei angesetzten Züngchen, annoch requiriert, welches ich gleich in
+               seiner Gegenwart rektifizieren und dass Loch einschlagen lassen, und da er mich auch
+               wegen des neuen Scheffels Verhörung getan, habe ich ebenfalls aus <placeName key="ed_ofb_m4r_gbb">Schaken</placeName> bei dem geordneten Mann selbigen, wie
+               angefordert, ihn wie gewöhnlich zeichnen lassen, und das neue Maß richtig bei mir
+               gehalten bis diese jetzige Stunde, welches alle meine Leute, wenn sie examiniert
+               werden sollen, attestieren können. So ist nach der Zeit in so vielen Monaten keine
+               Visitation weiter bei mir vorgenommen, weder ich jetziger Kontravention überführt
+               noch überwiesen worden, dahero ein unbilliger Mensch mich wegen einer Kontravention
+               müssen gegeben haben, weil aber niemand ohne gehört <seg type="comment">
+                  <orig>kondemniert</orig>
+                  <note xml:id="nmsn_xp4_5qb">verurteilt</note>
+               </seg> wird, in specie aber ich vor meine Person aus alleruntertänigster Schuldigkeit
+               und Devotion gegen S. Königl. Majestät, als meines allergnädigsten Herrn, mir
+               vorstehende Befehle aufs möglichste, da vor Sorge, dass alle Kontraventiones bei mir
+               verhütet werden mögen, so ist auch vor jetzo meine schuldigste Bitte, E. Hochwohlgeb.
+               wollen diese Kontraventions-Strafe auf dergleichen bloße fälschliche <seg type="comment">
+                  <orig>Renuntiation</orig>
+                  <note xml:id="nxmc_wq4_5qb">Anzeige</note>
+               </seg> vor mir nicht <seg type="comment">
+                  <orig>exigieren</orig>
+                  <note xml:id="nrzh_lq4_5qb">eintreiben</note>
+               </seg>, sondern die Sache zuforderst genauer untersuchen lassen, da es sich denn
+               ausfindig machen wird, dass ich keine Kontraventiones, wohl aber der Anzeiger eine
+               gebührende Strafe <unclear reason="illegible" cert="high">meritiert</unclear> habe,
+               welcher so fälschlich die Sache <seg type="comment">
+                  <orig>renuntiert</orig>
+                  <note xml:id="nw3v_rq4_5qb">gemeldet</note>
+               </seg>
+               <gap reason="insignificant"/>
+            </p>
+            <closer>
+               <salute>E. Hochwohlgeb. Höchstgeneigter Herr Land-Rat und Land-Voigt
+                        ehrendienstwilligste</salute>
+               <signed>verw. v. Wallenrod </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

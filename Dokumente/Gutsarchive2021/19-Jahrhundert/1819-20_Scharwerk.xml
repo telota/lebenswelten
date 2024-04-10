@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_xfw_3cg_l3b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Berechnung des von den Bauern in den Steinortschen Gütern zu leistenden
+               Scharwerks. Steinort, ca. 1818</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 520, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1818-01-01" to="1818-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xfw_3cg_l3b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Berechnung des von den Bauern in den Steinortschen Gütern zu leistenden
+                  Scharwerks<table rows="14" cols="7">
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>Spanntage</cell>
+                     <cell/>
+                     <cell>Handtage</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>4-spännige</cell>
+                     <cell>2-spännige</cell>
+                     <cell>Manns</cell>
+                     <cell>Weiber</cell>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell/>
+                     <cell>Ist jeder Bauer verpflichtet, 12 Schfl. Aussaat zweiführig zu bestellen,
+                        und dazu ist erforderlich</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>a. zum Pflügen 2 mal jedesmal 4 Zochen einen Tag</cell>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>b. zum Egden 2 mal 12 Schfl. tut 24 Schfl. auf 2 Felder 6 Schfl. pro Tag
+                        gerechnet</cell>
+                     <cell>4</cell>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>c. zum Heuen des Wintergetreides incl. Binden</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>d. zum Heuen des Sommergetreides</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>e. zum Wenden und Binden desselben</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>f. zum Einfahren des Winter- und Sommergetreides</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>2. </cell>
+                     <cell/>
+                     <cell>Muss jeder Bauer 4 Tage Gras und Getreide hauen und dasselbe harken und
+                        einfahren</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>3. </cell>
+                     <cell/>
+                     <cell>Muss er allen Mist auf dem Vorwerk, wo er zum Scharwerk angewiesen ist,
+                        mit den übrigen Bauern abfahren. Je wer zur 8-tägigen Ausfuhr
+                        verpflichtet</cell>
+                     <cell>8</cell>
+                     <cell/>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell/>
+                     <cell>Muss er alle Woche durchs ganze Jahr 1 Magd 2 Tage ins Scharwerk
+                        stellen</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell/>
+                     <cell>Ist er verpflichtet 26 Schfl. Getreide 15 Meilen weit nach Königsberg zu
+                        fahren, dazu sind erforderlich inkl. des zu ladenden Futters und da er auch
+                        Rückfracht aufladen muss 2 Fuhren und 6 Tage</cell>
+                     <cell>12</cell>
+                     <cell/>
+                     <cell>12</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell/>
+                     <cell>Muss er jährlich 2 Achtel Holz in den Gutswaldungen schlagen und dasselbe
+                        in den Hof nach Steinort fahren. Zur Anfuhr sind erforderlich 1 Schlitten
+                        1/2 Tag pro Achtel tut für 2 Achtel</cell>
+                     <cell/>
+                     <cell>14</cell>
+                     <cell>14</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7. </cell>
+                     <cell/>
+                     <cell>Zum Werder, ziehen, brechen, schwingen und Hecheln des Flachses im
+                        Durchschnitt</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>8. </cell>
+                     <cell/>
+                     <cell>Ist jeder Bauer verpflichtet, im Herbst einen Mann 4 Tage in die
+                        herrschaftlichen Waldungen zum Stobben roden zu senden</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>4</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell/>
+                     <cell>Zum Schafe waschen und Schafe scheren</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell/>
+                     <cell>Zum Rohrstoßen und zur Anfuhr desselben</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell>3</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell/>
+                     <cell>Zu allen herrschaftlichen Bauten muss er in Gemeinschaft mit den übrigen
+                        Bauern alles Holz, Ziegel, Steine und anderes Material anfahren, im
+                        Durchschnitt würde hierzu erforderlich sein</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>a. zu 2 Stück stark Bauholz</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>b. zu 5 Stück mittel und klein Bauholz</cell>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>c. zu Steine, Sand und anderes Material</cell>
+                     <cell>5</cell>
+                     <cell/>
+                     <cell>5</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Diese Leistung ist bei dem Umfange der Güter und den vielen
+                        herrschaftlichen Gebäuden nur sehr billig angnommen </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12.</cell>
+                     <cell/>
+                     <cell>Ist jeder Bauer verpflichtet 1 Handlanger zum Holzschlagen pp so lange
+                        die Neubauten und Reparaturen dauern herzugeben, und hierzu wäre im
+                        Durchschnitt anzunehmen</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>7</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Summa</cell>
+                     <cell>35</cell>
+                     <cell>27</cell>
+                     <cell>85</cell>
+                     <cell>139</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Nach den prinzipienmäßigen Sätzen  betragen</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>35 4-spännige Spanntage a 8 Metz = 17 Schfl. 8 Metz</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>27 2-spännige Spanntage a 8 Metz = 6 Schfl. 12 Metz</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>85 Manns-Handtage a 2 Metz = 10 Schfl. 10 Metz</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>139 Frauens-Handtage a 1 1/2 Metz = 13 Schfl. 1/2 Metz</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>tut 46 Schfl. 14 1/2 Metz</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>55</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Hinzu noch</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>an barem Zins</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>für das Schlagen von 2 Achtel Holz</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>für das Spinnen des Garns und Wirken von 1 Stück flachsen Leinwand</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>3</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>für die zu liefernde Grütze, Eckern pp.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>1</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Summa totalis</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>72</cell>
+                     <cell>11</cell>
+                  </row>
+               </table></p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_w3q_lt5_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die Witwe </title><title>Helena Hübin</title><title> lässt ihr Testament aufsetzen. Königsberg, 14. August 1752</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="editorial">
+               <p>Das Testament wurde „ad acta eines Königl. Oberburggräflichen Amts in Person
+                  übergeben‟, und gelangte auf diesem Weg in die Gerichtsunterlagen des
+                  Patrimonialgerichts in Steinort. <lb/> Der Akte liegt ein weiteres Testament sowie
+                  ein durch den Haushofmeister des Grafen <persName key="ed_csb_mdf_cy">Ernst
+                     Ahasverus Heinrich von Lehndorff</persName>, <persName key="ed_vhq_1tg_gcb">Johann Albrecht Schröder</persName>, am 18. Dezember 1792 in Berlin
+                  aufgenommenes Nachlassinventar der verstorbenen Schumachermeister-Witwe <persName key="ed_z1s_1js_2wb">Barbara Dorothea Matthias</persName> bei, deren Erben „in
+                  Preußen ohnweit Königsberg auf den Gütern des Herrn Grafen von Lehndorffen‟
+                  wohnten.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 544, Bl. 64</idno>
+               </msIdentifier>
+               <p>-71</p>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1752-08-14" cert="high"/>
+         </creation>
+         <abstract>
+            <p>
+               <persName key="ed_ugg_jv5_wsb">Helena verw. Hübin</persName>, geb. Kemckin, aus
+                        <placeName key="ed_uyl_j3c_gy">Danzig</placeName> gebürtig, des Schreibens
+                    unkundig, lässt in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> vor und
+                    durch den Notar <persName key="ed_uzw_mv5_wsb">Johann Carl Grass</persName> ihr
+                    Testament aufsetzen und bestimmt ihre leibliche Schwester Elisabeth,
+                    verehelichte Korkowski, geb. Kemckin, in Riesenburg wohnend, und ihren
+                    Halbbruder Johann Kemcke mit seiner Ehefrau, in Königsberg wohnend, zu Erben.
+                    Der Halbbruder erhält 500 Gulden bar, die Schwester, die 500 Gulden bereits
+                    erhalten hat, wird dazu bestimmt, verschiedene Legate auszuzahlen.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940854"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

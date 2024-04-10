@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hhb_mdz_hqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Abrechnung mit dem Hofmann Michael Borck in Steinort</title><title>. Steinort, 19. Dezember 1718</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch den <ref target="lehndorff_gzd_2bn_2bb">Arbeitsvertrag mit dem
+                            Hofmann Jacob Nowack (1717)</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 258, Bl. 7-7v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1718-12-19" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hhb_mdz_hqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum im Hochgräflichen Hause <placeName key="ed_pxt_cnh_1y">Steinort</placeName> d.
+               19. Decembr. 1718</p>
+            <p>Demnach <persName key="ed_afs_w5w_2qb">Michael Borck</persName>, Schulze in
+                  <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, drei Jahr allhier in
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <seg type="comment">
+                  <orig>Hofmann</orig>
+                  <note xml:id="nmwt_v2q_3qb">Zu dessen Aufgaben siehe <ref target="lehndorff_vkw_4jd_vpb">hier</ref>
+                  </note>
+               </seg> gewesen und aus der Kuhpacht ein Vieles schuldig geblieben, auch sonsten
+               andere Resta aufschwellen lassen, wohergegen er aber einesteils was gezahlt,
+               anderenteils einige Arbeit getan, als haben Ew. <persName key="ed_wwb_gcm_2y">Reichsgräfl. Exzellenz Frau Maria Eleonora</persName><seg type="comment">,
+                     <orig>des Heil. Röm. Reichsgrafen von Lehndorff, Hauptmann zu Memel und Major,
+                     Erbherr der Steinortschen Güter Frau, von Dönhoff Douariere,</orig>
+                  <note xml:id="nfy4_stj_5qb">Versuch der Rekonstruktion des Textes, der durch
+                     Streichung, Überschreibung und Einfügung unklar ist.</note>
+               </seg> demselben gerichtlich vorgestellt, um mit ihm alles zu berechnen. Welches nun
+               auch geschehen und hat <gap reason="illegible"/> Michael Borck folgendes zu zahlen,
+               als <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+            <p><?oxy_custom_end?>317 Fl. 15 Gr. 2 D. gemäß gehaltener Berechnungen aus der Kühe
+               Pacht, worunter auch 8 Fl. vor eine umgekommene Stärke</p>
+            <p>30 Fl. vor eine Stute, so durch des Hofmanns Nachlässigkeit ersoffen</p>
+            <p>13 Fl. 10 Gr. auf Zinsrest de Ao. 1713</p>
+            <p>24 Fl. de Ao. 1711 bis 1718 inklusive jährlich 6 Stück Bauholz anzuführen à 15 Gr.
+               das Stück in 8 Jahren</p>
+            <p>24 Fl. de Ao. 1711 bis 1718 inklusive jährlich 1 1/2 Achtel Brennholz zu setzen à 2
+               Fl. vors Achtel, welches er nicht getan</p>
+            <p>166 Fl. 12 Gr. de Ao. 1711 bis 1718 inklusive in acht Jahren vor die nicht geschickte
+               Magd wöchentlich à 12 Gr. zum Scharwerk in den Hof Steinort samt jährlich 20 Fl. 24
+               Gr.</p>
+            <p>Summa 575 Fl. 5 Gr. 2 D.</p>
+            <p>Hierauf hat derselbe abgetragen</p>
+            <p>26 Fl. 20 Gr. an 2 Stück Deputat Kühen, so ihm von den beiden letzten Jahren zu einer
+               Kuh ist gerechnet <gap reason="illegible"/>
+            </p>
+            <p>6 Fl. so er in 12 maligen Reisen nach <gap reason="illegible"/> verzehrt</p>
+            <p> 8 Fl. an 1 Stärke, so der Hofmann angegeben vor das Fuchsen-Pferd</p>
+            <p>16 Fl. an 1 Ochsen dessen Abdecken</p>
+            <p>12 Fl. 12 Gr. so er an allerlei Arbeit als am <gap reason="illegible"/> der Kutsche
+               und <seg type="comment"><orig>Cariol</orig><note xml:id="nmt2_ltb_3xb"><ref target="https://de.wikipedia.org/wiki/Karriol">Karriol</ref></note></seg>
+               hat verdient, wie auch einen neuen Schlitten gemacht</p>
+            <p>20 Fl. 6 Gr. bis des 8. April 1813 allerlei Schirrmacher Arbeit</p>
+            <p>8 Fl. vor die Bude in der Heide zu bauen laut Verding vom 5. Juni 1713</p>
+            <p>2 Fl. das Dach mit Dielen zu beschlagen</p>
+            <p>7 Fl. 21 Gr. vor allerhand Arbeit gemäß Aufsatz</p>
+            <p>13 Fl. 2 Gr. an Wegearbeit gefertigt gemäß Spezifikation Herrn <persName key="ed_scq_sqr_1qb">Grünhagens</persName>
+            </p>
+            <p>19 Fl. 20 Gr. vor 8-jähriges Gespinst, so er mehr geliefert als die anderen à 2 Gr.
+               jährlich</p>
+            <p>10 Fl. 24 Gr. an allerhand gefertigter Arbeit laut Spezifikation bis 19. Decembr.
+               1718</p>
+            <p>Summa 163 Fl. abgezogen bleibt Borck noch schuldig 412 Fl. 5 Gr. 2 D.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

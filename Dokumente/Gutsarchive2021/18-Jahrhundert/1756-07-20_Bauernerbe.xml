@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_an5_2y1_pvb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Die Taberlacker Bauern Christoph Schlesiger und Johann Thiel geben ihre
+                    Bauernerben auf. 20. Juli 1756</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+                </note>
+                <note type="keyword"><p>Kategorie: Gutsherr und Untertan</p></note>
+                <note type="editorial">
+                    <p>In der <ref target="lehndorff_xnz_mzl_15b">1812</ref> angefertigten Ünersicht
+                        über aufgegebene Bauernstellen werden diese frühen Hofaufgaben nicht
+                        erfasst.</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 830, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1756-07-20" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_an5_2y1_pvb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Actum Steinort den 20. Juli 1756</p>
+                <p>Der Bauer <persName key="ed_uvn_4gb_rvb">Christoph Schlesiger</persName> und
+                    Bauer <persName key="ed_uzz_qgb_rvb">Johann Thiel</persName>, beide aus
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, stellen vor, dass sie
+                    nicht länger auf ihren Huben bleiben könnten und ihr Unterkommen weiter suchen
+                    wollten, weshalb sie auch ihre Wohnung der gnädigen Eigentumsherrschaft
+                    aufgesagt, bitten dahero, dass ihnen, weil sie beim Anzuge gar kein Futter,
+                    besonders Schlesiger nicht mal Heu gefunden, Thiel hingegen vor das Heu 2 Rtlr.
+                    bekommen, es möge ihnen entweder jetzo das Futter ausgefolgt oder billigmäßig
+                    vergütet werden, indem sie beim Anzuge die Saatfelder nicht genutzt und solche
+                    mit ihrer eigenen Saat im Herbst besät, folgl. auch jetzto solche beim Abzuge zu
+                    genießen hätten. Der Thiel bittet zugleich, dass ihm ein <seg type="comment"><orig>Abzugs-Zettul</orig><note xml:id="nrt3_3lw_vxb">Seit 1739 war es
+                            verboten, Gesinde ohne Abzugsattest aufzunehmen, GStA PK, XX. HA, Rep.
+                            54 Gutsarchiv Lehndorff-Steinort, Nr. 464 (Königsberg, 9. Mai
+                            1739).</note></seg> gnädigst gegeben werden möge, damit er sein
+                    Unterkommen suchen könnte. Beide verneinen, dass sie sonst weiter nichts
+                    schuldig wären, als den diesjährigen currenden Zins.</p>
+                <p>Die Eigentümerherrschaft lassen hierauf deklarieren, dass, da aus den Gütern kein
+                    Futter gebracht werden kann, damit das Erbe nicht Eignung verliere, so müsse das
+                    Futter auch bemeldte Bauern aufm Erbe lassen, jedoch soll soviel, als sie bei
+                    ihrem Abzuge an Stroh lassen werden, davor bezahlt und ratione des Preises, wie
+                    solcher dann sein wird, verglichen werden. Was das Heu hingegen anbelangt, so
+                    könne Thiel nicht mehr denn 2 Rtlr. davon bekommen, indem er auch nur soviel bei
+                    seinem Anzuge vor 2 Jahren gezahlt, und Schlesier sollte, als da er nur 1 Hube
+                    hatte, die Hälfte mit 1 Tlr. haben.</p>
+                <p>Die Bauern erwiedern, dass sie zufrieden wären, wenn ihnen das Stroh vergütet
+                    würde, nur bitten sie, dass jetzo der Preis festgesetzt werde und fordern sie
+                    pro Schock Heu und Schock Stroh 60 Gr., wollten auch schon mit 45 Gr. zufrieden
+                    sein und gute Bunde, wie sich gehört, liefern. Thiel sei auch mit den 2 Rtlr.
+                    ratione des Heu zufrieden, Schlesier hingegen bittet, da das Heu taxiert und
+                    davor billige Vergütung geschehen, zumalen er beim Anzuge nichts erhalten, auch
+                    keinen accord deshalb, <unclear reason="illegible" cert="low">sowie Thiel
+                        gemacht.</unclear></p>
+                <p>Die Eigentümerherrschaft können sich jetzo in keinen accord des Preises wegen des
+                    Futters einlassen, sondern erbieten sich künftigen Herbst das sodann vorhandene
+                    Futter nach dem zu der Zeit existierenden Preis den abziehenden Bauern Schlesier
+                    und Thiel zu vergüten, sowie solches auch wegen des Heus des Schlesier gehalten
+                    werden soll, indem man nicht jetzo wissen könne, wie die Bunde bezahlt und das
+                    Heu beschaffen sein dürfte. Den Abzugs-Zettul sollte Thiel jetzo erhalten.</p>
+                <p>Bescheid.</p>
+                <p>Es wird gefunden, dass, wenn Schlesier und Thiel auf <seg type="comment"><orig>Michel</orig><note xml:id="ncck_dmw_vxb">29.
+                        September</note></seg> abziehen werden, sowohl Stroh, sie sodann zuviel
+                    lassen werden, nach dem sodann existierenden Preis zu der Beschaffenheit der
+                    Bunde, sowie vor das Heu Schlesier billigmäßig von der Eigentumsherrschaft
+                    vergütet sein wird, allermaßen das Futter nicht verabfolgt werden kann.</p>
+                <p><gap reason="illegible"/>
+                    <persName key="ed_qtt_prs_fqb">Schmidt</persName></p>
+                <p> </p>
+            </div>
+        </body>
+    </text>
+</TEI>

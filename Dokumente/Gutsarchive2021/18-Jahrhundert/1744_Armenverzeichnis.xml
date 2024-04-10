@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_imn_tlm_xsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der Armen in den Steinortschen Gütern. 1744</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch die Invalidenrechnung aus dem Jahr <ref target="lehndorff_nwm_cvs_frb">1796</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 534, Bl. 6 </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1744-01-01" to="1744-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940844"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+            </p>
+            <list>
+               <item>1. <persName key="ed_jdj_qpg_j5b">Ortha Schelonkina</persName> beim Bauer
+                     <persName key="ed_mfw_fqg_j5b">Rompel</persName>
+               </item>
+               <item>2. Losweib <persName key="ed_nfp_4qg_j5b">Kliemeckin</persName> beim Bauer <persName key="ed_vqp_lt3_zqb">Schack</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+            </p>
+            <list>
+               <item>3. Knechtsweib <persName key="ed_o3j_1rg_j5b">Heinrichin</persName> beim <persName key="ed_y2d_z33_gqb">Michael Scheimann</persName>
+               </item>
+               <item>4. Alte Instmann <persName key="ed_slk_jrg_j5b">Seska</persName>
+               </item>
+               <item>5. Alte <persName key="ed_isf_lyr_vsb">Jarreckin</persName> beim <persName key="ed_wn2_prg_j5b">Johann Bartnick</persName>
+               </item>
+               <item>6. Magd <persName key="ed_zwf_zrg_j5b">Eleonora Jarreckin</persName> beim Bauer <persName key="ed_r1x_nxd_2qb">Wilewka</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+            </p>
+            <list>
+               <item>7. Instweib Schu<gap reason="illegible"/> beim <persName key="ed_xdn_jmz_2qb">Schulzen Scheimann</persName>
+               </item>
+               <item>8. Alte <persName key="ed_nbm_ssg_j5b">Jarreckin</persName> beim Instmann <persName key="ed_gp4_ksg_j5b">Jarreck</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+            </p>
+            <list>
+               <item>9. Knechtsweib <persName key="ed_gps_btg_j5b">Broschin</persName> beim jungen <persName key="ed_ocv_3rs_vqb">Scheimann</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+            </p>
+            <list>
+               <item>10. Knechtsweib <persName key="ed_g4n_3tg_j5b">Smolinga</persName> beim Bauern <persName key="ed_nhs_5sc_zqb">Jasch</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <list>
+               <item>11. der alten Lissen <persName key="ed_c4r_vtg_j5b">Tochter</persName>
+               </item>
+               <item>12. Alte Rautenberg beim <persName key="ed_cfk_25g_j5b">Martin
+                     Waschke</persName>
+               </item>
+               <item>13. Knechtsweib <persName key="ed_ab1_t5g_j5b">Reisberg</persName> beim <persName key="ed_jv1_ylc_zqb">David Uwis</persName>
+               </item>
+               <item>14. Alte <persName key="ed_jnl_jvg_j5b">Kordackin</persName> beim <persName key="ed_tfd_dvg_j5b">Johann Scheimann</persName>
+               </item>
+               <item>15. Witwe <persName key="ed_r5w_bxj_5qb">Jacob Masuchin</persName> beim
+                     <persName key="ed_lsw_sgn_ypb">Schulze Matzick</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+            </p>
+            <list>
+               <item>16. Alte <persName key="ed_p5v_bwg_j5b">Jarreckin</persName> beim <persName key="ed_vmb_xvg_j5b">Andreas Jarreck</persName>
+               </item>
+               <item>17. Soldatenfrau <persName key="ed_hvl_kwg_j5b">Borissin</persName>
+               </item>
+               <item>18. Alter <persName key="ed_ytf_twg_j5b">Kordack</persName>
+               </item>
+               <item>19. <persName key="ed_emt_yzz_tqb">Maria Raabin</persName>
+               </item>
+               <item>20. <persName key="ed_zfb_4wg_j5b">Anna Schönfeldt</persName> beim <persName key="ed_vmb_xvg_j5b">Andreas Jarreck</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_xpm_112_gy">Labab</placeName>
+            </p>
+            <list>
+               <item>21. Alter <persName key="ed_v52_2xg_j5b">Reisberg</persName> beim
+                            <persName key="ed_hxs_fw1_zqb">Jacob Liss</persName>
+               </item>
+               <item>
+                  <list rendition="#rightBraced">
+                     <item>22. Alter <persName key="ed_lrj_mxg_j5b">Jasch</persName>
+                        <lb break="no"/>23. Alte <persName key="ed_wv2_5xg_j5b">Masuchin</persName>
+                     </item>
+                     <item>24. Alte <persName key="ed_rxv_zxg_j5b">Bluhmin</persName>
+                     </item>
+                  </list>beim <persName key="ed_hkg_kx1_zqb">Michael Liss</persName>
+               </item>
+               <item>25. der alte <persName key="ed_fwb_dyg_j5b">Liss</persName>
+               </item>
+            </list>
+            <p>
+               <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName>
+            </p>
+            <list>
+               <item>26. Magd <persName key="ed_jml_gyg_j5b">Albertine Lissin</persName>
+               </item>
+               <item>27. Tischlerwitwe <persName key="ed_s4l_ylg_wqb">Uwis</persName>
+               </item>
+               <item>28. Alte <persName key="ed_rnd_myg_j5b">Uwis </persName>
+               </item>
+               <item>29. Alte <persName key="ed_i2h_qyg_j5b">Jerominski</persName>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_hsq_z2k_ycb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gustav Peter Westphal an Anna Gräfin von Lehndorff. Drengfurt, 28. Oktober 1878</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 589, Bl. 22-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ojh_v2m_gbb">Westphal, Gustav Peter (-)</persName>
+               <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+               <date when="1878-10-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Ähnliche Bestrebungen gab es auch für das <orgName key="ed_pqq_g4d_gy">Waisenhaus
+                  Rosengarten</orgName> aus umliegenden Orten, vgl. APO, Bestand 382 Familienarchiv
+               Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941740">Nr.
+                  596</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941733"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Drengfurt, den 28. Oktober 1878</dateline>
+               <salute>Hochverehrte Frau Gräfin!</salute>
+            </opener>
+            <p>Wenn Sie der Invalidenwitwe <persName key="ed_u4n_hnx_f2b">Marie Legat</persName> in
+                        <placeName key="ed_fzv_knx_f2b">Bialla</placeName> ihre Bitte, eines ihrer
+                    Kinder in unser hiesiges <orgName key="ed_smh_zgj_ycb">Waisenhaus</orgName>
+                    aufzunehmen erfüllen wollen, so kann ich ja nichts dagegen haben; nur übernehme
+                    ich keine Verpflichtung, dasselbe auch zu unterhalten.</p>
+            <p>Denn das von mir zusammengebettelte Geld habe ich für Waisenkinder erbeten, die
+                    ohne Eltern und bei fremden Leuten untergebracht sind, wo sie so gut wie gar
+                    keine Erziehung erhalten. Nehmen wir Kinder auf, die noch eine Mutter haben, so
+                    brauchten wir gar nicht weit zu suchen, wir haben sie ganz in der Nähe, und zwar
+                    in einer noch viel übleren Lage als diejenige der Kinder der Frau Legat ist, und
+                    daher vorgehen würden, weil ich sonst in der Gemeinde <placeName key="ed_h35_jqh_my">Drengfurt</placeName> keine Sammlung mehr veranstalten
+                    könnte. </p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+            <p>Die <seg type="comment">
+                  <orig>Blätter für die Innere Mission in
+                            Berlin</orig>
+                  <note xml:id="nawc_dqx_f2b">Die Monatsschrift „Aus der
+                            Stadtmission‟, vgl. den Brief vom <ref target="lehndorff_i1s_pmq_ycb">14. Januar 1879</ref>.</note>
+               </seg> habe ich empfangen, auch Ihnen
+                    gleich darauf berichtet, dass und aus welchen Gründen auf eine pekuniäre
+                    Unterstützung von hier aus gar nicht zu rechnen ist. Das ist ein Werk, dessen
+                    Stärkung nur auf die Reichen fällt, welche ihre Sorge auch auf entferntere
+                    Punkte wenden können. Reiche aber habe ich in meiner Gemeinde nicht, selbst
+                    nicht unter den Gutsbesitzern, abgesehen davon, dass die meisten von diesen dem
+                    Christentum und der Kirche ganz fern stehen.</p>
+            <p>Dass Sie, hochverehrte Frau Gräfin, selbst im Winter fern von der Heimat und von
+                    uns weilen, muss seinen Grund in schmerzlichen Ursachen haben, was mir herzlich
+                    weh tut. Der Herr wolle in Gnade diese Ursachen beseitigen so bald als möglich,
+                    damit Sie uns wieder zurückgegeben werden, was von Herzen wünscht</p>
+            <closer>
+               <salute>Ihr gehorsamster</salute>
+               <signed>Westphal, Pfarrer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_qzj_vp2_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entwurf des Grafen Lehndorff für Verträge mit Instleuten auf den Vorwerken.
+               Steinort, 1810 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Die Akte ist überschrieben: Verhältnisse der Bauern und Instleute in den
+                  Steinortschen Gütern und Ideen zu deren Verbesserung. Entwurf des Grafen Carl
+                  Ludwig Christian v. Lehndorff (1710-1854). Siehe <ref target="lehndorff_n4q_rwv_p5b">hier</ref> auch auch den Entwurf eines
+                  Kontraktes für Instleute in Pristanien und Stawken. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 327, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1810-01-01" to="1810-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qzj_vp2_ctb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Instleute bei den Vorwerken</p>
+            <p>Der Instmann N. erhält an Tagen Lohn von Ostern bis <seg type="comment"><orig>Michaelis</orig><note xml:id="nmtl_pml_wxb">29. September</note></seg>,
+               der Mann 9 Gr. das Weib 6 Gr., von Mich. bis Ostern in denen Wintertagen der Mann 7
+               1/2 Gr., das Weib 4 Gr. Sodann an Dröscher Verdienst im Winter den 11. Scheffel. Es
+               wird ihm gehalten auf freier Weide eine Kuh, 2 Schafe und 2 Gänse, nämlich auf dem
+               Vorwerke Gr. Steinort, auf den übrigen Vorwerken werden ihm auch noch 2 Schweine
+               gehalten, und Acker zu seinem Dünger auf eine Saat gegeben, sodann 1/4 Lein Aussaat
+               im Sommerfelde. Den Kl. Steinorter Instleuten werden wegen der Schäferei keine
+               Schafe, sondern anstatt deren 2 Schweine mehr gehalten. Sodann erhält er ein Fuder
+               Heu, welches er aber bei seiner baren <gap reason="illegible"/> mit 1 Rtlr. bis 4 Fl.
+               bezahlen muss, eine Wohnung und einen <seg type="comment"><orig>Geköch</orig><note xml:id="nx5p_sml_wxb">Küchengarten</note></seg>-Garten von 40 Quadratruten, wie
+               auch einen Stall, wofür er 2 Rtlr. jährliche Miete zahlt. Zur Feuerung erhält er das
+               nötige Holz <gap reason="illegible"/> wie auch die Fuhren zu diesem und dem
+               vorbenannten Heu. </p>
+            <p><gap reason="empty"/></p>
+            <p>Instmann N. hat dagegen nachstehende Abgaben und Verpflichtungen, als <lb/>1. Schfl.
+               Metzgetreide, in Ermangelung dessen bezahlt er solches nach dem jedesmaligen
+               Marktpreise, sodann 1/4 Schfl. Eicheln und 1/4 Schfl. Hopfen, statt dessen 15 Gr.
+               Geld, wie auch 1 Stof Kümmel, statt dessen 6 Gr. Geld, imgleichen liefert er jährlich
+               um Michaelis, wenn er mehr als zwei junge Gänse besitzt, eine <seg type="comment"><orig>Stoppel-Gans</orig><note xml:id="nmlm_1nl_wxb">ca. 8 Wochen alte
+                     Weidegans, die vor der ersten Mauser geschlachtet wird</note></seg> zur
+               herrschaftlichen Küche. <lb/>2. An Gespinst <lb/>muss er jährlich 10 Stück Garn
+               spinnen, wozu er 6 Pfund Hede aus dem Hofe erhält, im Fall des Nicht-Spinnens zahlt
+               er 40 Gr. Geld. <lb/>3. An Scharwerksvertrag <lb/>werden ihm jährlich 6 Manns- und 6
+               Weibs-Tage von seinem Arbeits-Zettul bei der jedesmaligen Berechnung abgezogen.
+               <lb/>4. An baren Abgaben <lb/>Kopfschoss für sich und sein Weib - 70 Gr. <lb/>Horn-
+               und Klauenschoss für 1 Kuh à 24 Gr, 2 Schafe, Schweine à 3 Gr - 36 Gr. <lb/>An
+               Kirchen-Decem 8 Gr. <lb/>Mahlgeld 18 Gr. <lb/>Sodann die Schulabgaben, die sich im
+               Allgemeinen nicht bestimmen lassen, alle königliche Onera als Invaliden-,
+               Fortifikationsbau-Gelder und Kriegssteuer, welche letztere sich auf 18 Gr. einfach
+               beläuft.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

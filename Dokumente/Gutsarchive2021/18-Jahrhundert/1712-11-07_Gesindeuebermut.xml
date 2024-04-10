@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_gmq_tjy_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der König verlangt einen Bericht, wie gegen den Übermut des Gesindes und
+                    dessen Lohnforderungen vorgegangen werden könne. </title><title>Königsberg, 7. November 1712</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Am <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT53/start.html?image=04236&amp;size=1">12. Februar 1718</ref> erging eine neue Gesindeordnung.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 414, Bl. 1-3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1712-11-07" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=414"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Von Gottes Gnaden <persName key="ed_syp_mzf_h1b">Friedrich König in
+                        Preußen</persName>
+               <gap reason="insignificant"/> pp.</p>
+            <p>Unsern gnädigen Gruß und geneigten Willen zuvor, Hochwohlgeborener besonders
+                    Lieber und Getreuer.</p>
+            <p>Nachdem nicht nur bereits in verwichener Zeit wegen sehr großen Übermuts des Gesindes
+               in denen Städten sowohl als aufm Lande vielfältige Klagen geführt wurden, sondern
+               itzo auch dergleichen aufs neue von verschiedenen Orten einkommen, so dass viel
+               Hausväter und Hauswirte, falls sie nicht ohne Gesinde bleiben wollen, mehr, als sonst
+               jemalen gebräuchlich gewesen, an Lohn und anderes offerieren müssen, dahero zu
+               besorgen, dass dieses Unwesen, wofern demselben nicht in Zeiten gesteuert wird, das
+               ganze Land in sehr großen Schaden setzen, folglich desselben Wiederaufbringung von
+               seinem bisherigen Abfall zuwider unserer gnädigsten und landesväterlichen Intention
+               verhindern und zurückhalten dürfte, als finden wir höchst nötig, desfalls auf
+               zureichende nachdrückliche Hilfsmittel bedacht zu sein, da weder die alte Land- und
+               Tax-Ordnung, worinnen unter andern wegen des Gesindes, was sowohl den Lohn als die
+               Zeit ihres Dienstes betrifft, ganz nützliche Vorschriften enthalten, <seg type="comment"><orig>noch die vor wenig Jahren ergangenen und Poenal-Edicta, Kraft
+                     deren niemand durch übermäßigen Lohn und was dazu gehört das Gesinde von
+                     anderen ab und an sich ziehen, auch ohne genügsamen Beweis von dem vorigen
+                     Brot-Herrn wegen des ehemaligen Verhaltens und richtig ausgehaltenen
+                     Dienstjahren in den Dienst nehmen solle</orig><note xml:id="nel3_fqv_rxb">Verordnung, das Gesinde ohne Schein bei Strafe nicht anzunehmen, <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT53/start.html?image=04236&amp;size=1">2. April 1708</ref></note></seg>, bisher observiert, noch zum Effekt
+               gebracht worden. Wir haben demnach über diese wichtige, zum Aufnehmen des Landes
+               unzweifelhaft gerichtete Sache unsere Ämter insgesamt vernehmen wollen, und befehlen
+               Euch hiermit gnädigst solches heilsame Werk, was zu Reprimierung des unleidlichen
+               Übermuts vom Gesinde und Förderung des exzessiven Lohnes, Beschnitts, gesäten
+               Getreides, gewissen Pacht-Pfennigs oder wie es sonst wegen prätendierter freien
+               Versicherung der Krüge zu gewissen Zeiten und wegen des übermäßig verlangten Essens
+               und Trinkens geschehen mag, dienlich sind und vonnöten ist, wohl zu überlegen, und
+               was darüber, auch wie hoch Ihr vermeint, dass so wohl eines jeden Lohn und
+               Gewiss-Pfennig als die Zeit der Dienstjahre zu setzen und zu determinieren sein
+               möchte, imgleichen, ob es nicht gut wäre, dass teils das Gesäte, teils der Beschnitt
+               und die Kleidung des Gesindes auf ein Gewisses an Geld, und wie hoch solches etwa
+               nach der Billigkeit gesetzt werde, einen pflichtmäßigen Bericht nebst unmaßgeblichem
+               Gutachten umständlich zu fernerer Verordnung, welche überall ins Werk zu richten sein
+               wird, einzusenden. <lb/>An dem geschieht unser gnädigster Wille.</p>
+            <p> Königsberg, den 7. Novemb. 1712</p>
+            <p> v. Osten <persName key="ed_txx_5fz_g1b">v. Tettau</persName>
+            </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

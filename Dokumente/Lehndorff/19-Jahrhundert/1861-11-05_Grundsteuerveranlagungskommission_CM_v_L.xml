@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_lbr_myj_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Grundsteuer-Veranlagungskommission an Carl Meinhard Graf von
+                    Lehndorff. Rhein, 5. November 1861</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen </p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 285, Bl. 32 </idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <orgName key="ed_nmm_qzp_wx">Grundsteuer-Veranlagungskommission, Kreis
+                        Angerburg</orgName>
+               <placeName key="ed_qw4_wyj_gy">Rhein</placeName>
+               <date when="1861-11-05" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+            </correspAction>
+            <note>Lehndorff antwortete am 18. November 1861. Am 20. November schrieb die
+                    Veranlagungskommission (Bl. 97), es genüge ihr zu wissen, dass <quote>Karten von
+                        den <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Gütern
+                        existieren</quote>, man werde diese demnächst wegen der Anfertigung von
+                    Kopien erbitten; sollte Steinort <quote>im künftigen Jahr in Bezug auf den
+                        Reinertrag noch nicht zur Einschätzung gelangen</quote>, werde man die
+                    Karten im Frühjahr zurückgeben. In Bezug auf die eingesandten Karten fragte die
+                    Kommission am 11. Mai 1862 nach, ob keine andere Karte als der
+                        <quote>Dittmarsche Plan</quote> existiere. Im Juli wurde eine Neuvermessung
+                    angekündigt, siehe das Dokument vom <ref target="null">19. Juli 1862</ref>. - Im
+                    StA L befindet sich lediglich die Akte zur Grundsteuerveranlagung
+                    1861/62.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Rhein, 5. November 1861</dateline>
+            </opener>
+            <p>In der Grundsteuer-Regulierungssache des Kreises <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> beehre ich mich Euer Hochgeboren um gefällige Auskunft
+               darüber ganz ergebenst zu ersuchen, ob von Ihren Gütern namentlich: Groß-<placeName key="ed_pxt_cnh_1y">Steinort</placeName>, <placeName key="ed_xpm_112_gy">Labab</placeName>, <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>, Inseln
+                  <placeName key="ed_hcn_kc2_gy">Wittfong</placeName> und <placeName key="ed_h1w_jc2_gy">Upalten</placeName>, <placeName key="ed_clv_11k_gy">Buddern-Wiesengrün</placeName>, <placeName key="ed_mxw_c1k_gy">Sdorkowen</placeName>, <placeName key="ed_nkz_b12_gy">Stawken</placeName>,
+                  <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>, <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> und den zu den Gütern gehörigen
+               Waldungen <seg type="comment">
+                  <orig>Karten</orig>
+                  <note xml:id="nxyf_kdt_s2b">Siehe das Verzeichnis in: GStA PK, XX. HA, Rep. 54
+                     Gutsarchiv Lehndorff-Steinort, Nr. 649.</note>
+               </seg> existieren. Eventualiter bitte ich mit Bezug auf § 20 der Anweisung für das
+               Verfahren bei Ermittelung des Reinertrags der Liegenschaften vom 21. Mai c. um deren
+               Übersendung, weil anderenfalls die Neufassung verfügt werden muss. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

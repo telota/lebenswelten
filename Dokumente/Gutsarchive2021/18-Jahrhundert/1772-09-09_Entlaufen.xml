@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hqs_1hv_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Das Hofgericht bestätigt die Entscheidung des Gerichts in Drengfurt in einer
+                    Kriminalsache entlaufener Untertanen. Königsberg, 9. September 1772</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 548, n. f. [der Akte
+                            vorgeschaltet]</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <orgName key="ed_hln_rnw_mbb">Hofgericht Königsberg</orgName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1772-09-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_glg_gkv_wsb">Jarosch, (-)</persName>
+            </correspAction>
+            <note>Die Akte enthält ausschließlich diesen Kriminalfall. Die Untersuchung hatte an
+               einem gewöhnlichen Gerichtstag in Steinort 1771 begonnen und wurde durch das
+               Hofgericht fortgesetzt. Der Arrendator Hoffmann hatte den Vorfall auf Befehl der
+               Gräfin von Lehndorff dem Gericht angezeigt. Es handelte sich bei den Mädchen vor
+               allem um Gesinde aus dem Hof. Das Vorhaben war verraten worden.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940858"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <p>Von Gottes Gnaden Friedrich König in Preußen <gap reason="insignificant"/>
+                    ppp</p>
+            <p>Unseren gnädigen Gruß zuvor, Ehrenvester lieber Getreuer! <lb/>Wir remittieren Euch,
+               dem Justitiario der Steinortschen Güter, im Anschluss die zur Justifikation bei dem
+               Hofgericht eingegangene Acta criminalia in Sachen <persName key="ed_s2l_wwr_vsb">Maria Wilewskin</persName>, <persName key="ed_wyd_xcv_ysb">Maria
+                  Brosin</persName>, <persName key="ed_p41_cdv_ysb">Eleonore Masuchin</persName>,
+                  <persName key="ed_fjb_hdv_ysb">Charlotte Gruzzin</persName>, <persName key="ed_b5j_jdv_ysb">Dorothea Schelonkina</persName>, <persName key="ed_m3k_mdv_ysb">Louise Schwikowskin</persName>, <persName key="ed_k1c_pdv_ysb">Johann Gruzze</persName> und <persName key="ed_jdr_rdv_ysb">Carl Beslack</persName> wegen attestierter Entweichung aus den Gütern und
+               Komplizität, der Charlotta Gruzzin zuerkannter sechsmonatlicher Zuchthausarbeit <seg type="comment"><orig><unclear reason="illegible" cert="low">halva</unclear>
+                     fama</orig><note xml:id="nrdx_tgg_vxb">Bedeutung unklar</note></seg>, der
+               Wilewskin und Dorothea Szelongina dreimonatliche Zuchthausstrafe gleichfalls <unclear reason="illegible" cert="low">halva</unclear> fama, der Maria Brosin und Eleonora
+               Masuchin vierzehntägige Strafarbeit, der Carl Beslack zweitägige Turm-Strafe, der
+               Louise Schwinkowskin gefundene gänzliche Absolution, dem Johann Grüzze hingegen
+               gefundene Absolution ab instantia, Tragung der Kosten aber von der Gutsherrschaft
+                  <unclear reason="illegible" cert="low">halva</unclear> regressu gegen die
+               Inculpanten bestrafend, und vertrauen darauf hiermit justificando für Recht, dass
+               dergestalt und Gelegenheit der Sache wohlgesprochen. <lb/>Ihr erhaltet dann nachhero
+               in der ferneren Anlage das an den Königsbergschen Magistrat wegen denen der Charlotte
+               Grüzzin, Maria Wilewskin und Dorothea Szelonzina in das Zuchthaus erforderlichen
+               Mandate zur weiteren Abgabe gegen Entrichtung der Zuchthausgebüren, und werdet
+               befehligt, vor diese Justificatorie 1 Rtlr. wie auch an Ausfertigungsgebür 8 Sgr.
+               fordersamst und asserviert franco anhero hinzusenden. Darauf habt ihr die Verfügung
+               zu tun, damit hierunter justifizierte Strafe vollzogen wird. Sind euch mit Gnaden
+               gewogen.</p>
+            <p> Gegeben Königsberg, den 9. Sept. 1772</p>
+            <closer>
+               <signed>Sr. Königlichen Majetät in Preußen Wirklich Geheimer Etats- und Krieges-Rat
+                  Kanzler, auch zu Dero hiesigen Hofgericht Verordneter Hofgerichts-Präsident
+                  <lb/>Räte und Assessores <lb/>
+                  <unclear reason="illegible" cert="low">v. Hopff</unclear>
+               </signed>
+               <dateline>
+                  <lb/>
+               </dateline>
+            </closer>
+         </div>
+         <postscript>
+            <p>An den Richter <persName key="ed_vcv_5dv_ysb">Jerosch</persName> in Drengfurt </p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_bbv_42d_vpb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Zum Zustand von Labab, Stawisken und Taberlack. Auszug aus den Inventaren. Labab,
+               7. bis 9. Dezember 1670</title><title>. Bestätigt Drengfurt, 16. Dezember 1674 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>1674 befanden sich die Labab, Taberlack und Stawisken betreffenden Dokumente,
+                  Briefe, Handfesten und Grenzbeschreibungen (24 Nummern), beginnend mit der
+                  Übergabe an <persName key="ed_owq_ktp_lpb">Fabian Melchior von
+                     Lehndorff</persName> am 14. Januar 1642, im Hof zu Labab. Später gelangten sie
+                  in das <orgName key="ed_e3t_l2n_4y">Archiv in Steinort</orgName>, der Rest des
+                  alten Umschlags, beschriftet: „No. XIV. Lababsche Sachen“, liegt in der Akte. </p>
+               <p>Inventar des Gutes Steinort (1688-1692) in: <ref target="lehndorff_c1g_llq_2qb">GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 165</ref>,
+                  Inventare der Güter Steinort, Beynuhnen und Doliwen (1692) Nr. 156 (identisch mit
+                  Nr. 166), der Vorwerke Pristanien (1771/72), Stawken (1767/68) und des Gutes
+                  Serwillen (1748/49) Nr. 158, 159 und 160, der Güter und Vorwerke Stawken,
+                  Pristanien, Groß Steinort, Stawisken, Taberlack, Kittlitz, Serwillen (ca. 1797)
+                  Nr. 284. Weitere Inventare 1717-1770: StA L, Bestand 21950 Familienarchiv
+                  Lehndorff, Nr. 225, für Taberlack (1719) Nr. 226, für Laserkeim (1782) Nr. 228.
+                  Inventare für Kittlitz: APO, <ref target="https://namensindex.org/bestand.php?aid=42&amp;id=382">Bestand 382
+                     Familienarchiv Lehndorff</ref>, Nr. 50, für die verpachteten Güter ab Mitte des
+                  19. Jahrhunderts: Nr. 120, für die Laserkeimschen Güter (1791-1794) Nr. 207.</p>
+               <p>Zur Verpachtung von Labab siehe das Dokument vom <ref target="lehndorff_hnh_lfd_vpb">30. März 1715</ref>. Undatierter Pachtanschlag
+                  für das Vorwerk in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                  827.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 125, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xpm_112_gy">Labab</placeName>
+            <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+            <date from="1670-12-07" to="1674-12-16" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Nach dem Tod des Obristleutnants <persName key="ed_owq_ktp_lpb">Fabian Melchior von
+                  Lehndorff</persName>, Erbherr auf Labab, wird durch die Vormünder seiner Kinder,
+               den Oberappellationsgerichtsrat <persName key="ed_ggw_k5p_lpb">Fabian von
+                  Lehndorff</persName>, Erbherr auf Stawken, und <persName key="ed_ofm_t5p_lpb">Julius Friedrich von Packmohr</persName>, Oberhofmeister, Erbherr auf Jäglack, im
+               Hof Labab vom 7. bis 9. November 1670 ein Inventar aufgestellt. <lb/> Demnach gab es
+               auf dem Hof <placeName key="ed_xpm_112_gy">Labab</placeName>: eine große Wohnstube,
+               eine Kammer neben der Wohnstube, eine Schlafkammer, ein sogenanntes gewölbtes
+               Stübchen, eine Stube neben der großen Wohnstube (gegen den See gelegen), ein Vorhaus,
+               eine Stube, die als Speisekammer genutzt wurde, eine Küchenkammer und eine Küche. An
+               weiteren Gebäuden gab es einen Keller, ein Brauhaus, ein Stübchen neben dem Brauhaus,
+               eine Wagenscheune, einen Pferdestall, Scheunen und ein Torhaus. Die Baulichkeiten
+               werden als „alt“ beschrieben.</p>
+            <p> </p>
+            <p>Nach der „Besichtigung des Hofes Labab und wie er im baulichen Wesen befunden‟, wird
+               ausgeführt: <lb/> In der großen Wohnstube fehlt ein Kachelofen, in der gewölbten
+               Stube und in der Stube zum See sind die Öfen baufällig. Überall fehlen Lichter
+               (Fenster) oder sind beschädigt. Eine obere Stube ist nicht fertiggestellt. Der Keller
+               ist im desolaten Zustand, ein Fenster fehlt, so dass man einsteigen kann. Der
+               Milchkeller ist kaputt. Überall fehlen Schlösser. Das Dach ist löchrig. Die
+               Außenmauern und der Giebel sind verworfen, die Seite zum See ausgewaschen und
+               baufällig, die Seite nach Steinort hat Risse. Der Schornstein ist beschädigt. Der
+               Zustand der Räume ist schlecht. Torhaus, Brauhaus, Speicher, Scheunen und Schuppen
+               sind baufällig. </p>
+            <p> </p>
+            <p>Die in Labab wohnenden Bauern sind:  <lb/>
+               <persName key="ed_b1n_3wp_lpb">Jann</persName>, 4 Pferde, 1 Füllen, 4 Kühe, 3
+                    Ochsen, 4 Schafe, 6 Schweine. Die Scheune ist baufällig.  <lb/>
+               <persName key="ed_ynk_mwp_lpb">Jann Dam</persName>, 2 Pferde, 2 Ochsen, 1 Kuh, 6
+                    Schafe, 3 Schweine, 2 Kühe. Die Scheune ist baufällig.  <lb/>
+               <persName key="ed_ojk_qwp_lpb">Ludwig</persName>, 5 Jungpferde, 2 Ochsen, 3 Kühe, 5
+                    Schweine.  <lb/>
+               <persName key="ed_fnz_rwp_lpb">Woidku</persName>, Zinsbauer, 5
+                    Pferde, 4 Ochsen, 4 Kühe, 13 Schafe, „steht auch im übrigen wohl“. <lb break="no"/>
+               <persName key="ed_yzh_kwp_lpb">Jann</persName>, 3 junge Pferde, 2 junge Füllen,
+                    2 Ochsen, 3 Kühe, 2 Stück Jungvieh. Die Scheune ist baufällig.  <lb/>Vier
+                    Gärtner: <persName key="ed_kv4_5wp_lpb">Christoff</persName>, noch
+                    unverheiratet, <persName key="ed_xtn_wwp_lpb">Adam</persName>, beide sind
+                    Fischersöhne.  <lb/>
+               <persName key="ed_qhw_ywp_lpb">Martin Klewka</persName>,
+                        <persName key="ed_l5k_dxp_lpb">Gendries Seum</persName> – bei beiden ist das
+                    Gebäude baufällig und wird mit Stützen gehalten.</p>
+            <p> </p>
+            <p>Vorwerk zu <placeName key="ed_xzt_112_gy">Stawisken</placeName>: <lb/>Das Wohnhaus
+               ist baufällig und ohne Dach. Die Scheune ist baufällig. Vom Schuppen steht nur noch
+               ein Rumpf. <lb/>
+               <persName key="ed_ez1_gxp_lpb">Jan Grabus</persName>, Gärtner, 1 Stute, 4 junge
+               Schweine, 1 Sau. Das Wohnhaus ist ohne Dach. <lb/>
+               <persName key="ed_ic3_jxp_lpb">Stephan</persName>, Zinsbauer, 4 Pferde, 3 Ochsen, 1
+               Kuh, 2 Schweine. Das Wohngebäude ist beschädigt. <lb break="no"/>
+               <persName key="ed_wz3_mxp_lpb">Jann</persName>, Bauer, 2 Pferde, 2 Ochsen, 1 Kuh. <lb/>
+               <persName key="ed_yys_qxp_lpb">Georg Matthias</persName>, Mietsmann, wohnt auf einem
+               Huben auf Zins, ist kein Untertan. <lb/>
+               <persName key="ed_lm2_5xp_lpb">Michael Schuster</persName>, Bauer, 4 Pferde, 2
+               Ochsen, 2 Kühe, alles sein eigener Besitz. <lb/>
+               <persName key="ed_cjs_wxp_lpb">Hans Schmied</persName>, Mietsmann, 4 Pferde, gibt
+               Zins und hat sein eigenes Vieh. <lb/>
+               <persName key="ed_ep5_yxp_lpb">Jacob Weiß</persName>, Bauer, 2 Pferde, 2 Ochsen, 1
+               Kuh, 4 Schweine, ihm ist vorerst nur Besatz gegeben und das Winterfeld besät. <lb/>
+               <persName key="ed_m3j_1yp_lpb">Jacob Loswoll</persName>, alter Bauer, 3 Pferde, 3
+               Kühe, 3 Ochsen, 4 Schafe, 3 Ziegen, 2 Schweine.</p>
+            <p> </p>
+            <p>
+               <placeName key="ed_s3k_b12_gy">Taberlack</placeName>: <lb/>Bauersmann hat sein
+               Gebäude pfandweise von Hr. <persName key="ed_st3_5vp_lpb">Sigismund von
+                  Gaudecker</persName> nebst 2 Hufen für 400 Fl. Es wurde von der Gräfin Lehndorff
+               mit einem Schuppen neu errichtet. Zum Inventar gehören: 8 Schock geschnittenes Korn,
+               1 Schock geschnittener Weizen. Davor gibt es ein Gärtnerhäuschen und einen Gärtner
+                  <persName key="ed_tln_hyp_lpb">Georg</persName>. Der Schuppen fehlt. Er hat 2
+               Pferde, 2 Ochsen, 1 Kuh, 1 Füllen, 8 Schweine. <lb/>
+               <persName key="ed_efy_3yp_lpb">Mathes</persName>, Zinsbauer, 4 Pferde, 2 Ochsen, 3
+               Kühe, 8 Schafe, 5 Schweine. <lb/>
+               <persName key="ed_tpm_kyp_lpb">Fabian</persName>, Bauer und Untertan, 4 Pferde, 4
+               Ochsen, 2 Kühe, 15 Schafe, 3 junge Ochsen, 6 Schweine. <lb/>
+               <persName key="ed_syk_myp_lpb">Jann</persName>, Bauer, 2 Pferde, 2 Ochsen, 2 Kühe, 1
+               Füllen, 4 Schweine. Sein Haus ist im selben Jahr abgebrannt und nur die Scheune ist
+               erhalten geblieben. <lb/>
+               <persName key="ed_fwh_pyp_lpb">Martin</persName>, Bauer, 2 Pferde, 1 Füllen, 2
+               Ochsen, 2 Kühe, 2 Schweine. Das Gebäude ist baufällig. <lb/>
+               <persName key="ed_gkx_qyp_lpb">Jedann</persName>, 1 Kuh, 2 Schweine. Er hat im Jahr
+               selben Jahr den Besatz erhalten sollen, ihn aber noch nicht bekommen. Nur das
+               Winterfeld wurde ihm besät. <lb/>
+               <persName key="ed_bvp_syp_lpb">Hans</persName>, Gärtner, ist ebenfalls abgebrannt,
+               hat 1 Schwein. <lb/>
+               <persName key="ed_wsy_typ_lpb">Jann</persName>, hat 3 Morgen, Untertan, hat keinen
+               Besatz, hat eigenes Vieh, ein Pferd, das blind ist, 1 Füllen, 1 Kuh, 6 Schafe.</p>
+            <p> </p>
+            <p>
+               <ref target="lehndorff_hnh_lfd_vpb">Das Hausgerät des Hofes Labab wird bei der <ref target="lehndorff_hnh_lfd_vpb">Neuverpachtung 1715</ref> aufgeführt. </ref>
+            </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bbv_42d_vpb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_ihl_tgl_xsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Hofgerichtsrat Glave versucht Graf von Lehndorff von den Vorteilen eines
+               Kreisjustitiars zu überzeugen. Angerburg, 25. Februar 1783</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 570, Bl. 1-3v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_r3s_ymw_mbb">Glave Kobielski, Carl Georg Gottfried (1750
+                        (1752) -1831)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1783-02-25" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+            </correspAction>
+            <note>Siehe das Dokument vom <ref target="lehndorff_mql_ts3_xrb">16. August 1783</ref>.
+               Im Herbst <ref target="lehndorff_rwj_yyd_zdb">besuchte Glave Lehndorff in
+                  Steinort</ref>. Siehe zur Neuordnung des Justizwesens auch <ref target="lehndorff_dk3_vpd_zdb">Lehndorffs Tagebuch vom Januar 1783</ref>.
+               Lehndorff lehnte einen Kreisjustitiar ab, siehe hierzu das Dokument vom <ref target="lehndorff_vqg_kdq_51b">26. Mai 1784</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941714"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, den 25. Febr. 1783</dateline>
+               <salute>Hochgeborener Reichsgraf <lb/>insonders Höchstzuehrender Herr Kammerherr!</salute>
+            </opener>
+            <p>Nach einem von des Herrn Großkanzler und Chef de Justice p Freiherrn <persName key="ed_rwj_n5g_hy">v. Carmer</persName> Exzellenz sub dato Berlin d. 31. Jan. c.
+               erhaltenen Auftrage, soll ich bei Gelegenheit der Untersuchung des Ew. Hochgeboren
+               schon bekannten <unclear reason="illegible" cert="low">Demelus</unclear> des
+               Justiz-Directoris v. Schwensitzki und Actuarii Terpitz nicht nur recherchieren, wie
+               das adeliche Justitiariatswesen in den Hauptämtern Angerburg, Rastenburg und Barten
+               dem <seg type="comment"><orig>Justiz-Reglement vom 3. Dezembr. 1781</orig><note xml:id="nej4_hfg_vxb">In: GStA PK, I. HA Rep. 84, Abt. X Nr. 053, Bd. 1.
+                  </note></seg> gemäß eingerichtet ist, sondern auch versuchen, die sämtlichen
+               Jurisdictionarien jeden Hauptamtes zur Erwählung eines gemeinschaftlichen Justitiarii
+               zu bewegen. <lb/>Diesem hohen Befehl zufolge habe ich bereits gelegentlich
+               veschiedene adelige Gutsbesitzer Hauptamts Angerburg über ihre Meinung sondiert, und
+               sie ist einmütig dahin gegangen, ein Kreisjustitiariat nach dem Fuße des zu
+                  <placeName key="ed_qcj_1qf_hy">Seehesten</placeName> für dieses Hauptamt am 6.
+               Nov. verg. Jahres unter meiner kommissarischen Beihilfe errichteten, auch in diesem
+               Hauptamt Angerburg etablieren zu wollen. <lb/>Ew. Hochgeboren ist Ihrer getanen
+               Reisen wegen, deren edlen Zweck und großen Nutzen mir der würdige Herr Probst
+                  <persName key="ed_uhx_5jq_tcb">Pisanski</persName> erzählt hat, von diesen
+               Justizverbesserungen vielleicht nichts wissend geworden. Um Ew. Hochgeboren also die
+               Beurteilung derselben so kurz und compendieus als möglich zu machen, so habe ich die
+               Ehre, Hochdenenselben <lb/>1) das gedruckte Justiz-Reglement vom 3. Dezbr. 1781
+               gehorsamst zu übersenden. In diesem Reglement und dessen erstem Abschnitte werden Ew.
+               Hochgeboren Notiz zu nehmen geruhen, wie das Gesetz die adeliche Justizverwaltung
+               verbessert haben will. <lb/>2.) Das hierbei gehende <seg type="comment">
+                  <orig>Zirkular sub A</orig>
+                  <note xml:id="nffm_w4l_xsb">Liegt dem Brief bei, Bl. 3-6.</note>
+               </seg> ist von mir an die Ritterschaft Seehestenschen Kreises erlassen, als ich dort
+               mit der Ausführung des Reglements in diesem Teile seiner Vorschrift beschäftigt war,
+               und wird Gelegenheit geben, den Nutzen der neuen Einrichtung zu übersehen.  <lb/>3.)
+               Die <seg type="comment">
+                  <orig>Beilage B</orig>
+                  <note xml:id="nk3h_z4l_xsb">Liegt dem Brief bei, Bl. 7-17.</note>
+               </seg> ist der ganze Kreisjustitiariatskontrakt, so wie er in Seehesten ad 6. Nov. a.
+               c. errichtet ist, und nach dessen Muster die zeither von mir befragte Angerburgsche
+               Kreiseingesessene allhier auch einen errichtet zu haben wünschen. <lb/>4.) Die <seg type="comment">
+                  <orig>Beilage C</orig>
+                  <note xml:id="nwdp_hpl_xsb">Liegt dem Brief bei, Bl. 19-20.</note>
+               </seg> ist eine Assoziation, welche die Seehestensche Ritterschaft ohne Veranlassung
+               des Gesetzes aus freiwilliger Überlegung wegen gemeinschaftlicher Übertragung der
+               Kriminalfälle geschlossen hat, und die auch hier im Angerburgschen Beifall und Wunsch
+               der Nachahmung findet. <lb/>Ew. Hochgeboren Stimme hiebei ist mir um so wichtiger, da
+               Ew. Hochgeboren fast den fünften Teil des Hauptamts Angerburg besitzen. Ich ergreife
+               aber auch diese Gelegenheit mit vorzüglichem Eifer, um Ew. Hochgeboren bei derselben
+               einen tätigen Beweis der großen Verehrung zu geben, die ich seithero Hochdenenselben
+               nur in mündlicher Versicherung habe an den Tag legen können. <lb/>Denn außerdem, dass
+               ich eben dieser wegen mich nicht damit begnüge, Ew. Hochgeboren mittelst einer
+               kommissarischen Ladung gleich den übrigen Kreiseingesessenen zur Abgabe Ihrer
+               Erklärung durch einen gesetzlich bestellten Bevollmächtigten aufzufordern, sondern
+               Ew. Hochgeboren vielmehr durch dieses Privatschreiben aufs genaueste mit den Details
+               der Einrichtung bekannt zu machen mir die Ehre gebe, so geht auch noch meine
+               vorzügliche Absicht dahin, diese Einrichtung womöglich zu einem besonderen
+               immerwährenden Vorteil Ew. Hochgeboren Güter zu machen, und die erste Wahl des
+               Subjekts, soviel in meinen Kräften steht, zu Ew. Hochgeboren Zufriedenheit zu lenken.
+               <lb/>In dieser Absicht erbitte ich mir gehorsamst Ew. Hochgeboren geneigte Erklärung,
+               welches Subjekt Sie am vorzüglichste zum Kreis-Justitiario im Angerburgschen Hauptamt
+               bestellt zu haben wünschen. Ein notwendiges Requisit desselben wird zwar nach den
+               Gesetzen sein, dass das Subjekt bereits in einer Justizbedienung sich praktische
+               Kenntnisse erworben oder bei einem Ober-Justiz-Kollegio als Auskultator oder
+               Referendarius gedient haben muss, allein auch unter diesen wird Ew. Hochgeboren
+               vielleicht einer angemessen wie der andere sein, vielleicht sich ein Subjekt finden,
+               dessen Versorgung Ew. Hochgeboren besonders wünschen. <lb/>Dieses von Ew. Hochgeboren
+               empfohlene Subjekt, für welches Ew. Hochgeboren mir alsdann Ihr bestimmtes Votum in
+               Rücksicht Ihrer Güter beizulegen geruhen werden, will ich mir demnächst alle Mühe
+               geben den übrigen Kreiseingesessenen zu empfehlen und ihm die Pluraliät der Stimmen
+               zu verschaffen. <lb/>Demnächst muss ich gehorsamst bitten den Beitrag zu bestimmen,
+               den Ew. Hochgeboren zum auskömmlichen Unterhalt des Kreisjustitiarii zu reichen
+               geruhen wollen. Hierin ist alles freiwilliger Beschluss, wie das beiliegende
+               gedruckte Gesetz besagt. Ich schlage also auch nicht einmal etwas vor, sondern bin so
+               frei, Ew. Hochgeboren ein Argument gehorsamst anzuzeigen, wonach Hochdieselben Ihren
+               Entschluss doch einigermaßen determinieren können. <lb/>Alle die Güter Hauptamts
+               Angerburg, die ihrer Lage nach mit Ew. Hochgeboren Gütern zu Haltung eines
+               gemeinschaftlichen Justitiarii verbunden werden können (denn einige werden ihrer
+               Entfernung halber nach <placeName key="ed_exy_rfk_wcb">Goldap</placeName> geschlagen
+               werden müssen) haben etwa 1.100 Hufen, Ew. Hochgeboren Güter enthalten 242 1/5 Hufen.
+               Hier ist ein mathematisch bestimmbares Verhältnis. Ew. Hochgeboren Glückslage aber
+               gegen die übrigen Kreiseingesessenen ist das moralische. Wenn Ew. Hochgeboren nun
+               festsetzen, was ein solcher gemeinschaftl. Justitiarius zu seinem auskömmlichen
+               Unterhalte nötig hat, so werden Ew. Hochgeboren sich leicht hieraus wegen Ihres
+               eigenen Beitrages determinieren können. <lb/>Die Bestimmung aber des Bedürfnisses
+               eines solchen Mannes, der ein Studierter sein muss, kann ich ganz sicher Ew.
+               Hochgeboren alleinigem großmütigen Ermessen überlassen. Ihre edle Fürsorge für
+               Gelehrte ist aufs rühmlichste bekannt, und man darf darüber nur Herrn Pisanski und
+               andere Gelehrte sprechen hören, um Ew. Hochgeboren hierin als Beispiel zu verehren.
+               <lb/>Der Beitrag zum Unterhalte des Justitiarii kann nach den Gesetzen Geld und
+               Naturalien sein. <lb/>Wodurch ich nun aber intendiere, diese Einrichtung zu einem
+               besonderen Vorteil der Hochgräflich Steinortschen Güter zu machen, das würde darauf
+               ankommen, ob Ew. Hochgeboren geruhen möchten, dem künftigen Kreisjustitiario in ihren
+               Gütern oder in dem Hauptgut <placeName key="ed_pxt_cnh_1y">Steinort</placeName> freie
+               Wohnung zu geben. <lb/>Wenn ich alsdann zusammen nehme, dass die Hochgräfliche
+               Steinortsche Residenz dadurch einen gelehrten, in Geschäften brauchbaren Mann ganz
+               nah zur Hand bekommt, dass die Steinortsche Güter ihren Justitiarium beständig in
+               sich haben, dass der hohen Steinortschen Familie hiedurch bei künftigen Wahlen des
+               Kreisjustitiarii die entscheidende Stimme beinahe völlig gesichert wird und dass die
+               künftigen Besitzer der Steinortschen Herrschaft sich eben hiedurch überwiegenden
+               Einfluss in anderen gemeinen Kreisangelegenheiten verschaffen, so kann ich nicht
+               anders als glauben, dass hierunter Ew. Hochgeboren Gütern ein ewiger Vorteil
+               gestiftet wird. <lb/>Da ich meine amtliche hierüber zu treffende Verfügung nicht
+               lange aussetzen darf, so bitte ich Ew. Hochgeboren gehorsamst um schleunige
+               Mitteilung Ihrer hohen Entschließung.</p>
+            <closer>
+               <salute>Ich habe die Ehre mit ausgezeichneter Ehrerbietung zu sein Ew. Hochgeboren
+                  ganz gehorsamster Diener</salute>
+               <signed>
+                  <persName key="ed_r3s_ymw_mbb">Glave</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

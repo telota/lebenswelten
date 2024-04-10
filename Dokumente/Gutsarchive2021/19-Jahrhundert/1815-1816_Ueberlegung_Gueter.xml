@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_lzw_zzc_zsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Überlegungen des Grafen Lehndorff über Einsparungen bei der Verwaltung von
+               Steinort. Ca. 1815 bis 1816 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu die „Idee zur künftigen Administration der Güter‟ (den Digitalisaten
+                  beigefügt). Auf einem weiteren Blatt schreibt Lehndorff: „Simplifikation‟ sowohl
+                  der Administration als auch des Häuslichen. Man braucht keinen Kassenführer, wenn
+                  man einen vernünftigen Ökonom hat. Auch das Hauswesen soll auf das Notwendigste
+                  zur Reinhaltung des Hauses und der Küche beschränkt werden. Auch eine Reduzierung
+                  des vielen auf Deputat gesetzten Personals muss erfolgen. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 729, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1815-01-01" to="1816-12-31" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Um eine Rente aus den Gütern zu sichern, sind die Vorwerke <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> einerseits, <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und <placeName key="ed_s3k_b12_gy">Taberlack</placeName> andererseits sowie <placeName key="ed_xjg_d12_gy">Stobben</placeName> zu verpachten. Auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName> bleibt eine Kuhpacht, in <placeName key="ed_hyn_yzd_gy">Klein Steinort </placeName>die Fischerei, in <placeName key="ed_xpm_112_gy">Labab</placeName> die Pferdezucht, in <placeName key="ed_xzt_112_gy">Stawisken</placeName> das Jungvieh, <placeName key="ed_xnn_d12_gy">Kittlitz</placeName> bleibt Küchengut (?). Steinort,
+                    Labab und Klein Steinort verbleiben unter einer Administration, die neu zu
+                    verpachten ist. Der Pächter erhält Deputat von den Steinortschen Offizianten.
+                    Das Gutswesen mit dem Arzt, dem Hegemeisters und dem Schullehrer wird von den
+                    Gutsoffizianten unterhalten. Der herrschaftliche Stall bleibt separiert. Der
+                    Garten und ein Teil des Rossgartens bleiben exklusiv für das Haus. Zum Hauswesen
+                    werden zwei milchende Kühe gehalten und eine Stute auf die Weide gegeben. Das
+                    Hauswesen wird auf eine Köchin, Gehilfin, Haus- und Stubenmädchen reduziert. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_lzw_zzc_zsb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div/>
+      </body>
+   </text>
+</TEI>

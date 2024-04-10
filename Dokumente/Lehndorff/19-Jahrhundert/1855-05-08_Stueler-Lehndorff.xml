@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_hdg_djh_g5b" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Stadtbaurat Friedrich August </title><title>Stüler an Graf von Lehndorff. Königsberg, 8. Mai 1855</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familianarchiv Lehndorff, Nr. 254, Bl. 19-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lt4_fcp_dz">Stüler, Friedrich August (1800-1865)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1855-05-08" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm Heinrich
+                  Graf von (Königsberg, 20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+            </correspAction>
+            <note>Am 20. Mai 1855 übersandte Stüler einen neuen Anschlag zum Bau, siehe das
+               beigefügte Digitalisat. Die (großformatige) Zeichnung zum Erbbegräbnis in: StA L,
+               Bestand 21950 Familienarchiv Lehndorff, K 24.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hdg_djh_g5b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Königsberg, d. 8. Mai 55</dateline>
+               <salute>Euer Hochgeboren!</salute>
+            </opener>
+            <p>beehre ich mich auf das gefällige Schreiben vom 2ten d. Mts. ganz ergebenst zu
+               erwiedern, dass ich mit der Umarbeitung des Projekts zur Grabkapelle beschäftigt bin
+               und hoffe, diese Woche dasselbe fertig zu bekommen, um es Ihnen dann sogleich
+               zuzuschicken. Ich habe zwar im Grundrisse gar keine oder nur ganz geringfügige
+               Änderungen gemacht, indes wäre es mir doch erwünscht, wenn Sie bis zum Empfange
+               meines Projektes alle Vorarbeiten zum Bau, namentlich das Bearbeiten der Steine zu
+               den Pfeilervorlagen sowie der kleinen Türmchen von Formsteinen, einstellen ließen, da
+               sie möglicherweise gar nicht zur Anwendung kommen dürften, wenn Sie sich für die
+               Ausführung nach meinem Projekte erklären würden, da ich für das Äußere des Gebäudes
+               wesentliche Änderungen genacht habe. Ebenso bitte ich aber auch mit der
+               Fundamentierung der Gewölbe und überhaupt des ganzen Gebäudes noch Anstand zu nehmen,
+               da, wie ich höre, Herr Maurermeister <persName key="ed_thf_5tp_dz">Laudien</persName>
+               von seinem ursprünglich gefertigten Grundrisse abzugehen beabsichtigt und andere
+               Dimensionen zur Ausführung bringen will, als die mir übersandte Zeichung enthält, auf
+               welche mein ganzes Projekt basiert ist. <lb/>In der Hoffnung Ihnen nächstens die
+               geänderten Zeichnungen und Anschläge vorlegen zu können, habe ich die besondere Ehre,
+               mich mit der vollkommenen Hochachtung zu zeichnen als</p>
+            <closer>
+               <salute>Euer Hochgeboren ganz ergebenster</salute>
+               <signed>Stüler <lb/>Stadt-Baurat</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

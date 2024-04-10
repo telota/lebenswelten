@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_mj1_lrs_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eid und Aufgaben eines Justitiars</title><title>. Nach 1717</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu das Formular zur <ref target="lehndorff_k23_shb_d5b">Bestellung eines
+                     Gerichtshalters vom Beginn des 18. Jahrhunderts</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 381 Familienarchiv Schwerin, Nr. 190, Bl. 10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1717-05-01" to="1727-08-06" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_mj1_lrs_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ich N. N. schwöre bei Gott dem Allmächtigen einen körperlichen Eid, demnach ich von
+               dem Hochgeborenen Reichsgrafen <persName key="ed_uvd_kz1_btb">Friedrich Wilhelm v.
+                  Schwerin</persName> p. p. als Erblehn-Gerichts-Obrigkeit zu <placeName key="ed_js3_j1y_ssb">Walsleben</placeName> und Justitiario bestellt und
+               angenommen, dass ich diesem mir gnädig anvertrauten Amte nach meinem besten Wissen
+               und Gewissen, Kräften und Vermögen abwarten, dasjenige, so in zivil oder peinlichen
+               Sachen vorkommt, fleißig und getreulich verzeichnen <seg type="comment"><orig>und
+                     dabei in dem letzten Verhör, </orig><note xml:id="nff2_kp4_txb">Möglicherweis
+                     fehlt hier etwas, der Satz ist unklar.</note>
+               </seg>dass die <seg type="comment"><orig>Königl. Kriminal-Ordnung</orig><note xml:id="njzf_24v_rxb"><ref target="https://books.google.de/books?id=QHREAAAAcAAJ&amp;pg=PP1&amp;hl=de&amp;source=gbs_selected_pages&amp;cad=2#v=onepage%26q%26f=false">Seiner K. Majest. in Preußen ... vor Dero Chur-Marck Brandenburg verfaßte
+                        Criminalordnung, 1717</ref></note></seg>, auch was Sr. Maj. deshalb sodann
+               publizieren lassen und darnechst die <seg type="comment"><orig>unter Kaiser Carl des
+                     fünften ergangene peinliche Hals-Gerichts-Ordnung</orig><note xml:id="nghl_wtv_rxb"><ref target="https://www.deutsche-digitale-bibliothek.de/item/33X33XDFKP4TS2SAOSZDJZFW3M3R7BBK">Constitutio Criminalis Carolina, 1532</ref></note></seg>, samt den <gap reason="illegible"/> und Constitutionen jedesmal sie auch haben, und mich davon
+               weder durch Ansehen der Person in Zeit des Mitleidens, Freundschaft oder Feindschaft
+               oder <gap reason="illegible"/> oder Gabe oder irgend einer anderen Ursache abhalten
+               lassen wolle. So war mir Gotte helfe durch seinen Sohn Jesum Christum zur ewigen
+               Seligkeit. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

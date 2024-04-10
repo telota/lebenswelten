@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_cvn_hwd_gy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Louise de Gonzague an Carl Meinhard Graf von Lehndorff. Amiens, nach dem 18.
+                    März 1871</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 27, Bl. 4-5v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_shp_pwd_gy">Gonzague, Louise (-)</persName>
+               <placeName key="ed_pnr_xrg_hy">Amiens</placeName>
+               <date from="1871-03-18" to="1871-03-20" cert="low"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard (Königsberg,
+                        20.10.1826-Riola bei Bologna, 28.10.1883)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <salute>Euer Hochwohlgeboren <lb/>Geehrter Herr Präfekt.</salute>
+            </opener>
+            <p>Bevor ich die Antwort erhielt, worin Sie uns die Versicherung Ihres gnädigen
+                    Wohlwollens geben, hatte ich schon dem lieben Papa die Befürchtungen meines
+                    Herzens ausgesprochen über die Gefahr, worin unsere Gemeinde schwebte, da ihr
+                    ein Lazarett bevorstand. Ich bat den guten Papa, Ihnen, geehrter Herr Graf,
+                    einige Zeilen zu adressieren mit der Bitte, im Namen der Freundschaft der
+                    Beschützer meiner geliebten Adoptivfamilie zu sein; ich bin ihr so viel Liebe
+                    und Dankbarkeit schuldig. Wenn Ihnen demnach, Herr Präfekt, ein Brief von Eduard
+                    zukommt, so ist dieses nicht der Erfolg eines neuen Schrittes, es wäre eine
+                    unverzeihliche Undankbarkeit meinerseits nach dem Beweise so großer Güte und
+                    Dienstfertigkeit, womit Sie uns beehren. Auch erlaube ich mir, Ihnen im Namen
+                    unserer würdigen Mutter unsere innigste Dankbarkeit auszudrücken. Mein deutsches
+                    Herz wird nie Ihre freundlichen Gesinnungen vergessen. </p>
+            <p>Durch so große Güte aufgemuntert wage ich es, hochgeehrter Herr Graf, Ihnen im Interesse meiner
+                    teuren Gemeinde eine Bitte auszusprechen, welche Sie gewiss gnädig gewähren
+                    werden. Der Waffenstillstand gibt uns Hoffnung, unsere noch fehlenden Zöglinge
+                    bald zu empfangen. Wäre es denn möglich, ohne die lieben preußischen Verwundeten
+                    zu beeinträchtigen, uns die Betten zurückzugeben, welche wir in das Museum
+                    geliehen haben; wir würden uns sonst in einer misslichen Lage befinden. </p>
+            <p>Wir fügen hier die Liste bei,
+                    worin alle Angebungen sich befinden. Die Betten sind in grünem Gusseisen und die
+                    Springbetten in grünem Damast. Alles wurde mit Bezeichnungen versehen, sie
+                    könnten jedoch durch das Hin- und Hertragen verloren sein. Jedenfalls aber wären
+                    sie leicht erkennbar, da sie alle gleich sind. Es wäre uns jedoch unendlich
+                    leid, wenn unsere neuen Landesgenossen dadurch leiden sollten.  </p>
+            <p>Wenn Sie mir wieder die Ehre Ihres gütigen Besuchs bereiten, wird es mich freuen,
+               etwas mehr von meinem lieben Bruder und von unserer Heimat zu sprechen.  </p>
+            <closer>
+               <salute>Genehmigen Sie, Herr Präfekt, den Ausdruck der tiefen Hochachtung, welchen
+                  unsere würdige Mutter Ihnen darbietet, und die Versicherung meiner steten
+                  Dankbarkeit <lb/>Ihre ergebenste Dienerin</salute>
+               <signed>Sour Louise de Gonzague <lb/>Klarisse de la visitation Sainte Marie <lb/>Dieu doit
+                        beni</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_fpj_rmg_v1b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Untertaneneid des Michael Bannasch</title><title>. Steinort, 18. April 1724</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="editorial">Übersetzung. Darunter folgt der Text in polnischer Sprache und
+               die Versicherung, dass Bannasch den Eid in Gegenwart des Hofmann von Steinort,
+                  <persName key="ed_fy5_kp5_1bb">Matthias</persName>, und des Schmieds <persName key="ed_acr_qp5_1bb">Friedrich</persName> in polnischer Sprache geleistet habe.
+               <lb/>Bannasch war 1723 Johann Carl von Eppinger aus Jegoden im Amt Lötzen entlaufen,
+               hatte sich in die Dienste des Oberstleutnants Graf von Lehndorff beim
+               Finckensteinschen Regiment begeben und als Eppinger ihn zurückforderte erklärt, dass
+               er wieder entlaufen würde. Daraufhin hatte Eppinger Bannasch an Ernst Ahasverus Graf
+               von Lehndorff gegen Zahlung von 60 Fl. cediert, worüber am 20. Dezember 1723 eine
+               entsprechende Vereinbarung aufgestellt wurde (in der Akte).  <lb/>In der Akte folgt
+               eine weitere Cedierung aus dem Jahr 1723 für Michel <persName key="ed_fj3_np5_1bb">Schemock</persName>, <quote>sein Weib und Kinder</quote> (ehemals Untertan von
+                  <persName key="ed_ahs_ksm_ngb">Georg Dietrich von Tettau</persName> und ebenfalls
+               Soldat im Finckensteinschen Regiment). Siehe auch die Erbuntertänigskeitserklärung
+               des verschuldeten Friedrich Braunfeld vom <ref target="lehndorff_bvg_zhz_hqb">2.
+                  Dezember1689</ref> sowie Protokolle über Verhöre entlaufener Untertanen aus dem
+               Jahr 1722 in Nr. 69; für 1735 in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940857">Nr.
+                  547</ref>. Auch in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gab es
+               Gerichtsentscheidungen auf Suppliken unmenschlich behandelter Untertanen, so der
+               Untertanen Christian und Martin Gelischen (1734), in: APO, Bestand 382 Familienarchiv
+               Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940855">Nr.
+                  545</ref>. </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 684, n.
+                                f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_p1t_j1m_z1b">Bannasch, Michael (-)</persName>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1724-04-18" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_fpj_rmg_v1b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <opener>
+               <dateline>Steinort, den 18. April 1724</dateline>
+            </opener>
+            <p>Ich, Michael <persName key="ed_p1t_j1m_z1b">Bannasch</persName>, gelobe und schwöre
+               bei Gott dem Allmächtigen einen körperlichen Eid, dass weilen mir Ihro Hochgeboren
+               der Herr Graf und Obristleutnant <persName key="ed_wtg_nyl_2y">von
+                  Lehndorff</persName> auf mein Ansuchen von Herrn Kapitän von <persName key="ed_kyc_t45_1bb">Eppingen</persName> auf Jagodnen durch einen Kaufschilling
+               von meiner Untertänigkeit losgemacht, mir auch von dem Soldatenstande befreit, ich
+               gelobe und versichere, dass ich Ihro Hochgeboren dem Herrn Grafen Ernst Ahasverus von
+                  <persName key="ed_csb_mdf_cy">Lehndorff</persName>, Erbherrn der <placeName key="ed_pxt_cnh_1y">Steinortschen</placeName> Güter, und seinen Erben künftighin
+               erblich Untertan verbleiben will, auch nicht weglaufen, sondern mich treu und ehrlich
+               als ein rechtschaffender Untertan verhalten will. So wahr mir Gott helfe und sein
+               heiliges Wort durch Jesum Christum Amen. </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ojw_xrr_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Eid und Aufgaben eines Hofmanns. Nach dem 1. Dezember 1640</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Der Eid des Hofmanns auf einer landesherrlichen Domäne war möglicherweise Vorlage
+                  für die Ausgestaltung des Eides, den ein Hofmann auf einem Vorwerk des <persName key="ed_xy2_4zp_rdb">Grafen Otto von Schwerin</persName>, seit 1638
+                  kurfürstlicher Kammerjunker, ab 1640 Hofkammergerichtsrat, zu leisten hatte. Das
+                  Schriftstück gelangte aus dessen Nachlass am 7. Mai 1803 zusammen mit dem <ref target="lehndorff_tck_44r_hrb">Eid eines Kämmerers</ref>, des Amts- und des
+                  Kornschreibers und dem Schöffen-Eid in das Gutsarchiv in Wildenhoff. </p>
+               <p>Siehe auch den Vertrag mit dem Hofmann Nowack in Steinort vom <ref target="lehndorff_gzd_2bn_2bb">1. März 1717</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 381 Familienarchiv Schwerin, Nr. 121, Bl. 13-14</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1640-12-01" to="1679-11-14" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ojw_xrr_hrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachdem der Durchlauchtigste Hochgeborene Fürst und Herr Herr <persName key="ed_nc5_wbp_vcb">Friedrich Wilhelm Markgraf zu Brandenburg</persName>
+               <gap reason="insignificant"/>, mein gnädigster Kurfürst und Herr, mich N. N. zu Ihro
+               Kurfl. Gnaden Hofman zu N. annehmen lassen, als gelobe und schwöre ich zu Gott dem
+               Allmächtigen, dass ich Ihro Kurfl. Durchl. getreu und ehrlich, wie es einem getreuen
+               Diener gebührt, dienen, Deroselben Frommen und Nutzen, so viel immer möglich,
+               fördern, Schaden und Nachteil wehren und fürkommen, <seg type="comment"><orig>mit den
+                     Dröschern und Gärtnern richtige Kerbstücke, was jedesmal ausgedroschen wird,
+                     halten</orig><note xml:id="nz3g_y3d_gvb">Siehe hierzu das Dokument vom <ref target="lehndorff_ufs_fq2_trb">6. Januar 1786</ref>.</note></seg> und oft,
+               ob auch rein ausgedroschen, nachdröschen lassen und sehen will, ob der Herrschaft zu
+               Schaden etwas darinnen gelassen oder nicht, und da einiger Mangel in einem oder
+               anderen durch mich gefunden werden sollte, solches dem Kurfl. Inspektor oder
+               Burggrafen jedesmal anzeigen, auch im Hof bei allem Vieh, dass dasselbe fleißig
+               gewartet werde, Aufsicht haben, die Hofpferde zu jagen oder fremden Geschäften nicht
+               nehmen lassen, viel weniger bei Hof auf Sr. Kurfl. Durchl. Futter fremdes Vieh
+               gestatten, auch auf alles andere, was einem Hofmann in Acht zu nehmen gebührt,
+               desgleichen ob der Hof und die Scheune jedesmal zu rechter Zeit geschlossen ganz
+               getreulich zu sehen, aufm Felde und was zum Vorwerk gehört, sonderlich im August und
+               zur Saatzeit, fleißige Aufsicht pflegen, mich auch aller anderer Hantierung, dadurch
+               mein eigener Nutz gesucht und etwas in meinem Dienst versäumt werden möchte,
+               entschlagen und allein eines Hofmanns Dienst nach höchstem Vermögen abwarten und in
+               Summa mich also verhalten will, wie es einem treuen und fleißigen Hofmann eignet und
+               gebührt.</p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

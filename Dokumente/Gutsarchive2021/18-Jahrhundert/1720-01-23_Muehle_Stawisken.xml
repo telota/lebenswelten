@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_qgy_vyw_5pb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Annahme des Windmüllers Joachim Hambruch für die neue Mühle in Stawisken.
+                    Drengfurt, 23. Januar 1720</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Ein weiteres Exemplar des Eides in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 701. <lb/>In Nr. 48 weiteres Material, darunter
+                  Zeichnungen und Abrechnungen zum Bau der neuen Mühle in Stawisken, für die der
+                  Königsberger Ingenieur<persName key="ed_ibp_cqr_1qb"> Johann von
+                  Collas</persName>, der schon für die Grafen von Dönhoff tätig geworden war, die
+                  Planung übernommen hatte. Die der Akte beiliegenden Abrechnungen des Windmüllers
+                  enden 1726. </p>
+               <p>Wohl wegen der Errichtung einer neuen Mühle in Steinort fragte Gräfin von
+                  Lehndorff 1733 beim Amt Angerburg an. Ihr wurde bestätigt, dass die
+                  Mühlengerechtigkeit vier Mühlen umfasse. Sollte die vierte Mühle noch nicht gebaut
+                  sein, könne dies auch in Steinort geschehen. Ein Material- und Kostenanschlag
+                  liegt bei. </p>
+               <p> Ein Verzeichnis der Mühlengefälle gibt es erst für 1790/91, in: <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941702">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 558</ref>.</p>
+               <p>Weitere Mühlen gab es in Greibau und in Serwillen, GStA PK, XX. HA Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 68 und 597.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 48, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_h35_jqh_my">Drengfurt</placeName>
+            <date when="1720-01-23" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_qgy_vyw_5pb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Formula Juramenti</p>
+            <p>Ich N.N. gelobe und schwöre zu Gott dem Allmächtigen, nachdem von Ihro Exzellenz
+               Herrn <persName key="ed_wtg_nyl_2y">Ernst Ahasvero Grafen von Lehndorff</persName>,
+               Königl. Pr. Majorn und Amtshauptmann zu Memel, <seg type="comment">
+                  <orig>vor einen Windmüller bei der Windmühle zu <placeName key="ed_xzt_112_gy">Stawisken</placeName> bin genommen </orig>
+                  <note xml:id="njrk_sbx_5pb">Der Vertrag vom selben Tag liegt der Akte bei.</note>
+               </seg>und auf die <gap reason="illegible"/> gesetzt worden, dass ich von demjenigen,
+               was Ihro Exzell. als Eigentümer gemäß aufgerichtetem Kontrakt zukommt und gebührt,
+               nichts veruntreuen lassen, im Gegenteil gute Aufsicht haben, damit weder durch mich
+               noch sonsten Jemand einiger Unterschleif zum Schaden der Gräfl. Herrschaft möge
+               vorgehen, sondern noch alles Betrugs, es mag Namen haben wie es will, gänzlich
+               enthalten, auch keineswegs die Mahlgäste vervorteilen noch von anderen vervorteilen
+               lassen, es sei um Geschenk oder Gabe, Freundschaft oder Feindschaft oder sonsten um
+               einigerlei Ursache und meines eigenen Nutzens willen, vielmehr meinen geleistete Eid
+               als ein Ehrliebender Biedermann treulich halten und wider selbigen ein Geringstes
+               nicht vornehmen, noch zum Schaden der Gräfl. Herrschaft etwas verabsäumen will, und
+               das so wahr mir Gott helfe und sein Heil Wort!</p>
+            <p>Vorstehenden Eid hat <persName key="ed_r5y_fgn_ypb">Joachim Hambruch</persName> als
+               Windmüller zu Stawisken wirklich abgelegt und geschworen.</p>
+            <p>Drengfurt den 23. Janu. 1720</p>
+            <p><persName key="ed_odd_cgn_ypb">Theodor Scriverius</persName>
+               <lb/>Consul. Drengfurt</p>
+         </div>
+      </body>
+   </text>
+</TEI>

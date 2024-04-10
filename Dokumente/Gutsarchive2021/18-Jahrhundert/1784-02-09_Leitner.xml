@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_kxz_rlz_hqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Mit dem Hofgerichts-Referendar und designierten Stadtrichter Georg Leitner </title><title>zu Angerburg wird ein Vertrag als Justitiar geschlossen. Steinort, 9. Februar
+               1784</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu die Dokumente vom <ref target="lehndorff_ihl_tgl_xsb">25.
+                     Februar</ref> und <ref target="lehndorff_mql_ts3_xrb">16. August 1783</ref>. -
+                  Georg Leitner war bis 1792 Lehndorffscher Justitiar. Am 7. November 1792 zeigte
+                  Lehndorff dem König an, dass fortan der Angerburger Justiz-Bürgermeister <persName key="ed_yhb_vzl_w2b">Skopnik</persName> als Justitiar in seinen Gütern tätig
+                  sei und er mit ihm ein jährliches Fixum von 33 Rtlr. 30 Gr. vereinbart habe. Der
+                  König fand gegen den Vertrag „nichts zu erinnern‟, bestätigte ihn und erinnerte
+                  daran, dass er „nunmehro einem jeden, welcher in gedachter Qualität vor euch zu
+                  rechten oder etwas zu handeln haben wird, ohne einiges Ansehen der Person, prompte
+                  und unparteiisch Rechtspflege widerfahren zu lassen‟ habe, „in allen bei der euch
+                  zur Verwaltung anvertrauten Gerichtsbarkeit vorfallenden sowohl prozessualen, als
+                  auch anderen Geschäften, auch nach den Vorschriften der über eine jede Art der
+                  rechtlichen Angelegenheiten vorhandenen Gesetze, insonderheit des <ref target="https://opacplus.bsb-muenchen.de/title/BV013147961">Corporis Juris
+                     Fridericiani</ref> und des <ref target="https://books.google.de/books?id=DoZhAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage%26q%26f=false">Reglements wegen künftiger Einrichtung des Justiz-Wesens bei den
+                     Unter-Gerichten</ref>, StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 72,
+                  Bl. 1-2v. Glave, der noch immer seinen Plan eines Kreisjustitiariats verfolgte,
+                  versuchte die Anstellung Leitners zu verhindern, siehe das Dokument vom <ref target="lehndorff_vqg_kdq_51b">26. Mai 1784.</ref>
+               </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 70</idno>
+               </msIdentifier>
+               <p>, Bl. 1-2v</p>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1784-02-09" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_kxz_rlz_hqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Kund und zu wissen sei jedermänniglich, besonders denen daran gelegen und zu wissen
+               nötig ist, dass im zeitigen unten benannten Dato zwischen dem Herrn Reichsgrafen und
+               Königlich Preußischen Kammerherren wie auch Erbherrn der Gräflich Steinortschen Güter
+               Herrn von <persName key="ed_csb_mdf_cy">Lehndorff</persName> Hochgeboren und dem
+               Hofgerichts-Referendarius und designierten Stadt-Richter <persName key="ed_sgc_2wf_2y">Georg Leitner</persName> zu <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> wegen der Gerichts-Verwaltung in den Gräflich Steinortschen
+               Gütern folgender Kontrakt wohlbedächtig verabredet und geschlossen worden als</p>
+            <p>I.</p>
+            <p>Da es Sr. <persName key="ed_x2r_52f_cy">Königl. Majestät Majestät</persName>
+               Allerhöchster und ernstlicher Wille ist, dass ein jeder adeliger Jurisdictionarius
+               sich seinen eigenen Justitiarum halten und diesem ein jährliches Fixum aussetzen
+               soll, so haben der Herr Reichsgraf und Königl. Preuß. Kammerherr von Lehndorff
+               Hochgeboren in Ansehung Ihrer Gräflich Steinortschen Güter geruht, sich zu Ihrem
+               Justitiario den Herrn Hof-Gerichts Referendarium und designierten Stadt-Richter Georg
+               Leitner zu Angerburg in Betracht seiner bekannten Rechtschaffenheit und der zu dieser
+               Stelle erforderlichen Geschicklichkeit zu wählen und anzunehmen dergestalt, dass
+               derselbe die Gerichtsbarkeit in den Gräflich Steinortschen Güter, welche aus
+               folgenden Dörfern und Vorwerken als <list>
+                  <item>1. <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+                  </item>
+                  <item>2. <placeName key="ed_hyn_yzd_gy">Kl. Steinort</placeName>
+                  </item>
+                  <item>3. <placeName key="ed_xpm_112_gy">Labab</placeName>
+                  </item>
+                  <item>4. <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                  </item>
+                  <item>5. <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                  </item>
+                  <item>6. <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                  </item>
+                  <item>7. <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                  </item>
+                  <item>8. <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                  </item>
+                  <item>9. <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                  </item>
+               </list>
+            </p>
+            <p>bestehen, nach dem ganzen Umfang und Inbegriff aller dazu gehörigen <seg type="comment"><orig>Actum contentiosae et voluntariae jurisdictionis</orig><note xml:id="nqhf_5dg_vxb">Streitfälle und Vorgänge der freiwilligen
+                     Gerichtsbarkeit</note></seg>, des Hypotheken-, Vormundschafts- und
+               Depositen-Wesen, imgleichen der Criminaliam prompt und unparteiisch zu exerzieren,
+               die von ihm festgesetzte Gerichtstaxe gehörig abzuwarten und einem jeden
+               Jurisdictionis Eingesessenen Recht und Gerechtigkeit nach den vorgeschriebenen
+               Landesgesetzen und Verordnungen angedeihen zu lassen, imgleichen der ihm als
+               Justitiario nach dem Reglement wegen Einrichtung des Justizwesens bei Ober- und
+               Untergerichten im Königreich Preußen de dato Berlin den 3. Decbr. 1781 obliegenden
+               Pflichten nachzuleben verbunden ist.</p>
+            <p>Dagegen soll</p>
+            <p>2.</p>
+            <p>der Herr Hofgerichts-Referendarius und designierte Stadt-Richter Georg Leitner zu
+               Angerburg als Justitiarius für die in den Steinortschen Gütern zu exerzierende
+               Gerichtsbarkeit ein jährliches Fixum von einhundert Gulden haben und gegen Genießung
+               dieses Honorarii macht derselbe sich hiermit verbindlich, zu Verrichtung der in den
+               Gräflich Steinortschen Gütern vorfallenden Prozessen und Rechts-Angelegenheiten
+               monatlich 2, höchstens 3 Gerichtstage anzusetzen und in selbigen die in den Gütern
+               vorfallenden prozessualischen und andere Geschäfte nach den Vorschriften der Gesetze
+               prompt und unparteiisch zu verrichten, hingegen mit den Gerichts-Sporteln weiter
+               nichts zu tun zu haben, als solche bei Endigung einer jeden gerichtlichen Handlung
+               taxmäßig festzusetzen und die Spezifikation dem Herrn Jurisdictionarius zuzustellen,
+               jedoch die gehabte bare Auslage an Stempel-, Porto-, Boten-Gebühren, imgleichen die
+               Schreibgebühren von demselben abzuziehen befugt sein.</p>
+            <p>3.</p>
+            <p>Sollten sich außer diesen fixierten Gerichts-Tagen einige keinen Aufschub leidenden
+               Geschäfte in den Gräflich Steinortschen Gütern finden, die die Gegenwart des
+               Justitiarii ausdrücklich erfordern, so werden solche gerichtlichen Handlungen vom
+               Herrn Juristictionario besonders bezahlt, und sind der Herr Reichsgraf und Königl.
+               Preuß. Kammerherr von Lehndorff Hochgeboren erbötig, denJustitiario sowohl zu den
+               fiskalischen Gerichtstagen als bei Vorfällen, die außer diesen fixierten
+               Gerichtstagen schleunig bearbeitet werden müssen, mit einem anständigen Fuhrwerk
+               abholen und abfahren zu lassen.</p>
+            <p>4.</p>
+            <p>Verspricht Hof-Gerichts Referendarius und designierter Stadt-Richter Georg Leitner zu
+               Angerburg, hiermit den Pflichten, so dem Justitiario nach dem <seg type="comment"><orig>Reglement wegen Einrichtung des Justizwesens der Ober- und Untergerichte
+                     de dto Berlin den 3. Decbr. 1781</orig><note xml:id="nwky_32g_vxb">In: GStA PK,
+                     I. HA Rep. 84, Abt. X Nr. 053, Bd. 1.   </note></seg> obliegen, getreulich
+               nachzukommen, die fixierten Gerichtstage gehörig abzuwarten und den gesetzlichen
+               Vorschriften gemäß in seinen Amtsverrichtungen redlich zu Werk zu gehen, auch wenn
+               seine Gegenwart in den Gütern außer diesen ordentlichen Gerichtstagen erforderlich
+               würde, jederzeit unweigerlich, jedoch gegen besondere Bezahlung, solche pressante
+               Geschäfte auf die Requisition des hiesigen Grafen und Königl. Preuß. Kammerherrn von
+               Lehndorff Hochgeboren zu verrichten. </p>
+            <p>Zu mehrerer Glaubwürdigkeit haben wir beiderseits diesen Kontrakt eigenhändig
+                    unterschrieben und mit unserer Petschaft besiegelt.</p>
+            <p>So geschehen Steinort den 9. Febr. 1784</p>
+            <p>
+               <seg type="comment">
+                  <orig>[Siegel des Georg Leitner] Georg Leitner</orig>
+                  <note xml:id="npzw_sqz_hqb">Siegel und Unterschrift des Grafen von Lehndorff
+                     fehlen.</note>
+               </seg>
+            </p>
+            <p> </p>
+         </div>
+      </body>
+   </text>
+</TEI>

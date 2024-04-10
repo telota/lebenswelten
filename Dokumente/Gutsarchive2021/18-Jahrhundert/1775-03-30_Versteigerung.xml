@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hk5_3cy_j5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Besitz des verstorbenen Michael Hübner kommt zur Versteigerung. Schönberg,
+               30. März 1775</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Am 8. April 1774 war Hübner, nachdem abzusehen war, dass er seine Wirtschaft nicht
+                  fortsetzen könnte, der Hof abgenommen und neu vergeben worden. Es wurde ein
+                  Inventar aufgenommen, <ref target="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=573">APO, Bestand
+                     385 Familienarchiv Finckenstein, Nr. 573</ref>, Bl. 45-51. Die Liquidation
+                  ergab Schulden gegenüber der Herrschaft in Höhe von 248 Fl. 12 Gr. und auswärtige
+                  Schilden in Höhe von 17 Fl. 20 Gr. 9 D., die durch eine Auktion gedeckt werden
+                  sollten (Bl. 53-55), die Auktionsliste Bl. 56-66.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 573, Bl. 75</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1775-03-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hk5_3cy_j5b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Schulden halber sollen morgen Montags um 9 Uhr Vormittage des verstorbenen Bauern
+                  <persName key="ed_ey2_kdy_j5b">Michel Hübner</persName> zu <placeName key="ed_pfm_4dy_j5b">Sommerau</placeName> seine sämtlichen Sachen, so aus
+               Frauens-, Mannskleider, Wirtschafts-, Ackergerät, Betten, Pferd, Vieh bestehend, auf
+               dem Schlosse <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName> an den
+               Meistbietenden ordentlich verkauft werden, Liebhaber werden sich danach zur rechten
+               Zeit einfinden, ihren <seg type="comment">
+                  <orig>Bot</orig>
+                  <note xml:id="nofj_12y_j5b">Gebot</note>
+               </seg> verlautbaren und gerichtlichen Zuschlags sich gewärtigen können.</p>
+            <p>Schönberg den 30. Martii 1775</p>
+            <p>
+               <persName key="ed_bwv_dyx_m2b">Finckenstein</persName>
+            </p>
+            <p>Vorstehendes ist in beiden Gemeinen <placeName key="ed_pfm_4dy_j5b">Sommerau</placeName> und <placeName key="ed_jvm_rc3_3rb">Herzogswalde</placeName> sowohl in der deutschen als polnischen Versammlung
+                    bekannt gemacht. Davor bezeugt <lb/>Sommerau d. 24. April 1775 <lb/>
+               <persName key="ed_edx_d2y_j5b">Skrodzki</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

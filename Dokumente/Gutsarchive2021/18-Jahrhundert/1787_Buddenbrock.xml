@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_uhp_txg_k5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Streitsache des Kreisdeputierten und Kreis-Feuersozietät-Direktors Freiherr von
+               Buddenbrock mit der Kriegs- und Domänenkammer wegen Amtsuntertänigkeit und
+               Dienstpflichtigkeit. Vor dem 8. Oktober 1787</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="editorial">
+               <p>Anlass gab die Klage der Ehefrauen der Instleute <persName key="ed_bym_ccn_y5b">Christian Hinz</persName> und <persName key="ed_ulm_dcn_y5b">Christoph
+                     Glaser</persName>, dass das Domänenamt zu Schaken, entgegen der Königlichen
+                  Verordnung, sie unter dem Vorwand, dass sie Amtsuntertanen seien, zum Dienst auf
+                  dem Vorwerk und deren Kinder, die sich auf dem adeligen Gut <placeName key="ed_vnk_mjp_k5b">Powarben</placeName> als Mägde vermietet hätten, zum
+                  Dienst im Amt zwingen wolle, unter Androhung von Gefängnis und Festungshaft (APO,
+                  Bestand 387 Gutsakten, Nr. 44, Bl. 13). Die Mägde <persName key="ed_t1j_lcn_y5b">Anna Regina Glaser</persName> und <persName key="ed_qm1_4cn_y5b">Anna Maria
+                     Hinz</persName> aus <placeName key="ed_fx1_rcn_y5b">Sudau</placeName> sowie
+                     <persName key="ed_g33_scn_y5b">Barbara Böhm</persName> aus <placeName key="ed_hyl_vcn_y5b">Damerau</placeName> hatten sich jedoch bereits an von
+                     <persName key="ed_c1f_5jp_k5b">Buddenbrock</persName> vermietet. Hinz und
+                  Glaser hatten aus ihrem vorigen Dienstverhältnis einen <ref target="lehndorff_jzr_xdn_y5b">Dienstzettel</ref> vorgelegt. Buddenbrock, der
+                  bei der ostpreußischen Domänenkammer seine „Vorstellung‟ eingereicht hatte, wurde
+                  am 8. Oktober 1787 von der Kammer beschieden, dass die „Mietung der 3 Mägde Hirt,
+                  Glaser und Böhm autorisiert‟ und somit „völlig gegründet‟ sei. Alle seien
+                  Amtsuntertaninnen und zum Vorwerksdienst verpflichtet. Sie hätten zuwider der
+                  Gesindeordnung gehandelt, indem sie, unerachtet der ihnen im Mai angekündigten
+                  Miete, ein Dienstgeld angenommen hätten. Zudem sei dies ohne Amtsattest geschehen.
+                  Buddenbrock bestritt die Angaben, die das Amt „wider die Wahrheit zur Beschönigung
+                  seines eigenmächtigen und despotischen Verfahrens‟ gemacht habe. Er sei es als
+                  privater Gutsbesitzer und Kreisdeputierter seiner Ehre und dem Interesse seiner
+                  Miteinsassen schuldig, dieses gesetzwidrige Benehmen anzuzeigen. Nur Böhm sei als
+                  Tochter eines Königlichen Bauern untertänig, Glaser und Hinz seien Töchter von
+                  Freien. Die Kammer antwortete am 1. November 1787, die Dienstpflicht der Bauern
+                  und Instleute und deren Kinder sei nicht aufgehoben, sie seien nach dem Reskript
+                  vom 18. März 1784 weiter verpflichtet, zwei Jahre im Amt zu dienen. Danach könnten
+                  sie nach der Gesindeordnung sich auf einem adeligen Gut verdingen. Der König habe
+                  den Bericht der Kammer missfällig aufgenommen, heißt es im weiteren Bescheid vom
+                  13. November 1787. Buddenbrock wurde aufgefordert, den Mägden nicht länger einen
+                  „Zufluchtsort zu verstatten‟, anderenfalls werde man sie mit militärischer Gewalt
+                  holen und gegen ihn als einen „Renitenten Königlicher Verordnungen‟ vorgehen.
+                  Buddenbrock weigerte sich weiter und hielt der Kammer die bestehenden
+                  Landesverordnungen und die „bei der Mietung des Gesindes gewöhnliche(n) Usancen‟
+                  vor, denen er entsprochen habe. Es könne ihm „um so weniger verdacht werden, da
+                  hiervon die Erhaltung meiner Wirtschaft und folglich auch meine Glückseligkeit
+                  abhängt‟. Er sei überzeugt, dass die Kammer die landesherrlichen Gesetze
+                  missdeute, auch würden sich deren Resolutionen widersprechen, die am 8. Oktober
+                  von Amtsuntertanen spricht, am 9. Oktober schreibt, sie seien freie Leute
+                  geworden, und das Reskript vom 18. März, das älter als die erneuerte
+                  Gesindeordnung ist, „will freien Leuten einen Zwang aufbinden‟. Wenn das
+                  allegierte Reskript den Beamten das Recht gäbe, überall Leute zu nehmen wo es
+                  ihnen passt, „wie es hier in diesem Fall dreien Kölmern geschehen, so würde auch
+                  der Edelmann, der Leute, die im Amtsbezirk geboren und erzogen sind, im Dienste
+                  hat, und besonders der, welcher kölmische Besitzungen im Amte hat‟, sich den
+                  Entzug seiner Dienstboten gefallen lassen müssen und wäre „Schikanen‟ unterworfen.
+                  Da die Kammer auf ihrer Meinung beharrte, beschwerte sich Buddenbrock am <ref target="lehndorff_fxn_jvn_k5b">28. November 1787 </ref>beim König.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 387 Gutsakten, Nr. 44, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_c1f_5jp_k5b">Buddenbrock, I von (-)</persName>
+            <placeName key="ed_vnk_mjp_k5b">Powarben</placeName>
+            <date from="1787-10-01" to="1787-10-08" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_uhp_txg_k5b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>P. M.</p>
+            <p>Das <seg type="comment">
+                  <orig>Reskript. d. d. Berlin d. 18. Martii 1784</orig>
+                  <note xml:id="nutx_v5n_k5b">Liegt der Akte bei, Bl. 17-17v.</note>
+               </seg> wegen der Dienstpflichtigkeit in den Ämtern (welches auf Spezialbefehl von
+               Herrn Min. <persName key="ed_ivw_kbh_2z">v. Blumenthal</persName>
+               <persName key="ed_u4q_5bw_mbb">v. Gaudi</persName>
+               <persName key="ed_wxq_lzz_g1b">v. Werder</persName> unterschrieben ist) erfolgte auf
+               den Bericht der Ostpr. Kammer vom 26. Febr. c. a. worin vorgestellt war,</p>
+            <p rendition="#et">dass die in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               wohnenden Beamten über Mangel an Gesinde klagten und angetragen hätten, dass ihnen
+               mit Genehmigung der Dauer nachgegeben werden möchte, die Kinder der Eigenkätner,
+               Instleute, Hirten, auch derjenigen Bauern, die solche nicht selbst bei sich behalten,
+               sondern anderweite Dienste machen lassen, auf drei Jahre zum Vorwerksdienst ziehen zu
+               können,</p>
+            <p>und heißt es weiter,</p>
+            <p rendition="#et">da Ihr auch und völlig überzeugt, dass bei der jetzt hierunter
+               obwaltenden Einschränkung die Vorwerks-Wirtschaft zu Unserem allerhöchsten Vorteil
+               nicht so betrieben werden könne, als die natürliche Güte des Bodens und andere
+               Umstände die Gelegenheit dazu darbieten, so sind Wir denn auch nicht abgeneigt, unter
+               denen von euch vorgeschlagenen <seg type="comment"><orig>Praecautiones</orig><note xml:id="nkp1_m5f_vxb">Vorsichtsmaßnahmen</note></seg> denen Beamten den
+               Dienstzwang wiederum angedeihen zu lassen, jedoch sollen die dazu sich
+               qualifizierenden Leute nicht auf drei, sondern, wie Wir hiermit ausdrücklich
+               festsetzen, nur auf zwei Jahre zu Übernehmung des Dienstes im Amte und den dazu
+               gehörigen Vorwerken verbunden sein, und auch eine längere Zeit wider ihren Willen
+               dazu nicht gezwungen werden können. <lb/>Ihr habt diesen Unseren hierbei gefassten
+               Entschluss denen Beamten bekannt zu machen, zugleich aber befehlen Wir euch hiermit
+               bei selbst eigener schwerer Verantwortung darauf zu halten, dass die Beamten dem von
+               euch vorgeschlagenen pünktlich genügen, und sollte dieser oder jener Beamte dawider
+               handeln oder sich sonsten eine ungebührliche Härte gegen sein Gesinde zu Schuld
+               kommen lassen, so werdet ihr auf diesen Fall autorisiert, einem solchen Beamten nicht
+               nur diese Wohltat auf immer zu entziehen, sondern ihn auch nach der strengsten <seg type="comment">
+                  <orig>rigueur</orig>
+                  <note xml:id="nfhd_phn_y5b">Strenge</note>
+               </seg> zu bestrafen, welches den Beamten zugleich zu ihrer Nachricht und Achtung zu
+               erkennen zu geben ist. Sind euch p. </p>
+            <p>In Verfolg dieser Direktorialverordnung lies die Königl. Ostpreuß. <gap reason="illegible"/>kammer sub Dato Königsberg d. 29. Octbr. 1784 das <seg type="comment">
+                  <orig>in Abschrift hiebei liegende Publikandum</orig>
+                  <note xml:id="nqg4_dmn_k5b">Liegt der Akte bei, Bl. 2.</note>
+               </seg> abdrucken
+                    und durch den Kreisjustizrat <persName key="ed_lnr_phn_y5b">Hahn</persName>
+                    (vermutlich auch durch unsere Kreisjustizkommissiones) an die Prediger
+                    herausschicken, welche es als ein Landesgesetz von den Kanzeln publizieren
+                    mussten. </p>
+            <p>Ob dies alles in formali geschehen können? besonders aber, <lb/>ob dies
+               Direktorial-Rescript vom 18. Mart. 1784 als das spätere von Sr. Kgl. Maj. hochselbst
+               vollzogene Landesgesetz die Gesinde-Ordnung vom 16. Septbr. 1784 Cap. 1 § 3, den
+               Dienstzwang der Ämter außer in Absicht des ledigen dienstlosen Gesindes gänzlich
+               aufhob, ein Landesgesetz geblieben sei? <lb/>ob weiter der Inhalt des Rescr. vom 18.
+               Mart. 1784 welches express ad instantiam der um Königsberg wohnenden Beamten ergangen
+               war, durch das Publikandum in ein allgemeines Landesgesetz verwandelt werden könne?
+               <lb/>unterwirft man Höherem Ermessen. Man bemerkt nur noch, dass der Ausdruck des
+               Publicando,</p>
+            <p rendition="#et">alle Kinder der unterm Amte wohnenden kleinen Leute als der
+                    Eigenkätner, Einwohner, Instleute, Gärtner, Hirten usw.</p>
+            <p>mit Vorbedacht so unbestimmt gefasst worden, um den Beamten den Weg zu bahnen, dass
+               sie, wie es jetzo effectivo geschieht, die Kinder der Instleute und Gärtner, welche
+               unter den Kölmern, auf kölmischem Grunde wohnen, gleichfalls zum Dienste im
+               Amtsvorwerk zwingen wollen, ja sogar solche, die von Instleuten in adelichen Gütern,
+               die in dem Umkreise des Domänen-Amtes liegen, erzeugt sind, wie der letztere Fall in
+               der v. Buddenbrockschen Sache eintritt, wo das Amt die <persName key="ed_t1j_lcn_y5b">Glaserin</persName>, welche im adelichen Gut <placeName key="ed_i1c_5hn_y5b">Salleicken</placeName> geboren ist, als dienstpflichtig fordert. Dass letztes
+               ohnehin unrecht sei, und der Instmann auf adelichem Grunde in keinem Betracht unter
+               dem Amte wohne, ist evident. Aber auch der Kölmer wohnt nicht unter dem Amte, wenn er
+               gleich seit ao. 1725 unter die Amtsjurisdiktion gezogen und vom Hauptamt intuitu
+               seines fori abgenommen ist. Die Kölmer sind schriftfassige Leute, die ihre Huben ex
+               privilegiis eben so gut wie der Adel eigentümlich besitzen Sie leisten dem Amte kein
+               Scharwerk, sondern nur Bürgerdienste, die ihren Gründen aus den Verschreibungen
+               obliegen, sie sind also keine Amtsuntertanen und niemals auch vor Aufhebung der
+               amtlichen Leibeigenschaft als Amtsuntertanen behandelt, man hat ihnen auch nie
+               gewährt, ihre kölmischen Güter zu verkaufen und hinzuziehen wo sie wollen, welches
+               allen Begriff eines <seg type="comment"><orig>glebae asdcripti</orig><note xml:id="nrjw_qvf_vxb"><ref target="http://www.zeno.org/Meyers-1905/A/Glebae+adscripti">zur Scholle
+                        Gehörende</ref></note></seg> ausschließt. So wenig also der Kölmer selbst
+               ein Amtsuntertan ist, so wenig ist es der freie Mensch, der bei dem Kölmer auf
+               kölmischem Grund zur Miete wohnt, und wenn jedem Freigeborenen, der im adelichen Gute
+               als Instmann wohnt, die Wahl offen steht, wo er seine Kinder vermieten will, ohne
+               dass der Gutsherr ihm solches verwehren könnte, warum soll der Instmann des Kölmers,
+               der ebenso wenig glebae adscriptus ist, dennoch ein Untertan des Amts sein? <lb/>Es
+               folgt also hieraus von selbst, dass die auf Anfrage der Beamten erfolgte Genehmigung
+               der Kammer, dergleichen Leute aus kölmischen Gütern zu seinem Dienst ausheben zu
+               dürfen, dem Beamten kein Recht geben könne, insoweit das Recht und die natürliche
+               Freiheit dieser Leute selbst dadurch gekränkt werden soll. <lb/>Das Objekt ist in der
+               Tat für den Kölmerstand und auch selbst für den Adel wichtig. Wo soll dieser sein
+               Gesinde hernehmen, wenn der Beamte aus allen bäuerlichen und kölmischen Dörfern das
+               beste Gesinde mit Gewalt zum Amtsdienst zwingt? Die Kammer geht jetzt so weit, dass
+               man behauptet, es könne kein Gesinde von Kölmern oder Bauern sich in ein kölmisches
+               oder adeliches Gut vermieten ohne Erlaubnisschein oder Attest des Amtes, welche das
+               Gesinde exclusive des vom Wirt zu gebenden Dienstscheins nachzusuchen verbunden sei.
+               Dieses will man erzwingen aus der Gesindeordnung Cap. 2. § 1 und Cap. 3 § 8, wo es
+               kumulativ heißt Dienstschein und Attest. In beiden §§ aber ist die Rede vom Gesinde
+               und von den Instleuten und Gärtnern. Das Gesinde muss gedruckte Dienstscheine haben,
+               die der Wirt ausstellt, aber keine anderen Atteste, der Instmann und Gärtner dagegen
+               muss ein Attest von dem Grundherrn haben, unter dem er gewohnt hat, und keinen
+               Dienstschein. Beides wird Cap. 2 § 3 deutlich unterschieden. <lb/>Die Ämter maßen
+               sich hierdurch das Recht an, alles Gesinde, welches in dem Umkreise des Adels auch
+               bei Kölmern dient, gehöre gleichsam zum Kanton des Amtes, woraus sich der Beamte
+               auswählen könne soviel er will. Man stellt also hierdurch eine strengere
+               Amtsuntertänigkeit wieder her, als ehemals irgend existiert hat, welche auch nur auf
+               die Kinder der königlichen Bauern eingeschränkt war. <lb/>Übrigens kann man nicht
+               ohnbemerkt lassen, dass, wenn der Bauer zu Schaken in der v. Buddenbrockschen Sache
+               sich damit loshalftern wollen, dass er die Mägde quaest. nicht als Amtsuntertanen
+               angesehen habe, dieser Einwand dem Behaupten der Kammer, von der er doch seine
+               Erlaubnis erhalten zu haben vorschützt, entgegen sei, dann diese sagt in ihrer
+               Resolution vom 8. Octobr. 1787 an den Baron von Buddenbrock: </p>
+            <p rendition="#et">„wie die von Beamten aus Schaken ihm gemachte Anzeige, dass er zu
+                    Mietung der 3 Mägde <persName key="ed_qm1_4cn_y5b">Hirt</persName>, <persName key="ed_t1j_lcn_y5b">Glaser</persName> und <persName key="ed_g33_scn_y5b">Böhm</persName> autorisiert worden, völlig gegründet ist, und ihm solches
+                    so wenig untersagt werden kann, als gedachte Personen wirkliche Amtsuntertanen
+                    und nach dieser Qualität zum Vorwerksdienst verpflichtet sind.‟</p>
+         </div>
+      </body>
+   </text>
+</TEI>

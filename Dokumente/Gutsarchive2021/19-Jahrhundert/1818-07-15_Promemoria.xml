@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_wp5_kzc_nxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Promemoria des Rendanten Werner zur Auseinandersetzung mit den Bauern in
+                    Pristanien, Steinort, 15. Juli 1818</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 608, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1818-07-15" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wp5_kzc_nxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>P. M. zu der Auseinandersetzung mit den 11 Bauern in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName></p>
+                <p>Jeder dieser Bauern zahlt außer der königlichen Kontribution und den übrigen
+                    öffentlichen Abgaben einen jährlichen baren Zins von 9 Rtlr. 52 1/2 Gr. und
+                    leistet außer diesem baren Zins noch die in dem <seg type="comment"><orig>beiliegenden Kontrakt-Schema</orig><note xml:id="nm2d_jxc_3yb">Liegt der Akte nicht bei.</note></seg> bemerkten Dienste. Das
+                    ursprünglich dem Bauernerbe von der Gutsherrschaft verliehene Inventarium ist in
+                    jedem in den Händen der Bauern befindlichen Zinsbuch aufgeführt. Die dabei
+                    gesetzte Taxe ist, wie der Augenschein lehrt und es damals üblich war, die <seg type="comment"><orig>Wirtschafts-Taxe, welche nur 2/3 des wahren Wertes der
+                            Inventarien-Stücke bestimmt</orig><note xml:id="npds_p45_xxb">Siehe die
+                            landschaftliche Taxe von <ref target="lehndorff_r5n_1kd_vpb">1809</ref>
+                            und <ref target="lehndorff_wxg_zjp_3tb">1817</ref>
+                        </note></seg>. <lb/>Die <seg type="comment"><orig>Tabellarische
+                            Übersicht</orig><note xml:id="nhpn_lxc_3yb">Liegt der Akte nicht
+                            bei.</note></seg> weist den Verlust der Bauern im Kriegsjahr 1807 und
+                    dasjenige nach, was sie über den Verlust noch an lebendem Inventario behalten
+                    haben. <lb/>Was die Bauern später zur Komplettierung der Inventarien erhalten
+                    haben ist sowohl in denen Büchern vermerkt als in der <seg type="comment"><orig>beigeschlossenen Nachweisung</orig><note xml:id="nqvf_nxc_3yb">Liegt der Akte nicht bei.</note></seg> speziell vermerkt. <lb/>So wie
+                    diese, sind sämtliche Bauern in den Steinortschen Gütern nur Zeitpächter. Für
+                    die Nutzung der Erbe leisteten sie der Gutsherrschaft teils bare Abgaben, teils
+                    und hauptsächlich Natural- und Scharwerks-Dienste, und so hing von der
+                    Gutsherrschaft ab, diese Dienste jährlich sowie die Abgaben zu verändern.
+                    Erbliche Ansprüche hatte niemand auf sein Erbe. Dem Gutsherrn stand es frei,
+                    jahrjährlich mit Besetzung des Bauernhofes Veränderungen vorzunehmen, den Bauer
+                    als solchen ab- und ein anderes Subjekt in dessen Stelle zu setzen. <lb/>Die
+                    Verhältnisse dieser Bauern müssen also nach dem 2. Abschnitte des <seg type="comment"><orig>Edikts vom 14. Septbr. 1811</orig><note xml:id="nw3x_v5r_xxb"><ref target="https://ghdi.ghi-dc.org/sub_document.cfm?document_id=3615&amp;language=german">Regulierungsedikt</ref></note></seg> beurteilt werden. Alle
+                    Leistungen der Bauern, vereint mit dem zu entrichtenden baren Zins, sind so
+                    bedeutend, dass auch durch die in diesem Abschnitte festgesetzte Entschädigug
+                    durch Vergütung der Hälfte des Landes oder durch Vergütung des Nutzungsrechts
+                    dieser Hälfte für die Verleihung der Bauernhöfe als Eigentum der Gutsherr zu
+                    sehr gefährdet wird. Der Gutsherrschaft wird daher das nach der Deklaration des
+                    Edikts vom 14. Septbr. 1811 und vom 29. Mai 1816 Artikel 66 derselben verliehene
+                    Recht, auf die Ausmittelung einer höheren als der Normal-Entschädigung
+                    provozieren zu können, hiermit ausdrücklich vorbehalten. <lb/>Die
+                    Auseinandersetzung der Bauern von den Vorwerksländereien ist so wie in
+                    sämtlichen Bauerndörfern auch hier geschehen. <lb/>Bei diesem Bauerndorfe soll
+                    die Verleihung des Eigentums an diejenigen Bauern, welche ihre Qualifikation zum
+                    Besitz nachweisen, nach § 40 des Edikts und Artikel 46 und 48 der Deklaration
+                    durch bare Vergütung des Nutzungsrechts der Hälfte der bäuerlichen Grundstücke
+                    mittels einer jährlichen Rente geschehen. Da jedoch die mehrsten dieser Bauern
+                    so tief in Schulden strecken und sie in so schlechten Vermögensverhältnissen
+                    stehen, dass sie ihre der Gutsherrschaft zu leistenden Dienste nie komplett und
+                    vorschriftsmäßig geleistet haben, und der Gutsherrschaft so wenig Sicherheit für
+                    ihre Schulden werden leisten können, als Kraft genug behalten die
+                    Bewirtschaftung der Erbe fortzusetzen, so wäre wohl zuvörderst mit
+                    Berücksichtigung des § 38 im Edikt auszumitteln und festzustellen, ob und wer
+                    von den 11 Bauern in Pristanien im Stande ist, mit seinem Vermögen der
+                    Gutsherrschaft für den Zins und andere Rechte Sicherheit zu gewähren, und nach
+                    Abgabe der Hofwehr im Stande und kräftig genug bleibt, sein Erbe zu
+                    bewirtschaften, um die aufzubringende Rente dem Gutsherrn zahlen zu können?
+                    <lb/>Wer diesen Nachweis nicht führen kann, wäre exmissionsfähig und hätte nach
+                    § 38 keine Ansprüche auf Verleihung des Eigentums. <lb/>Die Ausmittelung der
+                    jährlich an die Gutsherrschaft zu zahlenden Rente wird nach einem anzulegenden
+                    Anschlag bestimmt. Wird solche aber nicht mindestens auf 33 Rtlr. 30 Gr.
+                    festgestellt, so provoziert die Gutsherrschaft auf das eingangs gedachte Recht
+                    und trägt auf die Ausmittelung einer höheren als der Normal-Entschädigung
+                    hiermit ausdrücklich an, indem selbst bei der Rente von 33 Rtlr. 30 Gr. die
+                    Gutsherrschaft gegen die bisher genossenen Dienste von den Einsassen sehr
+                    zurücksteht. <lb/>Die Gutsherrschaft kann bei diesen Bauern durchaus keine
+                    andere Entschädigung als die in Rente erreichen. Die angrenzenden Vorwerke sind
+                    verpachtet, und durch den am 17. Januar c. gewesenen Orkan sind so viele
+                    Vorwerksgebäude umgestürzt, dass zu deren Retablissement sehr bedeutende
+                    Kapitalien erfordert werden und dem Gutsherrn kein Fonds übrig bleibt, um seine
+                    Vorwerksländereien noch vergrößern und an den Neubau der hiezu notwendigen
+                    Gebäude so wenig als an Anschaffung der hierzu notwendigen Inventarii denken zu
+                    können; die Entbehrung des Spannwerks von 40 Bauern <seg type="comment"><orig>pro futuro</orig><note xml:id="ngsh_pp5_xxb">künftig</note></seg>
+                    macht die Anschaffung mehreren Betriebviehs notwendig, und es wird der
+                    Gutsherrschaft nicht leicht werden, schon die hierzu notwendigen Kapitalen
+                    aufzubringen. <lb/>Das Inventarium und die Besatzstücke sind dem Bauer-Erbe
+                    ursprünglich zwar mit einer Wirtschaftstaxe übergeben, indessen sind selbige bei
+                    den Besitzveränderungen nicht von neuem taxiert, und es kann daher eine Taxe des
+                    gegenwärtigen Inventarii nicht angegeben werden. Die Gutsherrschaft [trägt] auf
+                    Natural-Zurückgabe der Hofwehr an und will die Stückzahl durch das Los
+                    entscheiden lassen. Was übrigens der Bauer ursprünglich in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gewesen ist, zeigt selbst das ihm
+                    damals verliehene Inventarium. Er bekam alles von der Gutsherrschaft und war
+                    bloßer Verwalter des Eigentums der Herrschaft, über welches ihm jetzt
+                    Eigentums-Charakter verliehen worden. <lb/>Die Gebäude werden den Bauern in
+                    ihrem gegenwärtigen Zustand überlassen. Nur beim Bauern <persName key="ed_ur1_2sh_wqb">Wietzorreck</persName> und Schulze <persName key="ed_fnr_nrh_wqb">Kuckel</persName> ist vor 3 Jahren eine neue Scheune
+                    erbaut, für welche dem Gutsherr 2/3 des Werts gebüren. Bei den übrige Gebäuden
+                    im Dorfe ist seit dem Jahr 1811 keine Hauptreparatur vorgenommen, und der
+                    Gutsherr hat demnach auch keine Entschädigungsansprüche in diese Zeit. <lb/>Die
+                    Kontribution sowie sämtliche übrigen Abgaben zahlen die Bauern, da sie ihre
+                    ganzen Erbe im Besitz behalten, von den ganzen Erben auch künftig ganz allein,
+                    und sich auch verpflichten, die Abgaben an die Geistlichkeit und Kirche ohne
+                    Zutun der Herrschaft zu entrichten. <lb/>Die bisher genossene Waldweide und die
+                    Berechtigung der Bauern, Sprock- und Leseholz in den bestimmten Holztagen zu
+                    ihrem Bedarf zu sammeln, kann denselben künftighin nicht ferner gestattet
+                    werden. <lb/><seg type="comment"><orig>Der große Schaden, den sowohl früher der
+                            Borkenkäfer als besonders der Sturm am 17. Januar c. a. in den Waldungen
+                            angerichtet hat</orig><note xml:id="ng5h_lq5_xxb">Siehe <ref target="https://de.wikipedia.org/wiki/Naturereignisse_und_Ungl%C3%BCcke_in_Ostpreu%C3%9Fen">hier</ref> zu den Naturereignissen in Ostpreußen.</note></seg>,
+                    macht es höchst notwendig, dass nach erfolgter Räumung der Waldungen von
+                    Waldbruch die sämtlichen Wälder geschlossen und in Schonung gelegt werden, und
+                    es wird nicht allein privat, sondern staatswirtschaftliches Bedürfnis, die
+                    Schonung sämtl. Forsten nach Forstprinzipien zu veranlassen. Eine
+                    forstprinzipienmäßige Schonung lässt sich aber mit Verleihung von
+                    Waldweideberechtigungen nicht vereinigen. Mit Bezug auf § 42 des Edikts ad e und
+                    Artikel 91 der Deklaration werden die Bauern in Pristanien also, da sie für den
+                    notwendigen Viehbestand auf ihren Ländereien in einer Dreifelderwirtschaft
+                    Wiesen genug haben, von der Waldweide und von der Sprock- und
+                    Leseholz-Berechtigung hiermit gänzlich ausgeschlossen. <lb/>Wollen die Bauern
+                    die gegenwärtig bestehende Übereinkunft, 2 Achtel Holz in den Waldungen
+                    ohnentgeltlich und nur für die Wipfel und Äste der gefällten Bäume zu schlagen
+                    und in das Hauptgut Steinort anzufahren, auch fernerhin beibehalten, so gibt die
+                    Gutsherrschaft hierin ihre Einwilligung und will den Bauern (künftigen
+                    Eigentümern) künftig die Wipfel und Äste von dem zum Achtelholz bestimmten Holz
+                    ohnentgeltlich überlassen, sobald die Bauern das ohnentgeltliche Schlagen und
+                    die Ausfuhr des Holzes nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                    übernehmen. <lb/>Für die Verleihung des Gartens und Hofes ohne Vergütung behält
+                    sich die Gutsherrschaft nach § 16 und § 49 des Edikts außer den 4 vierspännigen
+                    und 5 Manntagen, welche ohnentgeltlich geleistet werden, noch für die
+                    nächstfolgenden 10 Jahre 4 vierspännige und 5 Mannhandtage gegen die ediktmäßige
+                    Vergütung vor. Die Hand- und Spanndienste müssen auf jedesmaliges Erfordern des
+                    Gutsinspektors geleistet und die Bauern verpflichtet werden, diese Dienste, wie
+                    es hier gebräuchlich ist, gleich den Hofarbeitern mit Sonnenaufgang anzutreten,
+                    die Frühstücks-, Mittags-Perioden nicht länger als wie die herrschaftlichen
+                    Arbeiter auszudehnen und nicht früher als bei Sonnenuntergang die Arbeit zu
+                    verlassen. <lb/>Die Bezahlung der in der <seg type="comment"><orig>Beilage</orig><note xml:id="nnyp_dx2_cyb">Ein Beilage liegt nicht
+                            bei.</note></seg> speziell verzeichneten Reste wäre nach Artikel 61 der
+                    Deklaration den künftigen Eigentümern zur Pflicht zu machen, bis die Abzahlung
+                    der Reste erfolgt, sind solche in den <seg type="comment"><orig>neu anzulegenden
+                            Hypothekenbüchern</orig><note xml:id="nevk_3r5_xxb">Siehe hierzu GStA
+                            PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 283:
+                            Hypothekenangelegenheiten der Güter in Steinort (1819/20).</note></seg>
+                    primo loco zu intablieren und zwar mit der Klausel, dass, wenn Schuldner die
+                    jährl. Quote nicht prompt und richtig um Martini jeden Jahres abführt, solches
+                    sofort durch Exekution und Subhastation des Grundstücks eingezogen werden darf.
+                    <lb/>Die Jagdgerechtigkeit auf den Feldmarken bleibt der Gutsherrschaft nach §
+                    57 e des Edikts. <lb/>Obgleich nach § 58 des Edikts die Jurisdiktion und
+                    polizeilichen Verhältnisse wie bisher verbleiben können, so wäre diese
+                    Vorschrift des Gesetzes dahin festzustellen, dass die künftigen Eigentümer zwar
+                    unter der Gerichtsbarkeit des Hauptguts verbleiben und die Hypothekenbücher
+                    ihrer Grundstücke bei der Jurisdiktion geführt werden, <seg type="comment"><orig>dass die künftigen Eigentümer in Pristanien aber für sich ein
+                            eigenes Dorf und Kommune bilden und ihre Real-Abgaben sowohl an die
+                            Kreis-Steuerkasse direkt und die Kommunal-Abgaben an die Interessenten
+                            ohne Einmischung oder etwaige Vertretung der Gutsherrschaft resp.
+                            entrichten und abzahlen, auch die Amtspolizei selbst handhaben und
+                            vertreten</orig><note xml:id="nenm_js5_xxb">Ob das so umgesetzt wurde,
+                            ist zu bezweifeln. Siehe die Nachweisung der Abgaben der bäuerlichen
+                            Wirte auf den Gütern in Steinort - darunter auch Pristanien - für die
+                            Jahre 1818 bis 1829, GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                            Lehndorff-Steinort, Nr. 857. Siehe auch Werner Bericht vom <ref target="lehndorff_pn4_scb_3tb">19. April 1818 </ref></note></seg>.
+                    <lb/>Zur Besoldung des Jurisdiktionarii hätte jeder Bauer 3 Rtlr. bar
+                    beizutragen, und wäre überdem zu verpflichten, zur Abholung und Absendung
+                    desselben nach der Reihenfolge mit beizutragen. <lb/>Bei etwaigen Veräußerungen
+                    der künftig eigentümlichen Grundstücke behält sich die Gutsherrschaft das
+                    Vorkaufsrecht hiermit ausdrücklich vor, und dass dieser Vorbehalt in dem
+                    Hypothekenbuche sub Subr. II eingetragen werde, darauf wird im Namen der
+                    Gutsherrschaft hiermit ausdrücklich angetragen. <lb/>Sämtliche Bauern waren
+                    bisher verpflichtet das Getränk zu Ausrichtungen und überhaupt nur aus dem
+                    Hauptgute zu nehmen, und es ist dieser Getränkezwang denen künftigen Eigentümern
+                    zur Pflicht zu machen, und diese Verpflichtung sub Rubr. II im Hypothekenbuche
+                    zu <seg type="comment"><orig>intabulieren</orig><note xml:id="nspf_vr5_xxb">übertragen</note></seg>. <lb/>Die etwa sonst noch nötigen Anträge und
+                    Erklärungen werde Bevollmächtigter des abwesenden Besitzers zum Protokoll
+                    abgeben.</p>
+                <p>Groß Steinort, der 15. Juli 1818</p>
+                <p><persName key="ed_arb_4sq_cqb">Werner</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

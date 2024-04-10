@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_z1g_2dz_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gustav Krispin bittet um Unterstützung. Angerburg, 21. Mai 1858</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ng2_5jc_3vb">Krispin, Gustav (-)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1858-05-21" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_zkm_whl_2y">Lehndorff, Carl Meinhard Friedrich Wilhelm
+                        Heinrich Graf von (Königsberg, 20.10.1826-Riola bei Bologna,
+                        28.10.1883)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_z1g_2dz_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, d. 21. Mai 1858</dateline>
+               <salute>Hochgeborener, <lb/>Hochzuverehrender gnädigster Herr Graf.</salute>
+            </opener>
+            <p>Ew. Hochgeboren werden allergehorsamst entschuldigen, dass ich mich wieder mit einer
+               sehr flehentlichen Bitte nahe, zwar mit einem niedergedrückten und ängstlichen Herzen
+               schreibe ich diese Zeilen, indem ich befürchte, Ew. Hochgeboren werden zürnend dieses
+               Schreiben von sich stoßen, ich habe aber sonst niemand als Gott und den gnädigen
+               Herrn Grafen, wo ich mir wage noch einmal hinzuwenden. <lb/>Gnädigster teuerster Herr
+               Graf, ich habe mir Mühe gegeben, ein Unterkommen zu finden, aber leider das Unglück,
+               weil ich verheiratet bin, denn ein jeder sieht nach jungen Leuten, deren es auch eine
+               Masse gibt, ich will gern arbeiten und kein verdorbenes Mensch werden, der liebe Gott
+               hat mir bis jetzt geholfen, nur bin ich noch nicht im Stande, mir ein zweites Pferd
+               zu kaufen, wo ich denn schon ganz gut wirtschaften könnte. Ew. Hochgeboren werden
+               nicht übel nehmen; ich will keineswegs aufdringend und unverschämt sein, ein Geschenk
+               haben zu wollen, weil ich das nicht darf und kann, nur würde meine flehentliche Bitte
+               darin bestehen, wenn der gnädige Herr Graf die Güte haben würden, mir noch zu einem
+               Pferde zu verhelfen, da Ew. Hochgeboren keines übrig haben, so würde ich mir eins
+               kaufen, wenn der gnädige Herr Graf mir bis zum Herbst zu einem ziemlichen Pferde Geld
+               vorschießen würden, mit dem größten Dank werde ich mich bemühen, pünktlich
+               wiederzuzahlen. <lb/>Gnädiger Herr Graf werden meine flehentliche Bitte erhören und
+               mir nicht in der Not stecken lassen. <lb/></p>
+            <closer>
+               <salute>Mit der größten Sehnsucht harre jeden Augenblick <lb/>Ew. Hochgeboren ganz
+                  gehorsamster und untertänigster Diener</salute>
+               <signed>Gustav Krispin</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_dgg_znq_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bestrafung des Krügers in Rosengarten wegen des Ausschanks fremden Branntweins.
+               Steinort, 25. Februar 1735</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940855">APO, Bestand 382 Familienarchiv Lehndorff, Nr. 545</ref>, Bl. 9-12v das
+                  Protokoll vom 25. November 1738. Auch der Krüger König aus Pristanien hatte
+                  fremdes Bier und fremden Branntwein zum Nachteil seiner Herrschaft ausgeschenkt.
+                  <lb/>Zu den verhärteten Fronten zwischen der Gutsherrschaft und dem Krüger siehe
+                     <ref target="lehndorff_mh2_chd_vpb">hier</ref>. Am <ref target="lehndorff_o2q_znh_3tb">4. Februar 1746</ref> supplizierte Gräfin von
+                  Lehndorff beim König wegen des Kruges in Rosengarten. </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 544, Bl. 26-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1735-02-25" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940854"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Abschied</p>
+            <p>Nachdem der Krüger Michael <unclear reason="illegible" cert="high">Freimar</unclear>
+               sowohl durch die Aussage der <persName key="ed_svg_kwr_2wb">Pierackowna</persName>
+               als auch durch sein eigenes Geständnis von dem Schank fremden Branntweins,
+               imgleichen, dass er sein eigenes Getränk gebraut, sattsam überführt worden, dessen
+               beigebrachte Entschuldigung aber nicht erheblich, indem er nicht befugt, auch vor
+               sich selbsten ohne Konsens der Herrschaft eigenes Getränk zu brauen, vielmehr solches
+               zu bösen <gap reason="illegible"/> Anlass und Gelegenheit gibt, so hat er hieran übel
+               getan und wird unter nachdrücklicher Bedrohung, sich dessen ins Künftige zu
+               enthalten, dieses Mal der Herrschaft zu verrechnen ein Rtlr. Strafe kondemniert.
+               Deshalb solche Strafe bei weiteren Kontraventionen geschärft oder auch Beklagter
+               durch exemplarisch harte Leibesstrafe zu Treu und Gehorsam gegen seine Herrschaft
+               angewiesen werden soll.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

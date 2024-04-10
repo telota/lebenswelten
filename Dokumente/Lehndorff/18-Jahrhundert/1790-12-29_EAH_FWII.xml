@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_zmn_2fb_4fb8">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Ernst Ahasverus Heinrich Graf von Lehndorff an Friedrich Wilhelm II. König von Preußen. Berlin, 29. Dezember 1790</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Familie</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>I. HA, Rep. 7, Nr. 13, I Lit. L Paket 498, Nr. 15, Bl. 1-1v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+               <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+               <date when="1790-12-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_w15_bk5_sy">Preußen, Friedrich Wilhelm II. König von
+                        (1744-1797)</persName>
+            </correspAction>
+            <note>Das <ref target="lehndorff_kd1_4l5_jz">Grafendiplom für die Linie zu Statzen
+                        wurde am 3. Januar 1791 erteilt</ref>, ebd., Bl. 4-7. Beschreibung des
+                    Wappens und Abbildung Bl. 9-10.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zmn_2fb_4fb8"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Berlin, den 29. Dezember 1790</dateline>
+               <salute>Allerdurchlauchtigster Großmächtigster König! <lb/>Allergnädigster König und
+                        Herr!</salute>
+            </opener>
+            <p>Die Gnade, welche Eure <persName key="ed_w15_bk5_sy">Königliche Majestät</persName> mir so
+                    vielfältig bezeiget, macht mich so dreist, Sie untertänigst zu bitten, dass
+                    Höchstdieselben die Gräfliche Würde, welche mein Großvater, der
+                    General-Lieutenant und Staatsminister <persName key="ed_zyw_ncf_2y">von
+                        Lehndorff</persName>, bereits unter dem großen Kurfürsten im Jahr 1679 von
+                        <persName key="ed_y2r_khv_c2b">Kaiser Leopold</persName> erhalten, auch auf
+                    die zweite Linie meiner Vettern zu extendieren und ihnen ein Grafen-Diploma
+                    ausfertigen zu lassen mit der untertänigsten Bitte, ihnen die Chargen und
+                    Stempel-Jura zu entlassen. Ich bitte diese Standeserhöhung<lb/>1) für den
+                        <persName key="ed_byt_ptq_h1b">Leopold Melchior Gerhard von
+                        Lehndorff</persName> auf <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>
+                    in Preußen, welcher den ganzen Siebenjährigen Krieg als Capitain mitgemachet,
+                    <lb/>2) für seinen Sohn <persName key="ed_utb_sz1_t2b">August Adolph von
+                        Lehndorff</persName>, <lb/>3) für seine Tochter <persName key="ed_tvf_qnj_tcb">Maria Juliana von Lehndorff</persName>. <lb/>Diese
+                    meine Verwandten sind umso mehr zu einer solchen Standeserhöhung qualifiziert,
+                    da sie sich in glücklichen Vermögens-Umständen befinden und ihre Voreltern die
+                    ansehnlichsten Stellen in Preußen bekleidet und überhaupt unsere Familie,<seg type="comment">
+                  <orig> welche mit dem teutschen Orden im 13. Jahrhundert nach
+                            Preußen gekommen, </orig>
+                  <note xml:id="nvbb_vgq_fhb">In dem in
+                            französischer Sprache abgefassten Schreiben steht 1328, ebd., S.
+                            3-3v.</note>
+               </seg>dem durchlauchtigsten Hause Brandenburg jederzeit mit der größesten Treue
+                    und Anhänglichkeit zugetan gewesen und viele von ihnen in derselben Dienst ihr
+                    Leben in denen berühmtesten Feldschlachten von Hochstädt, <placeName key="ed_xbw_2kv_mbb">Malplaquet</placeName> und <placeName key="ed_c12_42q_tdb">Hochkirch</placeName> aufgeopfert haben. Ich hoffe
+                    also, dass Euer Königliche Majestät obgedachter meiner Bitte gnädigst statt
+                    geben werden, welches für mich und meine ganze Familie ein neuer Bewegungsgrund
+                    sein wird, die untertänigste Treue und Ergebenheit zu verdoppeln, mit der ich
+                    zeitlebens sein werde<lb break="no"/>
+            </p>
+            <closer>
+               <salute>Euer Königlichen Majestät alleruntertänigster treu gehorsamster</salute>
+               <signed>Graf Lehndorff <lb/>Kammerherr</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

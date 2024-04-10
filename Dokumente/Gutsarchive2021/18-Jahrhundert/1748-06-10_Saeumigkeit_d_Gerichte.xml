@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_it4_dbs_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff </title><title>beschwert sich beim König über die Säumigkeit der Gerichte. Steinort, 10. Juni
+               1748</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword"> </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 273, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1748-06-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+            </correspAction>
+            <note>Der Köllmer Daniel Bugnot hatte im Amt Groß Strengeln für 100 Rtlr. 4 Huben Land
+               erworben. Das Geld hatte er sich von Obrist-Leutnant <persName key="ed_qrt_lgs_fqb">von Bonet</persName> geborgt, er war es im August 1743 noch schuldig. Die
+               Forderung der Gräfin von Lehndorff beruhte dagegen auf einer Pachtschuld für das
+               Vorwerk Taberlack in Höhe von 100 Fl., die der Drengfurter Bürger und Taback-Spinner
+                  <persName key="ed_a42_rgs_fqb">David Pernau</persName> ihr schuldig war.
+               <lb/>Bugnot hatte Pernau erklärt, dafür eine Kaution hinterlegen und die Schuld
+               begleichen zu wollen, und ihm darüber eine Obligation über 166 Fl. ausgestellt.
+               <lb/>Der Beschluss vom 20. Februar 1747 liegt der Akte bei. Welche „Interessen‟
+                  <persName key="ed_dks_4zh_lpb">Cibrovius</persName> hatte, wird nicht klar, er war
+               ebenso wie Bonet durch den adeligen Gerichtsschreiber <persName key="ed_cln_c3r_fkb">Szczepanski</persName> aus Angerburg vertreten worden. Pernau bat um Aufschub. Das
+               Gericht entschied jedoch, dass dessen Besitz sequestriert werde, um die Gräfin zu
+               entschädigen.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_it4_dbs_1qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 10. Juni 1748</dateline>
+               <salute>Allerdurchlauchtigster Großmächtigster König <lb/>Allergnädigster König und
+                        Herr</salute>
+            </opener>
+            <p>So heilsam und ersprießlich auch Ew. Königl. Majestät allerhöchste Intention und
+               allergnädigste Willensmeinung ist, dass die Prozesse in Ew. Königl. Maj. sämtl.
+               Provinzen und Landen auf alle nur mögliche Art verkürzt und einem jeden prompte
+               Justiz administriert werden soll, so sicher muss dennoch über das Königl. Domänen-Amt
+               zu Angerburg höchst empfindlich <seg type="comment">
+                  <orig>dolieren</orig>
+                  <note xml:id="niyb_ght_vqb">beklagen</note>
+               </seg>, dass ohnerachtet die Konkurs-Sache des Einsassen <persName key="ed_wfj_j3x_clb">Bugnots</persName> zu <placeName key="ed_q2v_t3x_clb">Groß
+                  Strengeln</placeName>, in welcher mir sub Beilage A aus einer ingrossierten
+               Obligation vom 9. Febr. 1743 166 Fl. zustehen und als Kreditbrief Hypothecariae vor
+               vielen anderen Kreditoribus die unstrittige Priorität habe, nunmehro schon über 3
+               Jahre gedauert und des Communis Debitores sämtl. Mobilien und Effekten sogleich nach
+               festgesetztem Konkurs <seg type="comment">
+                  <orig>destraniert</orig>
+                  <note xml:id="nm2y_3ht_vqb">zerstört</note>
+               </seg> worden, dennoch binnen so geraumer Zeit weder ein Prioritäts-Urteil darinnen
+               abgefasst, noch sonst die Sache rechtlich abgetan, sondern bis zu jetziger Zeit alles
+               unablässigen <seg type="comment">
+                  <orig>urgierens</orig>
+                  <note xml:id="njlb_pht_vqb">Drängens</note>
+               </seg> ungeachtet, der ganze Konkurs <seg type="comment">
+                  <orig>in suspenso</orig>
+                  <note xml:id="nsh2_sht_vqb">in der Schwebe</note>
+               </seg> gelassen worden. </p>
+            <p>Es akkordiert sich aber, Allergnädigster König und Herr, diese Sache hauptsächlich
+               daran, dass Amtmann <persName key="ed_dks_4zh_lpb">Cibrovius</persName> als
+               Justitiarius in dieser Konkurs-Sache selbsten interessiert ist und wegen seiner
+               eigenen Forderung nicht hinten anstehen, mithin den Kreditoribus Hypothecaris keine
+               Priorität gestehen will.</p>
+            <p>Da nun offenbaren Rechtes, dass kein Justitiarius <seg type="comment">
+                  <orig>in
+                            propria causa</orig>
+                  <note xml:id="nnvt_wht_vqb">in eigener
+                        Sache</note>
+               </seg> sich daselbst zu einem Richter aufwerfen kann, so sehe
+                    kein ander Mittel vor mir, aus dieser langwierigen Prozess-Sache zu kommen, als
+                    das bei Ew. Königl. Majestät hierdurch notdringend in tiefster Untertänigkeit
+                    suppliziere, dem Amtmann Cibrovius per Reskriptum allergnädigst aufzugeben, sich
+                    der Kognition in dieser Sache gänzlich zu enthalten und dagegen die Erkenntnis
+                    in dieser so lange trainierten Konkurs-Sache einem unparteiischen Gericht, wozu
+                    zu <seg type="comment">
+                  <orig>Evitierung</orig>
+                  <note xml:id="nsjn_zht_vqb">Vermeidung</note>
+               </seg> aller Weitläuftigkeit das in loco befindliche
+                        <orgName key="ed_wmk_wvt_fqb">Angerburgsche Stadtgericht</orgName> in
+                    alleruntertänigsten Vorschlag bringe, in höchsten Gnaden zu demendieren, auch
+                    die schleunige Abtuung dieser Rechts-Sache dem delegierten Gericht mit höchstem
+                    Nachdruck allergnädigst anzubefehlen. </p>
+            <closer>
+               <salute>Wie nun dieses mein alleruntertänigstes Gesuch in Recht und Billigkeit
+                        gegründet, also getröste mich allergnädigster Erhörung und ersterbe in
+                        tiefster Devotion <lb/>Ew. Königlichen Majestät</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

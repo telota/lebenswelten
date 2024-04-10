@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="baeuerliche-welt" xml:id="lehndorff_jln_2vr_cqb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Pächter von Serwillen und Taberlack, Boguslaw von Arciszewski, bitte </title><title>um Nachlass in seiner Pachtzahlung. </title><title>Serwillen, 3. Juni 1732</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 381, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_wzk_mb2_2qb">Arciszewski, Boguslaw von (-)</persName>
+               <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+               <date when="1732-06-03" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b. Tilsit
+                  12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+            <note> Serwillen und Taberlack waren seit dem <ref target="lehndorff_s5g_x4v_ytb">21.
+                  März 1730</ref> ab Trinitatis auf sechs Jahre an Boguslaw von Arciszewskiy durch
+               die Gräfin von Lehndorff verpachtet. <p/> Die erste Abrechnung erfolgte am 29. Mai
+               1731. Zu diesem Termin war der Pächter bereits mit 641 Rtlr. 28 Gr. 9 D. im
+               Rückstand, welche er innerhalb von 8 Wochen zu bezahlen versprach.<p/> Der Akte liegt
+               eine Aufstellung bei, wieviel die (namentlich genannten) 19 Bauern in Serwillen und
+               Taberlack 1731, also im 2. Arrende-Jahr, an den Pächter, Gräfin von Lehndorff und an
+               den „Gärtenier‟ zu zahlen hatten. Davon war im Arrende-Kontrakt nichts erwähnt
+               worden. In der Rubrik „restieren‟ taucht wiederholt auf: „ist nichts zu hoffen‟. Die
+               ausstehende Summe betrug in Taberlack 133 Rtlr. 25 Gr., in Serwillen 105 Rtlr. 10
+               Gr., zusammen 239 Rtlr. 5 Gr. Die Summe, auf die nicht zu hoffen war, betrug 187
+               Rtlr. 56 Gr. <p/> Zur Verpachtung an Arciszewski siehe auch GStA PK, XX. HA, Rep. 54
+               Gutsarchiv Lehndorff-Steinort, Nr. 355, 400 und 451. <p/> Vor und nach Arciszewski
+               war Serwillen durch viele Hände gegangen. 1704 war es an <persName key="ed_dl4_3g2_2qb">Johann Bethke</persName> verpachte, 1707-1710 an <persName key="ed_shh_q22_2qb">Gottfried Steincke</persName>, ihm folgte Pächter <persName key="ed_l4d_t22_2qb">Silberwäscher</persName>, der das Vorwerk 1722 übergab.
+               1722-1730 folgte <persName key="ed_mx4_v3r_gbb">Heinrich Hesse</persName>. 1733/34
+               war der Pächter <persName key="ed_ig1_w22_2qb">Martin Giebe</persName>, 1734/35
+                  <persName key="ed_ogv_y22_2qb">Paul Guse</persName> . Ab 1735 hatte <persName key="ed_nwl_cf2_2qb">Albrecht Wilewski</persName> Serwillen in Pacht, 1743-1748
+                  <persName key="ed_wfv_2f2_2qb">Johann Wiedtke</persName> aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName>. <ref target="lehndorff_uvd_qkn_j3b">1750-1753 war es an <persName key="ed_gsv_4wc_m3b">Adelgunda Küchmeister v.
+                     Sternberg</persName> verpachtet</ref>, ihr folgte Pächter <persName key="ed_n5t_mf2_2qb">N. Nessler</persName> 1753-1756, der folgende Pächter hieß
+                  <persName key="ed_mbr_qf2_2qb">Weber</persName>. 1762 war <persName key="ed_pj4_sf2_2qb">Ludwig Heinrichs</persName> Pächter von Serwillen. Ab 1768
+               war ein <persName key="ed_s4s_vf2_2qb">Hillenhagen</persName>, vorher Administrator
+               auf <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, Pächter. 1773 wurde
+               Serwillen an <persName key="ed_cdq_4tx_hhb">Johann Friedrich Jantzen</persName>
+               übergeben, der zuvor Pächter von Taberlack war. Alle Verträge sind
+               überliefert.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note>
+         </correspDesc>
+      </profileDesc><?oxy_custom_end?>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_jln_2vr_cqb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Serwillen, 3. Juni 1732</dateline>
+               <salute>Hochgeborene Reichsgräfin <lb/>Hochgebietende, gnädige Frau</salute>
+            </opener>
+            <p>Ew. Hochgeboren Exzellenz muss ich in aller Demut zu erwägen fürstellen, dass ich
+               vermeinte, mit der <placeName key="ed_hrb_hc2_gy">Serwillschen</placeName> und
+                  <placeName key="ed_s3k_b12_gy">Taberlackschen</placeName> Arrende mein Brot zu
+               haben, allein leider Gottes das Contrarium gefunden, so dass ich all das meinige
+               zusetzen und mit Frau und Kindern werde darben und notleiden müssen. Wenn solches
+               durch mein Versehen und <seg type="comment">
+                  <orig>negligierte</orig>
+                  <note xml:id="nhbj_g54_5qb">vernachlässigte</note>
+               </seg> Wirtschaft geschehen wäre, müsste mir die Schuld selbsten beimessen. Da ich
+               aber mich äußerst bemüht habe, auch bei den Vorwerken mit Bestellung der Äcker zu
+               rechter Zeit und anderer, bei der Wirtschaft nötiger Aufsicht mein Bestes zu tun, und
+               dennoch eben wie <seg type="comment">
+                  <orig>die für mir gewesenen Arrendatores</orig>
+                  <note xml:id="nfs2_tg2_2qb">Siehe hierzu die Liste der Pächter von Serwillen in
+                     der Anmerkung.</note>
+               </seg>, wovon doch als ein an diesem Ort Unbekannter nichts gewusst, das meinige
+               zugesetzt; so muss Ew. Hochgräfliche Exzellenz zeigen, woher mein Unglück kommen, zu
+               dem Ende eine <seg type="comment">
+                  <orig>Spezifikation von Serwillen und Taberlack hierbei übergebe,</orig>
+                  <note xml:id="npp4_1ds_cqb">Diese liegt der Akte bei, überschrieben:
+                     „Spezifikation der Posten, worinnen Herr von Arciszewski vermeint, <gap reason="illegible"/> zu sein und solche ihm zu bonifizieren demütigst
+                     bittet.‟ Die Summe für Taberlack lag bei über 700 Fl., für Serwillen war sie
+                     doppelt so hoch.</note>
+               </seg> aus welcher zu ersehen, <seg type="comment">
+                  <orig>dass die Anschläge nicht richtig, sondern zu hoch gemacht,</orig>
+                  <note xml:id="nzf4_cz3_2qb">Vgl. <ref target="https://babel.hathitrust.org/cgi/pt?id=ien.35556005378518&amp;view=1up&amp;seq=5">Christian Friedrich Germershausen, Der Hausvater in systematischer Ordnung,
+                        vom Verfasser der Hausmutter, Bd. 1, Leipzig 1783</ref>, S. 2 ff. Demnach
+                     oblag es dem Käufer oder Pächter eines Gutes zu berechnen, ob das zu pachtende
+                     Gut die Arrende erbringen und einen Überschuss erwirtschaften könne, um den
+                     Pächter und dessen Familie zu versorgen. Aus diesem Grunde wurde der sog.
+                     Anschlag gefertigt, der Ertrag und Nutzung des Gutes nachwies. Ein Anschlag für
+                     Taberlack aus den 1770er Jahren in: StA L, Bestand 21950 Familienarchiv
+                     Lehndorff, Nr. 265, Bl. 34. Demnach war für Taberlack von einem Ertrag von rund
+                     1.527 F. auszugehen, abzüglich der Kosten verblieben - theoretisch - 1.148 Fl.
+                  </note>
+               </seg> und die in Auflage gesetzte Aussaat nicht vorhanden, der Stamm von Kühen nicht
+               völlig erhalten, und dieselben noch so im schlechten Stande, dass das erste Jahr der
+               Hofmann ohne meine eigenen 14 Kühe mir 606 Fl. schuldig blieb, den Gesindelohn höher
+               bezahlen müssen, als im Anschlage enthalten, wozu noch diese wohlfeile Zeit kommen,
+               dass alles weit geringer, als Anschlag ist, verkaufen müssen.</p>
+            <p>Ew. Hochgeborene Hochgräfliche Exzellenz wollen die Gnade haben, solches gütigst
+               erwägen und in Ansehung meiner Not, darin ich ohne mein Versehen geraten, aus Dero
+               angeborenem hohen Stande mit mir dergestalt zu handeln damit Ursache finde.</p>
+            <closer>
+               <salute>Lebenslang Dero Güte zu rühmen und des Himmels tausendfachen reichen Segen mit
+                        unverändertem Gebet von Gott zu erbitten <lb/>Ew. Hochgeboren, hohe
+                        Reichsgräfliche Exzellenz, Ihr Hochgeboren Gnädige Frau Gräfin
+                        <lb/>untertänigster Knecht</salute>
+               <signed>
+                  <seg type="comment">
+                     <orig>
+                        <persName key="ed_wzk_mb2_2qb">B. v. Arciszewski</persName>
+                     </orig>
+                     <note xml:id="nkmw_52p_ysb">Ob es eine familiäre Verbindung zu dem polnischen
+                        adeligen <ref target="https://de.wikipedia.org/wiki/Krzysztof_Arciszewski">Krzysztof Arciszewski</ref> (1592-1656), gibt, konnte bislang nicht
+                        festgestellt werden. </note>
+                  </seg>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

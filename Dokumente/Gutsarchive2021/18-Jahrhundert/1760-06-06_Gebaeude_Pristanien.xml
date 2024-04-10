@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_r4z_3pw_5pb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Auszug aus der Beschreibung der Gebäude auf dem Vorwerk Pristanien. 6. Juni
+                    1760</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+            <note type="editorial">
+               <p>Die Beschreibung ist Bestandteil des bei der Übergabe des Hofes durch <persName key="ed_q2m_r2j_f3b">Ahasverus Bluhm</persName> aufgestellten Inventars. Die
+                  Berechnung der Pacht für Bluhm in: GStA PK, XX, HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 148 (Hofexemplar, 1759-1766). Weitere Inventare für
+                  Pristanien (1771/72) ebd., Nr. 158 und 739. In welcher verwandtschaftlichen
+                  Beziehung Bluhm zu dem gleichnamigen Koch in Steinort stand (dessen Lohnbuch
+                  1753-1760 ebd., Nr. 149), ließ sich nicht feststellen.</p>
+               <p>Als frühere Pächter für Pristanien sind 1715-1718 <persName key="ed_e4q_qyz_scb">Jan Wladysław von Kochanowski</persName>, 1733 Herr <persName key="ed_ics_5yz_scb">von Tassitzky</persName> (gemeinsam mit Stawken),
+                  1740-1742 <persName key="ed_w1v_yns_fqb">Mulack</persName>, 1751-1757 <persName key="ed_tnk_wms_fqb">Christian Meyer</persName>, 1772/73 <persName key="ed_sdz_k4s_fqb">Georg Gotthard Adersbach</persName>, 1773-1775 <persName key="ed_s4s_vf2_2qb">Simeon Hillenhagen</persName> nachzuweisen. Bluhm folgte
+                     <persName key="ed_cdq_4tx_hhb">Friedrich Jantzen</persName> (1765-1771). Dass
+                  gegen Jantzen 1767 ein Verfahren vor dem Patrimonialgericht in Steinort wegen
+                  Schlägerei, Misshandlung und Betrug eingeleitet worden war, führte augenscheinlich
+                  nicht zum Abbruch des Pachtvertrages, GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 695. </p>
+               <p>Die Pachtverträge in: APO, Bestand 382 Familienarchiv Lehndorff, Nr. 3, GStA PK,
+                  XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 150 bis 152, 162, 348, 362,
+                  363, 366, zur Verpachtung 1751-1773, 1832 auch Nr. 768, 827 (o. D.) und Nr. 828
+                  (1739, 1765, 1770, 1821/22, 1847); StA L, Bestand 21950 Familienarchiv Lehndorff,
+                  Nr. 246. <lb/> 1815 befasste sich Carl Friedrich Ludwig Graf von Lehndorff mit
+                  Veränderungen in den Einrichtungen und der Bewirtschaftung auf den Vorwerken
+                  Pristanien und Stawken, GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                  Nr. 829.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 155, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1760-06-06" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_r4z_3pw_5pb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Das Wohnhaus ist vom beschlagen Holz in Ständer eingefüllt gebaut, steht soweit im
+               baulichen Stande, außer dass die Schwellen nach Westen und eine nach Süden verfault.
+               Das Dach ist mit Dachpfannen belegt. <gap reason="illegible"/> Die Hausen-Tür hat 2
+               Bänder, 2 Haken, Kling-Bügel und Haken. Die Küchen-Tür hat 2 <gap reason="illegible"/> Bänder, 1 Überwurf, 2 Haspen. Die Stuben-Tür hat 2 Bänder, 2 Haken, Kling-Bügel
+               und Haken. Der Schornstein ist massiv gemauert, imgleichen der Kamin, und passabel.
+               Der Ofen ist halb von weiß glasierten, halb von hellen Kacheln, ist brüchig <gap reason="illegible"/> umzusetzen. Die <gap reason="illegible"/> Fenster, jedes von
+               drei Lichten, bestehen von 80 Kreuzen, wovon 15 Kreuze zerbrochen. Der Haus-Boden ist
+               mit Ziegel ausgepflastert. Die Tür zur Seitenkammer hat 2 <seg type="comment"><orig>Bocksbänder</orig><note xml:id="np5y_pnw_vxb">Siehe <ref target="https://www.deutsche-digitale-bibliothek.de/item/GGSXIGGEUBF37WPQYBNPFQI4FB5WWBGO">hier</ref>.</note></seg> nebst 2 Haken, 1 Überwurf, 2 <seg type="comment"><orig>Haspen</orig><note xml:id="nm4c_tnw_vxb">Siehe <ref target="https://www.dwds.de/wb/Haspe">hier</ref>.</note></seg>, an der Tür
+               in die Kammer über dem Keller sind 2 Bocksbänder, 1 Überwurf, 2 Haspen und 1 alt
+               unbrauchbares Schloss. Aus dieser Kammer zur Rechten sein 2 Türen, welche mit 2 Stck.
+               Bänder, 2 Stck. Haken, 2 Überwürfe, 3 Haspen verschlossen. Das Fenster ist nur von 1
+               Licht, das zweite Licht ist vermauert, hat 20 Kreuze, darunter 6 zerbrochen. In der
+               zweiten Kammer ist ein Fenster von 6 Kreuzen. Aus der Kammer ins Vorhaus zu gehen ist
+               eine Tür, welche mit 1 Stck. Bänder, 1 Stck. Haken, einem alten unbrauchbaren Schloss
+               nebst Drücker versehen. Die Schwelle darunter ist verfault und die Wand eingesunken.
+               Im Vorhaus ist eine Tür so schlecht nach dem Garten, selbste hat 2 Bänder, 2 Haken, 1
+               Überwurf, 2 Haspen. Das Vorhaus ist zwar mit Kacheln ausgelegt, aber ganz brüchig.
+               Eine Tür in die Herrschaftsstube ist mit 1 P. Bocksbändern, 2 Haken, einem guten
+               Riegelschloss nebst Schlüssel nebst 2 Handgriffen versehen. In dieser Stube sein 2
+               Fenster, jedes von zwei Lichten, bestehen von 156 großen und 39 kleinen Kreuzen,
+               worunter 16 zerbrochen. An diesen Fenstern ist 1 Schraube, 18 Stück Windeisen, 1
+               Sturmhaken, 2 P. Fensterhaken nebst 2 Krampen, 8 Hakenbänder, auch 4 <gap reason="illegible"/> Beschlag. Der grün glasierte Ofen dient zu reparieren. Der
+               Fußboden ist mit Brettern ausgelegt, welche aber hier und da verfault. Der
+               Schornstein ist massiv nebst dem Kamin gemauert, hat aber eine Reparatur vonnöten, in
+               dieser Stube ist ein kl. Tischchen mit einer alten teppichten Decke bedeckt, auch 7
+               Stck. schlechte Bilder mit bunten Rahmen, wie auch 1 hiesige irdene Schale und 2
+               Schüsselchen nebst 2 Schälchen mit einem Deckel. Die Tür aus dieser Stube, in kleine
+               Stube zu gehen, daran 2 Bocksbänder, 2 Haken nebst gutem Bügelschloss mit Schlüssel,
+               einen Handgriff vorhanden, darinnen sein 2 Fenster, jedoch von 4 Lichte, in
+               denenselben sein in allem 60 Kreuze, worunter 2 zerbrochen, an diesen Fenstern sein
+               12 St. <gap reason="illegible"/>, 2 P. Haken, 2 Schrauben, auch 1 Sturmhaken. Vor den
+               Fenstern sein noch 2 P. Fensterläden, welche mit 4 P. Bändern, 4 P. Haken versehen,
+               aus der großen Herrschaftsstube hat die Kammertür 1 P. Bocksbänder mit Haken, in der
+               Kammer ist ein Fenster von 4 Lichten, welche aus 48 gr. und 40 kl. Kreuzen bestehen,
+               worunter 5 St. gr. und 1 St kl. zerbrochen. Dieselben sein mit 6 St. Windeisen
+               versehen, sonsten kein Beschlag daran befindlich. Vor den Fenstern in der gr.
+               Herrschaftsstube sein drei Flügelfensterladen, welche 3 P. Bänder mit 3 P. Haken und
+               2 Mütterchens versehen. Auf dem Vorhaus, auf die Luft zugehend, ist eine Falltür,
+               welche mit 1 P. Bänder, 1 P. Haken, 1 Haspe und 2 Überwürfen versehen, wovon 1 Band
+               zerbrochen. Das Dach über diesen Stuben ist mit Dachpfannen belegt, ist aber sehr
+               brüchig und dient <gap reason="illegible"/> verworfen zu
+               werden.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?></p>
+            <p>
+               <note type="editorial">Es folgt die Beschreibung des baulichen Zustandes des aus
+                  Ziegeln gemauerten Verwalterhauses, dessen Dach mit Dachpfannen belegt ist. Der
+                  äußere bauliche Zustand sei noch gut, jedoch sei der Zustand der Stube durch die
+                  Brandweinbrennerei ruiniert. Weder Ofen noch Kamin noch Dielenfußboden seien mehr
+                  vorhanden. An dieses angebaut ist ein Gebäude aus Bandwerk, mit Ziegeln vermauert,
+                  das als Stall und Schuppen genutzt wird. Zu den Gebäuden gehört noch eine
+                  Fachwerkscheune mit drei Tennen und ein Holzspeicher in Ständerbauweise ohne
+                  Fundament. Das Schäferhaus ist ebenfalls aus Holz gebaut, alt und baufällig. Der
+                  dazu gehörende Speicher ist aus Holz, jedoch im besseren Zustand. Eine
+                  Gärtnerwohnung mit vier Stuben ist ebenfalls aus Holz gebaut. Hier wohnen vier
+                  Gärtner in je einer Stube. Der Baumgarten mit Äpfel- , Birnen-, Kirsch- und
+                  Pflaumenbäumen ist von einem Staketenzaun umgeben. Der <seg type="comment"><orig>Geköchgarten</orig><note xml:id="nibg_24w_vxb">Küchengarten</note></seg> ist zum Teil nur mit Strauchwerk umgeben und wird
+                  vom Arrendator bestellt. Der Roßgarten ist gut umzäunt. Der Auslauf für die Kälber
+                  zur See ist mit Strauchwerk umgeben. </note>
+            </p>
+            <p>, </p>
+         </div>
+      </body>
+   </text>
+</TEI>

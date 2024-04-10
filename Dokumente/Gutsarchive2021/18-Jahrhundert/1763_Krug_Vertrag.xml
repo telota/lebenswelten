@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_nm1_lh3_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Im Auftrag der Gräfin von Lehndorff wird mit Fritz Rudek ein Vertrag über den
+               Krug in Pristanien</title><title> geschlossen. Steinort, 5. Juli 1763</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>
+                  <persName key="ed_ozq_rcm_j5b">Fritz Rudek</persName> ist der Stiefsohn des
+                  vormaligen Krügers <persName key="ed_yyq_wcm_j5b">Rogowski</persName>. Ihm folgen
+                     <persName key="ed_c2s_1dm_j5b">Albrecht Korczynski </persName>1764-1767,
+                     <persName key="ed_jdc_hdm_j5b">Johann Bartnik</persName>, ab 1768, deren
+                  Verträge der Akte beiliegen. Rudeks Vertrag folgt das Inventar des Kruges in
+                  Pristanien, wie es ihm im Beisein des Schulzen <persName key="ed_dck_sdm_j5b">Schack</persName> überantwortet worden war. Darin ist der Zustand des als
+                  „passabel‟ angegebenen Wohngebäudes beschrieben, dessen strohgedecktes Dach,
+                  Schwellen, Fenster etc. dringend reparaturbedürftig waren.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 394, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1763-07-05" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_nm1_lh3_3tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Da der bisherige Krüger <persName key="ed_yyq_wcm_j5b">Jacob Rogowski</persName>
+               verstorben und dessen nachgelassene Ehegattin den Krug in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> nicht länger halten können, so ist vor
+               Wiederbesetzung des Kruges gesorgt, und hat auf Zureden <persName key="ed_ozq_rcm_j5b">Fritz Rudek</persName>, des seel. Krügers Stiefsohn, sich
+               erklärt, an Stelle des Rogowski zu treten und den Krug samt dem dabei vorhandenen
+               Acker anzunehmen. Als wird dieserwegen mit demselben nachstehender Kontrakt
+               geschlossen:</p>
+            <p>Bei dem Krug sind drittehalb Huben Acker, Wiesen und Weiden, solche übernimmt
+               nunmehriger Krüger Fritz Rudek à dato auf drei nacheinander folgende Jahre, nämlich
+               vom 5. Juli 1763 bis dahin 1766. Das Winter- und Sommerfeld findet er zugesät, und
+               trifft solches dieses Jahr das erste nach <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und das zweite nach <placeName key="ed_nkz_b12_gy">Stawken</placeName> zu.</p>
+            <p>Da es gleichwohl geschehen könne, dass die Winter- und Sommersaat bei dessen
+                    Abzug in andere Felder gesät werden müssen, so wird allhier zur Nachricht
+                    notiert, dass Fritz Rudek nicht ein mehreres zu säen verbunden sei, als er bei
+                    seinem Anzug eingesät und bestellt erhalten, und soll künftig ein ordentliches
+                        <seg type="comment">
+                  <orig>Inventarium</orig>
+                  <note xml:id="ni1s_syl_15b">Liegt der Akte bei.</note>
+               </seg> von allem, so er empfangen wird,
+                    verfertigt werden.</p>
+            <p>Vor den bei dem Krug vorhandenen Acker zahlt Fritz Rudek jährlich, also: <lb/>Acht
+               Rtlr. 30 Gr. an Zins <lb/>Drei Rtlr. 18 Gr. General-Huben-Schoss vor 1 1/2 Hube
+               <lb/>und <lb/>Vier Rtlr. inkl. der Kontribution vor eine sogenannte Schmied-Hube.
+               <lb/>Entrichtet daneben den Decem vor 2 1/2 Huben und erlegt den Personal-Decem und
+               was sonsten der Kirchen, Kirchen-Bedienten und Schulen gehört. <lb/>Lässt dabei
+               jährl. 10 Stück Garn spinnen und erlegt dafür 1 Fl., tut auch eine kleine Reise auf 5
+               bis 6 Meilen<note place="left" hand="#author">Nota. Wegen der Reise bittet er, dass
+                  ihm dieses Jahr damit möchte überhoben werden, weil er mit dem Angespann pflügen
+                  muss.</note>, verrichtet auch übrigens alle nachbarlichen Pflichten, wogegen, und
+               weil er mit eigenen Pferden das Bier und den Branntwein zum Verzapfen im Krug
+               anführen müsse, er von allem Scharwerk und Unpflichten frei bleibt. <lb/>Vor den
+               Krug-Debit muss und verspricht Fritz Rudek bestens zu sorgen, und muss er es nie
+               ermangeln lassen, dass nicht beständig Bier und Branntwein im Krug wären. Die Zapf-
+               und Schankgefäße müssen allemal reinlich gehalten werden. Gegen die Reisende hat er
+               sich allemal freundlich und bescheiden zu bezeigen, und was vor einen Reisenden
+               dienlich und nötigm allemal bei der Hand haben. Die Krug-Stube soll er allemal
+               räumlich und reinlich halten, auch die Raufen und Krippen in gutem und die letzteren
+               im sauberen Stande erhalten. Mit dem Feuer muss er vorsichtig umgehen lassen, damit
+               daraus kein Schade entstehe, weil er sonst mit allem dem seinigen dafür haftet. Er
+               muss sich auch vor allem Verkehr mit losem und liederlichen Volk hüten und niemanden
+               solcher Leute herbergen, auch dafür sein, dass keinem der Reisenden im Krug etwas
+               veruntreut oder abhändig werde. Überhaupt hat er sich dergestalt, wie es einem
+               ehrlichen Krüger und Hauswirt gebührt und eignet, zu verhalten, auch sich allemal auf
+               getreues und redliches Volk zu befleißigen. Wogegen und wenn er solches tun und an
+               sich nichts erwidern lassen, wird ihm aller Schutz wider falsche Angaben und
+               Anfechtungen versprochen. Letzt- und schließlich muss er die Gebäude nach Möglichkeit
+               unterhalten, und was er vor sich und mit seinen Leuten dabei tun kann, verrichten.
+               Hauptverbesserungen und neuen Bau übernimmt die Herrschaft und verspricht ihm zu
+               Heizung der Stube das nötige Feuer-Holz an Strauch- und Lager-Holz, wie auch die
+               Notdurft zur Wirtschaft und auch Fuhr- und Acker-Geräte abgeredet.</p>
+            <p>Steinort, d. 5. Juli 1763</p>
+            <p>in Abwesenheit Ihro Gräfl. Gnaden <lb/>G. Gr<gap reason="illegible"/>ig</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hdl_qxl_rrb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Memorial des Grafen zu Dohna im Namen der Ostpreußischen und Litauischen Stände.
+               Königsberg, 5. April 1815</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Räume/Europa</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+            <note type="editorial">
+               <p>Handschrift des Grafen zu Dohna.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 788, Bl. 1-4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1815-04-05" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hdl_qxl_rrb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> in Preußen, den 5. April
+               1815</p>
+            <p>Ew. <persName key="ed_tl1_nbf_4y">Königl. Majestät</persName> werden in dem jetzigen
+               großen Augenblick mit Wohlwollen die Gesinnungen aufzunehmen geruhen, welche die
+               Vertreter Allerhöchst Dero großen alten Kernprovinzen Ost-Preußen und Litauen unter
+               diesen Umständen auszudrücken für Pflicht halten. <lb/>Die Stände dieser Provinzen
+               waren es, welche im Februar 1813 Ew. Königl. Majestät im Gefühl der reinsten und
+               edelsten Vaterlandsliebe und der heiligsten Treue an das angestammte deutsche
+               Regentenhaus hochherzig, nicht achtend die beispielhaften Leiden, welche sie schon
+               damals seit mehr als 6 Jahren erduldet hatten, untertänigst und dringend baten, durch
+               Errichtung einer Landwehr, gegründet auf echt religiösen, vaterländischen Geist der
+               Entwicklung der Streitkräfte, die höchstmögliche Ausdehnung und die <gap reason="covered"/> Richtung zu einer wahrhaft heiligen Nationalbewaffnung zu
+               geben. <lb/>Die von diesem Lande gestifteten Landwehren, dessen
+               National-Kavallerie-Regiment sowie die Freiwilligen und die im Verhältnis zu der sehr
+               dünnen Bevölkerung in unerhörter und überaus großer Zahl zum stehenden Heer
+               gestellten Mannschaften haben auf eine höchst ausgezeichnete Weise zur
+               Wiederherstellung des Heldenruhms und der Selbständigkeit der Nation beigetragen.
+               Fast ein jeder von uns hat durch ein Opfer, welches seinem Herzen das Teuerste war,
+               den großen Kampf besiegelt, welchen der <seg type="comment">
+                  <orig>Pariser Friede</orig>
+                  <note xml:id="ndmk_vcm_rrb">Der <ref target="https://de.wikipedia.org/wiki/Erster_Pariser_Frieden">Erste Pariser
+                        Frieden</ref> wurde am 30. Mai 1814 nach dem Sturz Napoleons I. (11. April
+                     1814) geschlossen. Er beendete vorläufig den Russisch-Deutsch-Französischer
+                     Krieg von 1812 und 1815. </note>
+               </seg> unterbrach. <lb/>Unerwartet plötzlich für viele ist der Repräsentant alles
+               Bösen und jeder feindseligen Gesinnung gegen Ew. Königl. Majestät und unser
+               Vaterland, <persName key="ed_xzh_bgg_h1b">Bonaparte</persName>, mit einem mächtigen
+               Anhang, welcher ihn selbst womöglich noch an Schlechtigkeit und Erbitterung
+               übertrifft, an der Spitze der ihm ergebenen französischen Nation aufgetreten; so
+               lange dieses Verhältnis fortdauert, bleibt für den für Ew. Königl. Majestät
+               Allerhöchste Person, für das angestammte deutsche Regentenhaus, für sein Vaterland
+               und für alles, was heilig und edel im menschlichen Gemüt ist, treu und innig <gap reason="illegible"/> Untertan kein anderer Wunsch, als der eines mit heiliger
+               Begeisterung kräftig und unter allen und jeden, auch den unerhörtesten Umständen
+               durchgeführten National-Kampfes. Um einen solchen Kampf abermals würdig
+               durchzukämpfen, haben viele der Edelsten, ohne Aufforderung abzuwarten, sich
+               freiwillig gemeldet, und ein jeder unserer braven Landesleute ist bereit, dafür mit
+               inniger Freudigkeit den letzten Blutstropfen zu geben. <lb/>Dieser Wunsch, diese
+               innigste Überzeugung, ist es, welche in diesem Augenblick, über alles mächtig, die
+               Brust jedes braven Preußen durchdringen und über jede andere Betrachtung und
+               Erinnerung erheben muss, wir wollen nie die Frage aufkommen lassen, wodurch denn die
+               Wiedererscheinung Bonapartes an der Spitze der französischen Nation möglich werden
+               konnte, wir wollen an den fast beispiellosen Januar, in welchem diese Provinzen durch
+               die Ereignisse der Jahre 1807 und 1812 und durch unsere Unterlassungen und
+               Maßnehmungen der obersten Behörden versunken sind, für jetzt nicht gedenken, wir
+               wollen für jetzt das trübe Gefühl zu beseitigen suchen, welches daraus entstand,
+               dass, während mehrere andere Provinzen, welche nicht seit so langer Zeit und durchaus
+               auf keine so vernichtende Weise gelitten hatten, Erlasse, Beihülfen und
+               Unterstützungen erhielten, Preußen davon ausgeschlossen ward, ohnerachtet Ew. Königl.
+               Majestät die schreckliche Lage dieses Landes mehrmals anerkannt und dessen ganz
+               vorzugsweise Berücksichtigung anbefohlen hatten, wir wollen der mannigfaltigen
+               Kränkungen, welche diese Provinz vorzüglich seit dem <seg type="comment"><orig>Pariser Frieden</orig><note xml:id="nmzt_4jg_fwb">Der <ref target="https://de.wikipedia.org/wiki/Erster_Pariser_Frieden">Erste Pariser
+                        Frieden</ref> wurde mit dem Friedens- und Freundschafts-Tractat in Paris am
+                     30. Mai 1814 nach dem Sturz Napoleons I. geschlossen und am 31. Mai 1814
+                     ratifiziert. Er beendete vorläufig die Koalitionskriege, die auch als
+                     Russisch-Deutsch-Französischer Krieg von 1812 und 1815 bezeichnet werden.
+                  </note></seg> von mehreren Seiten erlitten hat, für jetzt nicht erwähnen, wir
+               wollen es standhaft ertragen, dass, nachdem jetzt alles wieder zu den Waffen eilt,
+               unsere seit dem Jahren 1807 und 1812 noch immer nicht ganz vollständig bestellten
+               Äcker zum Teil wieder wüst oder überaus schlecht beackert werden liegen bleiben, und
+               dass unsere Ernten abermals, aus entsetzlichem Mangel an kräftigen Menschenhänden,
+               teils auf dem Felde verderben, teils in diesem ungünstigen Klima überaus schlecht in
+               die Scheune kommen werden. Gott und Ew. Königl. Majestät werden allem diesem Elend
+               Grenzen setzen und ein Volk nicht ganz verderben lasen, welches an treuer, herzlicher
+               Anhänglichkeit an die gute Sache von keinem übertroffen wird. <lb/>Mit der vollen
+               Kraft christlichen und heldenmütigen Glaubens wollen wir dem endlichen Siege der
+               gerechten und guten Sache froh und standhaft entgegen sehen, mit dieser Glaubenskraft
+               wollen wir auch insbesondere darauf vertrauen, dass die gefährlichsten Verbündeten
+                  <persName key="ed_xzh_bgg_h1b">Bonapartens</persName>, die den guten
+               vaterländischen Geist aufs höchste verderbenden französischen westphälischen
+               Grundsätze, Einrichtungen und Verwaltungsarten und alles, was als deren Stütze und
+               Beförderunsmittel angesehen werden kann, durch diesen Kampf endlich mit der Wurzel
+               ausgerottet werde, dass an deren Stelle wieder in veredelter Gestalt, mit den durch
+               die Lage der Zeitverhältnisse durchaus unvermeidlichen Vervollständigungen unter
+               gemäßen Entwicklungen und Modifikationen, die ächt alt vaterländischen Einrichtungen
+               treten, dass der ächt alt vaterländische Geist sich in jeder derselben in seiner so
+               schön bewährten Milde, Weisheit und Gerechtigkeit aufs lebendigste aussprechen wird.
+               Dannn wird wieder der alte Ruhm der Preußischen Staatsverwaltung jede durchaus
+               wesentliche und edle Eigentümlichkeit der Provinzen ganz unbeschadet, oder vielmehr
+               zum höchsten Gewinn für die Gesamtkraft der Monarchie, weise und gewissenhaft zu
+               berücksichtigen, und Treue und Glauben aufs unverletzteste zu halten, von neuem
+               herrlich begründet werden, dann wird durch die veredelte und vervollständigte
+               Wiederbelebung der Provinzialstände, durch die aus denselben hervorgehenden und mit
+               denselben in der zweckmäßigsten Wechselwirkung sich befindenden allgemeinen Stände,
+               unterstützt von Paßfreiheit, Öffentlichkeit der Verhandlungen und Freiheit der
+               Beratschlagungen, sich eine wahrhaft ehrwürdige öffentliche Stimme bilden, dann wird
+               jene weise und edle, das Fortschreiten in allem Guten so sehr erleichternde
+               Festigkeit und Stetigkeit in den Formen und Grundsätzen der Gesetzgebung und
+               Staatsverwaltung entstehen. <lb/>Möge Gott das Herz Ew. Königl. Majestät regieren und
+               uns bald ein Zeichen werden lassen, wodurch die Zuversicht dieses Glaubens gestärkt
+               wird, gewiss würde solches unter diesen Umständen unendlich wohltätig
+               wirken.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+            <p>In diesem Glauben dürfen wir auch in Untertänigkeit Ew. Königl. Majaetät dazu Glück
+               wünschen, dass Allerhöchst Dieselben von der Vorsehung bestimmt sind, an der Spitze
+               eines treuen und frommen Volkes einen entscheidenden Kampf gegen das Böse zu
+               bestehen, dessen glorreicher Ausgang die heilbringendsten Folgen haben muss.</p>
+            
+            <closer>
+               <salute> Mit diesen Gesinnungen und mit der tiefsten Ehrfurcht und heiligsten Treue
+                  verharren wir <lb/>Ew. Königl. Majestät</salute>
+               <signed>Comitée der Stände von Ostpreußem und Litauen und anwesende
+                  Landstände</signed>
+            </closer> </div>
+      </body>
+   </text>
+</TEI>

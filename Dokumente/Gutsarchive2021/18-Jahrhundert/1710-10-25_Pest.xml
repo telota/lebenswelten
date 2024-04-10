@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_r2c_33l_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Während der Pest haben alle Zeremonien und Feierlichkeiten zu
+                    unterbleiben.</title><title> 25. Oktober 1710</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 1263, Bl. 1-2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_lsy_mby_ssb">Reuters, (-)</persName>
+               <date when="1710-10-25" cert="high"/>
+            </correspAction>
+            <note>Die zur Eindämmung der Pest 1710 erlassenen Ordnungen in: <ref target="https://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT54/intro.html">Corpus Constitutionum Marchicarum, Oder Königl. Preußis. und Churfürstl.
+                  Brandenburgische in der Chur- und Marck Brandenburg, auch incorporirten Landen
+                  publicirte und ergangene Ordnungen, Edicta, Mandata, Rescripta [et]c. Von Zeiten
+                  Friedrichs I. Churfürstens zu Brandenburg, [et]c. biß ietzo unter der Regierung
+                  Friderich Wilhelms, Königs in Preußen [et]c. ad annum 1736. inclusivè ...
+                  colligiret und ans Licht gegeben von Christian Otto Mylius, Berlin und Halle
+                  1753-1822, Teil 5, Abteilung IV, Kapitel II</ref>.<p/>Siehe auch <ref target="https://www.vffow.de/assets/downloads/dateien/geschichte-der-pest-in-ostpreuen.pdf">Wilhelm Sahm, Zur Geschichte der Pest in Ostpreußen, Leipzig 1905</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=1263"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>
+                  <gap reason="illegible"/>, d. 25. Oktobr. 1710</dateline>
+               <salute>Wohlehrwürdiger, wohlachtbarer und wohlgelarter <lb/>hochgeehrter Herr Pfarrer</salute>
+            </opener>
+            <p/>
+            <p>Demnach bei Königl. Maj. vielfältig geklaget worden, dass durch gewöhnliche
+               Zeremonien bei Begräbnissen und Hochzeiten das Übel der <seg type="comment"><orig>Contagion</orig><note xml:id="nsx4_v4v_rxb">Ansteckung</note></seg> auf
+               dem Lande sowohl als in den Städten vielfältig ausgebreitet und von einem Orte zum
+               anderen gebracht werde, auch oftmalen die Leichen der Verstorbenen etzliche Wochen
+               unverscharrt stehen bleiben, damit man sich zu mehreren Zeremonien und Gefolg
+               präparieren möge, wie auch in <placeName key="ed_f3d_cnb_3vb">Uderwangen</placeName>
+               geschehen sein soll, da der verstorbene Pfarrer annoch unbegraben zwar in einer
+               Gruben eingesenkt sein soll, um hernach ordentliches Begräbnis mit mehrerem Gefolg
+               auszurichten, und dieses mehrerer Übel Anlass und Gelegenheit geben könnte, als
+               befehlen Ihro Königl. Majestät hier in Gnaden und allen Ernstes, bei willkürlicher
+               Strafe zum Invalidenhaus, dass bei jetzigen gefährlichen Zeiten alle Pracht und
+               üppige Zeremonien sowohl bei Hochzeiten als bei Kindtaufen und Begräbnissen,
+               insonderheit die Leichpredigten des Sonntags, laut Ihro Königl. Majestät deshalb
+               schon ergangenen Verordnungen eingestellt werden und niemand sich unterstehen solle
+               weder bei den Hochzeiten mit Schießen und dergleichen einiges Gepräng zu machen, auch
+               bei denen Begräbnissen einige Zeremonien und großen Gefolg zu gebrauchen, sondern die
+               Leichen der Verstorbenen ohne Zeremonien an behörigem Orte tief genug einzuscharren
+               und alle Gelegenheit, durch Zusammenlaufung allerlei Gesindlein die Contagion
+               weiterzubringen. Als wird Whl. Ew. Pfarrer hiermit amtl. angedeutet, dieses von der
+               Kanzel zu publizieren, auch darauf und dass es geschehe allemal eifrigst zu halten
+               und niemandem auf einigerlei Weise dasselbe zu verstatten, sondern es sofort dem Amt
+               anzumelden, damit die Ungehorsamen zu gebührender Strafe gezogen werden können,</p>
+            <closer>
+               <salute>wobei verbleibe Whl. Erw. Pfarrer bereitwilliger Diener</salute>
+               <signed>
+                  <persName key="ed_lsy_mby_ssb">I. Reuters</persName>
+                  <lb/>adel. Gerichtsschreiber</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_uj2_z1j_ycb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Bertha Assmann an Anna Gräfin von Lehndorff. Wilkowen, 13. Mai 1880</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Soziales Engagement</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 577, Bl. 187-187v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_vms_fcj_ycb">Assmann, Bertha (-)</persName>
+               <placeName key="ed_jn5_yvd_py">Wilkowen</placeName>
+               <date when="1880-05-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wms_mh2_cy">Lehndorff, Anna Gräfin von, geb. Gräfin von Hahn
+                        (Basedow 17.12.1830-Steinort 13.3.1894)</persName>
+            </correspAction>
+            <note>Die Richtigkeit der Angaben bestätigte der Ortsvorstand mit seiner
+                    Unterschrift und dem Siegel des Schulzenamtes zu <placeName key="ed_jn5_yvd_py">Wilkowen</placeName>, Krs. Angerburg. - Aufgrund der hohen
+                    Lebenshaltungskosten 1880 finden sich noch zahlreiche weitere Gesuche in der
+                    Akte. Auf einigen Bittschreiben ist der Grund der Armut und die angedachte Hilfe
+                    vermerkt. So wurde auf dem Gesuch der Witwe Henriette <persName key="ed_wxy_cgt_g2b">Erfurt</persName> aus <placeName key="ed_d31_sqv_scb">Rydzewen</placeName> vom 5. Dezember 1887 vermerkt: <quote>Krank ein Kind
+                        Schulpflicht Nahrung Kleidung</quote> (Bl. 282).</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941721"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Wilkowen, 13. Mai 1880</dateline>
+               <salute>Gnädigste Exzellenz!</salute>
+            </opener>
+            <p>Ich Unterzeichnete komme mit einer untertänigsten Bitte.</p>
+            <p>Ich bin verheiratet an einen alten Witwer, der nicht allein alt sondern auch noch
+                    ein Krüppel ist (was ich früher nicht wusste). Er hat einen zersplitterten Arm,
+                    ist kurzsichtig und engbrüstig. Früher konnte er mit der Violine noch betteln
+                    gehen, jetzt sind ihm von dem <unclear reason="illegible" cert="low">Wasser</unclear> die Füße angeschwollen und muss das Bett hüten. Dazu habe
+                    ich noch 3 Kinder und keinen Verdiener.</p>
+            <p>Also bitte ich Ew. Exzellenz fußfällig, da ich etwas Dünger zu Kartoffeln
+                    ausgefahren habe und habe keine Saat bekommen, mit mir Mitleid zu haben und um
+                    des Herren willen mir zur Saat Kartoffeln zu verleihen.</p>
+            <p>Der Allmächtige Herr wird Ew. Exzellenz mit seinem reichen Segen dafür begleiten
+                    und beschützen, wenn er sieht, dass ein Christenherz einer Armen seine große Not
+                    etwas lindert.</p>
+            <closer>
+               <salute>Auf ein gnädigstes Beachten dieser meiner demütigsten Bitte verharrt
+                        untertänigst</salute>
+               <signed>Bertha Assmann <lb/>Einwohner Frau</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

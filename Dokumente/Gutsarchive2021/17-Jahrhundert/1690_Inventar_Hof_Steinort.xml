@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_c1g_llq_2qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inventar des Hofes Steinort. Ende 1688</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="editorial">
+               <p>Das Inventar enthält weitere Angaben für die Höfe in <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName> und <placeName key="ed_d4c_2d3_mfb">Doliewen</placeName>. Das Konzept für Steinort in: GStA PK, XX. HA, Rep. 54
+                  Gutsarchiv Lehndorff-Steinort, Nr. 164 (1688-1692).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 165, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1688-11-01" notAfter="1688-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_c1g_llq_2qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Bei dem Hofe <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            </p>
+            <p>An Zinn</p>
+            <list>
+               <item>Sechs große <seg type="comment">
+                     <orig>Potagie Schüsseln</orig>
+                     <note xml:id="npzg_lc4_ysb">getöpferte Schüsseln</note>
+                  </seg>
+               </item>
+               <item>Zwölf kleine Schüsseln </item>
+               <item>Drei Dutzend Teller</item>
+               <item>Zwei Leuchter</item>
+            </list>
+            <p>An Messing</p>
+            <list>
+               <item>Eine erzene Pfanne </item>
+               <item>Zwei metallene Töpfe auf 3 Füßen </item>
+               <item>Eine messing
+                    Kühltonne </item>
+               <item>Ein großer Mörser </item>
+               <item>Ein kleiner Mörser </item>
+               <item>Ein klein
+                    Messing-Handleuchter </item>
+               <item>Drei Fischkessel </item>
+               <item>Zwei messing hohe Leuchter
+                    </item>
+               <item>Ein messing <seg type="comment"><orig>Confiteur Kessel</orig><note xml:id="nszt_c5h_txb">Rührkessel zum Einkochen</note></seg></item>
+            </list>
+            <p>An Kupfer</p>
+            <list>
+               <item>Ein kupfern Kessel von <seg type="comment"><orig>1/2 Tonne</orig><note xml:id="njcj_25h_txb">1,5 Liter</note></seg></item>
+               <item>Eine kupferne Schüssel </item>
+               <item>Ein kupferner Fischkessel </item>
+               <item>Eine
+                    Pasteten-Pfanne mit Deckel </item>
+               <item>Eine Torten-Pfanne mit Deckel </item>
+               <item>Eine kupferne
+                    Schöpp </item>
+               <item>Ein kupferner Durchschlag </item>
+               <item>Ein kleiner <seg type="comment"><orig>Grapen</orig><note xml:id="nkt3_l4d_sxb"><ref target="https://de.wikipedia.org/wiki/Grapen">Kochkessel</ref></note></seg> benebst der Rühr </item>
+               <item>Eine
+                    kupferne Hohlpfanne </item>
+               <item>Ein kupferner Trichter</item>
+            </list>
+            <p>An Blechen Zeug</p>
+            <list>
+               <item>Eine blecherne Form zu rund Käse</item>
+               <item>Ein Reibe Messer</item>
+               <item>Ein
+                    Durchschlag </item>
+               <item>Ein Trichter</item>
+            </list>
+            <p>An Eisen Zeug</p>
+            <list>
+               <item>Zwei große Bratspieß </item>
+               <item>Ein kleiner </item>
+               <item>Zwei Feuerzangen </item>
+               <item>Ein Bratenwender
+                    </item>
+               <item>Eine Pfanne </item>
+               <item>Ein großer Leuchter </item>
+               <item>Zwei große Brandruten </item>
+               <item>Zwei mittel Brandruten mit Messing Knauf </item>
+               <item>Zwei kleine Brandruten </item>
+               <item>Ein Dreifuß
+                    </item>
+               <item>Zwei Blechmesser </item>
+               <item>Alles benötigte <seg type="comment"><orig>Gartenier Zeug</orig><note xml:id="nevz_35h_txb">Siehe hierzu ein späteres Verzeichnis der Gartengeräte
+                        in: APO, Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941243">Nr. 104</ref>, Bl. 1–2. </note></seg></item>
+            </list>
+            <p>An hölzernem Gerät und anderen Dingen</p>
+            <list>
+               <item>Ein groß holländisch Bett, graue Vorhänge mit blauem Taft gefüttert und bunten
+                    Fransen </item>
+               <item>Ein geschnitztes vergüldetes Bett </item>
+               <item>Zwei geschnitzte vergüldete
+                    Kasten </item>
+               <item>Ein eingelegter großer Kasten </item>
+               <item>Ein Dtzd. mit rot Leder beschlagene Stühle </item>
+               <item>Ein Dtzd. grün <unclear reason="illegible" cert="low">Raschon</unclear> bezogene Stühle </item>
+               <item>Allerhand ander benötigte Tisch und
+                    Bett </item>
+               <item>Ein vergülter geschnitzter Spiegel </item>
+               <item>Zwei Spiegel mit schwarzen
+                    Rahmen </item>
+               <item>Sechs Stück vergült Leder </item>
+               <item>Sechs Stück graue Charge mit Fransen
+                    zum Bett </item>
+               <item>Eine Tischdecke mit sechs Überzügen auf die Stühle</item>
+            </list>
+            <p>An Betten</p>
+            <list>
+               <item>Ein groß fein Unterbett mit blau und weißen Streifen und blau rund Schnur
+                  besetzt </item>
+               <item>Zwei solche <seg type="comment">
+                     <orig>Kopfpfuhle</orig>
+                     <note xml:id="nhbz_1d4_ysb">
+                        <ref target="http://engelmann.uni.lu:8080/portal/WBB2009/LLU/wbgui_py?lemid=UT00191">Traversin</ref>
+                     </note>
+                  </seg> dazu </item>
+               <item>Fünf feine Unterbett mit breiten blauen Sreifen </item>
+               <item>Zwei mit schmalen blauen Streifen, und </item>
+               <item>Eines mit ganz dicht blauen Streifen </item>
+               <item>Zwei große holländische Unterbett </item>
+               <item>Zwei solche Kopfpfuhle dazu </item>
+               <item>Zwei Barchentpfuhle mit blauen Streifen auf 2 Pers. </item>
+               <item>Eine Machart dazu, auch blau und weiß und mit roten Rüschen, ein solcher Wall
+                  dazu, auch ein blau taffener Überzug, noch </item>
+               <item>Zwei blau und weiße Hauptkissen mit blau und weißer Rundschnur besetzt </item>
+               <item>Eine blau und weiße Matratze </item>
+               <item>Ein solcher runder Pfuhl </item>
+               <item>Vier feine Kopfkissen von weißem Barchent </item>
+               <item>Ein <gap reason="illegible"/> Unterbett mit blau und grauen Streifen
+                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></item><?oxy_custom_end?>
+               <item>Ein solcher Pfuhl dazu</item>
+               <item>
+                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><list rendition="#rightBraced">
+                     <item><?oxy_custom_end?>
+                     </item>
+                     <item>Ein groß Unterbett auf 2 Personen </item>
+                     <item>Ein Pfuhl und 2 Kissen dazu </item>
+                     <item>Vier kleine Unterbett auf eine Person </item>
+                     <item>Vier Pfuhle dazu </item>
+                  </list>von Drillich und kleinen Streifen</item>
+               <item>Zwei große Unterbett auf zwei Personen <lb/>Zwei Pfuhle dazu </item>
+               <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+               <item><list rendition="#rightBraced">
+                     <item><?oxy_custom_end?>Ein groß Unterbett auf 2 Personen </item>
+                     <item>Ein solcher Pfuhl dazu </item>
+                  </list>mit breiten Streifen</item>
+               <item>Ein groß Unterbett auf 2 Personen </item>
+               <item>Ein Pfuhl dazu </item>
+               <item>Ein klein Unterbett auf 2 Personen </item>
+               <item>Ein Pfuhl dazu</item>
+               <item>Ein Unterbett auf eine Person</item>
+               <item>Ein Pfuhl dazu, noch </item>
+               <item>Ein klein Bett und Pfuhl</item>
+            </list>
+            <p>An Weißzeug</p>
+            <list>
+               <item>Zehn paar Laken, als 4 von 3 und 6 Paar von 2 Breite </item>
+               <item>Zehn paar Kissentücher dazu </item>
+               <item>Vier Dutzend feine Servietten mit <gap reason="illegible"/> gezeichnet </item>
+               <item>Vier feine Tischtücher dazu </item>
+               <item>Drei Dutzend neue Servietten mit <gap reason="illegible"/> gezeichnet </item>
+               <item>Vier Tischtücher dazu </item>
+               <item>Zwei Dutzend alte Servietten mit <gap reason="illegible"/> gezeichnet </item>
+               <item>Drei Tischtücher dazu </item>
+               <item>Acht grobe Wisch-Servietten mit <gap reason="illegible"/> gezeichnet
+                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></item>
+               <item><?oxy_custom_end?>
+                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><list rendition="#rightBraced"><?oxy_custom_end?>
+                     <item>Vier Dutzend vier Stück Servietten </item>
+                     <item>Fünf Tischtücher dazu</item>
+                  </list>einerlei Muster </item>
+               <item>Zwei paar flachsene Laken </item>
+               <item>Drei paar flachsene Laken von 1 1/2 breit </item>
+               <item>Sechs Kissentücher dazu mit <gap reason="illegible"/>
+               </item>
+               <item>
+                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><list rendition="#rightBraced">
+                     <item><?oxy_custom_end?>Vier <gap reason="illegible"/> Tischtücher von 3
+                        Breiten </item>
+                     <item>Vier Tischtücher vor die Kutschen von 2 Breiten </item>
+                     <item>Sechs Handtücher </item>
+                  </list>von [...?]</item>
+               <item>Sechs Laken grobheden vor die Mägde</item>
+            </list>
+            <p>An Gläser</p>
+            <list>
+               <item>Zehn Stück Biergläser, worunter 4 geschliffen, ein geschnittenes und ein dickes
+                    </item>
+               <item>Sechs Weingläser </item>
+               <item>Ein großer Pokal und 2 <unclear reason="illegible" cert="high">Essig</unclear>gläser</item>
+            </list>
+            <p>Im Brauhaus</p>
+            <list>
+               <item>Eine Pfanne à 5 Tonnen benebst Kübel und Wannen, aber alles mangelhaft</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

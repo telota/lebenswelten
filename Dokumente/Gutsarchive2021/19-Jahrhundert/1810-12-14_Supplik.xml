@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_vbc_zfy_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Witwe Müller bittet Gräfin von Lehndorff um Unterstützung. Insterburg, 14.
+               Dezember 1810</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Militär</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 819, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_pnb_fs5_j5b">Müller, Witwe (-)</persName>
+               <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>
+               <date when="1810-12-14" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_gnc_c1m_2y">Lehndorff, Amalie Caroline Gräfin von (Hirschberg
+                        9.4.1751-Königsberg, Roßgärter Markt 12.11.1830)</persName>
+            </correspAction>
+            <note>Der Brief ging in einer zweiten Ausfertigung auch an Graf von Lehndorff. Einer
+               Randbemerkung ist zu entnehmen, dass er in der Angelegenheit sowohl etwas
+               unternommen, als auch geantwortet hat. Möglicherweise hatte er ihr sogar eine
+               Stellung verschafft, denn in einem Brief vom 13. März 1811 klagt sie über den Tod
+               ihres Dienstherren, wobei in dessen Papieren ihr von Lehndorff ausgestelltes Attest
+               verloren gegangen sei. Zu diesem Zeitpunkt hielt sie sich erneut in Insterburg bei
+               ihrer Schwester auf und bat nochmals um eine Unterstützung. Siehe auch das Dokument
+               vom <ref target="lehndorff_nf2_zky_2tb">14. April 1811</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_vbc_zfy_2tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Insterburg, d. 14. Dezember 1810</dateline>
+               <salute>Seiner Exzellenz meiner allergnädigsten Gräfin</salute>
+            </opener>
+            <p>mit einer allergnädigsten und fußfälligen Bitte komme ich zu meiner allergnädigsten
+               Gräfin. Ich habe ein sehr großes Unglück. Sie haben meinen Sohn <persName key="ed_ont_ls5_j5b">Fritz</persName>
+               <gap reason="illegible"/> unter die Soldaten genommen und haben ihn nach <placeName key="ed_ed2_4r1_my">Elbing</placeName> transportiert. Erbarmen sie über mich arme
+               Witwe und über mein armes Kind. Ich bitte mit Tränen untertänigst die einzige Gnade
+               zu haben und an den Kommendeur nach Elbing zu schreiben und für meinen Sohn den
+                  Fritz<gap reason="illegible"/> zu bitten. Ich bitte meine allergnädigste Gräfin
+               nochmalen fußfälligst meinen Sohn den Fritz<gap reason="illegible"/> zu retten, ich
+               bin überzeugt, dass seine Exzellenz ihn von den Soldaten losmachen werden. Erbarmen
+               Sie doch <gap reason="illegible"/> verlassenes weiß<gap reason="illegible"/>, ich bin
+               auch außer Kondition und bin bei meiner armen Schwester bei dem <unclear reason="illegible" cert="low">Musecus</unclear> bald in <placeName key="ed_rdg_jkc_gy">Insterburg</placeName>, solange bis der große Gott vor eine
+               Stelle sorgen wird. Ich bitte untertänigst um eine gnädige Antwort und beharre mit
+               der größten Ehrfurcht und untertänigstem Respekt</p>
+            <closer>
+               <salute>meiner allergnädigsten Frau Gräfin untertänigste Dienerin</salute>
+               <signed>Witwe <seg type="comment">
+                     <orig>Müllerin</orig>
+                     <note xml:id="nkmx_sky_2tb">Wilhelmine
+                                Müller</note>
+                  </seg>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

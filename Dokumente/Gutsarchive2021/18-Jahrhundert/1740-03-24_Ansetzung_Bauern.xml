@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_kjb_kjv_kqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Michael Scheimann aus Labab soll auf eine wüste Hofstelle in Stobben gesetzt
+               werden.</title><title> Steinort, 24. März 1740</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 703, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1740-03-24" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_kjb_kjv_kqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum in Groß Steinort den 24. Mart. 1740</p>
+            <p>Denjenigen, so auf einige ledig gewordene Erben der Dörfer hiesiger Herrschaft
+               angesetzt werden sollen, ist gestrigen Tages bereits angedeutet worden, sich allhier
+               im Hochgräfl. Hofe einzufinden, um über alles den eigentlichen Willen Ihro Hochgräfl.
+               Gnaden der Frau <persName key="ed_q4s_xyl_2y">Reichsgräfin von Lehndorff</persName>
+               Hochgeboren zu vernehmen. Es erschienen demnach</p>
+            <p>1. <persName key="ed_sd4_d4p_5qb">Michael Scheimann</persName>, des <persName key="ed_cjc_zxj_5qb">Bauern</persName> von <placeName key="ed_xpm_112_gy">Labab</placeName> stetigen Namens Sohn. <lb/>Demselben wird wiederholentlich
+               angekündigt, dass er des unglücklich versoffenen <persName key="ed_r2k_r4p_5qb">Jan
+                  Guseck</persName> Erbe von 2 Hufen im Dorf <placeName key="ed_xjg_d12_gy">Stobben</placeName> annehmen und noch vor Ostern und bald Anfangs künftigen
+               Monats Aprilis sich auf das Erbe begeben müsse, damit er zeitig vor dasjenige, so
+               dabei zu tun vorkomme, sorgen könnte. <lb/>Michael Scheimann stellet dagegen für, wie
+               er zur Zeit nicht geheiratet, dazu auch keine Lust bezeige, den Willen und Befehl
+               seiner gnädigen Herrschaft wollte und müsste er erfüllen, ist aber besorgt um den
+               Unterhalt und die Sommersaat und will denn hoffen, dass ihm einige Freiheit vom Zins
+               zustatten kommen würde. <lb/>Ihm wird geantwortet, dass er den Besatz erhalte, und
+               wären auf dem Erbe 1 Kuh, 2 Ochsen, 3 St. Pferde. Das Winterfeld wäre besät, der
+               Verunglückte hatte es vor sich bestellt, wäre also kein Zweifel an guter Bestellung,
+               an Sommersaat wären von dem toten Jan Gusek allein aufgeschüttet 2 Schfl. Gerste, 2
+               Schfl. Erbsen und 14 Schfl. Haber, in der hiesigen Herrschaft wäre es gewöhnlich zum
+               Besatz 9 Schfl. Gerste, 2 Schfl. Erbsen und 15 Schfl. Haber auf 2 Hufen zu <gap reason="illegible"/>, man verspreche ihm also, diese bis auf Approbation Ihro
+               Reichsgräfl. Gnaden zu reichen. Freijahre könnte er nicht <gap reason="illegible"/>,
+               weil er die Gebäude im Stand, den gewöhnl. Besatz und Aussaat bekommen. <lb/>Er
+               bringt eines bei seinem Vater erzogenes Pferd mit, welches ihm also zustehen kommt.
+               <lb/>Findet auf dem Erbe<list>
+                  <item>1 Wagen, davon zwar die Vorderräder schlecht, es sind aber vier Hinterräder,
+                     da er sich denn helfen müsse.</item>
+                  <item>2. vier Zochen, die <gap reason="illegible"/>eisen sein sonst brauchbar,
+                     außer dasselbe vorgelegt werden müssen</item>
+                  <item>3. Eggen, wiewohl keine darunter, so eiserne Zinken haben soll.</item>
+               </list>
+            </p>
+            <p>Was er sonst erhalten wird an Hausgerät soll beschrieben werden.</p>
+            <p>
+               <note type="editorial">Neben den Hufen des „unglücklich versoffenenen“ <persName key="ed_r2k_r4p_5qb">Jan Guseck</persName> in <placeName key="ed_xjg_d12_gy">Stobben</placeName>, die <persName key="ed_sd4_d4p_5qb">Scheimann</persName>
+                  aus <placeName key="ed_xpm_112_gy">Labab</placeName> erhielt, bekam <persName key="ed_j51_4pp_5qb">Joreck Jascheck</persName> „alias Kalmuck“, bisher Gärtner
+                  in <placeName key="ed_xpm_112_gy">Labab</placeName>, die Stelle und das Haus des
+                  entlaufenen <persName key="ed_njs_g3p_5qb">Michael Masuch</persName> in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>, <persName key="ed_zg5_cqp_5qb">Jan
+                     Mitzka</persName>, Gärtner aus <placeName key="ed_hyn_yzd_gy">Klein
+                     Steinort</placeName>, war auf dem Erbe des <persName key="ed_cyd_mqp_5qb">Mozarzik</persName> in <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                  angesetzt worden. <persName key="ed_cd1_pqp_5qb">Veit Kruschinski</persName> aus
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>, der ein freier Mann war,
+                  hatte eine wüste Stelle in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                  übernommen und <persName key="ed_sg5_xqp_5qb">Jacob Masuch</persName> aus der Ehe
+                  des <persName key="ed_mtm_crp_5qb">Pollaschke</persName> mit der Witwe Masuch
+                  hatte die <seg type="comment">
+                     <orig>Tochter</orig>
+                     <note xml:id="ntmw_jrp_5qb">
+                        <persName key="ed_b4h_wj1_5qb">Dorothea Kopitkow</persName>
+                     </note>
+                  </seg> des <persName key="ed_r3x_tj1_5qb">Kopitkow</persName> geheiratet und
+                  ebenfalls einen Hof in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                  übernommen. Alle waren mit sog. Besatz ausgestattet worden und hatten dafür im Hof
+                  Steinort quittiert. </note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

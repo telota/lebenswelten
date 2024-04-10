@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ktg_fyx_2tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Nachweis der in den Steinortschen Gütern befindlichen Bauern und deren Zustand.
+               Ca. August 1824</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Gesuch der Bauern Gellech vom <ref target="lehndorff_dsl_331_grb">8.
+                     August 1824</ref> sowie das Verzeichnis der <ref target="lehndorff_hdg_qrl_2tb">Instleute ca. 1824</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 756, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1823-08-09" to="1824-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ktg_fyx_2tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachweisung der Bauern in den hiesigen Gütern und deren Verfassung</p>
+            <p>
+               <table rows="35" cols="6">
+                  <row>
+                     <cell/>
+                     <cell>Name und Ort der Bauern</cell>
+                     <cell cols="2">deren Qualität</cell>
+                     <cell>deren Abgaben und Dienstleistungen an die Gutsherrschaft</cell>
+                     <cell>Bemerkung</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell>Zinsbauern</cell>
+                     <cell>Vorwerksbauern</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_xjg_d12_gy">Stobben</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell><persName key="ed_fnd_15h_wqb">Johann Berger</persName></cell>
+                     <cell>ohne Besatz und Sommersaat</cell>
+                     <cell/>
+                     <cell>zahlt 24 Rtlr., bestellt in jedem Feld 6 Schfl. Aussaat, leistet 2
+                                Königsbergsche Reisen und 2 Tage Mistfahren </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell><persName key="ed_dhd_qth_wqb">Michael Wölck</persName></cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_uvc_25h_wqb">Johann Pribbert</persName></cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_xpm_112_gy">Labab</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_nv5_2ht_fqb">Johann Uwis</persName></cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell rows="4">diese 4 Bauern haben noch Besatz und Sommersaat und sind nur für dieses
+                        Jahr bis zum 1. April 1827 in diese Qualität gesetzt</cell>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_y2d_z33_gqb">Michael Scheimann</persName></cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <!--<cell>diese 4 Bauern haben noch Besatz und Sommersaat und sind nur für dieses
+                        Jahr bis zum 1. April 1827 in diese Qualität gesetzt</cell>-->
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_hxs_fw1_zqb">Jacob Liss</persName></cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <!--<cell/>-->
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_ghs_jns_vsb">Johann Jarreck</persName></cell>
+                     <cell>dito.</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                    <!-- <cell/>-->
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_xzt_112_gy">Stawisken</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_jtr_k5h_wqb">Jacob Lentz</persName></cell>
+                     <cell>wie vor, hat 2 Erbe</cell>
+                     <cell/>
+                     <cell>zahlt für jedes Erbe 100 Fl., leistet 2 Königsberger Reisen und 2
+                                Tage Mistfahren</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell><persName key="ed_u4q_z1b_zqb">Johann Kuhn</persName></cell>
+                     <cell>ohne Besatz und Sommersaat</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell><persName key="ed_hkg_kx1_zqb">Mich. Liss</persName></cell>
+                     <cell>dito</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_s3k_b12_gy">Taberlack</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell><persName key="ed_wwg_h32_jxb">Michael Borowski</persName></cell>
+                     <cell>dito</cell>
+                     <cell/>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_xzt_112_gy">Stawisken</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1.</cell>
+                     <cell><persName key="ed_p2x_55h_wqb">Georg Gwiasda</persName></cell>
+                     <cell rows="25">mit Besatz</cell>
+                     <cell/>
+                     <cell rows="25">ein jeder zahlt 10 Rtlr., bestellt in jedem Feld 6 Schfl.
+                        Aussaat, leistet 2 Königsberger Reisen und das Scharwerk nach alter
+                        Usance</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell><persName key="ed_pqh_r5h_wqb">Michael Liss</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_hrb_hc2_gy">Serwillen</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3.</cell>
+                     <cell><persName key="ed_qgs_nwh_wqb">Micha. Kuckel sen.</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4.</cell>
+                     <cell><persName key="ed_xbq_mwh_wqb">Michael Kuckel jun.</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5.</cell>
+                     <cell><persName key="ed_lnw_3wh_wqb">Carl Gwiasda</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6.</cell>
+                     <cell><persName key="ed_j2f_ntc_zqb">Mich. Seska</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_s3k_b12_gy">Taberlack</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7.</cell>
+                     <cell><persName key="ed_hxy_yk2_jxb">Xtoph Uwis</persName></cell>
+                     <cell/>
+                     <cell rows="2">beide in sehr schlechten Umständen</cell>
+                  </row>
+                  <row>
+                     <cell>8.</cell>
+                     <cell><persName key="ed_jv1_ylc_zqb">David Uwis</persName></cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9.</cell>
+                     <cell><persName key="ed_ft3_p52_jxb">Georg Guss</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10.</cell>
+                     <cell><persName key="ed_rgv_mmc_zqb">Johann Gus</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>11.</cell>
+                     <cell><persName key="ed_gqt_1nc_zqb">David Gus</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>12.</cell>
+                     <cell><persName key="ed_vcn_mpc_zqb">Georg Schwikowski</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13.</cell>
+                     <cell><persName key="ed_sjw_lx2_jxb">Xtoph Schack</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>14.</cell>
+                     <cell><persName key="ed_ts1_lht_fqb">Michael Smolenga</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>15.</cell>
+                     <cell><persName key="ed_rwv_cmc_zqb">Michael Masuch</persName></cell>
+                     <cell/>
+                     <cell>ganz schlecht</cell>
+                  </row>
+                  <row>
+                     <cell>16.</cell>
+                     <cell><persName key="ed_stb_v4c_zqb">Joh. Masuch</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <hi rendition="#u"><placeName key="ed_xjg_d12_gy">Stobben</placeName></hi>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>17.</cell>
+                     <cell><persName key="ed_bzg_vjt_fqb">Michael Gritzka</persName></cell>
+                     <cell/>
+                     <cell>sehr schlecht</cell>
+                  </row>
+                  <row>
+                     <cell>18.</cell>
+                     <cell><persName key="ed_yc2_sjt_fqb">Jacob Gellesch</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>19.</cell>
+                     <cell><persName key="ed_is5_pjt_fqb">David Scheimann</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>20.</cell>
+                     <cell><persName key="ed_o41_jbf_jxb">Mich. Schwikowski</persName></cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+            <p>An wüsten Erben</p>
+            <p>2 Koben in Stawisken <lb/>2  " in Taberlack <lb/>1 " in Pristanien <lb/>1" in
+                    Stobben, dieses kann aber nicht künftiges Jahr bezogen werden</p>
+         </div>
+      </body>
+   </text>
+</TEI>

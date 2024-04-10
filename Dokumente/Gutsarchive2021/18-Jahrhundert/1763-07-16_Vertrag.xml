@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zpw_yx2_tsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff schließt mit Georg Syburra einen Vertrag über einen Acker
+               bei Steinort. Steinort, 16. Juli 1763</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Die Abrechnungen mit Syburra gehen bis 1773, der Vertrag wurde also mehrfach
+                        verlängert.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 395, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1763-07-16" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zpw_yx2_tsb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <persName key="ed_lbq_c24_5sb">Georg Syburra</persName> aus <placeName key="ed_lld_mzx_ssb">Schiltz</placeName> erklärt sich, denjenigen Acker, so
+               hiebevor <persName key="ed_qqw_3dj_f3b">Caspar Grabus</persName> gehalten,
+               anzunehmen, weshalb mit demselben folgender Kontrakt geschlossen worden. <lb/>Ihro
+               Reichsgräflichen Gnaden der Frau <persName key="ed_q4s_xyl_2y">Reichsgräfin von
+                  Lehndorff</persName> Hochgeboren vermieten dem Georg Syburra ein Stück Acker
+               allhier bei <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> von etwa 3
+               Schfl. Korn- 3 Schfl. Gerste-, 2 Schfl. Haber- und 2 Schfl. Erbsen-Aussaat, nebst
+               denen daneben liegenden Wiesen-Plätzen von 5 Fuder Heu, mehr oder weniger, so wie die
+               Plätz von Acker und Wiesen es austragen, in dem Umzirk, wie beide Äcker und Wiesen
+               letzt Grabus gewesen, auf 3 nacheinander folgende Jahre als von <seg type="comment"><orig>Michaeli</orig><note xml:id="nsm2_r4w_vxb">29. September</note></seg>
+               1763 bis dahin 1768, und gönnen dem Georg Syburra, dass er sich des Ackers bestens
+               und hauswirtschaftlich bedienen möge; auch wollen Hochdieselben ihm die Wohnung,
+               worinnen Grabus gewohnt, zu seinem Aufenthalt, auch die dabei vorhandene Scheune
+               einräumen, wie auch den Garten zum Haus übergeben lassen. <lb/>Wogegen Georg Syburra
+               Ihro Hochreichsgräfl. Gnaden jährlich vor Nutzung des Ackers, Wiesen, Garten, Wohnung
+               und Gebrauch der Scheune zehn Taler und den gewöhnlichen Kopf- und Hornschoss zu
+               entrichten verspricht. Syburra bezahlt auch den Kirchen-Decem und trägt das bei, was
+               Kirchen, Schulen und Mühlen gehört, auch spinnt er jährlich 10 Stück Garn, wozu ihm
+               das Gespinst aus dem Hofe gegeben wird. <lb/>Syburra erhält bei seinem Antritt zu
+               zwei Scheffeln gestürzten Acker. <lb/>NB. Zu einem Scheffel ist frischer Mist, dann
+               die sämtliche Wiesen, welches er wieder bei seinem Abzug in der Art lassen muss.
+               <lb/>Die Zäune erhält der Mieter Georg Syburra, welche größtenteils in gutem Stande
+               sind. <lb/>
+               <seg type="comment">
+                  <orig>Die Wohnung und die Scheune soll bei seinem Antritt beschrieben
+                     werden,</orig>
+                  <note xml:id="ny3d_m1f_tsb">Das Inventar folgt dem Vertrag. Demnach war das Haus
+                        „<ref target="https://books.google.de/books?id=lIflAAAAMAAJ&amp;pg=PA108&amp;lpg=PA108&amp;dq=gehrsass&amp;source=bl&amp;ots=RW_hhbN5z-&amp;sig=ACfU3U23Sbrp_zT_MeD1T_4-eA09xNccmA&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjtvZ7IvrP2AhXhQvEDHVsTDN04ChDoAXoECBwQAw#v=onepage%26q=gehrsass%26f=false">gegehrsasst</ref>‟, hatte eine passable Tür und hölzerne Schwelle. Es gab
+                     drei Stuben, von denen zwei vermietet waren, und eine Kammer. Die Stube hatte
+                     zwei Fenster, es gab einen Ofen und einen Kamin, der Schornstein war im
+                     „passablen Stande‟. Das Dach war auf der Hofseite gut, die Seite zum Feld
+                     reparaturbedürftig und musste in Teilen neu gedeckt werden. Die Scheune bestand
+                     aus Fachwerk. De Fächer waren ursprünglich mit Füllholz verfüllt und standen
+                     nun offen, so dass Reparaturen nötig waren. Eine Hälfte des Dachs war seit dem
+                     Krieg beschädigt. Um den Garten war ein Zaun gezogen. </note>
+               </seg> was er daran während der Mietzeit bessert, soll ihm auch nach Verlauf der Zeit
+               gutgetan werden. Das Zaun- und Pfahlholz zur Unterhaltung des Zaunes, auch zur
+               jetzigen Verzäunung wird dem Georg Syburra versprochen, wie denn wegen des nötigen
+               Feuerholzes es mit ihm ebenda also wie mit anderen allhier bei Steinort wohnenden
+               Leuten gehalten werden soll. </p>
+            <p><lb/>Geschlossen und gegeben Steinort d. 16. Juli 1763 </p>
+            <p><lb/>L. M. G. v. Lehndorff</p>
+         </div>
+      </body>
+   </text>
+</TEI>

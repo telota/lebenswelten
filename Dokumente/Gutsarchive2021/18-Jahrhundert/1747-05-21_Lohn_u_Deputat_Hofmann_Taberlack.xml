@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_q3r_pq4_5pb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Lohn- und Deputatzettel des Hofmanns Johann Peter Haberland in Taberlack. 21. Mai
+               1746 bis 21. Mai 1747</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe den <ref target="lehndorff_y5p_1x1_pvb">Vertrag mit Haberland vom 13. Juli
+                     1745</ref>. Der Akte liegen weitere Lohn- und Deputatzettel für 1773/74 und
+                  1745/46 bei. Der Erhalt des zugesagten Lohns und Deputats wurde auf dem Dopelblatt
+                  vermerkt. Eine andere Möglichkeit war die Anlage eines Deputat-Büchleins, wie es
+                  für das Vorwerk <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> vom 24. Juli
+                  1700 überliefert in der Akte. überliefert ist </p>
+               <p>Zwischen 1737 und 1743 war das Vorwerk an einen Auschwitz verpachtet. <ref target="lehndorff_zmn_2fb_4fb6">1754 bis 1757 wurde <placeName key="ed_s3k_b12_gy">Taberlack</placeName> an <persName key="ed_mn5_ktx_hhb">Johann Hoffmann</persName> aus <placeName key="ed_tr1_3ds_fqb">Olschewen</placeName> verpachtet,</ref> der Vertrag wurde mehrfach
+                  verlängert und hatte bis 1765 Bestand, Verträge und Pachtberechnungen in: GStA PK,
+                  XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 345, 365 und 145. <ref target="lehndorff_nkj_tgs_33b">1765 übergab er das Vorwerk an den Pächter
+                        <persName key="ed_cdq_4tx_hhb">Johann Friedrich Jantzen</persName>
+                  </ref>, ebd., Nr. 332 und 333. Die Belege zu den Arrenderechnungen Hoffmanns und
+                  Jantzens Nr. 326 (1761-1768). Hoffmann übernahm im selben Jahr die von Pächter
+                  Heinrichs abgegebene Pacht von <placeName key="ed_xpm_112_gy">Labab</placeName>,
+                  sein Sohn (?) <persName key="ed_yw5_yv1_vdb">Johann Jacob Hoffman</persName> die
+                  Pacht von Luisenstädt, Nr. 367 (1765-1772, 1785/86) und 379 (zu Labab, 1738-1768).
+                  Diese Akte ist keine Hofakte, sondern gehörte zum Bestand „Akten der gräflichen
+                  Jurisdiktion in Steinort‟. - Hoffman und Jantzen folgten als Pächter von
+                     <placeName key="ed_s3k_b12_gy">Taberlack</placeName>: 1771 bis 1773 <persName key="ed_yfl_vyw_gqb">Christoph Linck</persName> (Nr. 458), 1773 <persName key="ed_ppx_3zw_hkb">Matthis Waschke</persName> und <persName key="ed_gcn_lzw_hkb">Jan Bartnick</persName>, 1776 bis 1782 <persName key="ed_gc3_fxc_m3b">Carl Heinrichs</persName> (Nr. 382).</p>
+               <p>Siehe auch den <ref target="lehndorff_gzd_2bn_2bb">Vertrag mit dem Hofmann
+                        <persName key="ed_ykw_llq_lpb">Nowack</persName> vom 1. März 1717</ref> und
+                  mit dem <ref target="lehndorff_vkw_4jd_vpb">Hofmann Braun vom 23. Juni 1753</ref>
+                  (Digitalisat beigefügt). </p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 274, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1746-05-21" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_q3r_pq4_5pb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Hofmann soll vor sich und sein Weib incl. dem Schuh-Geld haben:</p>
+            <p>45 F. an Lohn zusambt dem Schuh- und Stiefel-Geld.</p>
+            <p>Vom 19. April 1746 bis zum 21. Mai a. c. hat Hofmann noch zu fordern</p>
+            <p>33 F. an Lohn <lb/>dann <lb/>7 Pfd 2/4 Brot-Korn <lb/>1 Pfd 2/4 Gerste <lb/>2 Pfd
+                    1/4 Erbsen <lb/>7 Pfd. Haber <lb/>6 Stoff Salz ohne das Salz zur Butter</p>
+            <p>vom 7. Dezemb. 1745 <lb/>1 F. 14 Gr. 1 Pf. zu Licht <lb/>1 Fl. 9 Gr. zu Töpfe
+                    <lb/>1 Tonne Bier Tafelbier</p>
+            <p>Dann</p>
+            <p>20 Scheffel Brot-Korn <lb/>2 Schefffel Erbsen <lb/>2 Scheffel Gerste <lb/>2
+                    Scheffel Haber <lb/>2/8 Tal. Salz  <lb/>1 Tonne Bier <lb/>und auf jede Person
+                    vom Gesinde   <lb/>10 Schfl. Brot-Korn <lb/>1 Schfl. Erbsen <lb/>1 Schfl. Gerste
+                    <lb/>1 Schfl. Haber 1/8 Tal. Saltz<lb/>
+               <lb/>
+            </p>
+            <p>Dann vor sich und das sämtl. Gesinde <lb/>2 Kühe zur Milchung <lb/>2 <seg type="comment">
+                  <orig>Faselschweine</orig>
+                  <note xml:id="nusl_km3_5sb">Langbeiniges Landschwein. Die Tiere wurden vornehmlich
+                     durch Weidegang auf Brachen oder in Waldungen ernährt und in magerem Zustand
+                     als sog. „Faselschweine‟ verkauft.</note>
+               </seg>
+               <lb/>10 Schfl. Mast-Haber <lb/>2 März-Schafe <lb/>16 Tonnen Tafelbier <lb/>2 F. zu
+               Licht <lb/>1 F. 15 Gr. an Topfgeld <lb/>Das Salz zur Buter</p>
+            <p>Hat hierauf erhalten an Geld</p>
+            <p>
+               <note type="editorial">Es gibt nur drei Eintragungen. Am 25. April hatte er 5 Schfl.
+                  Brotkorn erhalten, am 26. April 1 Schfl. Haber und am 25. April 4 Stoff
+                  Salz.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

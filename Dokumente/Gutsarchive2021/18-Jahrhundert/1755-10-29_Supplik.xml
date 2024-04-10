@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_gyq_qt3_nvb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Die in Stawisken und Labab ansässigen Bauern bitten den König, sie von
+                    Baulasten für Rosengarten zu befreien. Labab, 29. Oktober 1755</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Religion/Kirche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Unterstützungsgesuche</p>
+                </note>
+                <note type="keyword">
+                    <p>Kategorie: Bauten</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 821, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName key="ed_xpm_112_gy">Labab</placeName>
+                    <date when="1755-10-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_x2r_52f_cy">Preußen, Friedrich II. König von
+                        (1712-1786)</persName>
+                </correspAction>
+                <note>Stawisken und Labab gehörten zum Kirchspiel Rosengarten. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_gyq_qt3_nvb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Labab, d. 29. Oct. 1755</dateline>
+					<salute>Allerdurchlauchtigster Großmächtigster König, <lb/>allergnädigster König und
+                        Herr!</salute>
+                </opener>
+				<p>E. Königl. Majestät müssen wir notdringend in aller Untertänigkeit fußfällig antreten und in
+                    tiefster Ehrfurcht vorstellen, welchergestalt die beiden Bauerndörfer <placeName key="ed_xzt_112_gy">Stawisken</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName>, worinnen wir auf Bauernerben sitzen, zum Bau und
+                    Unterhaltung des Gärtner-Hauses, welches zu der Pfarrwiddem im Königl. Dorf
+                        <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> gehört, als
+                    Eingemeindete zu dortiger Kirche geschlagen sind. <lb/>Diese Gärtner-Hütte ist
+                    nunmehr dermaßen baufällig geworden, dass sie einen neuen Bau notwendig
+                    erfordert, und wurden wir armen Bauern zu diesem Bau durch das Angerburgsche
+                    Justiz-Colleg gezogen dergestalt, dass wir sowohl Holz als andere Materialien
+                    und Kosten dazu hergeben sollen. Nun würden wir gar nicht entbrechen dasjenige
+                    zu praestieren, wozu uns unsere Pflicht verbindlich macht, wir haben aber bei
+                    diesen beiden Dörfern gar keinen Wald, woraus wir vier Stück Holz zu diesem Bau
+                    hernehmen könnten, und da wir hiernächst durch die <gap reason="illegible"/>
+                    schlechten Jahre, auch viele dahero erlittenen Unglücksfälle gänzlich enerviert
+                    sind, und wir uns außerstande sehen, dieses Bauholz aus unseren Mitteln
+                    anzukaufen, gleichwohl uns bekannt, dass in dergleichen Fällen, wo bei der
+                    Kirche ein neuer Bau erfordert wird, Holz dazu aus E. Königl. Majestät Wäldern
+                    allergnädigst assigniert oder aus Kirchenmitteln angekauft wird, so flehen E.
+                    Königl. Majestät wir in aller Untertänigkeit an, Höchstdieselben geruhten
+                    allergnädigst, uns von Ankaufung des zu diesem Bau erfordernden Holzes
+                    allerhuldreichst zu dispensieren und dasselbe entweder aus Höchstderoselben
+                    Königl. Wäldern assignieren oder aus Kirchenmitteln ankaufen zu lassen, zumalen
+                    uns arme Leute schon schwer genug fällt, dass wir dieses Holz anfahren und
+                    anderes Scharwerk mehr zu diesem Bau praestieren müssen, der wir uns einer
+                    allergnädigsten Erhörung getrösten und in aller Untertänigkeit ersterben </p>
+				<closer>
+                    <salute>E. Königl. Majestät alleruntertänigste treu gehorsamste Knechte</salute>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_o5j_bdx_nrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>M. Kalley entschuldigt sich zum Gerichtstag. Liebstadt, 18. Juni 1715</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Familienarchiv Dohna-Reichertswalde, Nr. 192, n. f.</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Nro. XI. Stobnitten Hartwich und Hermenau Litt. N</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_ans_fwy_ssb">Kalley, M. (-)</persName>
+               <placeName key="ed_ijm_3qs_d2b">Liebstadt</placeName>
+               <date when="1715-06-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_oxg_5wy_ssb">Rudolph, I (-)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_o5j_bdx_nrb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Liebstadt, Anno 1715 d. 18. Jun.</dateline>
+               <salute>Hoch Edler und Hochgelahrter <lb/>mein Insonders Hochgeehrter Herr und hoher
+                        Patron</salute>
+            </opener>
+            <p>Dass dieses Mal Dero Hochburggräfl. Exzellenz Ihrem Befehl nicht kann ein Genügen
+               tun, ist mir herzlich leid, weilen ich gestern von einer Krankheit bin angegriffen
+               worden. H. <persName key="ed_ihv_ms1_j5b">Harloff</persName> soll nicht zu Hause,
+               sondern nach <placeName key="ed_axg_z4t_sdb">Mohrungen</placeName> geritten sein, der
+               H. <persName key="ed_pnz_ns1_j5b">Bettenberg</persName> hat sich auch <unclear reason="illegible" cert="low">absentiert</unclear>. <lb/>Welches zur dienstl.
+               Antwort vermelden sollen  </p>
+            <closer>
+               <salute>mit untertänigstem Respekt gegen Sr. Hochburggräfl. Exzell. und Sr. HochEdlen
+                  und Hochgelahrten Meines Insonders Hochgeehrten Herrn verbleibend schuldiger
+                  Diener</salute>
+               <signed>M. Kalley</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>A Monsieur <persName key="ed_oxg_5wy_ssb">Rudolph</persName> Major Juge de la
+                    ville Roi at Libstad Beyl. A </p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

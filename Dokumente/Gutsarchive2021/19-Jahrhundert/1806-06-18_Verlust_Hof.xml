@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_cpk_yn2_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Johann Kaczorowski aus Winkelsdorf verliert wegen Überschuldung seinen Hof.
+               Schönberg</title>
+            <title>, 18. Juni 1806</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Das Publikandum wurde am folgenden Sonntag in den Kirchen publiziert. Kaczorowski
+                  hatte u. a. Schoss-Schulden in Höhe von 133 Rtlr. 18 Gr. Am 30. August 1806 wurden
+                  sein und weitere Höfe im Schloss zu Schönberg Interessierten zur Übernahme
+                  angeboten. Auch in anderen Dörfern wurden in der Zeit um 1806 Bauern von den Höfen
+                  gesetzt, <ref target="https://namensindex.org/bestand.php?aid=42&amp;id=385">APO,
+                     Bestand 385 Familienarchiv Finckenstein</ref>, Nr. 688 und 689 (1809/10), 692
+                  und 693 (1813-1819). Siehe auch das Dokument vom <ref target="lehndorff_bzm_r1f_4rb">5. April 1808</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 603, Bl. 1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1806-06-18" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=603"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Schönberg, d. 18. Juni 1806</p>
+            <p>Da der bäuerliche Einsasse <persName key="ed_orq_wcs_vsb">Joh. Kaczorowski</persName>
+               zu <placeName key="ed_wqb_txm_vsb">Winkelsdorf</placeName> seine Wirtschaft
+               schlechter Umständen wegen nicht weiter fortzusetzen im Stande ist, so wird mit
+               seiner eigenen Bewilligung von Amtswegen resolviert, sein gegenwärtiges
+               Mobiliar-Vermögen mit Inbegriff der diesjährigen Sommeraussaat zu Tilgung seiner sehr
+               ansehnlich häufigen Schulden durch eine Auktion öffentlich zu veräußern. Zu diesem
+               Ende ist Terminus auctionis auf den 24. huj. m. festgesetzt, und soll durch ein
+               Supplikandum in den Kirchen Sommerau-Herzogswalde-Schwarzenau-Radom und Dt. Eylau
+               bekannt gemacht werden. <lb/>ut. supra.</p>
+            <p>Schulz</p>
+         </div>
+      </body>
+   </text>
+</TEI>

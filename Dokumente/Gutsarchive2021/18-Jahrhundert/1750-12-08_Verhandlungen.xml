@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_fqm_bks_ctb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verschiedene vor dem Patrimonialgericht in Steinort verhandelte Klagen. 8. und 9.
+               Dezember 1750</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="editorial">
+               <p>In der Akte weitere Klagen, darunter vom 15. Juli 1754, 8. Mai 1767 und 21. August
+                  1771. <ref target="lehndorff_www_ygm_15b">Hierbei ging es um zwei aus den Gütern
+                     entlaufene Untertaninnen.</ref> Beide wurden mit Peitschenhieben, letztere
+                  gemeinsam mit ihrer Mutter, die das Entlaufen gedeckt hatte, zusätzlich zu
+                  Festungsarbeit bei Wasser und Brot bestraft. <ref target="lehndorff_gxt_f1h_j5b">Eine zweite Klage betraf den Schulmeister aus Stobben</ref>, der sich mehr mit
+                  Fischerei als seinen eigentlichen Aufgaben befasst hatte. Der Schulze hatte ihm
+                  dies vorgeworfen, der Schulmeister den Schulzen im Krug beleidigt. Hier wurde ein
+                  Vergleich geschlossen, der Schulmeister hatte sich öffentlich zu entschuldigen.
+                  1767 richtete sich die Klage vor dem aus Drengfurt geholten Stadtrichter <persName key="ed_nb5_pwj_j5b">Rostock</persName> gegen einen Bauern aus Stawisken,
+                  dessen Pferde angeblich auf dem Feld des Pächters von Taberlack aufgefunden und
+                  „gepfändet‟ worden waren, worüber es, als der Eigentümer sie zurückholen wollte,
+                  zu einem handgreiflichen Streit gekommen war. Im Prozess stellte sich heraus, dass
+                  die Pferde sich auf der Wiese befunden hatten, also zu Unrecht „gepfändet‟ worden
+                  und die Handgreiflichkeiten vom Kläger ausgegangen waren. Der Kläger wurde zu
+                  8-tägiger herrschaftlicher Arbeit in Serwillen und Labab bei Wasser und Brot
+                  verurteilt, hatte dem Beklagten Satisfaktion zu erteilen und die Gerichtskosten zu
+                  zahlen. 1771 hatte die Gräfin von Lehndorff den Justitiar nach Steinort bestellt,
+                  um die <ref target="lehndorff_mbk_llm_15b">„Real-Injurien‟ zwischen den Bauern
+                        <persName key="ed_wv2_5xg_j5b">Masuch</persName> und <persName key="ed_a4w_yz1_zqb">Uwis</persName> aus Labab </ref>zu schlichten. Beide
+                  hatten im Rosengartener Krug Bier getrunken, und als Masuch meinte, dass es Zeit
+                  wäre, nach Haus zu gehen, fühlte sich Uwis gegängelt und hab ihm eine Maulschelle.
+                  Uwis hatte 3 Rtlr. Strafe in die Armenkasse zu zahlen.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 697, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1750-12-08" to="1750-12-09" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_fqm_bks_ctb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum den 8. Dez. 1750 a meridie</p>
+            <p>Wenn ein Bauer auf 1 1/2 Huben aus <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>, <persName key="ed_u54_yrq_cqb">Georg
+                  Hollstein</persName>, gemäß seinem in Händen habenden Kontrakt verpflichtet ist,
+               jährlich 1 Mal eine Postfuhre nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zu tun, selbtem dann von <persName key="ed_q4s_xyl_2y">Ihro Hochgräfl. Gnaden</persName> anbefohlen, 8 Tage nach <seg type="comment"><orig>Michael</orig><note xml:id="nogv_hbd_5xb">29. September</note></seg> a.
+               c. anstatt Getreide nur 42 <seg type="comment"><orig>St.</orig><note xml:id="nf3x_jbd_5xb">Abkürzung unklar.</note></seg> Körner zum Verkauf dahin
+               zu führen, so melden Ihro Reichsgräfl. Gnaden, dass selbter anstatt seines eigenen
+               Angespanns eigenmächtiger und unehrlicher Weise sich unterstanden, ein
+               herrschaftliches Pferd aus dem Vorwerk <placeName key="ed_hyn_yzd_gy">Klein
+                  Steinort</placeName> zu holen und damit nach Königsberg zu reisen, die Körner
+               daselbst in einen Stall zu werfen und wieder sofort zurückzukehren. So ist besagter
+               Hollstein adcitiert und solcherhalb zur Verantwortung gezogen worden. Selbter
+               gesteht, dass er das Pferd ohne Ordre der gnädigsten Herrschaft aus dem Vorwerk
+               genommen, weil er die Fuhre mit seinem schlechten Angespann nicht verrichten können,
+               dann, dass er einen Tag in Königsberg gewesen, wegen Mangel des Futters vor die
+               Pferde und Zehrgeldes daselbst nicht länger verbleiben können, sondern wegen das böse
+               Wetter nach Hause eilen müssen, bittet, ihm diesen begangenen Fehler zu
+               pardonnieren.</p>
+            <p>Bescheid.</p>
+            <p>Da der Bauer Hollstein übel getan und strafbar gehandelt, dass er eigenmächtiger
+               Weise der Herrschaft Pferd zu seiner leicht gewesenen Postfuhre genommen, aus
+               Königsberg sofort, ohne die von ihm in den Stall geworfenen Körner verkauft worden,
+               zurückgereist, da doch der Weg damals notorisch nicht schlimm gewesen, so hätte
+               derselbe desfalls eine exemplarische Strafe verdient, in Hoffnung künftiger
+               Lebensbesserung und Gehorsams soll derselbe nur dieserwegen eine besondere Reise der
+               Herrschaft verrichten und 1 Fl. 5 Gr. zu den Gerichtskosten zu bezahlen schuldig
+               sein. </p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Actum d. 9. Dez. 1750</p>
+            <p>Ihro <persName key="ed_q4s_xyl_2y">Reichsgräfl. Gnaden</persName> stellen vor, wie
+               die verwittibte <persName key="ed_md5_pyj_j5b">Bauerswitwe</persName> des
+               verstorbenen Bauers <persName key="ed_crf_4yj_j5b">Nikolaus</persName> zu <placeName key="ed_s3k_b12_gy">Taberlack</placeName> sich abermals vor 14 Tagen mit einem
+               Husaren namens <persName key="ed_bw2_vyj_j5b">Jacob Pustolla</persName> vom Königl.
+               Hochlöbl. von Billerbeckschen Regiment sich verehelicht, ihr bisheriges Erbe von 2
+               Huben aber annoch besitze, sich strafbar unterstanden, zu ihrer Hochzeit Bier
+               selbsten einzubrauen und solches darauf mit eingebrachtem fremden Branntwein auf
+               besagter Hochzeit zu verzehren. <lb/>Die verehelichte Maria Pustollin, geborene
+               Skrotkin, wird hierüber vernommen und befragt, da ihr ja bewusst sei, dass niemandem
+               erlaubt wäre, fremdes Getränk in herrschaftl. Güter weder einzuführen noch dasselbe
+               selbst einzubrauen, warum sie solches getan, da auf ihr dieserhalb getanen Anfrage
+               von der Gnädigen Herrschaft Güter<gap reason="illegible"/> solches jedoch verboten
+               worden? <lb/>Sie habe kein Bier, sondern nur von einem halben Sechstel Malz 1 1/2
+               Tonne gering Haustrunk vor sich gebrauen und vom Bauern <gap reason="illegible"/> aus
+               Rosengarten, dessen Ehegattin zur Hochzeit gekommen, habe sie nur 1/4 Tonne eben auch
+               solch gering eingebrautes Trinken geschenkt bekommen, welches die wenigen
+               Hochzeitsgäste mit der halben Tonne Bier, so sie von der Herrschaft nebst den hier
+               aus dem Hof genommenen 2 Stof Brandwein verzehrt hätten, kontestiert, dass außer
+               dieses Getränk und 2 Stof Branntwein, so des Mannes Schwager Bastian aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> in eine kleine Löffel mitgebracht, nicht
+               das allergeringste damals eingebracht sei, bittet dahero demütig die Herrschaft ihr
+               als einer armen Person dieserwegen nicht ungnädig zu werden. <lb/>Der Schulze aus
+                  <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               <persName key="ed_d53_4qs_fqb">David Gus</persName> wurde hierauf befragt, ob die
+               Angabe der Pustollin wahr sei oder ob er von mehr fremdem Getränk wisse? <lb/>Er
+               wisse von mehrem, deshalb er solches auch sofort der Gnädigen Herrschaft selbsten
+               angegeben habe, von dem von der Pustollin eingebrauten Trinken habe der damalige
+               Bräutigam ihm eine halbe Stof zu trinken gegeben, weil ihm aber solches nicht
+               bekommen wollen, so habe er darauf sogleich Branntwein gefordert und denselben
+               getrunken.</p>
+            <p>Bescheid.</p>
+            <p>Da die Verehelichte, auf dem Erbe zu Taberlack wohnende Pustollin übel getan, dass
+               dieselbe zuwider dem Verbot der Hochgräfl. Herrschaft, obwohl ihrer Angabe nach nur
+               gering Trinken, selbst zur Hochzeit gebraut, nicht weniger 1/4 Tonne Bier vom Bauer
+                  <gap reason="illegible"/> aus Rosengarten, dann 2 Stof Branntwein aus Drengfurt
+               genommen, so hätte selbige eine exemplarische Strafe, anderen Kontravenienten ein
+               Exempel, verdient, in Betrachtung ihrer schlechten Umstände und wehmütigen Bitte aber
+               wird hierdurch zurecht erkannt, dass selbige nur vor dieses Mal den dadurch der
+               Gnädigen Herrschaft verursachten Schaden mit 4 Fl. zu bezahlen schuldig sein
+               soll.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Actum eodem</p>
+            <p>Der Schulmeister aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               <persName key="ed_mrd_srl_j5b">Mich. Wittke</persName> wird klagbar, dass des
+               Schulmeisters <persName key="ed_zp1_cnt_vqb">Pallasch</persName> Sohn nebst des
+               Grönders Sohn aus <placeName key="ed_lld_mzx_ssb">Schiltz</placeName>,
+               Schneidergeselle, ihm letzten Sonnabend <gap reason="illegible"/> auf den Abend einen
+               verreckten und am anderen Ende des Dorfes <placeName key="ed_s3k_b12_gy">Taberlack</placeName> gelegenen Ziegenbock vor sein Fenster gebracht und
+               denselben zu seiner Prostitution und Beschimpfung daselbst an den Zaun gebunden
+               hätten, bittet also solcher dieselben zu seiner Satisfaktion gehörig zu bestrafen.
+               <lb/>Der Angeklagte <persName key="ed_znz_svl_j5b">Friedrich Pallasch</persName>
+               antwortet, dass er zwar mit dem Knecht <persName key="ed_j5z_wvl_j5b">Matthes
+                  Lowjenka</persName> und dem <persName key="ed_aqh_cwl_j5b">Adam Grenda</persName>
+               bei dem Bauern <persName key="ed_ixq_dwl_j5b">Mich. Lowjenka </persName>damaligen
+               Abends gewesen und Adam Grenda damals dem Kläger eine Posse gemacht, da er den
+               verreckten Ziegenbock vor des Schulmeisters Fenster gebracht, denselben angebunden
+               und ihm ein Wisch Stroh vorgelegt und darauf weggegangen, er, Pallasch, wäre mit dem
+               Lowjenka zwar mitgegangen gewesen, jedoch keiner von ihnen, sondern Grenda allein den
+               Ziegenbock dahin geschleppt und angebunden, bittet also ihn dieserwegen zu keiner
+               Strafe zu ziehen, sondern den Grenda als Täter desfalls gehörig anzusehen. <lb/>Der
+               Knecht Lowjenka extensiviert sich auf gleiche Art und gibt auch richtig den jungen
+               Grenda als Täter zur Bestrafung an, weil der Grenda ist nicht gegenwärtig gewesen,
+               inzwischen von dem 2. Knechte graviert und ihm die Schuld wegen des zum Schulmeister
+               geschleppten verreckten Ziegenbocks allein imputiert worden, so soll derselbe sofort
+               auch aditiert, gehörig vernommen und darauf in dieser Sache ferner definitiv erkannt
+               werden.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Eodem</p>
+            <p>Nachdem nun der junge <persName key="ed_aqh_cwl_j5b">Grenda</persName> erschienen und
+               die wider ihn angegebene Gravamina und was factum vorgelesen worden, sagt er dem
+                  <persName key="ed_znz_svl_j5b">Friedrich Pallasch</persName> und <persName key="ed_j5z_wvl_j5b">Matthes Lowjenka</persName> unter Augen, dass nicht allein
+               er, sondern auch letztere beide im besoffenen Mut eine Possen machen wollen und
+               desfalls dem jüngst abgegangenen Ziegenbock gegen des Schulmeisters Haus gebracht,
+               bitten demnach zusammen dieses Fehlen ihnen zu verzeihen und Gnade vor Recht ergehen
+               zu lassen.</p>
+            <p>Bescheid.</p>
+            <p>Da der Knecht <persName key="ed_znz_svl_j5b">Friedr. Pallasch</persName>
+               <persName key="ed_j5z_wvl_j5b">Matthes Lowjenka</persName> und <persName key="ed_aqh_cwl_j5b">Adam Grenda</persName> übel und unverantwortlich getan, dass
+               sie mit dem Aß sich herumgeschleppt, solches auch zur Prostitution an des
+               Schulmeisters Fenster gebracht und ihre damalige Trunkenheit sie nicht entschuldigen
+               kann, so sollen solche dem Schulmeister <persName key="ed_mrd_srl_j5b">Michael
+                  Wittke</persName> öffentlich abzubitten, anbei jeder derselben zur wohlverdienten
+               Strafe 2 Fl. und also in Summa 6 Fl. dieserwegen zu <unclear reason="covered" cert="high">bezahlen</unclear> schuldig sei.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Eodem in meridie</p>
+            <p>Da auch der Schmied aus <placeName key="ed_xzt_112_gy">Stawisken</placeName> namens
+                  <persName key="ed_u5w_bxl_j5b">Bosau</persName> daselbst seiner Tochter Hochzeit
+               ausgerichtet und nach Denunziation der alten Magd <persName key="ed_ulg_fxl_j5b">Maria Jordowna</persName> von daselbst dazu fremden Branntwein ausgenommen, so
+               ist derselbe dieserwegen zur Rede gestellt und zur Verantwortung gezogen worden,
+               selbter antwortet, wie er zwar vor seine Tochter vor Martini mit ihrem itzigen Mann
+               die Hochzeit ausgerichtet, jedoch dazu von keinem fremden Ort das Getränk als nur
+               richtig von der Hochgräfl. Herrschaft 1 Tonne Bier und 1 Stof Brandwein genommen, er
+               also dieserwegen gar nicht kontraveniert habe, so er mit einem Eide bekräftigen
+               wolle; wenn aber der hiesige Verwalter gemeldet, dass die alte Magd Magda Jordowna
+               ihm entdeckt, dass dem Bosau seine Schwester und Tochter aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> damals auch Branntwein gebracht habe, so
+               ist selbte hierauf hergefordert. <lb/>Maria Jordowna wird hierauf ernstlich vermahnt,
+               die eigentl. Wahrheit zu bekennen, was ihr dieserhalb bewusst sei.<lb/>Es wäre der
+               Verwalter David Wilewski vor 8 Tagen zu ihr in den damaligen Arrest gekommen und sie
+               befragt, was der Schmied vor Branntwein und woher er solchen auf der Hochzeit gehabt,
+               da er nur 2 Stof davon von der Herrschaft genommen, dem sie geantwortet, ich weiß
+               nicht, ob er fremden Branntwein gehabt habe oder nicht, ich bin nicht daselbst
+               gewesen, auf weiteres Anhalten habe sie gesagt, sie wisse nicht, ob die Schwester
+               oder Tochter auch etwa eine halbe Stof Branntwein aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> möge gebracht haben, dieses wäre die Wahrheit, so sie
+               beeiden könne. <lb/>Der Schulze aus Stawisken <persName key="ed_wht_yxl_j5b">Schack
+                  David</persName> wird hierauf auf sein Gewissen befragt, ob der Schmied daselbst
+               und woher er den fremden Branntwein zur Hochzeit genommen? <lb/>Er wäre nicht auf der
+               Hochzeit gewesen und wisse also davon gar nichts, als er diese Sache untersuchen
+               solle, habe er die Nachbarn im Dorfe, so damals daselbst gewesen, hierüber befragt,
+               so hätten selbige sich auch mit der Unwissenheit entschuldigt, so er zu beeiden
+               erbötig wäre. <lb/>Hierauf ist dem hiesigen Verwalter Wilewski der angegebenen Magd
+               Aussage vorgelesen worden, welcher ihr seine zurecht getane Anzeige in <gap reason="illegible"/> sagt, selbte aber dabei bleibt, dass sie nur dieserwegen
+               gemutmaßt, ob nicht etwa des Schmieds Schwester oder Tochter einigen Branntwein dahin
+               gebracht haben, wie solches in ihres Wirts des <persName key="ed_on4_qx4_5qb">Bannaschen</persName> Stube gesprochen wäre. <lb/>Die <persName key="ed_drl_kyl_j5b">Bannaschkin</persName> wird dieserwegen auf ihr Gewissen
+               vermahnt, die Wahrheit auszusagen, was ihr hierbei wissend sei und in ihrem Hause
+               gesprochen? <lb/>Weil so viel Nachfrage wegen des fremden Branntwein geschehen, so
+               hätte sie solches bewundert und gesprochen, wir haben davon nicht vernommen, und wäre
+               dann, dass die Schwester oder Tochter des Schmieds etwas dahin gebracht haben
+               möchten, so sie jedoch nicht eigentl. wüssten, deshalb auch die Bannaschkin schwören
+               wollte. </p>
+            <p>Bescheid.</p>
+            <p>Da der Schmied <persName key="ed_u5w_bxl_j5b">Bosau</persName> wegen eingeführten
+               fremden Branntweins gar nicht überführt werden können, so wird derselbe von aller
+               Strafe absolviert, die Magd <persName key="ed_ulg_fxl_j5b">Maria Jordowna</persName>
+               aber, so zuerst falsa dem Verwalter <persName key="ed_omn_f5g_bqb">Wilewski</persName> angegeben und jetzo ihre damalige Angabe nicht zugestehen,
+               noch solche erweislich machen kann, soll desfalls 24 Stunden im Arrest gehalten
+               werden.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Actum eodem.</p>
+            <p>Da der Krüger aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+               <persName key="ed_uxg_vyl_j5b">Christoph Moiditz</persName> der Hochgräfl. Herrschaft
+               denunziert, dass die beiden Knechte als <persName key="ed_us4_dzl_j5b">Matthes
+                  Glowienka</persName> und <persName key="ed_zyl_hzl_j5b">Christoff Zobel</persName>
+               zuwider der Königl. Allergnädigsten und geschärften Ordre letzteren Sonnabend vor 14
+               Tagen bei ihm im Krug gewesen, <seg type="comment"><orig>Tabakspfeife in der Stube
+                     angesteckt gehabt und damit in die Scheune gegangen</orig><note xml:id="nx1f_4dd_5xb">Siehe das Dokument vom <ref target="lehndorff_xy3_cmb_3rb">25. Mai 1717</ref>.</note></seg>, da er eben
+               im Keller Bier zu zapfen gewesen, da darauf der Schulze es ihm gemeldet und sie beide
+               darauf herausgegangen und die 2 Knechte Taback rauchend in der Scheune gefunden,
+               Glowienka wäre darüber <gap reason="illegible"/> geworden, hätte die Pfeife mit dem
+               darin gehaltenen Feuer in die Suppe gesteckt, Zobel aber die seinige geraucht, darauf
+               der Schulze beiden die Pfeife weg und solche zu sich genommen habe, so sind gedachte
+               beide Knechte in dato adcitiert und solcherhalb zur Verantwortung gezogen worden,
+               dieselbe als Glowienka und Zobel müssen dieses zugestehen, vermöge von alle <gap reason="illegible"/>samkeit damit gebraucht zu haben und bitten sie vor dieses Mal
+               mit der Strafe zu verschonen, sie würden es ihre lebend Tage nicht mehr tun. Des
+               Zobels Mutter gibt an, dass des Schulzen Bruder <persName key="ed_ynr_szl_j5b">Michael Gus</persName> nach Pfingsten a. c. auch im Felde aufm Wagen Toback
+               geraucht, und dass dieser wegen gewesene Erbsenstroh vom ausgestreuten Feuer brennend
+               gestanden, bittet dahero, ihn deshalb auch zu bestrafen. <lb/>Der Schulze <persName key="ed_ell_zzl_j5b">Gus</persName> gesteht solches und gibt an, dass er
+               dieserwegen den Bruder sofort, da er es erfahren, braun und blau geschlagen und zeigt
+               desfalls seinen in Stücke geschlagenen Peitschenstock vor, wie dieses seine Nachbarn
+               ihm einzeigen könnten und bezieht sich desfalls auf seinen Nachbarn <persName key="ed_q4l_g1m_j5b">Christoff Kiworra</persName>, so solches selbten mit
+               angesehen habe.</p>
+            <p>Bescheid.</p>
+            <p>Da die beiden Knechte <persName key="ed_us4_dzl_j5b">Matthes Glowienka</persName> und
+                  <persName key="ed_zyl_hzl_j5b">Christoff Zobel</persName> ihr grobes und
+               mutwilliges Verbrechen selbsten zugestanden und der Königl. allergnädigsten
+               Verordnung kontraveniert haben, so sollen selbige mit Stockschlägen vor dieses Mal
+                  <gap reason="illegible"/> geprügelt werden und jeder besonders 1 Fl. zu dem
+               Gerichtskasten <gap reason="illegible"/>, des Schulzen Knecht aber, da er wegen des
+               unzulässigen Tabackrauchens bereits öffentlich auf gleiche Art bestraft worden, wird
+               absolviert, sämtliche aber bei der angeordneten Bestimmungs-Strafe hiedurch allen
+               Ernstes vermahnt, in Zukunft denen Königl. allergnädigsten Verordnungen untertänigst
+               nachzuleben.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

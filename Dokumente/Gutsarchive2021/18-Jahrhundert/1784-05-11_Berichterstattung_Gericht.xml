@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_pwt_cm4_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die </title><title>Königliche Visitations-Kommission in Angerburg fordert die Reichsgräfliche
+                    Jurisdiktion in Steinort zur Berichterstattung auf. Angerburg, 11. Mai 1784
+                </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 71, Bl. 1-2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1784-05-11" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_sgc_2wf_2y">Leitner, Johann Georg (1761-1829)</persName>
+            </correspAction>
+            <note>Zu diesem Zeitpunkt war <persName key="ed_sgc_2wf_2y">Georg Leitner
+               </persName>bereits <ref target="lehndorff_kxz_rlz_hqb">Justitiar in Steinort</ref>.
+               Siehe hierzu den <ref target="lehndorff_vqg_kdq_51b">Brief von Rhenius vom 26. Mai
+                  1784.</ref>
+            </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_pwt_cm4_3qb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <p>Unterzeichnete Königl. Visitations-Kommission weist der Reichsgräflichen Jurisdiktion
+               zu Steinort hierdurch an, binnen 3 Tage zu berichten,</p>
+            <p>
+               <list>
+                  <item>1. warum <persName key="ed_kc1_xfp_5qb">Michael Schönfeldt</persName>
+                            aus <placeName key="ed_xjg_d12_gy">Stobben</placeName> zuwider dem
+                            Königl. Hofgerichts-Befehle vom 7. Okt. 1783 nicht an die Königl.
+                            Angerburgsche Kreisjustizkommission gesandt ist,</item>
+                  <item>2. was das für ein Untertan oder Gerichtseingesessener gewesen ist,
+                            den die Reichsgräfliche Jurisdiktion vor kurzem nach <placeName key="ed_y5w_wtp_dz">Barten</placeName> an den Richter <persName key="ed_n23_jby_vqb">Alberti</persName> gesandt hat, ihm einen
+                            Inquisitions-Prozess zu machen, und den Alberti dazu nicht angenommen
+                            hat, auch wie es demnächst mit dieser Inquisition weiter geworden
+                            ist.</item>
+               </list>
+            </p>
+            <p>Und da die unterzeichnete Kommission, ohne sich selbst bei Sr. Königl. Majestät und
+               ihren Hohen Vorgesetzten <seg type="comment"><orig>responsable</orig><note xml:id="nist_ldg_vxb">verantwortlich</note></seg> zu machen, zu allen diesen
+               Irregularitäten und Illegalitäten nicht stillschweigen, auch die Reichsgräfl.
+               Jurisdiktion mit der solange versprochenen Erklärung über die Regulierung der
+               Gerichtsverwaltung nicht länger befristen darf, so wird der Reichsgräfl. Jurisdiktion hierdurch<list>
+                  <item>3. angewiesen, sich binnen 8 Tagen positiv zu erklären, wie sie ihre
+                     Gerichtsverwaltung auf gesetzmäßigen Fuß zu setzen gesonnen ist.</item>
+               </list>
+            </p>
+            <p>Wird die Reichsgräfliche Jurisdiktion allem diesen amtlichen Anverlangen nicht
+               promptes Genüge leisten, so hat sie unfehlbar zu gewärtigen, dass von Seiten der
+               Kommission beim Königl. Hofgericht davon Vortrag getan und auf schärfere Verfügungen
+               angetragen werden wird.</p>
+            <p>Angerburg, den 11. Mai 1784</p>
+            <closer>
+               <salute>Von Kommissions wegen</salute>
+               <signed>
+                  <persName key="ed_r3s_ymw_mbb">Glave</persName>
+                  <lb/>Regierungs- und Hofgerichtsrat</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

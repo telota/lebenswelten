@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_rsm_4qz_h5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Jahresrechnung über Einkünfte und Gefälle der Reichertswaldeschen Güter. 1776 bis
+               1777</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 194, Bl. 1-6v</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Die Akte ist stark beschädigt.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date from="1776-07-01" to="1777-07-01" cert="high"/>
+         </creation>
+         <abstract>
+            <p>Aus der Rechnung 1775/76 ergab sich ein barer Kassen-Bestand von 1.069 Rtlr. 14
+                    5/8 D. Laut Schulden-Register kamen dazu 1.422 Rtlr. 2 Gr. 10 D., es restierten
+                    1.2381 Rtlr. 17 Gr. 5 D. Die Summe betrug 1.491 Rtlr. 3 Gr. 6 5/8 D. In 1776/77
+                    betrugen die Einnahmen aus beständigen Gefällen (Zins) 3.926 Rtlr. 23 Gr. 14 D.
+                    Die Einnahmen aus unbeständigen Gefällen (Haus- und Garten-Zins) 4.99 Rtlr. 24
+                    Gr. 10 1/2 D. Es restierten 239 Rtlr. 16 1/2 Gr. Die Strafgelder beliefen sich
+                    auf 60 Rtlr., für verkaufte Häuser kamen 13 Rtlr. 15 Gr. ein. Die Holz- und
+                    Torfgefälle beliefen sich auf 270 Rtlr. 6 Gr., die Holz-Gelder auf 317 Rtlr. 1
+                    Gr. 4 1/2 D., auch hier gab es einen ausstehenden Rest von 21 Rtlr. 13 Gr. 13
+                    1/2 D. Die „sogenannten Post-Gelder‟ beliefen sich auf 119 Rtlr. 7 Gr. 1 1/2 D.,
+                    es restierten 14 Rtlr. 27 Gr. 12 D. Die Kontributionsgelder waren in Höhe von
+                    2.486 Rtlr. 26 Gr. 13 1/2 D. entrichtet, hier restierten 8 Rtlr. 7 Gr. Die
+                    Mühlen-Arrende betrug 572 Rtlr. 15 Gr. , die Garten-Arrende 19 Rtlr. 15 Gr. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_rsm_4qz_h5b"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Jahresrechnung von den Einkünften und Gefällen der Hochburggräflich und Gräflich
+                    Dohna-Reichertswaldeschen Gütern vom 1. Juli 1776 bis dahin 1777</p>
+         </div>
+      </body>
+   </text>
+</TEI>

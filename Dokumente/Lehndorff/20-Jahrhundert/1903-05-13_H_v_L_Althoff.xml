@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_zg5_c11_fy">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Heinrich Graf von Lehndorff an Friedrich Theodor Althoff. Preyl, 13. Mai 1903</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>VI. HA, Nachlass Friedrich Theodor Althoff, Nr. 824, Bl. 2-2v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_nml_dw2_cy">Lehndorff, (Ahasverus) Heinrich (August Otto
+                        Magnus Ferdinand) Graf von (Königsberg, 1.4.1829-Preyl bei Wargen,
+                        24.4.1905)</persName>
+               <placeName key="ed_o23_l11_fy">Preyl bei Wargen</placeName>
+               <date when="1903-05-13" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_uf2_pxz_2y">Althoff, Friedrich Theodor (1839-1908)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zg5_c11_fy"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Preyl bei Wargen Ostpreußen, 13. Mai 1903</dateline>
+               <salute>Hochverehrte <seg type="comment">
+                     <orig>Exzellenz</orig>
+                     <note xml:id="nbdp_vxl_zdb">Althoff war Ministerialdirektor im
+                        Kultusministerium.</note>
+                  </seg>
+               </salute>
+            </opener>
+            <p>Bezüglich einer Angelegenheit, deren Gelingen mich hochgradig interessiert, hat
+                    Herr Professor <persName key="ed_zjk_p5l_zdb">Zorn</persName> aus <orgName key="ed_yhq_rnr_gbb">Königsberg</orgName> mit Ihnen bereits in Verbindung
+                    gestanden, und hat Ihnen meinen großen Wunsch auch wohl nicht vorenthalten. So
+                    bleibt mir nur übrig, in der allerkürzesten Form zu bestätigen, dass es uns
+                    allerdings eine <hi rendition="#u">große</hi> Freude sein würde, wenn Dr.
+                        <persName key="ed_kzg_z11_fy">Langer</persName> in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> zum Universitäts-Professor
+                    daselbst ernannt werden könnte. Langer ist mein langjähriger Hausarzt und hat
+                    sehr sehr schwere Zeiten mit mir durchgemacht – was ihm mehrfach vielleicht noch
+                    immer in nicht ferner Zeit bevorstehen dürfte. Er ist dabei ein ausgezeichneter
+                    Arzt und ganz vortrefflicher Mensch von hoher medizinischer Bildung, was Sie
+                    gewiss besser wissen als ich. Das legt nahe, dass sie natürlich mir ein sehr
+                    großes Gefallen erweisen würden, wenn sein Wunsch in Erfüllung ginge, was
+                    allerdings für Euer Exzellenz kaum maßgebend sein kann, aber ich versuche für
+                    Lange gern alles, was in meinen schwachen Kräften steht</p>
+            <closer>
+               <salute>als Euer Exzellenz ergebenster</salute>
+               <signed>Graf von Lehndorff General</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_h2v_v4x_dwb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Staatskanzler Karl August Fürst von Hardenberg an Georg Adam Graf von
+                    Schlieben wegen der Eigentumsverleihung für die Bauerngüter. 23. Juli
+                    1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 74, Nr. 1326, Bl. 51-54v.</idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Klein, Ernst, Von der Reform zur Restauration.
+                            Finanzpolitik und Reformgesetzgebung des preußischen Staatskanzlers Karl
+                            August von Hardenberg, Berlin 1965, S. 136 </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_uvr_lxn_zdb">Hardenberg, Karl August Fürst von
+                        (1750-1822)</persName>
+                    <date when="1811-07-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_fl1_lgs_lcb">Schlieben, Georg Adam Graf von
+                        (1760-1817)</persName>
+                </correspAction>
+                <note>Graf von Schlieben hatte am 17. Juli 1811 dem Staatskanzler ein Memorandum
+                    eingereicht. Darin hatte er die freie Disposition über einen Teil der
+                    Bauernäcker verlangt, eine Eigentumsverleihung aber mit der Begründung
+                    abgelehnt, dass damit die Existenz der Gutswirtschaften in Frage gestellt wäre.
+                    Vgl. Knapp, Georg Friedrich, Die Bauernbefreiung und der Ursprung der
+                    Landarbeiter in den älteren Teilen Preußens, Leipzig 1887, Bd. 2, S. 270
+                    f.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_h2v_v4x_dwb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, 23. Juli 1811</dateline>
+					<salute/>
+                </opener>
+				<p>Ich habe sehr reiflich die Gründe erwogen, welche Ew. Hochgeboren in der Beilage Ihres
+                    geehrten Schreibens vom 17. d. M. gegen die Eigentumsverleihung für die
+                    Bauer-Güter in Preußen anführen. Sie beziehen sich beinahe ausschließlich auf
+                    die Not, worin diese Provinz durch den Krieg geraten ist, und auf den traurigen
+                    Zustand, worin sich sowohl die Herrschaftlichen wie die Bauer-Güter im
+                    Allgemeinen befinden. Gerade diese traurige Lage ist es aber, die es nötig und
+                    unerlässlich macht, den Bauern eine selbständige Existenz und den Gutsherren
+                    Mittel zu verschaffen, die Güter retablieren und sich erhalten zu können.
+                    Blieben die gutsherrlichen und bäuerlichen Güter in der bisherigen Verfassung,
+                    würden ihre Verhältnisse zueinander und gegen den Staat nicht geändert, so würde
+                    für die ersteren Ruin entstehen und durch solchen dem letzteren tiefe Wunden
+                    geschlagen werden. In der bisherigen Verfassung liegt das Recht des Staates zu
+                    fordern, dass die Bauernhöfe von den Gutsherren in prästationsfähigem Stande
+                    erhalten werden, und die Abgaben und Lasten, die der letztere davon bezieht, so
+                    mäßig sein müssen, dass der Bauer dabei bestehen kann. Je mehr die Last der
+                    Zeitumstände den Bauern drückt, je schwerer es ihm wird bestehen und die
+                    Staatsabgaben prästieren zu können, desto nötiger wird die Herabsetzung der
+                    gutsherrlichen Prästationen und die Ausübung der Pflicht, die zurückgekommenen
+                    Höfe zu retablieren und in kontributionsfähigen Stand zu setzen. Was würde nun
+                    wohl die Folge sein, wenn der Staat dies verlangte? <lb/>Gewiss würden die
+                    Dienste und Abgaben von den Gutsherrn auf längere Zeit ganz oder teilweise
+                    suspendiert und daneben große Summen zum Retablissement verwendet werden müssen.
+                    Nun können aber die Herrschaftlichen Güter die Dienste, da darauf ihre
+                    Bewirtschaftung beruht, jetzt gleich nicht entbehren. Auch können sie im
+                    Allgemeinen nicht darauf rechnen, Retablissements-Gelder geliehen zu erhalten,
+                    da man den Punkt, bis zu welchem die meisten Güter verschuldet sind, nicht mehr
+                    für sicher hält und darüber hinaus also kein Kredit existiert. <lb/>Wie wollen,
+                    wie können sich denn nun hier die Gutsherren helfen? Ich sehe hierzu nirgends
+                    Mittel. Nur die absolute Unfähigkeit, sich selbst und ihren Bauern zu helfen,
+                    erblicke ich, und mit tiefer Bekümmernis musste ich daher nach Mitteln forschen,
+                    diesem beunruhigenden Zustande entgegen zu wirken. Ich musste dies umso mehr
+                    tun, da einerseits der Bauer, von der einzigen gesetzlichen Hilfe, die er in der
+                    Unterstützung seines Gutsherrn finden sollte, entblößt, nun auch sonst nirgends
+                    Mittel findet, sich zu helfen und für die Herstellung seines Hofes zu sorgen,
+                    und da andererseits die Finanz- und politische Lage des Staates nicht erlaubt,
+                    die Abgaben, die auf diesen Höfen ruhen, zu entbehren. Die Sorge für deren
+                    Erhaltung, für Sicherung der Abgaben und für Konservation der Gutsherren selbst
+                    erheischt gebieterisch eine Änderung des Zustands, aus welchem Übel sie entweder
+                    entspringen, oder durch welchen sie doch wenigstens eine lähmende und
+                    zerstörende Wirkung erhalten. Es zeigen sich dazu nur zwei Wege: <lb/>a) die
+                    Verleihung des Eigentums für die Bauerngüter im Wege einer angemessenen,
+                    einfachen und leicht zu gewährenden Enrschädigung für solche und die in so
+                    mannigfacher Beziehung schädlichen Leistungen, <lb/>b) die ausgedehnte
+                    Parzellierungsbefugnis für große und kleine Güter und die Erlaubnis, für
+                    verschuldete Güter einen Teil der dadurch erlangten Kaufgelder in solchen so
+                    nötigen und nützlichen Verbesserungen verwenden zu dürfen [...]</p>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

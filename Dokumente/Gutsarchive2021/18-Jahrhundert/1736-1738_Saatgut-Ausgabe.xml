@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_xpx_xkr_1qb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Übersicht über die Ausgabe von Saatgut an die Bauern und die Rücklieferung
+               seitens der Bauern. Berechnung von Abgaben und Deputaten. 1736 bis 1738 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Finanzen</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="editorial">
+               <p>Die Akte enthält die Namen aller Bauern auf den Gütern Labab, Stawisken,
+                  Taberlack, Stobben, Serwillen, Stawken, Kittlitz, Steinort und Rosengarten. In
+                  GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 179 alle Angaben für
+                  1737 und 1738.</p>
+               <p>Siehe die separaten Aufzeichnungen über die Ausgabe von Getreide aus dem Speicher
+                  des Hofes Groß Steinort an die Bauern der Lehndorffschen Güter für die Jahre 1738
+                  und 1745, ebd. Nr. 181 und 182, und die Register der Getreideabgaben der Bauern
+                  der Lehndorffschen Güter für 1739 bis Mai 1745, Nr. 209 bis 213.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 180, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_xpm_112_gy">Labab</placeName>
+            <date from="1736-01-01" to="1738-12-31" cert="high"/>
+         </creation>
+         <abstract>
+            <p>1736 lebten an Bauern in <placeName key="ed_xpm_112_gy">Labab</placeName>: <persName key="ed_x23_tnf_fqb">Schulze Schack</persName>, <persName key="ed_gzf_lw4_5qb">Hans Braun</persName>, <persName key="ed_o32_zl3_gqb">Christoph
+                  Gwiasda</persName>, <persName key="ed_alv_ln3_gqb">Michael Gwiasda
+               jung</persName>, <seg type="comment">
+                  <orig>Gellesch</orig>
+                  <note xml:id="nvwp_dx4_5qb">Es gab verschiedene Gellesch in Labab,</note>
+               </seg>, <persName key="ed_x4v_5w4_5qb">Andreas Brose</persName>, <lb/> in <placeName key="ed_xzt_112_gy">Stawisken</placeName>: <persName key="ed_ix3_23b_5qb">Adam
+                  Katzmarzig</persName>, <persName key="ed_kpf_3x4_5qb">Jan Brose</persName>,
+                  <persName key="ed_rpg_bww_2qb">Christoph Jarreck</persName>, <persName key="ed_eys_trh_bqb">Boteck</persName>, <persName key="ed_on4_qx4_5qb">Bannasch</persName>, <persName key="ed_jnk_dd1_5qb">Georg Masuch</persName>,
+                  <persName key="ed_rmr_wx4_5qb">Michael Harrasch</persName>, <lb/> in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>: <persName key="ed_ad3_z3b_5qb">Schulze
+                  Valtin Masuch</persName>, <persName key="ed_rrc_fy4_5qb">Jan Kiworra</persName>,
+                  <seg type="comment">
+                  <orig>Polatzki</orig>
+                  <note xml:id="nmts_ly4_5qb">
+                     <persName key="ed_bqc_gyp_pwb">Pollaschke</persName>
+                  </note>
+               </seg>, <persName key="ed_vrc_dgb_5qb">Rautenberg</persName>, <persName key="ed_gcv_vbc_2qb">Albrecht Wilewka</persName>, <persName key="ed_od2_33c_5qb">Jacob Masuch</persName>, <persName key="ed_b3j_k4z_tqb">Albrecht
+                  Gwiasda</persName>, <persName key="ed_mvy_1z4_5qb">Jan Liss</persName>, <persName key="ed_v5c_gp1_5qb">Toffel Matzick</persName>, <persName key="ed_lww_gz4_5qb">Jan
+                  Kuckel</persName>, <persName key="ed_r3x_tj1_5qb">Kopitkow</persName>, <persName key="ed_lcx_hk1_5qb">David Gus</persName>, <persName key="ed_hd5_3l1_5qb">Hans
+                  Klein</persName>, <persName key="ed_wtk_qz4_5qb">Uwis</persName>, <persName key="ed_tbr_tz4_5qb">Andreas Rompel</persName>, <persName key="ed_pmk_wz4_5qb">Jan
+                  Wilewka</persName>, <seg type="comment">
+                  <orig>
+                     <persName key="ed_hq1_rhx_clb">Krüger Chalier</persName>
+                  </orig>
+                  <note xml:id="nrwm_jbq_gqb">Abraham Chalier. 1743 war er, nachdem er zuvor noch
+                     zwei Hufen angenommen hatte, nach Litauen entlaufen und hinterließ einen großen
+                     Schuldenberg. Da er ursprünglich als „Kolonist‟ ins Land gekommen war, war eine
+                     Strafverfolgung nur durch ein königliches Gericht möglich. GStA PK, XX. HA,
+                     Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 266.</note>
+               </seg>, Schmied <persName key="ed_dtm_b1p_5qb">Gonschewski</persName>, <persName key="ed_h2p_21p_5qb">Peter Ties</persName>, <persName key="ed_ap1_h1p_5qb">Schafftzig</persName>, <persName key="ed_vh5_31p_5qb">Zabel</persName>, <lb/> in
+                  <placeName key="ed_xjg_d12_gy">Stobben</placeName>: <persName key="ed_lsd_cby_m2b">Schulze Wilewka</persName>, <persName key="ed_oyw_5md_2qb">Gonneck</persName>,
+                  <persName key="ed_itq_mgq_lpb">Georg Masuch</persName>, <persName key="ed_v2d_kmd_2qb">Paul Gus</persName>, <persName key="ed_ltw_qfp_5qb">Treus</persName>, <persName key="ed_z5f_ntd_2qb">Klimecke</persName>, <persName key="ed_kc1_xfp_5qb">Schönfeldt</persName>, <persName key="ed_g4p_zrd_2qb">Schack</persName>, <persName key="ed_sqv_5rd_2qb">Michael Jarreck</persName>,
+                  <seg type="comment">
+                  <orig>Jan</orig><note xml:id="nixv_vgp_5qb">Johann</note>
+               </seg>
+               <persName key="ed_t1l_tpd_2qb">Kiworra</persName>, <persName key="ed_mjk_ygp_5qb">Skowroda</persName>, <persName key="ed_axg_lhp_5qb">Jan Gus</persName>, <persName key="ed_tmn_lhp_5qb">Valtin Gus</persName>, <persName key="ed_mbn_t24_gqb">Georg
+                  Scheimann</persName>, <persName key="ed_n12_v4d_2qb">Kordack</persName>, <persName key="ed_sy4_13p_5qb">Rautenberg</persName>, <lb/>in <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>: <persName key="ed_lss_rph_bqb">Casimir</persName>,
+                  <persName key="ed_njs_g3p_5qb">Michael Masuch</persName>, <persName key="ed_ddn_k3p_5qb">Moczarski</persName>, <persName key="ed_hsm_m3p_5qb">Vasco</persName>, <persName key="ed_xr3_43p_5qb">Kösling</persName>, <lb/> in
+               Pristanien: <persName key="ed_bc3_grw_gkb">Fab. Scheimann</persName>, <persName key="ed_ljr_bsz_tqb">Fab. Zwikowski</persName>, <persName key="ed_fym_w3p_5qb">Christoff Kuckel</persName>, <persName key="ed_tw2_bjp_5qb">Valt.
+                  Bartnick</persName>, <persName key="ed_rck_jjp_5qb">Jan Scheimann</persName>,
+                  <persName key="ed_q4j_njp_5qb">Mich. Zwikowski</persName>, <lb/>in <placeName key="ed_nkz_b12_gy">Stawken</placeName>: <persName key="ed_th5_qjp_5qb">Seska</persName>, <persName key="ed_ptp_rtr_vqb">Rautenberg</persName>, <lb/>
+               in <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>: <persName key="ed_afs_w5w_2qb">Schulze Borck</persName>, <persName key="ed_ur5_zjp_5qb">Valt. Kiworra</persName>, <persName key="ed_sjg_cft_fqb">Valt.
+               Gritzka</persName>, <persName key="ed_qbb_mft_fqb">Jan Schuja</persName>, <persName key="ed_cpk_wsw_2qb">Scripeck</persName>, <persName key="ed_ept_xkp_5qb">Kussa</persName>, <lb/>in <placeName key="ed_pxt_cnh_1y">Steinort</placeName>:
+               Krüger <persName key="ed_gzp_zkp_5qb">Grenda</persName>, <persName key="ed_v2x_blp_5qb">Gustav Weißberg</persName>, <lb/>in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>: <persName key="ed_xwj_2lp_5qb">Kehl</persName>, <persName key="ed_bj5_flp_5qb">Faulheid</persName>. <lb/> Sie
+               erhielten im Frühjahr 1736 Korn (Weizen und Roggen), Gerste, Hafer, Erbsen und
+               Bohnensaat (verzeichnet ist nicht die Menge, sondern der Wert in Rtlr. und Pf.) und
+               gaben im Herbst 1736 entsprechend zurück. <lb/> Es folgt eine Liste, was die Bauern
+               im Herbst 1726 teils auf Zins, teils gegen Bargeld, teils zur Saat nach <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gebracht haben (dabei auch zwei
+               Lieferungen aus <placeName key="ed_gz1_n1p_5qb">Ogonken</placeName>). Z. B. verkaufte
+               Bauer Faulheid (!) für 20 Rtlr. Roggen. Einige wie Bauer Rautenberg brachten Roggen
+               als ein Anlehen aus 1735. <lb/>Es folgt eine Spezifikation, wohin Getreide übernommen
+               wurde - auf den Hof oder als Deputat (Brotgetreide). So wurde im August 1736 Roggen
+               und Gerste als „Brotkorn“ genommen, Gärtner Liss, Seska, Mitzca, der Hofmann aus
+               Taberlack und aus Steinort, Gärtner Klein, erhielten Brotgetreide als Deputat. Gerste
+               wurde auch „ins Gewölbe“ eingelagert, Hafer war „vor die Gänse“, wurde aber auch mit
+               der Jungfer <persName key="ed_svg_gdz_4kb">Schüllerin</persName> nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gebracht. Hafer für 1 Rtlr. erhielt der
+               Prediger <persName key="ed_uwq_mlp_5qb">Tamnau</persName> in <placeName key="ed_wkm_lx5_sy">Beynuhnen</placeName>. In den folgenden Monaten ging u. a.
+               Getreide an Major de Bonet und General v. Borck für deren Pferde, wurde zu „<seg type="comment"><orig>Gritz</orig><note xml:id="nwzp_jg5_txb">Grütze</note></seg>“
+               verarbeitet, nach <placeName key="ed_ngj_jlt_g2b">Sensburg</placeName> geschickt,
+               verliehen, ging als Deputat an Waldhüter <persName key="ed_pfz_zsh_bqb">Rautenberg</persName>, Gärtner <persName key="ed_rgm_k1d_5qb">Plesska</persName>
+               und <seg type="comment"><orig>Töpfer Balzer</orig><note xml:id="ntds_v3n_fyb"><persName key="ed_jc4_dhn_fyb">Balzer Hasse</persName></note></seg> u. a.,
+               und wurde in die Mühle gebracht. Im Januar 1737 taucht die Verwendung als
+               „Branntweinschrot“ bzw. „zu Branntwein“ auf, nun wurde auch Getreide nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> geschickt. Im Januar 1737 erhielt
+               Postreiter <persName key="ed_irh_ykx_clb">Deuerkauf</persName> als Jahresgehalt Hafer
+               im Wert von 2 Rtlr. Im Februar 1737 wurde Brotgetreide für 2 Rtlr. auch an den
+               Steinortschen Brauer gegeben, Roggen für 6 Rtlr. wurde zu Branntwein verarbeitet. </p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xpx_xkr_1qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

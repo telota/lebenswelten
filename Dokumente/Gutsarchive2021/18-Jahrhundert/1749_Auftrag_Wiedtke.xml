@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_ogw_dtv_msb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Schriftlicher </title><title>Auftrag Nr. 3 für den Pächter Johann Wiedtke in Serwillen. Steinort, September
+               1749</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 278, Bl. 3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_uh3_vc3_t2b">Nagel, Johann Christoph (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date notBefore="1749-09-03" notAfter="1748-09-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_wfv_2f2_2qb">Wiedtke, Johann (-)</persName>
+            </correspAction>
+            <note>Siehe den 2. Auftrag vom <ref target="lehndorff_b3v_5rv_msb">2. September
+                  1749</ref>. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941401"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <salute>Mein sehr lieber Herr Arrendator</salute>
+            </opener>
+            <p>Ihro Gnaden die <persName key="ed_q4s_xyl_2y">Frau Gräfin</persName> ersucht ihn gar
+               sehr, dass er doch so gut ist, und von dem Meister Schmied aus <placeName key="ed_h35_jqh_my">Drengfurt</placeName> ein paar Räder, welche Ihro Gnaden die
+               Frau Gräfin daselbst hat beschlagen lassen, morgen in aller Frühe von Drengfurt zu
+               sich nach <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> holen lasse, von
+               daselbst Ihro Hochgeb. Gnaden sogleich die Räder abholen lassen wird. Es ersucht Ihro
+               Hochgräfl. Gnaden ihn zugleich, dass er so gut sein möge und vor die Bezahlung gut
+               sage, weil sonsten der Schmied selbige nicht möchte abfolgen lassen. Sobald die Räder
+               nur herkommen und besehen worden sind, so werden Ihro Hochgeb. Gnaden gleich das Geld
+               an ihn zur Bezahlung übersenden. Es wird nochmals gebeten, dass der Herr Wittke
+               dieses gewiss aus Gutheit bestelle.</p>
+            <closer>
+               <signed>J. C. Nagel</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

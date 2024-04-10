@@ -1,0 +1,932 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_d55_sz4_5pb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Nachweisung von sämtlichen in den Gräflich Steinortschen Gütern in Lohn und
+                    Deputat stehenden Personen. [1810</title><title>]</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Zur Datierung siehe: GStA PK; XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                  10. Im APO sind nur wenige (1792/93, 1834/35) Lohn- und Deputatmanuale und
+                  Tagelohnnachweise für 1796/97, 1799-1800 und 1829/30 überliefert (Nr. 89, 93, 232,
+                  248, 257), diverse unsortierte Lohn- und Deputatzettel auch für 1727-1778 (Nr.
+                  45), für 1736-1800 (mit Unterbrechungen) in: GStA PK, XX. HA, Rep. 54 Gutsarchiv
+                  Lehndorff-Steinort, Nr. 54, Nr. 270, 271 und 274/1-2, 748, 749, 751. Hier auch Nr.
+                  757 eine Übersicht über Lohnzahlungen an Bedienstete auf den Steinortschen Gütern
+                  1746-1751, 1800-1860.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 188, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1810-01-01" notAfter="1810-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_d55_sz4_5pb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>
+               <table rows="25" cols="6">
+                  <row role="label">
+                     <cell>No.</cell>
+                     <cell>Namen der Güter und der auf Gehalt oder Lohn stehenden
+                                Individuen</cell>
+                     <cell>Erhalten an barem Gehalt oder Lohn jährlich</cell>
+                     <cell>An Deputat oder sonstigen Emolumenten und Rechten</cell>
+                     <cell>Ist ihm laut Kontrakt oder alten Usancen zu halten
+                                bewilligt</cell>
+                     <cell>Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_pxt_cnh_1y">Gr. Steinort</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Inspektor <persName key="ed_yx5_cbg_nbb">Berent</persName>
+                     </cell>
+                     <cell>230 Rtlr. incl. 30 Rtlr. Frühstücksgeld</cell>
+                     <cell>Freie Beköstigung und frei die ordinäre Wäsche</cell>
+                     <cell>nichts</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Schreiber <persName key="ed_tjf_ytm_zcb">Rohde</persName>
+                     </cell>
+                     <cell>50 Rtlr. Gehalt</cell>
+                     <cell>wie vor</cell>
+                     <cell>wie vor</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Schreiber <persName key="ed_irv_ptm_zcb">Willimzig</persName>
+                     </cell>
+                     <cell>40 Rtlr. dito</cell>
+                     <cell>dito</cell>
+                     <cell>dito</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Chirurgus <persName key="ed_oxt_jzb_tcb">Kayser</persName>
+                     </cell>
+                     <cell>72 Rtlr. incl. 12 Rtlr. Frühstücksgeld</cell>
+                     <cell>dito</cell>
+                     <cell>Ein eigenes Pferd auf eigenem Futter zu Bereisung der Kranken
+                                außerhalb den Gütern, und ein herrschaftliches Dienstpferd zu
+                                Bereisung der Kranken in den Gütern</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Koch <persName key="ed_ywf_25m_zcb">Wittke</persName>
+                     </cell>
+                     <cell>50 Rtlr. Lohn</cell>
+                     <cell>Freie Beköstigung für sich, Frau und Kinder incl. 3 Stof <seg type="comment">
+                           <orig>Halbander</orig>
+                           <note xml:id="njdj_5sg_yqb">Bedeutung unklar</note>
+                        </seg> täglich </cell>
+                     <cell>Eine Kuh und 3 Schafe auf Futter und Weide und 3 Gänse bloß zu
+                                Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>Hegemeister <persName key="ed_nry_whj_2qb">Wittke</persName>
+                     </cell>
+                     <cell>33 Rtlr. 60 Gr.</cell>
+                     <cell>Freie Stationen vom Anreisegeld</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>Gärtner <persName key="ed_ksg_wkj_2qb">Seska</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>Essen und Brot aus dem Hof auf sich, seine Frau und ein Kind und 2
+                                Stof Halbander täglich</cell>
+                     <cell>Eine Kuh und 3 Schafe auf Futter und Weide und 2 Gänse auf der
+                                Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>Kämmerer <persName key="ed_pkh_3gv_mbb">Poltzien</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 gemästetes Schwein,
+                                oder statt dessen 1 mageres und 5 Schfl. Haber zur Mästung desselben
+                                und einen Geköch-Garten</cell>
+                     <cell>2 Kühe,  1 Kalb, 4 Schafe und 3 Gänse auf Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>Lohnhofmann <persName key="ed_av3_s3j_2qb">Liss</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 gemästetes Schwein,
+                                oder statt dessen 1 mageres und 5 Schfl. Haber zur Mästung desselben
+                                und einen Geköch-Garten</cell>
+                     <cell>2 Kühe, 4 Schafe und 2 Gänse auf Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>Brenner, Brauer und Mälzer <persName key="ed_dlm_x3j_2qb">Broszartis</persName>
+                     </cell>
+                     <cell>30 Rtlr. Lohn </cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                1 Tonne Bier, 6 Metz Salz, 1 mageres Schwein und einen
+                                Geköch-Garten</cell>
+                     <cell>2 Kühe, 4 Schafe auf Futter und Weide und 2 Gänse bloß zur Weide. Sodann
+                        zwei Schweine von <seg type="comment"><orig>Michaelis</orig><note xml:id="nabv_t4l_wxb">29. September</note></seg> bis Neujahr, und von
+                        dieser Zeit ab nur 1 Schwein, mit herrschaftlichem Haber zu füttern</cell>
+                     <cell><seg type="comment"><orig>hat einen Kontrakt</orig><note xml:id="nojs_2ql_wxb">nicht überliefert</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>Schmied <persName key="ed_szl_fjj_2qb">Fr.
+                                Schmidt</persName>
+                     </cell>
+                     <cell>24 Rtlr. Lohn</cell>
+                     <cell>16 Schfl. Korn, 2 Schfl. Gerste, 4 Schfl. Haber, 2 Schfl. Erbsen,
+                                1 Tonne Bier, einen Geköch-Garten und von jedem Gebräu ein Achtel
+                                geringes Trinken</cell>
+                     <cell>Eine Kuh auf Futter und Weide</cell>
+                     <cell><seg type="comment"><orig>Laut schriftlichem Kontrakt</orig><note xml:id="nzbw_hql_wxb">Es ist nur dessen Arbeitsbuch überliefert, APO,
+                              Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941443">Nr. 82</ref>.</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>Kutscher <persName key="ed_plw_ljj_2qb">Puschke
+                                sen.</persName>
+                     </cell>
+                     <cell>16 Rtlr. Lohn</cell>
+                     <cell>12 Schfl. Korn, 2 Schfl. Gerste, 7 Schfl. Haber, 2 Schfl. Erbsen,
+                                4 Metz Salz, 1 Tonne Bier, 1 mageres Schwein und einen
+                                Geköch-Garten</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Gänse</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>Tischler <persName key="ed_fkx_qjj_2qb">Scheimann</persName>
+                     </cell>
+                     <cell>12 Rtlr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                6 Metz Salz, sodann alle zwei Jahr ein mageres Schwein und 5 Schfl.
+                                Haber zur Mästung und einen Geköch-Garten</cell>
+                     <cell>Eine Kuh, 2 Schafe auf Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>Schulmeister <persName key="ed_sqv_tjj_2qb">Koschoreck</persName>
+                     </cell>
+                     <cell>12 Rtlr 45 Gr. Lohn</cell>
+                     <cell>12 Schfl. Korn, 6 Schfl. Gerste, einen Geköch-Garten, in jedem
+                                Felde einen Morgen Acker nebst freier Bearbeitung desselben, von
+                                jedem Gebräu 2 Eimer <gap reason="illegible"/> Trinken und 2 Fuder
+                                fertiges Heu </cell>
+                     <cell>Ein Pferd, 2 Kühe, 2 Schafe und 2 Gänse zur Weide</cell>
+                     <cell>Laut seiner <seg type="comment"><orig>Vokation</orig><note xml:id="nvfb_rql_wxb">nicht überliefert</note></seg>, die bei der
+                        Kirchenegistratur zu <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+                        befindlich sein soll</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>Jäger <persName key="ed_flc_yjj_2qb">Kurcke</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>20 Schfl. Korn, 2 Schfl. Erbsen, 2 Schfl. Gerste, 20 Schfl. Haber
+                                zur Mästung und auf seine Hunde, 1/2 Tonne Bier, 8 Metz Salz, 1/2
+                                halbe Tonne Trinken von jedem Gebräu, 1/2 Schfl. Lein-Aussaat, 1
+                                mageres Schwein und einen Geköch-Garten</cell>
+                     <cell>Eine Kuh auf Futter und Weide</cell>
+                     <cell><seg type="comment"><orig>Laut schriftlichem Kontrakt</orig><note xml:id="nnz3_vql_wxb">nicht überliefert</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>Die drei Waschweiber erhalten eine jede</cell>
+                     <cell>2 Rtlr. Lohn</cell>
+                     <cell>5 Schfl. Korn, 1 Schfl. Gerste, 3 Schfl. Haber, 1 Schfl. Erbsen, 1
+                                Metze Salz und einen <gap reason="illegible"/> Geköch-Garten</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>
+                        <persName key="ed_v2p_nlg_wqb">Ahasv. Puschke</persName>, ein
+                                verheirateter Knecht, der sich selbst beköstigt</cell>
+                     <cell>15 Rtlr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                6 Metz Salz, einen Geköch-Garten, alle zwei Jahre ein mageres
+                                Schwein und 5 Schfl. Haber zur Mästung desselben </cell>
+                     <cell>Eine Kuh und zwei Schafe auf Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>Müller <persName key="ed_sww_2kj_2qb">Waehner</persName>
+                     </cell>
+                     <cell>36 Rtlr Lohn</cell>
+                     <cell>Von dem eingekommenen <gap reason="illegible"/> und Mahlgelde von
+                                fremden Mahlgästen den 3. Teil und von den hiesigen Einnahmen für
+                                jeden Schfl. zu Beuteln 3 Gr.</cell>
+                     <cell>Zwei Kühe auf der <placeName key="ed_xpm_112_gy">Lababschen</placeName> Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>Sechs Knechte beim Vorwerk und im Kutschen-Stall, außer diesen ein
+                                Garten-Knecht, der im Hof gespeist wird</cell>
+                     <cell>ein jeder 15 Rtlr. Lohn und 1 Rtlr. Handgeld</cell>
+                     <cell>Auf die Vorwerks-Knechte erhält Lohnhofmann <persName key="ed_av3_s3j_2qb">Liss</persName> zur Bespeisung 10 Schfl. Korn, 1
+                        Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen, 6 Metz Salz, ein halbes
+                        Schwein, gemästet, und 1/2 Schaf, auf jeder Person, auch auf sämtliches
+                        Gesinde, einen Garten und 2 herrschaftliches Deputat-Kühe zu milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>Die Kochfrau <persName key="ed_qyw_jkj_2qb">Wittkin</persName>
+                     </cell>
+                     <cell>12 Rtlr. Lohn</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>Ausgebende <persName key="ed_g4r_lkj_2qb">Valtin</persName>
+                     </cell>
+                     <cell>18 Rtlr. Lohn</cell>
+                     <cell>werden im Hofe gespeist</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>Acht Mägde im Hofe</cell>
+                     <cell>Eine jede 8 Rtlr. Lohn</cell>
+                     <cell>werden im Hofe gespeist</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>Eine Vorwerks-Magd</cell>
+                     <cell>8 Rtlr. Lohn</cell>
+                     <cell>wird beim Hofmann <persName key="ed_av3_s3j_2qb">Liss</persName>
+                                gespeist</cell>
+                     <cell>Der Lohnhofmann Liss erhält auf die Magd eben soviel Deputat, als auf
+                        einen Knecht</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>Dreizehn Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr. </cell>
+                     <cell>Der Drescher-Verdienst im Winter ist der 11. Scheffel, sodann erhält
+                        jeder Instmann 1 Fuder Heu, welches er aber bezahlen muss. Wohnung und einen
+                        Geköch-Garten hat er für 2 Rtlr. festgesetzte Miete</cell>
+                     <cell>Der Instmann bei Gr. <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                        erhält keinen Dünger gesät, kann auch keine Schweine halten</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>Hirte <persName key="ed_ed1_tkj_2qb">Schultz</persName>
+                     </cell>
+                     <cell>6 Rtlr. 36 Gr. Lohn incl. <gap reason="illegible"/> und
+                                Salz-Geld</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                einen Geköch-Garten und ein Fuder Heu unentgeltlich, wie auch 1
+                                Schfl. Korn, 1 Schfl. Haber und 1/2 Schfl. Erbsen Aussaat</cell>
+                     <cell>Eine Kuh, 4 Schafe und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell><seg type="comment"><orig>Zechner</orig><note xml:id="nvxf_jnh_yxb">Knecht</note></seg>
+                        <persName key="ed_ksg_wkj_2qb">Seska</persName>
+                     </cell>
+                     <cell>6 Rtlr. 36 Gr. wie vor.</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                einen Geköch-Garten und ein Fuder Heu unentgeltlich</cell>
+                     <cell>Eine Kuh, 4 Schafe und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Schäfer <persName key="ed_fxq_xy2_yqb">Korpion</persName>
+                     </cell>
+                     <cell>14 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 1 Schfl. Gerste, 6 Schfl. Haber, 1 Schfl. Erbsen,
+                                6 Metz Salz, einen Geköch-Garten auf sich und einen auf den
+                                Schäfer-Knecht</cell>
+                     <cell>Auf Futter und Weide eine Kuh, 4 Schweine, 2 Gänse und 15 Schafe,
+                                doch so, dass im Frühjahre nicht mehr als 5 Lämmer zur Herde
+                                kommen.</cell>
+                     <cell><seg type="comment"><orig>hat einen schriftlichen Kontrakt</orig><note xml:id="nryl_grl_wxb">GStA PK, XX. HA, Rep. 54, Gutsarchiv
+                              Lehndorff-Steinort, Nr. 736 </note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Schäferknecht <persName key="ed_tlt_dz2_yqb">Wilewski</persName>
+                     </cell>
+                     <cell>15 Rtlr Lohn</cell>
+                     <cell>Schäfer erhält auf diesen Knecht zur Bespeisung eben soviel
+                                Deputat, als Hofmann <persName key="ed_av3_s3j_2qb">Liss</persName>
+                                in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> auf eine
+                                Person</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Vier Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann
+                                1 Fuder Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr.
+                                Miete, auch seinen Dünger auf eine Saat gesät und 1/4 Lein-Aussaat
+                                im Sommerfeld</cell>
+                     <cell>Eine Kuh, 4 Schweine und 2 Gänse zur Weide</cell>
+                     <cell>Wegen der Schäferei dürfen diese Instleute keine Schafe
+                                halten</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Kämmerer <persName key="ed_d3k_ysg_yqb">Kaminski</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 mageres Schwein und 5
+                                Schfl. Haber zur Mästung desselben, auch einen Geköch-Garten</cell>
+                     <cell>Zwei Kühe, ein Stück Jungvieh, 4 Schafe, 2 Schweine und 2 Gänse
+                                auf Futter und Weide</cell>
+                     <cell><seg type="comment"><orig>Laut schriftlichem Kontrakt</orig><note xml:id="nl5h_krl_wxb">nicht überliefert</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>
+                        <persName key="ed_krg_23t_fqb">Gritzka</persName>, ein verheirateter Knecht,
+                        der sich selbst beköstigt</cell>
+                     <cell>15 Rtlr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                6 Metz Salz, einen Geköch-Garten, alle zwei Jahre ein mageres
+                                Schwein und 5 Schfl. Haber zur Mästung desselben</cell>
+                     <cell>Eine Kuh, 2 Schafe auf Futter und Weide und 2 Schweine, bloß zur
+                                Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Zwei Knechte</cell>
+                     <cell>jedem 15 Rtlr.</cell>
+                     <cell>Diese werden vom Kämmerer gespeist und erhält derselbe auf jede
+                                Person <lb/>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1
+                                Schfl. Erbsen, 6 Metz Salz, 1/2 Schwein nebst dem gewöhnlichen Maß
+                                Getreide, 1/2 Schaf und auf sämtliches Gesinde, einen Garten und
+                                eine herrschaftliche Deputat-Kuh zu milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>ein Jung</cell>
+                     <cell>12 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>eine Magd</cell>
+                     <cell>8 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Sechs Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann 1 Fuder
+                        Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr. Miete, auch seinen
+                        Dünger auf eine Saat gesät und 1/4 Lein-Aussaat im Sommerfeld</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und 2 Gänse auf der Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Der Vorwerks-Hirte</cell>
+                     <cell>6 Rtlr. Lohn </cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                einen Garten und ein Fuder Heu unentgeltlich</cell>
+                     <cell>Eine Kuh, 2 Schafe und 2 Schweine auf der Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Kämmerer <persName key="ed_rnl_f5g_yqb">Hilbrandt</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 mageres Schwein und 5
+                                Schfl. Haber zur Mästung desselben, auch einen Geköch-Garten</cell>
+                     <cell>Zwei Kühe, 2 Stück Jungvieh, 5 Schafe, 3 Schweine und 2 Gänse auf
+                                Futter und Weide</cell>
+                     <cell>Da diesen Sommer zwei Vorwerke zu bewirtschaften hat, so ist ihm <seg type="comment"><orig>laut herrschaftl. Kontrakt</orig><note xml:id="nxgr_4rl_wxb">nicht überliefert</note></seg> ein Stück
+                        Jungvieh, ein Schaf und ein Schwein mehr als den übrigen zu halten
+                        bewilligt</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Waldhüter <persName key="ed_tdt_jqs_fqb">Briese</persName>
+                     </cell>
+                     <cell>14 Rtlr. 60 Gr. Lohn</cell>
+                     <cell>15 Schfl. Korn, 1 Schfl. Gerste, 9 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, einen Geköch-Garten und ein Stückchen von ca. 5 Schfl.
+                                Aussaat</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Drei Knechte</cell>
+                     <cell>jedem 15 Rtlr.</cell>
+                     <cell>Werden vom Kämmerer gespeist und erhält derselbe auf jede Person <lb/>10
+                        Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen, 6 Metz Salz,
+                        1/2 Schwein nebst dem gewöhnlichen Maß Getreide, 1/2 Schaf und auf
+                        sämtliches Gesinde, einen Garten und eine herrschaftliche Deputat-Kuh zum
+                        Milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Eine Magd</cell>
+                     <cell>8 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Sechs Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann 1 Fuder
+                        Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr. Miete, auch seinen
+                        Dünger auf eine Saat gesät und 1/4 Lein-Aussaat im Sommerfeld</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und  Gänse auf der Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Ziegler <persName key="ed_mgw_y5g_yqb">Schneider</persName>
+                     </cell>
+                     <cell>Für jede 1.000 Ziegel 2 Rtlr., für 1.000 Dachsteine 3 Rtlr. 30 Gr., für
+                        1000 Stück Biberschwänze 3 Rtlr., für einen Falzstein 1 1/2 Gr.</cell>
+                     <cell>Für jeden Brand 3 Schfl. Korn und eineinhalb Tonnen Bier, wie auch einen
+                        Garten</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>Hirt <persName key="ed_ahp_3wg_yqb">Knorrbein</persName>
+                     </cell>
+                     <cell>Für jedes Stück Vieh 36 Gr. und für ein Schwein oder Schaf 3 Gr.
+                                Hütelohn</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Kämmerer <persName key="ed_nl5_k3j_3qb">Lindenau</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 mageres Schwein und 5
+                                Schfl. Haber zur Mästung desselben, auch einen Geköch-Garten</cell>
+                     <cell>Zwei Kühe, 1 Stück Jungvieh, 4 Schafe, 2 Schweine und 2 Gänse auf
+                                Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Waldhüter <persName key="ed_ebr_qwg_yqb">Schwarz</persName>
+                     </cell>
+                     <cell>10 Rtlr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 2 Schfl. Gerste, 6 Schfl. Haber, 2 Schfl. Erbsen,
+                                4 Metz Salz, einen Geköch-Garten, einen Morgen Acker in jedem Felde
+                                und eine Wiese</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Ein Knecht</cell>
+                     <cell>15 Rtlr.</cell>
+                     <cell>Werden vom Kämmerer gespeist und erhält derselbe auf jede Person
+                                <lb/>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl.
+                                Erbsen, 6 Metz Salz, 1/2 Schwein nebst dem gewöhnlichen Maß
+                                Getreide, 1/2 Schaf und auf sämtliches Gesinde, einen Garten und
+                                eine herrschaftliche Deputat-Kuh zum Milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Ein Jung</cell>
+                     <cell>12 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Eine Magd</cell>
+                     <cell>8 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Neun Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann
+                                1 Fuder Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr.
+                                Miete, auch seinen Dünger auf eine Saat gesät und 1/4 Lein-Aussaat
+                                im Sommerfeld</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Hirt <persName key="ed_dlj_wwg_yqb">Wien</persName>
+                     </cell>
+                     <cell>4 Rtlr. Lohn </cell>
+                     <cell>8 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Erbsen und ein Fuder
+                                Heu</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Kämmerer <persName key="ed_y4t_bxg_yqb">Lindenau</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 März-Schaf und 1
+                                mageres Schwein und 5 Schfl. Haber zur Mästung desselben, auch einen
+                                Geköch-Garten</cell>
+                     <cell>Zwei Kühe, 1 Stück Jungvieh, 4 Schafe, 2 Schweine und 2 Gänse auf
+                                Futter und Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Zwei Knechte</cell>
+                     <cell>jeder 15 Rtlr.</cell>
+                     <cell>Werden vom Kämmerer gespeist und erhält derselbe auf jede Person
+                                <lb/>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl.
+                                Erbsen, 6 Metz Salz, 1/2 Schwein nebst dem gewöhnlichen Maß
+                                Getreide, 1/2 Schaf und auf sämtliches Gesinde, einen Garten und
+                                eine herrschaftliche Deputat-Kuh zum Milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>eine Magd</cell>
+                     <cell>8 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Acht Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann
+                                1 Fuder Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr.
+                                Miete, auch seinen Dünger auf eine Saat gesät und 1/4 Lein-Aussaat
+                                im Sommerfeld</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Hirt <persName key="ed_iwz_jxg_yqb">Heinrich</persName>
+                     </cell>
+                     <cell>6 Rtlr. 36 Gr.</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                einen Garten, ein Fuder Heu, 1 Schfl. Korn, 1 Schfl. Haber, 1/2
+                                Schfl. Erbsen zur Aussaat</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Kämmerer <persName key="ed_cm1_qxg_yqb">Tobien</persName>
+                     </cell>
+                     <cell>20 Rtlr. Lohn</cell>
+                     <cell>18 Schfl. Korn, 2 Schfl. Gerste, 2 Schfl. Haber, 2 Schfl. Erbsen,
+                                8 Metz Salz, 1 Tonne Bier, 1 lebendes Schaf, 1 März-Schaf, 1 mageres
+                                Schwein und 5 Schfl. Haber zur Mästung desselben, auch einen
+                                Geköch-Garten</cell>
+                     <cell>Zwei Kühe, 1 Stück Jungvieh, 4 Schafe, 2 Schweine und 2 Gänse auf
+                                Futter und Weide</cell>
+                     <cell><seg type="comment"><orig>hat einen schriftlichen Kontrakt</orig><note xml:id="nkqr_zrl_wxb">nicht überliefert</note></seg></cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Ein Knecht</cell>
+                     <cell>15 Rtlr.</cell>
+                     <cell>Diese werden vom Kämmerer gespeist und erhält derselbe auf jede
+                                Person <lb/>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1
+                                Schfl. Erbsen, 6 Metz Salz, 1/2 Schwein nebst dem gewöhnlichen Maß
+                                Getreide, 1/2 Schaf und auf sämtliches Gesinde einen Garten und eine
+                                herrschaftliche Deputat-Kuh zum Milchen</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Ein Jung</cell>
+                     <cell>10 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>Eine Magd</cell>
+                     <cell>8 Rtlr.</cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Sechs Instleute</cell>
+                     <cell>An Tagelohn von Ostern bis Michaelis der Mann 9 Gr., das Weib 6
+                                Gr. <lb/>Von Ostern und nach Michaelis der Mann 7 1/2 Gr., das Weib
+                                4 Gr.</cell>
+                     <cell>Der Drescherlohn ist der 11. Scheffel, sodann erhält der Instmann
+                                1 Fuder Heu gegen Bezahlung, und Wohnung und Garten gegen 2 Rtlr.
+                                Miete, auch seinen Dünger auf eine Saat gesät und 1/4 Lein-Aussaat
+                                im Sommerfeld</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Waldhüter <persName key="ed_or3_wxg_yqb">Piechnick</persName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell>
+                        <note type="editorial">Keine Angaben!</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Hirt <persName key="ed_fnx_cyg_yqb">Scheimann</persName>
+                     </cell>
+                     <cell>6 Rtlr. 36 Gr.</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 1 Schfl. Haber, 1 Schfl. Erbsen,
+                                einen Geköch-Garten, ein Fuder Heu wie auch 1 Schfl. Korn, 1 Schfl.
+                                Haber, 1/2 Schfl. Erbsen zur Aussaat</cell>
+                     <cell>Eine Kuh, 2 Schafe, 2 Schweine und 2 Gänse zur Weide</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Waldhüter Pomzig</cell>
+                     <cell>10 Rtlr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 1 Schfl. Gerste, 4 Schfl. Haber, 1 Schfl. Erbsen,
+                                4 Metz Salz, einen Geköch-Garten und einen Morgen Acker in jedem
+                                Felde nebst freier Bearbeitung von den Stawkenschen Bauern</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>
+                        <placeName key="ed_op5_ngz_g1b">Marschallsheide</placeName>
+                     </cell>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>Waldhüter <persName key="ed_dtx_wyg_yqb">Pie</persName>
+                     </cell>
+                     <cell>10 Rtlr. 60 Gr. Lohn</cell>
+                     <cell>10 Schfl. Korn, 2 Schfl. Gerste, 4 Schfl. Haber, 2 Schfl. Erbsen,
+                                4 Metz Salz und 1 Schwein, welches ihm jährlich mit 2 Rtlr. bezahlt
+                                wird</cell>
+                     <cell/>
+                     <cell/>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

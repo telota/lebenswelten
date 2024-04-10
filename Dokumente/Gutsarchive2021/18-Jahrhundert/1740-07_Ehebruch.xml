@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_cwd_4lm_kqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Pfarrer Friedrich Cibrovius zeigt dem Konsistorium den Ehebruch der Elisabeth
+               Triebel aus Labab an. Rosengarten, Juli 1740</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 252, n. f.</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Alte Signatur: No. 12 Acta Inquisitionalia Elisabeth Tribelin in puncto
+                     adulterii simplicis.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_u3l_qvp_5qb">Cibrovius, Friedrich (-)</persName>
+               <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName>
+               <date notBefore="1740-07-01" notAfter="1740-07-10" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <orgName key="ed_ixf_btp_5qb">Evangelisches Oberkonsistorium
+                        Königsberg</orgName>
+            </correspAction>
+            <note>Nachdem Cibrovius dem Konsistorium seinen Bericht erstattet hatte, berichtete
+               dieses im Oktober den Fall der Königlichen Regierung. Diese entschied im November,
+               dass der Fall vor einem delegierten Gericht zu verhandeln sei. Zur Akte gehört das
+               Protokoll des Verhörs, das am 4. Januar 1740 in Steinort stattfand. Demnach war die
+               Inquisitin 30 Jahre alt und lutherischer Religion. Vor zehn Jahren war sie mit
+                  <persName key="ed_ltf_mtp_5qb">Andreas Triebel</persName> aus dem <orgName key="ed_xf2_rtp_5qb">Amt Rhein</orgName> in der Kirche in Engelstein getraut
+               worden. Vier Jahre hatten sie in Pristanien auf einem Bauernerbe gesessen, in der
+               Zeit hätte sie einen Sohn und eine Tochter bekommen, die aber verstorben seien. Ihr
+               Mann habe sie Michaelis 1735 verlassen. Er sei kein Untertan gewesen. Da er ein
+               schlechter Arbeiter war, habe er aus dem Hof nichts machen können. Sie habe seitdem
+               nichts von ihm gehört. Sie habe seitdem als Magd bei dem Bauer <persName key="ed_sd4_d4p_5qb">Scheimann</persName> in Labab gedient, dort hätte sich der
+               Knecht „an sie gemacht, sei nachts zu ihr in das Bett gekommen, sich mir ihr
+               fleischlich vermischt, wie oft dieses geschehen, wisse sie nicht, doch habe er
+               oftermalen die Unzucht mit ihr getrieben, bis sie gemerkt, dass sie schwanger
+               worden.‟ Der Sohn sei inzwischen 1 Jahr alt. Welche Strafe sie verdiene, wisse sie
+               nicht, doch sei ihr „wohl bewusst, dass Gott der Ehebruch sehr erbost und auch eine
+               schwere Strafe dawider gesetzt hat‟. Das Heilige Abendmahl hätte sie zuletzt vor zwei
+               Jahren empfangen. <lb/> Das Gericht legte fest, dass auch der Knecht <persName key="ed_y4j_h5p_5qb">Gwiasda</persName> zu verhören sei. Da Gräfin von Lehndorff
+               ihn jedoch weder nach Drengfurt schicken, noch das Gericht nach Steinort holen
+               wollte, vergingen zwei Monate, dann gab das Gericht die Akte nach Steinort und in die
+               gräfliche Verantwortung, um sich nicht der Säumigkeit schuldig zu machen. Erst im
+               April 1741 wurde der Knecht in Steinort verhört. Er gab an 24 Jahre und lutherischer
+               Religion zu sein und bei seinem Bruder in Labab zu dienen. Den Ehebruch gestand er.
+               Der Sohn sei in Rosengarten getauft worden. - In der Zwischenzeit war die Inquisitin
+               („Verunglückte‟) in Arrest. Hier gelobte sie, ihren Lebenswandel zu ändern, gab als
+               Gründe den frühen Tod der Eltern, so dass sie „keine Gelegenheit gehabt, den rechten
+               und eigentlichen Verstand des Christentums zu erlernen‟, auch ihren „blöden Verstand‟
+               an, dass sie sich „zu dieser Sünde der Unzucht bereden lassen‟, die sie künftig büßen
+               muss, „nicht wissend, wie sie solches Kind ferner wird unterhalten können‟. Überhaupt
+               sei die Ursache, dass ihr Mann „sie so treulos verlassen‟ habe. <lb/>Am 24. Juni
+               wurde in Drengfurt das Urteil gesprochen. Sie wurde zu sechs Wochen Arbeit im
+               Steinortschen Hof bei Wasser und Brot verurteilt, anschließend hatte sie Kirchenbuße
+               zu tun, um sich mit der Gemeinde Rosengarten zu versöhnen und die Gerichtskosten in
+               Höhe von 15 Rtlr. 15 Gr. zu zahlen. Das Hofgericht, dem Gräfin von Lehndorff das
+               Urteil einzureichen hatte, anerkannte das Strafmaß, monierte jedoch, dass der Knecht
+               „zur Ungebühr übergangen‟ worden sei. Es verurteilte ihn gleichfalls zu drei Wochen
+               Arbeit im Hof Steinort und zur Aussöhnung mit der Gemeinde. Und auch die Gräfin wurde
+               gerüffelt - sie habe „künftig die Criminalia nicht so viele Monate, wie es in casu
+               zur Ungebühr geschehen, aufzuhalten‟ und zu ihren Briefen Stempelpapier zu
+               gebrauchen. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_cwd_4lm_kqb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Rosengarten, <gap reason="empty"/> [Juli]1740</dateline>
+            </opener>
+            <p>Es ist in hiesigem Kirchspiel im Dorfe <placeName key="ed_xpm_112_gy">Labab</placeName>, Ihro Hochgeb. Gnaden der Frau <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName> zu <placeName key="ed_pxt_cnh_1y">Steinort</placeName> gehörig, eine Weibes-Person namens <persName key="ed_mjl_3tp_5qb">Elisabeth Tribelsche</persName>, die ihr Ehemann verlassen,
+               nun von ihm weggegangen, auch bis auf den heutigen Tag sich weder hören noch sehen
+               lassen. Obgedachte Tribelsche ist mittlerzeit mit einem Knecht im <placeName key="ed_xpm_112_gy">Lababschen</placeName> Hof, <persName key="ed_y4j_h5p_5qb">Michael Gwiasda</persName>, zu Unfall gekommen; da nun bemeldete Person wegen
+               ihres Verbrechens mit dem erzürnten Gott und vorgenannten Gemeine durch öffentliche
+               Zucht ausgesöhnt werden muss, so habe diesen casum E. Hochehrw. Consistorio
+               pflichtmäßig hinterbringen, zugleich um eine Instruktion, wie es mit ihrer
+               Kirchenzucht gehalten werden soll, gehorsamst bitten wollen</p>
+            <closer>
+               <salute>E. Hochw. Consistorii Dero allerseits gehorsamster und demütigster Diener</salute>
+               <signed>
+                  <persName key="ed_u3l_qvp_5qb">Friedrich Cibrovius</persName> Pfarrer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_dfg_p5j_srb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Soldatenfrau Grabowski berichtet ihrem Mann über einen Streit, der vor dem
+               Patrimonialgericht geendet war. 15. Mai 1791 </title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 595, Bl. 29-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_jzw_znr_vsb">GrabowskiF, (-)</persName>
+               <placeName key="ed_kyg_snr_vsb">Schwalge</placeName>
+               <date when="1791-05-15" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_dbz_ynr_vsb">GrabowskiM, (-)</persName>
+            </correspAction>
+            <note>Da die Grabowskischen Eheleute der deutschen Sprache nicht mächtig waren, hatte
+               das Schreiben ein Notar aufgenommen. Bombal war nicht nur der Jäger, sondern zugleich
+               der Schulze des Ortes. In der Verhandlung am 9. Juli gab er an, der Verwalter Neumann
+               hätte ihn beauftragt, den Streit zu schlichten, „beide Weiber hätten sich aber noch
+               tagelang beständig gezankt‟, weshalb er sich keinen anderen Rat gewusst, als beide zu
+               bestrafen, die Grzanin durch die <ref target="https://de.wikipedia.org/wiki/Halsgeige">„Spanische Fidel‟ </ref>und die
+               Grabowski durch die dazu gehörigen Hörner. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=595"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Kl. Schwalge b. Deutsch Eylau, den 15. Mai 1791</dateline>
+               <salute>Mein lieber Mann!</salute>
+            </opener>
+            <p>Dein Schreiben habe richtig erhalten und freue mich sehr über deine Gesundheit; was mich
+                    anbetrifft, befinde ich mich Gottlob mit unserer lieben Tochter frisch und
+                    gesund, was mein Schreiben weiter anbetrifft, so muss dir leider melden und
+                    anzeigen, mir dieser Tage der allergrößte Spektakel von Seiten des Jägers
+                        <persName key="ed_x5j_y4r_vsb">Bombal</persName> widerfahren ist; der ganze
+                    Vorfall ist dieser:</p>
+            <p>Ich habe vor acht Tagen meine Kartoffeln ausgegraben, und da ich damit nicht recht
+               sicher, wie dir bekannt, und öfters schon von den Grzaninschen Eheleuten in meiner
+               Armut verkürzt worden, so habe ich die ausgegrabenen Kartoffeln zu meiner Schwester,
+               der Musketier-Frau Rettkowskin, in sichere Verwahrung gebracht.</p>
+            <p>Hierauf wurde die <persName key="ed_dnp_f4r_vsb">Grzansche</persName> aufgebracht und
+               sagte zu mir, wo du die Kartoffeln hast hingetragen, so packe dich den Augenblick aus
+               meiner Kate, so ich auch getan, und musste ich ihr, der Grzanschen, zwei junge
+               Schweine für die Wohnung hingeben, dieses schien mir zuviel, auch das umso mehr,
+               weilen sie mir aus der Kate halb ausgeschmissen, so wollte ich das eine Schwein
+               zurückhaben oder sie sollte mir das zweite Schwein bezahlen, hierauf kam das boshafte
+               Weib mir nach, fiel mir in die Haare, ohrfeigte mir tüchtig und blutig ab, zugleich
+               wollte mir auch die Augen auskratzen, zum Glück, dass ich an den Augen keinen
+               Schaden, wohl aber nur das Gesicht zerkratzt habe. Ich wurde darüber bei dem
+               Verwalter <persName key="ed_qwb_kc3_3rb">Neumann</persName> in <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName> klagbar, dieser versprach mir
+               hinlängliche Satisfaktion bei dem ersten zu haltenden Gerichtstage zu geben, indessen
+               ehe ich mich versah, nahm der <persName key="ed_x5j_y4r_vsb">Bombal</persName> sich
+               meiner Gegnerin an, ritt nach Schönberg, brachte den Gerichtsdiener <persName key="ed_vvz_kpr_vsb">Glitza</persName> mit sich, welcher zugleich die eisernen
+               Hörner mit sich brachte, selbige ließ er mich mit Gewalt aufsetzen und ließ mich
+               längst dem Dorfe als eine allerniedrigste Diebin oder Hure pp. zum Schauspiel
+               herumführen.</p>
+            <p>In Ansehung der mir allergrößten Schande, welche mir von Seiten des Jägern Bombal als
+               eine Königl. Soldaten-Frau widerfahren kann, unmöglich auch bis in mein Grab
+               verschmerzen, vielmehr auf eine nachdrückliche Satisfaktion zu dringen, du wirst
+               dahero, mein lieber Mann, bei deinem gnädigen Chef mit diesem Brief <gap reason="illegible"/>gehen und untertänigst antragen, dass diese ganze Sache
+               gerichtlich durch H. adelichen Gerichtsschreiber <persName key="ed_zyh_cbn_vsb">Peter</persName> als Justitiarium untersucht und dem Befinden nach rechtlich
+               erkannt werde, damit ich wegen der erlittenen Schläge sowohl als auch wegen des
+               Spektakels, welches unerhört, dass ein Unschuldiger ohne Recht und Erkenntnis, ja
+               ohne vorhero eine Sache zu untersuchen in dergleichen schändlicher Weise, welche mir
+               mit den Hörnern zu tragen geschah. Ich beziehe mich zugleich auf Gezeugnis H.
+               Verwalters Neumann, welchem ich mein zerkratztes Gesicht gezeigt und gebeten, dass
+               ich beim ersten besten Gerichtstage mit meiner Gegnerin vernommen werden möchte,</p>
+            <closer>
+               <salute>bin übrigens deine getreue Frau</salute>
+               <signed>Elisabeth verehel. Musketier-Frau Grabowski</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>NB. Wie dergleichen <seg type="comment">
+                  <orig>eiserne Hörner-Strafe</orig>
+                  <note xml:id="nbnx_zqr_vsb">Die eisernen Hörner waren an einem Halseisen
+                     befestigt. Sie ragten hoch über den Kopf hinaus und erschwerten das Schlafen.
+                        <ref target="https://www.justiz.sachsen.de/download/Zur_Entwicklung_des_Strafvollzuges_in_Sachsen_im_18._Jahrhundert.pdf">Zu Srafen siehe hier</ref>. </note>
+               </seg> zu tragen hat man in ganzen christlichen Ländern nicht gehört und möglich,
+               dass es vielleicht in der Türkei die Mode ist, und wo in der Welt möglich, so komm
+               herüber auf eine kurze Zeit auf Urlaub, damit du selber bei der Untersuchung
+               persönlich sein wirst und ich eine hinlängliche Satisfaktion bekommen.</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

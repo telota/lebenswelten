@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_yl2_cll_htb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt>
+            <title>Carl Leopold </title>
+            <title>Werner schreibt an Graf von Lehndorff zu den Problemen der Zeit. Angerburg,
+               17./18. Januar [1818]</title>
+            <editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor>
+            <respStmt>
+               <persName><forename>Bärbel</forename><surname>Holtz</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName>
+               <orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der
+                  Wissenschaften</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp>
+               <resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName>
+               <orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (TELOTA)</orgName>
+               <resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp>
+            </respStmt>
+         </titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorf-Steinort, Nr. 866, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_afr_tvf_2y">Werner, Carl Leopold (-1836)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date from="1818-01-17" to="1818-01-18" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Siehe auch die Briefe Berents und des Hegemeisters Bliss vom 18. Januar und 6.
+               März 1818 über die Schäden, die der Orkan in den Gütern angerichtet hatte, in der
+               Akte.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_yl2_cll_htb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, <seg type="comment">
+                     <orig>[17. Januar 1818]</orig>
+                     <note xml:id="nkjv_kll_htb">Das Datum ist zerstört.</note>
+                  </seg>
+               </dateline>
+               <salute>Gnädigster Herr Graf!</salute>
+            </opener>
+            <p>Haben Ew. Hochgeboren in Ihren zeitigen Verhältnissen einige Minuten übrig, sich mit
+               gleichgültigen Sachen zu beschäftigen, alsdann nur bitte ich gehorsamst, diese Zeilen
+               der gütigen <gap reason="illegible"/> Durchsicht zu würdigen. Ew. Hochgeboren gütiges
+               Andenken an mich, fast in jedem Schreiben an den alten <persName key="ed_yx5_cbg_nbb">Berent</persName> enthalten, legt mir die angenehme Pflicht auf, Ihnen, Herr
+               Graf, zu sagen, wie sehr mich dieses Andenken beglückt. Erlauben Sie mir hierbei
+               zugleich etwas weitläufig, vielleicht langweilig werden zu dürfen.<lb/>Noch leben wir
+               ja in unserem Masurenlande, aber wahrlich ein Problem bleibt es zu sagen - wie und
+               wofür wir leben. Natur und Regierung scheint im Bunde gegen das Wohl des Landes zu
+               stehen, denn seit Weihnachten haben wir ein solch tobendes, abscheuliches Wetter,
+               dass alles zugrunde gehen zu wollen scheint. Bei 19 Grad Frost fror der Boden doch
+               nicht zu, eine solche Menge Schnee war gefallen, die Seen blieben offen. Brücher sind
+               gar nicht zu passieren. Der Weg ist unfahrbar. Seit 14 Tagen ist im Monat Januar
+               Aprilwetter, denn 14 Tage regnet es täglich, der Boden geht auf, und der Verkehr wird
+               ganz gehemmt. Kurz, alles geht auf den Ruin des Landes los. <lb/>In
+               Staatswirtschaftlicher sowohl als Staatsrücksichtlicher Hinsicht werden wir auch noch
+               in denselben Schranken zwischen Furcht und Hoffnung als zur Zeit, da Sie, Herr Graf,
+               Ihr <placeName key="ed_pxt_cnh_1y">Steinort</placeName> verließen, erhalten. Nichts
+               ist seit der Zeit besser geworden. Nichts hat sich entschieden. Alle Behörden der
+               Provinz vom Regierungspräsidenten bis zum Dorf-Schöppen in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> waren im Jahr 1817 mit Fertigung von
+               Tabellen, Nachweisungen und Nachrichten beschäftigt, die <seg type="comment"><orig>zur neuen Einteilung <placeName key="ed_z15_pdp_tcb">Litauens</placeName></orig><note xml:id="nodr_vst_xxb"><ref target="https://de.wikipedia.org/wiki/Kreisreformen_in_Preu%C3%9Fen#Ost-_und_Westpreu%C3%9Fen">Die Kreisreform wurde er zum 1. April 1819 durchgeführt</ref>.</note></seg>
+               von <gap reason="lost"/> in 17 Kreise und zu dem neuen Finanz-Etat als Grundlage
+               dienen sollten. Statt Kreisdirektoren sollten die Kreisvorsteher wieder Landräte
+               heißen. Diese sollten durch die Kreiseingesessenen adeligen, kölmischen, bäuerlichen
+               und städtischen Grundbesitzer aus ihrer Mitte gewählt und nächstdem vom Könige
+               bestätigt werden. Die zu wählenden Delegierten sollten dermaßen qualifiziert sein,
+               dass sie das Regierungsratsexamen lösen, und erforderlichenfalls zum Examen nach
+               Berlin gehen können. Diesen Landräten sollte ein Kreisdirektor beigestellt werden, an
+               welchen sämtliche Abgaben nach ihren zahlreichen <unclear reason="illegible" cert="low">Berechnungen</unclear> abgezahlt werden sollten; dagegen sollten die
+               Intendantur und Domänen-Ämter und die zeitigen Kontributionskassen eingehen. <lb/>Die
+               Wahl der Landräte ging auch wirklich vor sich, und am 1. Januar c. sollten 8
+               Kreisbehörden mehr in Litauen ihr Werk beginnen; da trat die Veränderung beim
+               Finanzministerium ein, <persName key="ed_yx1_1tt_xxb">Klewiz</persName> wurde
+               Finanzminister und es blieb beim alten. Nun soll die Kreiseinteilung und Besetzung
+               der Posten zwar vor sich gehen, indessen die Geschäftsverwaltung in der neuen Art
+               sich nur auf die Polizei erstrecken, die Kassenverwaltung aber beim alten bleiben.
+               Welch ein Chaos wird daraus entstehen? <lb/>Unser alter Kreissteuereinnehmer Kapitän
+                  <persName key="ed_ujc_w33_wqb">Gerhardt</persName> trat alsdann mit 3 Landräten in
+                  <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>, <placeName key="ed_bzz_pwf_cy">Lötzen</placeName> und <placeName key="ed_exy_rfk_wcb">Goldap</placeName> in Berührung und man könnte ihn Kreis-, die Herren Landräte
+               aber Bezirksbehörden nennen. <lb/>Die Akzise ist noch immer die alte und wird auf
+               alte Art erhoben, außer dass Angerburg zu einem offenen Orte kassiert ist und die
+               Torschreibereien aufgehört haben. Die Akzise-Kassen-Offizianten haben dadurch mehr
+               Arbeit erhalten, das Publikum ist aber größeren Schikanen unterworfen, denn jetzt
+               verfolgen die dienstbaren Geister den Schlitten oder Wagen bis ins Haus, und statt
+               dass früher die Akzise-Pflichtigen nur verpflichtet waren, beim Tore halten und ihre
+               akzisebaren Objekte angeben zu dürfen, müssen sie jetzt 8 emballierenden Dienern auf
+               den Straßen Rede stehen und sich visitieren lassen. <lb/>Die Retablissements-Gelder
+               sind ohnerachtet der vielen Schreibereien, Teilungskommissionen und Beschlüssen noch
+               immer nicht ausgezahlt. Jetzt soll zwar der König die Auszahlung der
+               Retablissements-Gelder verfügt, die Summe aber beschnitten haben, weil die Litauer
+               wohlhabende Menschen wären und einer so bedeutenden Unterstützung nicht bedürfen. Vom
+               Resultat der Verfügungen des zusammenberufen gewesenen Staatsrats ist nichts ins
+               Publikum gekommen, und ebenso wenig hat die <seg type="comment"><orig>National-Repräsentation</orig><note xml:id="nysp_qxt_xxb">GStA PK, XX.
+                     HA, Rep. 2, I Tit. 23 Nr. 14 Bd. 1 und 2: Zusammenberufung der
+                     Nationalprepräsentanten zur Erhaltung der Grundbesitzer und zur Ausgleichung
+                     der Kriegslasten (1813-1815). </note></seg> etwas Folgereiches zu Tage
+               gefördert. Die Ziehung resp. Einlösung der russischen Bons geht regelmäßig fort. Von
+               Ihren Bons ist schon ein großer Teil, von den Lieferungsscheinen eine Kleinigkeit
+               beim Ziehen herausgekommen. Die Einlösung dieser Staatspapiere geschieht freilich
+               auch nur durch andere Papiere, nämlich durch Talerscheine, allein da diese noch immer
+               durch die Verpflichtung der Zensiten, ihre Abgaben zur Hälfte in Talerscheinen zu
+               zahlen, einen gezwungenen Kurs haben, so setzt man etliche Billets an <gap reason="illegible"/> um. <lb/>Die Ausgleichung der Lieferungsscheine zwischen
+               Ihnen, Herr Graf, und Ihren Bauern ist durch mich geschehen. Ob die Bauern aber schon
+               die Ausgleichung gerichtlich anerkannt und quittiert haben, weiß ich nicht. Die
+               bäuerliche Auseinandersetzung ist durch den Eintritt des Winters gehemmt. In Ihren
+               Gütern sollte bereits im Monat Septbr. m. nach dem Notifikatorio des
+               Generalkommissariats ein Kommissarius zur Einrichtung des Geschäfts eintreffen,
+               indessen wird auf denselben bis auf den heutigen Tag vergebens gewartet. Überhaupt
+               scheint die ganze Angelegenheit etwas lau und nicht mit der in dieser Sache gewiss
+               mehr als irgendwo nötigen Energie betrieben zu werden. Von dem Fortgang der
+               Angelegenheit im Ganzen werden Sie gewiss schon aus wichtigeren Quellen Nachricht
+               geschöpft haben, und deshalb hier nur kürzlich einige Bemerkungen von meiner Seite.
+                  <seg type="comment"><orig>Die ganze Angelegenheit ist nicht so arg, wie man sie
+                     sich früher dachte. Dem Gutsherrn bleibt ein offenes Feld, seine Ideen
+                     hinsichts der den Bauern zu belassenden Ländereien und der von ihnen pro futuro
+                     zu übernehmenden Naturalleistungen auszuführen. </orig><note xml:id="nag2_svt_xxb">Die Unzufriedenheit der ostpreußischen Grunbesitzer habe
+                     in dem Maße nachgelassen, wie ihnen bewusst wurde, dass das Regulierungsedikt
+                     ihnen eigentlich weniger schade als ihren Bauern, vgl. Ernst, Von der Reform
+                     zur Restauration. Finanzpolitik und Reformgesetzgebung des preußischen
+                     Staatskanzlers Karl August von Hardenberg, Berlin1965, S. 150.</note></seg>Der
+               Gutsherr soll für allen früher vom Bauern gezogenen Nutzen billig entschädigt werden.
+               Ob diese Entschädigung durch Land, welches dem Bauern von seinen bisher
+               bewirtschafteten Ländereien abgenommen wird, oder durch jährliche Geld und
+               Getreideabgaben geschehen soll, bleibt der Wahl des Gutsherrn überlassen. Überhaupt
+               wird nur das den Bauern als Eigentum verliehen, <seg type="comment"><orig>was ihm
+                     früher außer den Scharwerksleistungen und baren Zinszahlungen zu seinem
+                     Unterhalt als Nutzung an<gap reason="illegible"/> war</orig><note xml:id="nnbg_l2v_xxb">Siehe <ref target="lehndorff_xfw_3cg_l3b">hier</ref></note></seg>. <lb/><seg type="comment"><orig>Dieses ist dann aber
+                     nicht viel bedeutend, und Sie Herr Graf kommen durch die Auseinandersetzung
+                     immer besser weg, als wenn Ihre den einfältigen Bauern gleich im Anfange
+                     gemachten Vergleichsvorschläge durchgegangen und als Basis der
+                     Auseinandersetzung angenommen wären.</orig><note xml:id="ng5c_fwt_xxb">Siehe
+                     Lehndorffs Entwurf von <ref target="lehndorff_n4q_rwv_p5b">1810</ref>.</note></seg> 10 Manntage und 10 dreispännige Gespanntage muss der
+               Bauer auch pro futuro als Scharwerk übernehmen. <lb/>Als Vorarbeit zur
+               Auseinandersetzung mit Ihren Bauern wären daher zuvörderst genaue und spezielle <seg type="comment"><orig>Prästationstabellen</orig><note xml:id="nj1m_ywt_xxb">Solch
+                     eine Übersicht gibt es nur für <ref target="lehndorff_xhh_mz4_gqb">1809</ref>
+                     und <ref target="lehndorff_xfw_3cg_l3b">1818</ref>. Siehe auch Werners
+                     Promemora vom <ref target="lehndorff_wp5_kzc_nxb">15. Juli 1818</ref> zur
+                     Auseinandersetzung mit den Bauern in Pristanien.,</note></seg> von Ihren
+               sämtlichen Bauern aus den bestehenden Kontrakten anzulegen, in denenselben alle
+               Leistungen nach feststehenden Prinzipien auf bar Geld zu reduzieren und dadurch das
+               auszumitteln und festzustellen, was ein jeder Bauer in früherer Zeit als solcher dem
+               Gute für Nutzen gewährt hat. Steht dieses fest, so kann man mit Berücksichtigung
+               Ihrer in dieser Hinsicht zurückgelassenen <ref target="lehndorff_evy_2mk_2tb">Pro.
+                  M.</ref> die Anträge formieren, wie die Auseinandersetzung eines jeden Dorfs nach
+               seinen Verhältnissen geschehen soll. Ihre Bauern würden im Ganzen immer schlecht
+               wegkommen, wenn Sie Herr Graf nur Ihre rechtlichen Forderungen geltend machten, Nach
+               Ihren zurückgelassenen Instruktionen kann man aber sogar die Billigkeit ausdehnen,
+               und so wird die Auseinandersetzung wohl auch mit Konservation derselben geschehen
+               können. <seg type="comment"><orig>Allein die Pristanier verdienen es schonungslos
+                     behandelt zu werden, denn diese nahmen damals durchaus keine vernünftigen
+                     Vorschläge an;</orig><note xml:id="nzw4_cxt_xxb">Siehe hierzu das Dokument vom
+                        <ref target="lehndorff_afr_2vc_nxb">10. Januar 1817</ref>. </note></seg>
+               alle unsere Bemühungen, Menschen von ihrem Vorteil und Nachteil zu belehren, waren
+               vergebens. Halsstarrig blieben sie bei ihren verworrenen und ab<gap reason="illegible"/> Forderungen, und konnten nur durch strenge Maßregeln im Zaum
+               gehalten werden. Da die Auseinandersetzung nun aber wohl bis zum Frühjahr ausgesetzt
+               werden wird, so wäre es doch sehr gut, wenn Sie, Herr Graf, Ihr Versprechen erfüllen,
+               im Frühjahr sich auf einige Monate von Ihren dortigen Verhältnissen losreißen und
+               selbst der Auseinandersetzung beiwohnen möchten. <lb/>Es fallen bei diesem Geschäfte
+               so manche Kleinigkeiten vor, welche der Gutseigentümer gleich und kurz entweder durch
+               Einwilligung oder Verweigerung abwehren kann, die aber durch einen Bevollmächtigten,
+               der, die Instruktion seines Machtgebers vor Augen habend und immer nur den Nutzen
+               desselben ohne Nebenrücksicht verfolgend, nie so rasch und gut betrieben werden
+               können. <lb/>Da überdies der schon im Monat Novbr. v. J. bestimmt auf den 1. Febr. c.
+               verlegt gewesene Generallandtag nach den neuesten Bestimmungen bis zum Monat April
+               vertagt ist, und bei diesem <seg type="comment"><orig>Generallandtage</orig><note xml:id="na5j_xxt_xxb">GStA PK, XX. HA, Rep. 2, I Tit. 23 Nr. 17: Generallandtag
+                     1818. </note></seg> so manche wichtige Angelegenheit beraten und resp.
+               entschieden werden soll, so wäre es denn doch gewiss auch Ihr Interesse, wenn Sie als
+               der bedeutendste Besitzer in Litauen dieser Versammlung mit beiwohnen. Kommen Sie
+               also Herr Graf! und bleiben Sie wenn es möglich ist und es sich mit Ihrem Nutzen
+               verträgt bei Ihrem <gap reason="illegible"/>. Ihre Güter werden nach der alten <gap reason="illegible"/> Weise bewirtschaftet. Wenn die Vorsehung nur den alten Berent
+               trefflich erhalten möchte, dann würde die Sache schon gehen, allein er kränkelt jetzt
+               öfter als je, und Herr Graf werden endlich gezwungen werden, demselben seine Bürde zu
+               erleichtern und die Haupt-Inspektion kräftigen Händen zu übergeben. Gott leite Ihnen
+               wohl, dass die fehlende Kraft mit der jetzt vorhandenen Ehrlichkeit und Streben
+               gepaart sein möge. <lb/>Wie oft schon habe ich es bedauert, dass ich meinem
+               Jugendstudio und meiner damaligen Lieblingsneigung recht treu geblieben bin.
+               Vielleicht hätte mein Schicksal mich auch in Ihre Nähe geführt und ich hätte jetzt
+               sagen können: da bin auch ich Herr Graf! prüfen Sie mich und wählen. Statt dass ich
+               jetzt als Subaltern-Offiziant an den Schreibtisch gefesselt mit gebücktem Rücken das
+               kärgliche Brot erschreiben muss. Doch fern sei es von mir, mit meinem Geschick zu
+               hadern, ich bin vor Tausenden meiner Mitbrüder glücklich. <lb/>In dem Pächter von
+                  <placeName key="ed_nkz_b12_gy">Stawken</placeName> und <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> haben Sie einen tätigen
+               ordnungsliebenden und biederen Mann, dem von allen Seiten ein guter Ruf vorangeht und
+               folgt, und der gewiss ganz Ihre Zufriedenheit, wenn Sie ihn kennen würden, erhalten
+               wird. Nur, schon wie die Vorsehung im menschlichen Leben oft nach unergründlichen
+               Gesetzen den rechtlichen Menschen nicht immer zum physisch glücklichen macht, so
+               scheint der gute <persName key="ed_ps5_zkj_hlb">Behrendt</persName> auch zu dieser
+               Zahl von Sterblichen zu gehören. <persName key="ed_stv_2dt_xxb">Willimzig</persName>
+               hat wie ein - im gelindesten Ausdruck - Pfuscher gewirtschaftet. Meine
+               Rechnungsabnahme-Verhandlungen, die Herr Graf gewiss erhalten haben, werden beweisen
+               und <gap reason="illegible"/>, und so war auch der Acker bei Übergabe der Wirtschaft
+               an Behrendt schlecht bestellt, alle Wirtschaftsgeräte waren im miserabelsten Stande
+               und Behrendt musste gleich mit Geld und Gut <gap reason="illegible"/>, um die
+               Wirtschaft in den Stand zu setzen. Die Ernte war nur mittelmäßig und das größeste
+               Übel ist, dass ihm an der Lungenfäule die Schafe einzugehen anfangen. Bereits einige
+               90 Stück sind ihm gefallen und er verzagt ganz. Ich suche ihn aufrecht zu erhalten
+               und ihn mit Ihrer Billigkeit, Herr Graf, zu trösten. Der Mann verdient es, dass Sie
+               ihn für die Vorwerker behalten. Suchen Sie ihn also auch zu erhalten. <lb/>In
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> ist dieselbe Krankheit unter
+               den Schafen ausgebrochen, und wird Ihnen gewiss hierüber sowie über die übrigen
+               Wirtschaftsverhältnisse Bericht erstattet sein. Der Hegemeister <persName key="ed_bmn_41z_z5b">Bliss</persName> ist mit Rücksicht auf uns arme Städter ein
+               zu treuer Verweser Ihrer Forsten, denn schon wieder hat er den Holzpreis erhöht und
+               wir müssen für ein Achtel Hartholz inkl. Fuhrlohn hier in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> schon bis 15 Rtlr. bezahlen. Der üble
+               Weg und die Unhaltbarkeit der Brücher wird jedoch dem Absatz Schaden tun. <lb/>Die
+               Rechnungen, von H. <persName key="ed_bp2_vf5_xxb">Prange</persName> gelegt, sind mir
+               zur Revision und Abnahme übergeben. Die Abnahme ist von mir geschehen und werden
+               Ihnen wohl die Verhandlungen hierüber zu seiner Zeit mitgeteilt werden. Ponage
+               scheint ein akkurater Kassenführer zu sein, und ist die Art der Rechnungsführung auch
+               gut, denn sie gewährt keine Kontrolle der Kassenoffizianten und macht eine
+               unverhoffte Kassenrevision ganz unmöglich. Ich habe mich in meinen
+               Revisionsverhandlungen zwar schon darüber ausgelassen, indessen behalte ich mir vor,
+               Ihnen Herr Graf hierüber noch mündlich meine Meinungen zu sagen. In wiefern solche
+                  <gap reason="illegible"/> einzusehen wären, bleibt der Bestimmung des Herr Grafen
+               anheim gegeben. <lb/>Der Wirtschafter <placeName key="ed_pxt_cnh_1y">Steinorts</placeName> sollte dieses Jahr <gap reason="illegible"/> zur Ableistung
+               seiner militärischen Verpflichtungen eingezogen werden. Ein Schreiben des <persName key="ed_yx5_cbg_nbb">Berent</persName> an H. General v. <persName key="ed_mvs_2f2_b2b">Borstell</persName> machte, dass er in Steinort zurückblieb.
+               Indessen dieser Jahr muss er auch jeden Fall Soldat werden, und da auch Prange jetzt
+               das Alter erreicht hat, Soldat werden zu müssen, so werden Herr Graf wohl in diesem
+               Jahre ebenfalls Änderung Ihres Subaltern-Wirtschafts-Offizianten-Personals erleiden.
+               <lb/>Der Verlust des biederen allgemein geachteten <persName key="ed_abl_pyy_4kb">Werse</persName> als Justitiarius der Steinortschen Güter ist schwerlich zu
+               ersetzen. Der Justizkommissarius Stadtrichter <persName key="ed_gjf_4j2_b2b">Horn</persName> aus <placeName key="ed_nq3_jyy_4kb">Nordenburg</placeName>
+               verwaltet jetzt das Justitiariat interimistisch. Er hat bereits bei Haltung seines
+               Gerichtstages Proben abgelegt, und es scheint, dass Herr Graf auch mit ihm zufrieden
+               sein werden. Das Litt. Oberlandesgericht verlangte die Abschließung eines Kontrakts
+               mit dem neue Justitiarius und die Einsendung desselben zur Bestätigung, indessen
+               stattete ich im Namen des alten Berent hierüber Bericht ab, dass seine Vollmacht
+               nicht bis zur Abgabe einer Stimme für einen neuen Jusititarius ausgedacht wäre. Das
+               Oberlandesgericht möchte dem p. Horn die Verwaltung des Justitiariats nach dem alten
+               Kontrakt interimistisch übertragen. Herr Graf würden bei Ihrer Ankunft nach Preußen
+               hierüber selbst die nötigen Anträge formulieren. <lb/>Sonst ist in den Steinortschen
+               Gütern nichts Neues vorgefallen, was Herr Graf nicht schon mitgeteilt sein sollte. In
+                  <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> brannte Weihnachten heiligen
+               Abend das Brandhaus ab. Alle Geräte wurden gerettet, und es wird das Gebäude wohl für
+               die Brand<gap reason="illegible"/>ration von 1.000 Rtlr. aufgebaut werden können.
+               Leider bleibt der Verlust an der Nutzung noch immer bedeutend genug. <lb/>Hinsichts
+               der persönlichen Verhältnisse so ist auch in unserer Gegend nichts Interessantes
+               vorgefallen. Kreisdirektor v. <persName key="ed_vsv_kl1_ycb">Koeller</persName>,
+               Justizrat <unclear reason="illegible" cert="low">Luter</unclear>, Landbaumeister
+                  <persName key="ed_hhn_qmh_wqb">Vogt</persName>, Pfarrer <persName key="ed_e5t_ldz_z5b">Wollweber</persName>, <gap reason="illegible"/> v. <gap reason="illegible"/> leben und sind gesund. <gap reason="illegible"/> Witwe v.
+                  <persName key="ed_y13_ndz_z5b">Billerbeck</persName> lebt ebenfalls noch in ihrem
+               Witwenstande von dem, dass sie Besitzerin von <placeName key="ed_ugy_1pg_hy">Rehsau</placeName> geblieben ist. Mein armer Bruder, den ich 5 Wochen zur
+               Vollziehung einer gefährlichen Operation seines Bruchschadens bei mir hatte, ist
+               jetzt zwar gesund, aber invalide. Er hat um seinen Abschied mit Versorgung
+               angehalten. Gott weiß, wie er versorgt und was er für einen Ersatz für die
+               Aufopferung seines Vermögens und seiner Gesundheit erhalten wird. <lb/>Nun, Herr
+               Graf, empfehle ich Sie der Fürsorge des Höchsten und mich Ihrem ferneren geneigten
+               Andenken. Verzeihen Sie das langweilige meiner Schreibart, dem guten Willen zugute,
+               und schelten Sie nicht über den jedes Gesetz der schuldigen Ehrerbietung
+               übertretenden Stil in meinen Briefen. <lb/>Der Sturm heult fürchterlich, indem ich
+               dieses schreibe, Gott gebe, dass er keine üblen Verwüstungen anrichten möchte. </p>
+            <closer>
+               <salute>Noch einmal und zum Schlusse die Versicherung meines gehorsamsten Respekts als
+                        Dero<lb/>
+               </salute>
+               <signed>Werner</signed>
+            </closer>
+         </div>
+         <postscript>
+            <p>PS. den 18. Januar Vormittags. Leider ist meine Bitte an Gott nicht erhört. Der
+               Sturm, gewiss eine Folge eines Erdbebens, hat fürchterlich gehaust. In <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> selbst 5 Scheuen von Grund auf
+               niedergeworfen, und alle übrigen zum Teil abgedeckt. Die Giebel eines massiven
+               Gebäudes eingerissen und überhaupt gruslig gewirtschaftet. Soeben treffen 2 Expressi
+               von <placeName key="ed_pxt_cnh_1y">Steinort</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> ein, und übergeben mir <seg type="comment"><orig>beiliegende 2 Billets</orig><note xml:id="nnvj_2tb_3yb">Die Akte enthält
+                     einen weiteren Brief Berents vom 18. Januar 1818</note></seg>. Erschrecken Sie
+               nicht vor deren Inhalt. Er ist höchst traurig. Der Allvater tröste Sie, Herr Graf,
+               unter anderm auch mit dem Gedanken, dass der wütende Orkan keinen verschont hat, auch
+               den nicht, der nichts verlieren kann. <lb/>
+            </p>
+            <p>treu gehorsamster Diener</p>
+            <p>Werner</p>
+         </postscript>
+      </body>
+   </text>
+</TEI>

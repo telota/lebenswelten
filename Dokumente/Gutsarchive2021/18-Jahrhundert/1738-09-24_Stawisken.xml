@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zct_stv_wxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Kontrakt der Gräfin von Lehndorff mit Johann Hermann Friese über die Pacht
+                    von Stawisken. Steinort, 24. September 1738</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Pacht- und Arbeitsverträge</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>APO</institution>
+                        <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 657, Bl. 10-14</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1738-09-24" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_zct_stv_wxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Mit <persName key="ed_jpz_4sf_fqb">Johann Hermann Friese</persName>, bisheriger
+                    Hofmann von <placeName key="ed_xpm_112_gy">Labab</placeName>, ist wegen
+                    Verarrendierung des Hochgräflichen Gutes <placeName key="ed_xzt_112_gy">Stawisken</placeName> nachfolgende Punktation in Kraft eines
+                    Arrende-Kontrakts geschlossen.</p>
+                <p>1. Verarrendieren Ihre Hochgräfl. Gnaden die Frau <persName key="ed_q4s_xyl_2y">Gräfin von Lehndorff</persName> Hochgeboren Dero Gut Stawisken an Johann
+                    Hermann Friese auf sechs nacheinander folgende Jahre, nämlich von <seg type="comment"><orig>Trinitatis</orig><note xml:id="njpd_mwp_fyb">Sonntag
+                            nach Pfingsten</note></seg> 1738 bis dahin 1744 und übergeben ihm
+                    solches nach dem aufgerichteten Inventario zum Genuss, dessen er, Friese, nach
+                    seinem Wissen und Willen, jedoch hauswirtschaftlich sich bedienen soll. Die
+                    Übergabe geschieht zwar erst in Dato und folgendem Tag dieser geschlossenen
+                    Punktation und empfängt Friese das nunmehr schon eingesamlete und in die Scheune
+                    gebrachte Getreide, es verbindet sich aber derselbe bei Expriierung der
+                    Arrendezeit ao. 1744 das Gut um Trinitatis wieder abzuliefern, wie solches der
+                    Traditions-Rzess mit mehrerem bezeigt. <lb/>Zu Bearbeitung des Vorwerks erhält
+                    Friese an Hausgesinde 1 Knecht 1 Jungen und 1 Magd, dann 3 Bauern aus demselben
+                    Dorf namens <persName key="ed_ix3_23b_5qb">Kazmarcig</persName>, <persName key="ed_lfs_wwp_fyb">Albrecht Gwiasda</persName> und <persName key="ed_jnk_dd1_5qb">Gerge Masuch</persName>, welche die gewöhnliche Jahres-
+                    und Tagesdienste verrichten, auch zwei Reisen nach <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> tun müssen. <lb/>Der
+                    Scharwerkszwang wegen der Bauern bleibt dem Pächter Friese, die Jurisriktion
+                    über die Bauern und das Gesinde behalten Ihro der Frau Gräfin Hochgeboren vor.
+                    <lb/>Er genießt von denen Bauern-Pächtern auch nichts weiter als die vorbesagten
+                    Dienste, die Zinsen, Kontributin, Gespinst, Schwade-Gritz, Eier und was sonsten
+                    ein Bauer zu leisten schuldig, trägt derselbe in den Hof <placeName key="ed_pxt_cnh_1y">Groß Steinort</placeName> ab, wie denn auch der Bauern
+                    Rode-Tage der Herrschaft vorbehalten werden. <lb/>Die bei dem Vorwerk
+                    vorhandenen Gärten genießt Pächter, er unterhält selbte aber auch in Zäunung,
+                    wie er denn auch alle Felderzäune und Graben dergestalt im Stande halten muss,
+                    wie er solche empfängt, er verspricht auch dasjenige, was er daran ohne seinen
+                    Schaden und Kosten bessern kann, zu verbessern. <lb/>Die Gebäude erhält er in
+                    Dach und Fach und deckt jährlich einen <gap reason="illegible"/> Baumgang auf
+                    seine Kosten.  <gap reason="illegible"/> ein Haupt-Bau-Vorgehen müsste oder
+                    Reparationes vorzunehmen wären, die Geldausgaben erforderten, dafür wird die
+                    Hochgräfliche Herrschaft sorgen.  <lb/>Das benötigte Brenn-, Zaun und Schirrholz
+                    soll Pächter nach Notdurft aus den Herrschaftlichen Wäldern verabfolgt werden,
+                    auch fahren davon die Bauern das Gewöhnliche an. <lb/>In den Ackerbau kann
+                    Pächter sich nach Gefallen auf den Vorwerksstücken ohne alle Nachrechnung
+                    extendieren, was er mehr aussät, soll demselben nach Verlauf der Arrendezeit
+                    nach Usance gutgeschrieben werden. <lb/></p>
+                <p>2. Vor sotanen Genuss des arrendierten Gutes entrichtet Pächter Friese in jedem
+                    der drei ersten Arrendejahre, außer der Kontribution, Decem und was sonsten
+                    denen Kirchen- und Geistlichen gebührt, fünf und achtzig Rtlr., in den letzten
+                    drei Jahren aber neunzig Rtlr. jährlich an <gap reason="illegible"/> Gelde und
+                    trägt alle Quartal den vierten Teil davon ab, zu Bezahlung der Kontribution wird
+                    Pächter der von ihm selbst und dessen Gesinde zu bezahlende Kopf- und Hornschoss
+                    gelassen. <lb/>In Ermangelung einer Kaution haftet er vor das Pachtquantum mit
+                    all dem Seinigen, und würde er in der Zahlung manquieren und die Sicherheit
+                    nicht nachweisen können, muss derselbe gewärtigen, dass der Arrende-Kontrakt
+                    aufgehoben wird.  <lb/>Wenn den Pächter Unglücksfälle, welche Gott in Gnaden
+                    abwenden wolle! betreffen, soll mit demselben es dergestalt darinnen gehalten
+                    werden, wie es S. Königl. Majestät bei Dero Domänen halten lassen. Wenn aber
+                    Pächter durch ein Versäumnis oder Verwahrlosung leiden sollte, hat er deshalb
+                    keine Vergütung zu hoffen, sondern ist gehalten, dasjenige, so die Herrschaft
+                    dadurch verlieren sollte, aus eigenen Mitteln zu erstatten. <lb/>Vor Ablauf der
+                    Arrendezeit muss Pächter ein halb Jahr zuvor der Herrschaft melden, ob er die
+                    Arrende kontinuieren wolle oder nicht, damit das nötige zeitige Absetzen durch
+                    Hochgräfliche Herrschaft vorgekehret werden könne, wie denn die Herrschaft ein
+                    Gleiches zu tun verspricht. Auch wird die Hochgräfliche Herrschaft den Abzug
+                    Frieses nicht difficultieren, wenn derselbe überall Tüchtigkeit getroffen und
+                    auch den vor dieselben getanen Vorschuss bei seiner Ankunft in die Güter werde
+                    erleget haben.</p>
+                <p>Geschehen Steinort den 24. Septembr. ao 1738</p>
+                <p>Johann Hermann Frieß <lb/>auf Verlangen dieses Manns Willen er nicht schreiben
+                    kann habe mißen seinen Namen unter schreiben <persName key="ed_amp_vtg_bqb"><lb/>Michael Jünger</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

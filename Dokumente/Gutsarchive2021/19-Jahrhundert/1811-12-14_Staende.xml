@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_bfr_1gr_swb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Vorstellung der </title><title>Stände des Kreises Rastenburg an Friedrich Wilhelm III. König von Preußen
+                    wegen der Unausführbarkeit des Ediktes vom 15. September 1810 in Ostpreußen.
+                    Bartenstein, 14. Dezember 1811</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Beziehungen zum preußischen Hof</p>
+                </note>
+                <note type="keyword"><p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>I. HA, Rep. 74, Nr. 1326, Bl.97-98</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName key="ed_l4n_vxc_py">Bartenstein</placeName>
+                    <date when="1811-12-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_tl1_nbf_4y">Preußen, Friedrich Wilhelm III. König von
+                        (1770-1840)</persName>
+                </correspAction>
+                <note>Siehe die Antwort vom <ref target="lehndorff_sl2_smr_swb">18. März
+                    1812.</ref></note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_bfr_1gr_swb"/>
+    </facsimile>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Bartenstein d. 14. Dezembr. 1811</dateline>
+                    <salute>Allerdurchlauchtigster, Großmächtigster König <lb/>Allergnädigster König
+                        und Herr</salute>
+                </opener>
+                <p>Ew. Königl. Majestät haben bei dem <seg type="comment"><orig>Edikt vom 14.
+                            Septbr. in Betreff der gutsherrlichen und bäuerlichen
+                            Verhältnisse</orig><note xml:id="nv2d_fpz_wxb">Zum Text <ref target="https://ghdi.ghi-dc.org/sub_document.cfm?document_id=3615&amp;language=german">hier</ref>.</note></seg> die landesväterliche Absicht gehabt, den
+                    Wohlstand der niedrigen Klasse des Volks zu heben und zu verbessern. Diese
+                    wohlwollende Gnade kann kein Menschenfreund verkennen, jedoch gibt sie auch uns
+                    den gegründeten Anspruch auf die Gerechtigkeit, nach welcher in den Staaten Ew.
+                    Königl. Majestät kein getreuer Untertan dem unverschuldeten Verderben
+                    bloßgestellt und sein rechtmäßig erworbenes und teuer erkauftes Eigentum ohne
+                    Entschädigung hinzugeben gezwungen werden kann. Nach Ew. Königl. Majestät
+                    huldvollen gerechten Gesinnung soll der Gutsherr für die Abtretung der Hälfte
+                    oder den zwei Dritteilen seiner Bauerländereien eine Entschädigung erhalten;
+                    nach dem erwähnten Edikte vom 14. Septbr. wird aber der Gutsbesitzer keineswegs
+                    schadlos gehalten, wenn er von seinem, durch ein freiwilliges Übereinkommen an
+                    freie Leute verpachteten Ländereien nur die Hälfte oder ein Dritteil seines
+                    Eigentums zurückgewährt erhält, und überdem noch den kontraktmäßig stipulierten
+                    Zins und die Hilfsdienste gänzlich verliert. Dies würde ein offenbarer Eingriff
+                    in die Rechte des Eigentums, weshalb wir uns, wenn es erforderlich sein sollte,
+                    auf das Zeugnis von Ew. Königl. Majestät Justizminister berufen wollen, aber
+                    keineswegs eine Entschädigung sein, sonst würde der Mieter eines Hauses durch
+                    Abtretung der einen Hälfte das Eigentums-Recht der anderen ebenmäßig erwerben
+                    können. <lb/><seg type="comment"><orig>Ew. Königl. Majestät sind wir daher
+                            gezwungen alleruntertänigst zu bitten, dieses nachgedachte Edikt vom 14.
+                            Septbr. für diese Provinz gänzlich wieder aufzuheben.</orig><note xml:id="nlyv_kpz_wxb">Siehe bereits das Dokument vom <ref target="lehndorff_ucg_pcl_4qb">14. Februar 1808</ref>.</note></seg>
+                    Übderdem würde diese Maßregel selbst mit der vollsten Entschädigung für den
+                    Gutsbesitzer hier in Preußen unausführbar werden, weil der große Mangel an
+                    Menschen und an barem Geld zur Benutzung oder Veräußerung des unbebauten Landes
+                    besonders in unserem nördlichen Klimat, wo die Bestellung der Felder auf einen
+                    viel kürzeren Zeitraum eingeschränkt und daher eine viel größere Anstrengung und
+                    Kostenaufwand erfordert als in den südlichen Provinzen, ein unübersteigliches
+                    Hindernis sind. Ferner müssen Ew. Königl. Majestät alleruntertänigst bemerklich
+                    machen, dass Preußen in ganz anderen Verhältnissen als die anderen Provinzen in
+                    Allerhöchst Dero Staaten ist, indem wir hier von der Krone verliehene Hufen nie
+                    gehabt, sondern nur adeliche Vorwerkshöfe, die unser volles Eigentum waren, zur
+                    Erleichterung der Wirtschaft an Zeitpächter durch freiwillige Kontrakte
+                    überlassen haben. Durch das nachgedachte Edikt wird also hier auch ganz
+                    vorzüglich nicht allein das Eigentum der Gutsbesitzer, sondern auch deren
+                    Gläubiger gewaltsam angegriffen. <lb/>Wir enthalten uns, um nicht zu weitläufig
+                    zu werden, aller weiteren Ausführungen in dieser Angelegenheit, da wir die
+                    Rechtmäßigkeit unserer Sache und die Unausführbarkeit des Edikts bereits so
+                    dargestellt zu haben glauben, dass wir von der Gerechtigkeit Ew. Königl.
+                    Majestät den Schutz unserer Eigentums mit voller Zuversicht erwarten dürfen, und
+                    ferner Ew. Königl. Majestät ein mehreres hierüber bereits von einem unserer
+                    Mitstände, dem <persName key="ed_fl1_lgs_lcb">Grafen von Schlieben</persName>
+                    auf Gerdauen, und von unserem Bevollmächtigten alleruntertänigst überreicht und
+                    Allerhöchst Dero <persName key="ed_uvr_lxn_zdb">Staatskanzler</persName>
+                    ausführlich übergeben worden ist. <lb/>Ew. Königl. Majestät Allerhöchste Gnade
+                    in der Bestellung unseres Deputierten, des Herrn <persName key="ed_rqm_zch_1cb">von Sydow</persName>, zum Landes-Ökonomie-Präsidenten erkennen wir mit dem
+                    alleruntertänigsten Danke, indem wir dieses als einen Beweis Allerhöchst Dero
+                    Wohlwollens für unsere unglückliche Provinz ansehen, müssen aber mit betrübtem
+                    Herzen gestehen, dass dieser von Sydow seiner Pflicht als Deputierter nicht
+                    nachgekommen und geradehin gegen seine Instruktion gehandelt hat, so, dass wir
+                    uns veranlasst fanden, denselben von <placeName key="ed_xrv_gwb_by">Berlin</placeName> noch vor dem Schluss der dortigen Beratung abrufen zu
+                    lassen. Dennoch hat dieser von Sydow auch nach erhaltenem Rückruf sich
+                    unterstanden, Erklärungen im Namen der Provinz abzugeben, die so wenig mit
+                    seiner Instruktion als mit der Meinung der Provinz übereinstimmten. Bei solchem
+                    Zusammentreffen werden Ew. Königl. Majestät uns die alleruntertänigste Bitte
+                    wohl verzeihen, dem Herrn von Sydow keine Anstellung in der Provinz Ostpreußen
+                    zu erteilen, indem unter vorhergegangenen Umständen dieser Mann weder unser
+                    Zutrauen noch unsere Achtung erhalten kann. <lb/>Treue Anhänglichkeit an Ew.
+                    Königl. Majestät und den Staat und die feste Überzeugung, dass unsere gerechter
+                    König bloß das Wohl seiner Untertanen zur Absicht hat und niemanden auf Kosten
+                    eines anderen ins Verderben stößt, berechtigen uns zu den erwünschtesten
+                    Hoffnungen, sowohl der Allerhöchsten Aufnahme dieses Vorstellens als der
+                    Erfüllung unserer alleruntertänigsten Bitte.</p>
+                <closer>
+                    <salute>Wir ersterben mit tiefster Ehrfurcht Ew. Königl. Majestät
+                        alleruntertänigste treu gehorsamste Stände des Insterburgschen
+                        Kreises</salute>
+                    <signed><note type="editorial">Es folgen alle Unterschriften.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

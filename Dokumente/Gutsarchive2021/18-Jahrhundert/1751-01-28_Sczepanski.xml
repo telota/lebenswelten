@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_tsr_lc3_nsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gerichtsschreiber Szczepanski rechtfertigt sich, er hätte nicht gegen die
+                    Interessen der Gräfin von Lehndorff gehandelt.</title><title> Angerburg, 28. Januar 1751</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 411, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_cln_c3r_fkb">Szczepanski, Jacobus (Jacob) August
+                        (1720-1782)</persName>
+               <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+               <date when="1751-01-28" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_q4s_xyl_2y">Lehndorff, Maria Louisa Gräfin von (Ragnit b.
+                        Tilsit 12.10.1696-Königsberg 12.2.1775)</persName>
+            </correspAction>
+            <note>Der Vertrag über die Sommerfischerei mit dem Fischer Werner war am 28. April 1749
+               in Steinort geschlossen worden. Vertrag und Abrechnungen liegen der Akte bei. Er
+               hatte jährlich 50 Rtlr. für die Nutzung zu zahlen und täglich „so viel Fische zur
+               herrschaftlichen Küche sowohl vor die Hohe Herrschaft, als auch vor die Domestiken
+               nötig ist‟, zu liefern. Deputat und Salär erhielt er wie sein Vorgänger. Seine
+               Wohnung hatte er in der „Waldbude‟ und hatte dafür den Wald im Winter „fleißig in
+               Acht‟ zu nehmen und im Sommer „auch allen Schaden treulich‟ zu verhüten. Das
+               Fischernetz erhielt er als Inventar, ebenso Besatzkühe. Als Werner Anfang 1750
+               verstarb, wurde seine Pacht abgerechnet. Als Schuld blieben 41 Tlr., 15 Gr. Am 23.
+               November wurden durch die Tochter 12 Tlr. abgetragen. Mit dem Zusatz „Vor diesen Rest
+               müssen die sämtl. Kinder haften‟, hatte Maria Louisa von Lehndorff die Abrechnung am
+               4. Februar 1750 abgenommen. Der Sohn <persName key="ed_hfn_fg4_5sb">Michael
+                  Werner</persName> übernahm die Sommerfischerei lt. Vertrag vom 28. April 1749 bis
+               1752, war aber bereits zum 7. April 1750 mit allen Zahlungen im Rückstand, so dass er
+               in den Hof bestellt wurde, Er hatte Probleme mit dem Inventar und zudem nur 8 Wochen
+               gefischt, „weil er teils keine Fische mehr in Ansehung des Seekrauts fangen, teils in
+               Ermangelung der Pferde kein Gericht Fische verführen können‟. </note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_tsr_lc3_nsb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Angerburg, den 28. Januar 1751</dateline>
+               <salute>Hochgeborene Reichsgräfin <lb/>gnädige Frau!</salute>
+            </opener>
+            <p>Da ich endlich nach Hause wiedergekommen, so schicke Ew. Hochgeboren Reichsgräfl.
+               Gnaden die verlangte <seg type="comment">
+                  <orig>Wernersche Liquidation im Anschluss</orig>
+                  <note xml:id="nfpt_5d3_nsb">Abrechnung mit dem Fischer <persName key="ed_osv_wf4_5sb">Friedrich Werner</persName> vom Pristanischen Werder
+                     von Ostern 1742 bis Ostern 1750.</note>
+               </seg> untertänigst ein und zeige dabei gewissenhaft an, dass Ew. Hochgeboren
+               Reichsgräfl. Gnaden mir durch Dero Schreiber, den <persName key="ed_nl5_k3j_3qb">Lindenau</persName>, unrecht tun, wenn Hochdieselben mir schreiben zu lassen
+               geruhen, dass einige <placeName key="ed_jpk_w4f_cy">Rosengartsche</placeName>
+               Interessen an mich genommen und solche zu unterschlagen intentioniert bin. Ich weiß
+               mich keineswegs zu erinnern, womit hierinnen Dero Ungnade auf mich gezogen. Ich
+               urgiere die Bezahlung der Interessen fast täglich, man hält mich aber bei unermüdeter
+               Suchung solcher Berechnung ständig auf, und derjenige, der Ew. Hochgeboren
+               Reichsgräfl. Gnaden zu sagen oder zu schreiben, dass meine selber von denen
+               Interessen eincessiert oder an mich genommen, sich nicht entblödet, derjenige gibt
+               von sich ein hässliches Merkmal eines vergallten und teuflischen Herzens, dessen
+               Intention mich aber gar nicht affiziert, da ich Ew. Hochgeboren Reichsgräfl. Gnaden
+               jederzeit mit gutem Gewissen unter Dero Augen treten kann ohne zu besorgen, dass
+               jemand da sein würde, der mich einer solchen üblen Vorhaltung überführen könnte. Ew.
+               Hochgeboren Reichsgräfl. Gnaden geruhen mir die Gerechtigkeit huldreichst widerfahren
+               zu lassen und den Grund dieser Sache zu examinieren, damit nicht nötig hätte, mich
+               bei Ew. Hochgeboren Reichsgräfl. Gnaden über die harte und ungewöhnliche Expressiones
+               Dero Schreibens höchlich zu beschweren. </p>
+            <closer>
+               <salute>Der in devotem Respekt ersterbe Ew. Hochgeboren Reichsgräfl. Gnaden gehorsamster
+                        Knecht</salute>
+               <signed>Szczepanski</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_cng_qcj_srb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die Einsassen der Raudnitzschen Güter zahlen dem Pfarrer adjunkt. eine
+                    Zulage. Deutsch Eylau, 23. Oktober 1789</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Religion/Kirche</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Unterstützungsgesuche</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 273, Bl. 6-6v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_cs2_rym_vsb">Kelch, Christ. Lebe. (-)</persName>
+               <placeName key="ed_chw_3xm_vsb">Deutsch Eylau</placeName>
+               <date when="1789-10-23" cert="high"/>
+            </correspAction>
+            <note>Das Schreiben und ein Promemoria, datiert Raudnitz, 13. Oktober 1789, wurden den
+               Einsassen in den Schönbergschen Gütern, die nach Deutsch Eylau eingepfarrt waren, am
+               5. Dezember bekannt gemacht. Diese erklärten, „nichts konkurrieren zu wollen‟. Die
+               Hubenwirte von <placeName key="ed_jc4_mxm_vsb">Karrasch</placeName> und <placeName key="ed_wqb_txm_vsb">Winkelsdorf</placeName> erklärten, von Michaelis an als
+               Zulage für den Pfarrer adjunkt. 9 Gr bei der Entrichtung des nächsten Decem zahlen zu
+               wollen. Der Pächter von <placeName key="ed_f23_xxm_vsb">Schönerswald</placeName>
+               wollte 12 Gr., der Pächter von <placeName key="ed_zhy_2ym_vsb">Klein
+                  Raden</placeName> 15 Gr. geben. Die Instleute und Einwohner der Vorwerke wollten
+               nichts beitragen. Alle Unterschriften wurden durch xxx geleistet.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=273"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Deutsch Eylau, den 23. Oct. 1789</dateline>
+               <salute>Hochwohlgeborener und Hochwohlgelahrter <lb/>besonders Hochzuehrender
+                        Herr Adelgerichtsschreiber!</salute>
+               <seg type="comment">
+                  <note xml:id="nsxq_ldj_srb">Handschriftlicher Zusatz des
+                            Deputatus des Schönbergschen Erbhauptamtes über dem Brieftext, dass auch
+                            die Einsassen aus anderen Orten zur Bewilligung der Zulage zu animieren
+                            sind.</note>
+               </seg>
+            </opener>
+            <p>Auf Ew. Hochedelgeboren sehr geehrte Zuschrift vom 16. d. M. habe die ergebenste
+               Antwort erwidern wollen, dass die in den <placeName key="ed_ltv_cxm_vsb">Raudnitzschen</placeName> Gütern belegenen, zur hiesigen Kirche gehörigen
+               Einsassen folgendes an freiwilliger Zulage akkordiert haben:</p>
+            <p>Ein Arrendator, Freischulze oder ein Jäger 60 Gr. bis 1 Rtlr. <lb/>Ein Bauer von 2
+               Huben 1 bis 1 1/2 Fl. <lb/>Ein Bauer von 1 Hube 15 bis 18 Gr. <lb/>Ein Instmann 9,
+               ein Einwohner 3 bis 6 Gr. <lb/>Ein Gast-Krüger 1 Fl. <lb/>Zu dieser Anzeige füge nur
+               noch die gehorsamste Bitte hinzu, Ew. Hochedelgeboren wollen die Hochgeneigte
+               Fürsorge tragen, dass ich den Beitrag von <placeName key="ed_z2w_q2s_kfb">Schönbergscher</placeName> Seite doch noch dieses Jahr erhalten könnte, welches
+               denen Einsassen nun so viel leichter wird, da sie den Decem schon abgetragen
+               haben.</p>
+            <closer>
+               <salute>Mit der vorzüglichsten Hochachtung <lb/>Ew. Hochgeboren ganz ergebenster
+                        Diener</salute>
+               <signed>
+                  <persName key="ed_cs2_rym_vsb">Ch. Lebe. Kelch</persName>
+                  <lb/>Pfarrer</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

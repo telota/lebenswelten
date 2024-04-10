@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_xhh_mz4_gqb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Abgaben und Pflichten eines Bauern in Stawken und Pristanien. Januar
+                    1809</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Dienstpflichten und Abgaben</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch <ref target="lehndorff_qxz_tjc_ztb">hier</ref> zu dem von den Bauern in
+                  den Steinortschen Gütern zu leistenden Scharwerk.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 139, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1809-01-01" to="1809-01-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_xhh_mz4_gqb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>1. Zahlt derselbe 9 Rtlr. 52 Gr. jährlichen Zins um <seg type="comment"><orig>Martini-Zeit</orig><note xml:id="nsnd_bmj_wxb">11. November</note></seg>
+               an die Gutsherrschaft.</p>
+            <p>2. Die Königl. Kontribution, welche jährlich bei einem <placeName key="ed_ohv_kf2_gy">Pristanschen</placeName> Bauern 3 Rtlr. 60 Gr. 12 D. und bei einem <placeName key="ed_nkz_b12_gy">Stawkenschen</placeName> Bauern 3 Rtlr. 18 Gr. beträgt, die
+               Invaliden-Steuer und die Fortifikations-Baugelder, die aber nicht bestimmt angegeben
+               werden können, weil das Quantum dieser beiden Abgaben nicht fixiert ist. Und
+               überhaupt leistet er alle Königl. Onera, sie mögen Namen haben, wie sie wollen.</p>
+            <p>3. Bestellt derselbe jährlich in jedem Felde des Vorwerks einen Morgen Acker von
+                    6 Schfl. und erntet auch das darauf gewachsene Getreide ein.</p>
+            <p>4. Muss er alle Jahre 5 Tage Gras oder Getreide hauen und dasselbe harken und
+                    einfahren.</p>
+            <p>5. Muss er allen Dünger auf dem Vorwerk, wo er Scharwerksdienste zu leisten hat,
+               gemeinschaftlich mit den übrigen Wirten ausfahren.</p>
+            <p>6. Schickt er sowohl im Sommer wie im Winter alle Woche 2 Tage eine Magd zu Scharwerk
+               mit denen Gerätschaften dahin, <seg type="comment">
+                  <orig>wo sie aus dem Hofe bestellt wird</orig>
+                  <note xml:id="ntm2_jpp_gqb">Dienstbestellungen vom 1. September und <ref target="lehndorff_ljt_ftq_2qb">1. November 1809 </ref>liegen der Akte
+                     bei.</note>
+               </seg>.</p>
+            <p>7. Allen auf dem Vorwerk, wo er zu Scharwerk geht, erbauten Flachs muss er mit den
+               übrigen Wirten gemeinschaftlich ziehen, brechen, schwingen, wie auch gemeinschaftlich
+               mit den übrigen Wirten in sämtlichen Gütern jährlich allen erforderlichen Flachs hier
+               in Gr. <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hecheln und überdem noch
+               alle Jahr 2 Tage eine Magd zum Flachswenden schicken.</p>
+            <p>8. Muss er gemeinschaftlich mit den übrigen Wirten in sämtlichen Gütern alles
+                    hier auf den Steinortschen Grenzen befindliche Rohr hauen, binden und an Ort und
+                    Stelle fahren.</p>
+            <p>9. Muss er alle Jahr in hiesigen Wäldern 2 Achtel Holz schlagen und anfahren.</p>
+            <p>10. Leistet er alle Jahre zwei <placeName key="ed_ysw_qr1_dy">Königsbergsche</placeName> Reisen und ladet allemal 13 Schfl. Getreide,
+                    muss aber auch, wenn es verlangt wird, jedes Mal eine Rückladung von Königsberg
+                    mitnehmen.</p>
+            <p>11. Muss er alle Jahre einen Mann oder Knecht 2 Tage zum Roden dahin schicken, wo es
+               verlangt wird.</p>
+            <p>12. Muss er alle Jahre entweder 1 Stück schmale flachsene oder 2 Stück schmale hedene
+               Leinswand machen und bleichen, wozu er von Steinort zu der ersten 7 Pfd. Flachs und
+               zu dem letzteren 24 Pfd. <seg type="comment"><orig>Hede</orig><note xml:id="nbkd_gmj_wxb"><ref target="https://de.wikipedia.org/wiki/Werg">Werg</ref></note></seg> erhält, und davon auch ohnentgeltlich das Garn dazu
+               spinnt, auch überdem noch zum Bleichen einige Stücke Leinwand erhält.</p>
+            <p>13. Bei allen vorkommenden Bauten und Reparaturen sowohl bei Vorwerks-, als
+                    Bauern-Gebäuden muss er nicht allein alle dazu erforderlichen Materialien an
+                    Holz, Ziegel, Steine, Sand und Lehm ohnentgeltlich anfahren, sondern auch beim
+                    Zimmermann, Maurer und übrigen Handwerker alle erforderliche Handlanger
+                    gemeinschaftlich mit den übrigen Wirten gestellen. </p>
+            <p>14. Leistet er auf Erfordern unter dem Namen der <seg type="comment"><orig>Burgdienste</orig><note xml:id="nrmy_nmj_wxb">Aufgaben der Bauern zum
+                     Erhalt der regionalen Burg</note></seg> ohnentgeltlich in den Hof alle Hand-
+               und Gespann-Dienste, sie mögen Namen haben wie sie wollen.</p>
+            <p>15. Liefert er alle Jahre 1/2 Schfl. Eicheln und 1/2 Schfl. Hopfen, anstatt dieser
+               Lieferung 1 Schfl. Kartoffeln oder 30 Gr. Geld, sodann 1 Stof <seg type="comment"><orig>Schwaden-Grütz </orig><note xml:id="nxtn_smj_wxb">Zur Bedeutung <ref target="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_7_3_3164">hier</ref>.</note></seg>und einen Tellervoll <seg type="comment">
+                  <orig>Hintbeeren</orig>
+                  <note xml:id="nek2_qhj_3qb">Himbeeren</note>
+               </seg>.</p>
+            <p>16. Leistet er alle Krieges-Fuhren und Fourage-Lieferungen bei Durchmärschen des
+                    Militärs, Einquartierungen und überhaupt alle landesherrlichen Onera bloß für
+                    die Königlichen Vergütungen.</p>
+            <p>17. Alle nach alter Usance üblichen Kirchen- und gerichtliche Abgaben als <lb/>an
+               Huben-Decem zur <placeName key="ed_epz_y2c_gy">Engelsteinschen</placeName> Kirche
+               zahlt jeder Bauer 18 Gr. und an Kalende dem Pfarrer und Rektor zu <placeName key="ed_epz_y2c_gy">Engelstein</placeName> einen gehäuften Schfl. Haber, 10
+               Handvoll Flachs und eine <gap reason="illegible"/> Schüssel voll Erbsen, die man
+               ungefähr für 1 Mezze halten kann. Auch erhält der Schulmeister von jedem Wirt
+               jährlich 1/2 Schfl. Korn, 1/4 Schfl. Gerste und 15 Gr. bar Geld.</p>
+            <p>18. Fährt jeder Wirt von <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> dem
+               Pfarrer und jeder Wirt von <placeName key="ed_nkz_b12_gy">Stawken</placeName> dem
+               Rektor 1 Fuder Deputat-Holz aus hiesigen Wäldern nach Engelstein an, sodann müssen
+               die Pristanschen und Stawkenschen Bauern zusammen dem Schulmeister in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> 3 Achtel Holz schlagen und
+               anfahren.</p>
+            <p>19. Der Schmied zu Pristanien erhält jährlich von jedem Wirt 1 <seg type="comment"><orig>Mandel</orig><note xml:id="nbvx_5mj_wxb">Gewichtseinheit, gebräuchlich
+                     bei Getreide (Kornmandel) und Stroh. 15 Garben bildeten 1 Mandel, 4 Mandeln (60
+                     Garben) einen Schober. </note></seg> Haber, 1 Mandel Gerste und 20 Bund Korn
+               vom Feld, auch 7 1/2 Gr. bar Geld.</p>
+            <p>20. Muss der Bauer gemeinschaftlich mit den übrigen Wirten des Dorfes alle in den
+                    Grenzen belegenen Brücken und Zäune in gutem Stande erhalten, wozu er aber das
+                    Holz aus Herrschaftl. Walde erhält, sodann muss er, wenn es erforderlich, Leute
+                    zu den Wegebesserungen und zu den Wolfsjagden gestellen.</p>
+            <p>21. Ist er verbunden, jährlich sowohl im Frühjahr als im Herbst eine Magd 2 Tage
+                    zum Schaf-Waschen und 2 Tage zum Schaf-Scheren dahin, wo die Schäferei steht, zu
+                    schicken.</p>
+            <p>22. Der Krüger in Pristanien ist von allem sonstigem Scharwerk frei, zahlt 35 Rtlr.
+               baren Krug-Zins, leistet 2 Königsbergsche Fuhren à 13 Schfl. und alle Königl.,
+               gerichtliche und Kirchen-Onera, sie mögen Namen haben wie sie wollen.</p>
+            <p>23. Liefert der Krüger sowohl als alle Bauern jährlich das gewöhnliche Metz-Getreide,
+               von jeder Person 1/2 Schfl. Korn und außerdem jeder Scharwerksbauer 1/2 Schfl.
+               Fischer-Korn im Herbst bei der Saatzeit an die Gutsherrschaft.</p>
+            <p/>
+            <p>Vom Gute <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> überhaupt ist laut
+               Kontributions-Quitbuch jährlich zu zahlen</p>
+            <p>
+               <table rows="8" cols="2">
+                  <row>
+                     <cell>1. an General-Huben-Schoss incl. 5 Rtlr. 30 Gr. Tranksteuer</cell>
+                     <cell>84 Rtlr. 4 Gr. 9 D.</cell>
+                  </row>
+                  <row>
+                     <cell>2. Ritterdienstgeld</cell>
+                     <cell>10 Rtlr.</cell>
+                  </row>
+                  <row>
+                     <cell>3. Allodifikations-Zins</cell>
+                     <cell>5 Rtlr. 46 Gr. 3 D.</cell>
+                  </row>
+                  <row>
+                     <cell>in Summa</cell>
+                     <cell>100 Rtlr. 50 Gr. 12 D.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>hinzu zahlt das Vorwerk</cell>
+                     <cell>49 Rtlr. 30 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>das Dorf incl. der wüsten Erbe für die <persName key="ed_twt_whj_3qb">Pächter Klein </persName>bezahlt</cell>
+                     <cell>51 Rtlr. 20 Gr. 12 D.</cell>
+                  </row>
+                  <row>
+                     <cell>Summa wie vor</cell>
+                     <cell>100 Rtlr. 50 Gr. 12 D.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Vom Gute <placeName key="ed_nkz_b12_gy">Stawken</placeName> ist zu zahlen</p>
+            <p>
+               <table rows="7" cols="2">
+                  <row>
+                     <cell>1. an General-Huben-Schoss </cell>
+                     <cell>71 Rtlr. 28 Gr. 6 D.</cell>
+                  </row>
+                  <row>
+                     <cell>2. Allodifikations-Zins</cell>
+                     <cell>4 Rtlr. 73 Gr. 15 D.</cell>
+                  </row>
+                  <row>
+                     <cell>in Summa</cell>
+                     <cell>76 Rtlr. 12 Gr. 1 D.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>hinzu zahlt das Vorwerk</cell>
+                     <cell>53 Rtlr. 66 Gr. 1 D.</cell>
+                  </row>
+                  <row>
+                     <cell>das Dorf </cell>
+                     <cell>22 Rtlr. 36 Gr.</cell>
+                  </row>
+                  <row>
+                     <cell>Summa wie vor</cell>
+                     <cell>76 Rtlr. 12 Gr. 1 D.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

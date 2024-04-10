@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ny3_rvy_hrb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Reskript wegen der Beseitigung von Missständen auf dem Land. Königsberg, 3.
+               Januar 1676</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Amtliche Kontakte</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 412, Bl. 1-3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+            <date when="1676-01-03" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=412"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Von Gottes Gnaden <persName key="ed_nc5_wbp_vcb">Friedrich Wilhelm Markgraf zu
+                        Brandenburg</persName>
+               <gap reason="insignificant"/> ppp.</p>
+            <p>Edler lieber Getreuer.</p>
+            <p>Es haben Unsere Lande Preußen für vielen anderen Ländern dem Allerhöchsten billig zu
+               danken, dass sie, die seithero in gutem Frieden gesessen, auch dieses abgelegte Jahr
+               durchbracht. Weilen nun neben dem Friede zu mehrerem Wohlstande eines Landes gehört,
+               dass darin gute Ordnungen sein und unterhalten werden, als haben Wir wohl an
+               Aufrichtung guter Ordnungen es nie ermangeln lassen, müssen aber doch ungern
+               erfahren, dass es hin und wieder an deren Observanz und dem dazu gehörigen Nachdruck,
+               fürnemlich bei einigen Unseren Beamten und Magistraten in den Städten, ermangeln
+               wolle. Damit nun solcher Mangel aus abgelegtem Jahr nicht in angehendes Jahr
+               mitgenommen werde und anwachse, haben Wir dieses Reskript zu nötigen Erinnerungen ins
+               Land ausgehen lassen wollen, Gestalt wir hiermit in Gnaden Dir befehlen, wie Kirchen
+               und Schulen Gebäude, auch Pfarrer und Schulbediente unterhalten werden, wie hingegen
+               auch sie das ihrige verstehen zu untersuchen. Unsere <ref target="lehndorff_mwr_y4y_hrb">Edikta gegen die Entheiligung der Sonn- und
+                  Festtage, wider das Fluchen, Missbrauch und Lästerung göttlicher Namen</ref>,
+               wegen der Duelle, Balgen und Ausforderung, wegen der Läufer an Untertanen und
+               Gesinde, auch dessen Lohn, von Wegen und Brücken, wie selbige zu fertigen und zu
+               unterhalten, von den Kanzeln in Deinem inhabenden Amte in gewissen Sonntagen
+               nacheinander abkündigen und ablesen, auch mittelst dieses Reskripti wegen
+               unnachlässiger Beobachtung der Landes- und Taxordnung, dann wegen der
+               Vormundschaften, wie daran aller Schaden den Unmündigen, auch wohl den Vormündern
+               selbst zu verhüten, die Kirchenbücher und jährliche Abhörung derselben in Ämtern und
+               Städten wohl verordnet erinnern zu lassen, vor Dich selbst auch und durch den
+               Magistrat in der Stadt, auch aufm Lande mit allem Ernst und Nachdruck darüber zu
+               halten. Woneben auch die Kleiderordnung, indem die Kleidungen mehr und mehr von
+               männiglichen wider Standesgebühr gebraucht werden, hervorzusuchen und wider solche,
+               auch andere, bei den <gap reason="illegible"/> eingerissenen Üppigkeiten und
+               Überfluss an Essen und Trinken allen Ernst einzuwenden, zuerst mit Publizierung
+               Unseres Reskripti, dass gemeinen Leuten und dem Gesinde zu ihrer Kleidung alle
+               kostbaren teuren Zeuge, Borten, Spitze, Schnüre auf Kleidung und Strümpfen, Stiefeln
+               und Schuh vor <gap reason="illegible"/>, Juchten und andere teuren Leder, auch die
+               hohe Absätze verboten sein sollen, zu warnen, dann, so einige dennoch der verbotenen
+               Zeuge und Waren sich gebrauchen wollen, denenselben Kleider, Stiefel und Schuhe bei
+               den Kirchen ausziehen zu lassen und in die Hospitäler zu geben. Dieweilen auch
+               berichtet werden will, als wollte hin und wieder zwischen Eheleuten ein ärgerliches
+               unordentliches Leben geführt, von ehrlosen Leuten auch Konkubinen gehalten werden,
+               ist darauf wohl Acht zu haben, und können es die Pfarrer, jeder in seinem Kirchspiel,
+               wohl merken, haben es auch, wenn ihre Warnungen nicht angenommen werden wollten,
+               gebührend zu denunzieren, auf das dawider behöriges Einschreiten geschehen könne und
+               Gottes Strafe, welche durch solche und andere Sünden aufs Land gezogen wird,
+               abgewandt werden möge. <seg type="comment"><orig>Wider den Missbrauch des Tobacks,
+                     wenn das Gesinde denselben in Ställen und Orten, wo eher und mehr Gefahr vom
+                     Feuer als sonst etwa zu besorgen, gebrauchet</orig><note xml:id="nufl_tsh_hxb">Siehe das Dokument vom <ref target="lehndorff_xy3_cmb_3rb">25. Mai
+                     1717</ref>.</note></seg>, solle ein jeder Wirt in seinem Hause, die Magistrate
+               in den Städten und Schulzen auf den Dörfern wach sein und eine Strafe darauf setzen,
+               so dem Gesinde am Lohn abzuziehen oder an dem Leibe auszuüben. Wie nun die Zeit <gap reason="lost"/> dieses teils beobachtet, oder was daran unterlassen und dagegen
+               gestanden oder noch stehen wollte, dass einiges nicht zu seinem Effekt bracht, was
+               teils auch noch hierauf zu verordnen und anzustellen, hast Du von Punkt zu Punkt an
+               Dich zu nehmen, mit schuldigem Fleiß anzustellen, zu untersuchen, darob mit Nachdruck
+               und Strafe zu halten, auch was von Strafen einbracht, wohin es verändert, dann von
+               aller Anstalt ausführlich gehorsamst zu berichten, damit aufs längste auf den
+               vorstehenden 10. Februar einzukommen, und Dich nicht weiter erinnern zu lassen, auf
+               das Du die Verantwortung von neuem und dem anderen nicht auf Dich selbsten
+               ladest.</p>
+            <p>Daran geschieht Unser gnädigster Wille.</p>
+            <p>Königsberg, den 3. Januari Ao. 1676</p>
+            <p>
+               <persName key="ed_bgt_qrp_krb">Albrecht v. Kalnein</persName>
+            </p>
+            <p>
+               <persName key="ed_qd2_w34_ysb">v. Tettau</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

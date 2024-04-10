@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_iqd_r5h_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff verlängert den Pachtvertrag mit Albrecht Uwis über das
+               Vorwerk Stawisken. Steinort, 13. April 1768</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 390, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1768-04-13" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_iqd_r5h_3tb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Hochgräfl. Hof <placeName key="ed_pxt_cnh_1y">Steinort</placeName>, d. 13. April
+                    1768</p>
+            <p>Da des Arrendatoris <persName key="ed_x5r_ggm_j5b">Albrecht Uwis</persName> Arrende
+               von dem Hochgräfl. Vorwerk <placeName key="ed_xzt_112_gy">Stawisken</placeName> auf
+                  <seg type="comment"><orig>Trinitatis</orig><note xml:id="ndyc_bsw_vxb">4.
+                     Juni</note></seg> c. a. zu Ende geht, und die Frau <persName key="ed_q4s_xyl_2y">Reichsgräfin von Lehndorff</persName> Gnaden sich gnädigst
+               entschlossen, dieses Vorwerk Stawisken dem zeitigen Pächter Uwis wegen seiner
+               bisherigen guten Wirtschaft noch auf 3 Jahre, nämlich von Trinitatis 1768 bis dahin
+               des in Gesundheit und Segen zu erlebenden 1771sten Jahres kontinuieren zu lassen, so
+               ist mit demselben wegen der zu zahlenden Arrende von den neuen Pacht-Jahren
+               nachstehend abgemacht worden. <lb/>Er soll zwar nach dem neuen angefertigten
+               Anschlage vom 23. Nov. c. a. vor dieses Vorwerk 349 Fl. 16 Gr. 3 D. mit einem
+               Kuh-Stamm von 15 Stück Pachtkühe, wovon er die Hälfte in natura pro inventario erhält
+               und sich die andere Hälfte aus seinen eigenen Mitteln anschaffen muss, an jährlicher
+               Arrende bezahlen. Annoch wollen Ihro Hochreichsgräfliche Gnaden dem Arrendatori Uwis
+               dieses Vorwerk Stawisken vor eben dieselbe Arrende, so er bishero bezahlt und sich
+               auf 270 Fl. außer der Kontribution und Decem nebst den übrigen Abgaben beträgt, in
+               der Art gnädigst überlassen, dass er keine Pachtkühe mehr erhalten soll, sondern
+               fortmehro nur die 2 St. Pachtkühe, so er laut dem Traditions-Rezess pro inventario
+               erhalten, behält, und folglich ohne einzige Abzüge von den fehlenden 13 Stück Kühe,
+               welche in dem Anschlage angesetzt sind, eine jährliche Arrende von 270 Fl. rein Geld
+               in guter Münze bezahlen muss. <lb/>Die übrigen Punkte bleiben nach dem in Händen
+               habenden alten Kontrakt von Stawisken fest, und soll der neue Kontrakt danach
+               eingerichtet werden. </p>
+            <p><lb/>Diese Punktation haben Ihro Hochreichsgräfl. Gnaden genehmigt und darüber dem
+               Arrendatori Uwis diese gnädige Versicherung unter Hochderoselben hohen eigenhändigen
+               Unterschrift erteilen lassen.</p>
+            <p>
+               <persName key="ed_q4s_xyl_2y">L. M. G. v. Lehndorff</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

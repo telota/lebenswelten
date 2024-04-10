@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_hzj_3l4_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Jan Tiburtz und andere Untertanen werden zum Vorwurf des Entlaufens verhört.
+               Steinort, 7. und 13. Juni 1726</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gerichtliche Auseinandersetzungen/ Patrimonialgericht</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe auch StA L, Bestand 21950 Familienarchiv Lehndorff, Nr. 73: Suche des
+                  Reichsgrafen Ahasverus Heinrich von Lehndorff nach zwei entlaufenen Untertanen
+                     (<ref target="lehndorff_bkx_jsm_3qb">7. Juni 1795</ref> und <ref target="lehndorff_hgd_vhj_gy">18. Juli 1795</ref> ). <lb/>Weitere Urteile des
+                  Patrimonialgerichts Steinort gegen entlaufene Untertanen aus den Jahren 1738 bis
+                  1756 und 1771 in: GStA PK, XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort,
+                  Steinort, Nr. 692.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 69, Bl. 1-2v</idno>
+               </msIdentifier>
+               
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1726-06-07" to="1726-06-13" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_hzj_3l4_3qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum <placeName key="ed_pxt_cnh_1y">Steinort</placeName> den 7. Juni 1726</p>
+            <p>Demnach Ihro Hochgräfl. Exzellenz benachrichtigt worden, wie dass Ihrer Etliche ein
+               Komplott gemacht um wegzulaufen, als sind sie, bevor sie solche Vorstellung machen
+               können, eingefangen und darauf von mir examiniert worden. Und zwar anfänglich der
+                  <seg type="comment">
+                  <orig>David Masuch</orig>
+                  <note xml:id="nafh_v14_5qb">Ohne Ortsangabe nicht zu verifizieren.</note>
+               </seg>.</p>
+            <p>Derselbe gibt vor, dass er keinesmals im Sinne gehabt wegzulaufen, habe auch mit dem
+               jungen <persName key="ed_dpg_ph4_5qb">Hans Kossack</persName> desfalls nichts
+               gesprochen, sondern er sei vergangenen Sonntag vor acht Tagen in <placeName key="ed_xpm_112_gy">Labab</placeName> bei dem <persName key="ed_cjc_zxj_5qb">Scheimann</persName> gewesen, da sei die <seg type="comment">
+                  <orig>Grabussche</orig>
+                  <note xml:id="no1n_kn4_5qb">Ohne Ortsangabe nicht zu verifizieren.</note>
+               </seg> hingekommen und erzählt, wie dass der Tiburtz sein Weib und den Hans Kossack
+               geschlagen und der Tiburtz sich verlauten lassen, dass er nicht werde hiernechst
+               kommen, er müsse weggehen. Weiter weiß er seinen Vorgaben nach nichts zu sagen,</p>
+            <p>Hierauf ist der <persName key="ed_bv5_z14_5qb">Jan Tiburtz</persName> vorgefordert
+               und befragt, warum er weglaufen wollen, und gibt vor, dass der Kämmerer <persName key="ed_gqp_db4_5qb">Martin</persName>, nachdem er die ihm angewiesenen Ochsen und
+               Pferde nicht annehmen wollen, von demselben geschlagen worden, sei er darauf nach
+               Hause gekommen und zu seinem Weibe und Stiefsohn Hans sich verlauten lassen, er wolle
+               weglaufe, habe sich aber nicht resolviert wohin. Wie er im Herbst allhier in der
+               Scheune mit dem David Masuch gedroschen, habe der David gesagt, wenn du meinen Besatz
+               von Ochsen und Pferden hättest bekommen, so wärst du wohl fortgekommen, allein der
+               Besatz ist hin und wieder voneinander gerissen. Er habe sich auch weder mit seinem
+               Weibe noch mit dem jungen Hans beredet, dass er wolle weggehen, sondern nachdem ihn
+               der Arrendator von <placeName key="ed_xpm_112_gy">Labab</placeName> geschlagen,
+               weilen er seinen Zaun im Winterfeld nicht zurechte gemacht, so wollte er weglaufen.
+               Die Stärken vom Frühjahr habe er deswegen an den Schuster in <placeName key="ed_h35_jqh_my">Drengfurt</placeName> verkauft vor 5 Fl., um sich ein paar
+               Stiebeln auf künftigen Winter machen zu lassen. Die Leinsaat habe er an den <persName key="ed_ok2_dq1_5qb">David Matzick</persName>, so laut des Kämmerers Aussage wohl
+               1 1/2 Schfl. Königsb. Maß gestrichen, vor 2 Fl. 12 Gr. verkauft im <placeName key="ed_hz1_4wl_2y">Angerburgischen</placeName> Jahrmarkt, und davor
+               Schmiedemesser und Bohrer sich angeschafft, das übrige habe er zu dem Bier, so ihm
+               versauert und Essig davon machen müssen, zugelegt. Die 2 Ferkel habe er in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> eines vor 12 und das andere vor 15 Gr.
+               verkauft. Ist also aus allem diesen Ausschlappen zu ersehen, dass er nun wirklich
+               Wegzulaufen im Sinne gehabt, um desto leichter fortkommen zu können und nichts zu
+               hinterlassen.</p>
+            <p>Nachgehend wird des Jan Tiburtzen Weib vorgefordert und befragt, was ihr wegen des
+               Mannes Weglaufen bewusst, vorbringend, sie habe ihrem Mann des Morgens Frühstück ins
+               Feld getragen und ihn gerufen, er solle essen kommen, habe er nicht kommen wollen,
+               darauf sie gesagt, heute früh bist du freundlich vom Hause gegangen und <unclear reason="illegible" cert="high">jetzt wieder</unclear> bist so grillich, habe er
+               geantwortet, hole dich der Teufel mit deinem Fressen, ich kann es nicht länger
+               ausstehen, ein jedweder kriegt mich beim Kopf und schlägt mich, ich will weggehen.
+               Sie wird gefragt, dieweil sie ihrem Vorgeben nach nicht willens gewesen wegzugehen
+               mit ihm, warum sie ihres Mannes Vorhaben und Vornehmen nicht im Hofe angegeben,
+               exkursiert sich aber damit, dass sie solches der Schulzeschen gesagt, die habe es
+               weiter ausgebracht. Sie war der Meinung, dass, wenn sie mit ihrem Mann nicht werde
+               fortgehen, er zum Weglaufen ganz allein sich nicht werde zelebrieren und sie
+               verlassen. Ihr wird vorgestellt, ob das wirtlich gehandelt durch den Mann, das Vieh
+               und Leinsaat ausschlappen zu lassen, sondern vielmehr solches selbsten säen, damit
+               sie den Winter über was zu spinnen haben und Leinwand zum Verkauf und zu ihres Hauses
+               Notdurft machen.</p>
+            <milestone unit="section" rendition="#hr"/>
+            <p>Actum Steinort d. 13. Juni 1726</p>
+            <p>Alldieweil bei vorhergehendem Examina der junge Hans Kossack vermisst gewesen und
+               deshalben nicht füglich das Verhör hat können gehalten werden, als ist es im
+               angesetzten Dato vollzogen worden, und sagt derselbe folgendes aus:</p>
+            <p>Es habe der Jan Tiburtz sein Weib beredet und gewollt, dass sie solle mitgehen, und
+               zwar noch vor die Heilige Pfingsttage, allein die Mutter habe nicht gewollt. Sein
+               Wille wäre gewesen, nach <seg type="comment">
+                  <orig>Ressel</orig>
+                  <note xml:id="nowj_cl4_5qb">
+                     <placeName key="ed_ynm_2zv_scb">Rössel</placeName>
+                  </note>
+               </seg> zu gehen, weilen in der Gegend von hiesigen Leuten mehr wohnen, die Mutter
+               habe dem <seg type="comment">
+                  <orig>Hansen</orig>
+                  <note xml:id="ngsq_c44_5qb">Hans Kossack, der Stiefsohn</note>
+               </seg> befohlen, solches dem Schulzen zu sagen, so er auch getan. Wie dieses der
+               Tiburtz vernommen, habe er sein Weib sehr geprügelt, dieses hat er dem Hansen
+               gleichfalls tun wollen und ihn totzuschlagen gedroht, allein er sei ihm entlaufen und
+               dieses Weglaufen habe er schon lange Zeit zuvor im Winter in Willens gehabt. Diesen
+               Hansen habe er zwar von seinem Weglaufen nicht gedacht, allein er habe sowohl den
+               David Masuch als sein Weib mit haben wollen und sie dazu beredet, allein die
+               Masuchsche habe nicht gewollt, sagend, wenn ich weglaufe, dass ich verbessern werde
+               ich da nicht finden wo ich werde hinkommen. Er habe in Willens gehabt, zum Pfarrer
+               zum Gebet zu gehen nebst den anderen aus dem Dorfe, allein der Tiburtz habe es nicht
+               wollen zulassen, sagend, wenn du wirst ins Bischoftum kommen, so kannst du gleich zu
+               Pfarrern, auch zu Gottes Tische gehen, und habe par force mit ihm anstatt zum Pfarrer
+               in den Wald reiten müssen. Die Mutter habe die Stärke und Ferkel nicht verkaufen
+               wollen, allein er habe sie gezwungen, dass sie solches habe zulassen müssen. Er sei
+               Willens gewesen, die Herrschaft-Leinwand mitzunehmen, allein als er <gap reason="illegible"/>mals in den Wald gefahren, habe sie die Leinwand nach Steinort
+               gebracht und abgegeben, weil seit der Zeit, dass dieses geschehen, sei er immerfort
+               so hörig auf sie gewesen. Die Leinsaat habe die Mutter aussäen wollen, damit sie was
+               möchte haben zu der Herrschaft Gewichte zulegen zu können, und auch zum nötigsten
+               Gebrauch was möchte haben, allein er habe gesagt, hole es der Teufel, ich werde nicht
+               säen.</p>
+            <p>Hierauf wird der Tiburtz und sein Weib, dann der David Masuch und der junge Hans
+               konfrontiert und wegen ihres Weglaufens befragt. Der David Masuch will nicht
+               gestehen, dass er sich mit dem Tiburtz beredet wegzugehen, sondern gesteht nur wegen
+               der Pferde und anderem Besatz mit dem Tiburtz im Winter geredet zu haben, nur dass er
+               nachgehend, als er in <placeName key="ed_xpm_112_gy">Labab</placeName> gewesen
+               erfahren, dass der Tiburtz sich verlauten wegzugehen. Sonsten bleibt es wegen des
+               Tiburtz Weglaufen richtig. Sie will aber nicht gestehen, dass sie in ihres Mannes
+               Weggehen gewilligt und mitgehen wollen, und da Masuchsche nicht zugegen und sie nicht
+               hat können laut des Hansen Aussage verhört werden, als ist insoweit dieses Verhör
+               geschlossen. <lb/>Actum ut supra.  </p>
+            <p><persName key="ed_jrr_t4q_ybb">H. Meyer</persName></p>
+         </div>
+      </body>
+   </text>
+</TEI>

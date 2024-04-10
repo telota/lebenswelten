@@ -1,0 +1,1353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="baeuerliche-welt" xml:id="lehndorff_lbw_zgj_5pb">
+        <teiHeader>
+                <fileDesc><titleStmt><title>Willkür für das den Burggrafen und Grafen zu Dohna gehörende
+                                        Dorf Reichertswalde. Reichertswalde, vor dem 20. November
+                                        1627</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                                <note type="keyword">
+                                        <p>Kategorie: Bäuerlicher Alltag</p>
+                                </note>
+                                <note type="keyword">
+                                        <p>Kategorie: Gutsherr und Untertan</p>
+                                </note>
+                                <note type="editorial">
+                                        <p>Das Original muss nach dem Tod von Achatius Burggraf und
+                                                Graf zu Dohna am 18. Oktober 1601 und vor dem Tod
+                                                des Sohnes Friedrich am 20. November 1627 verfasst
+                                                worden sein. Eine Willkür für Schlobitten
+                                                (1687-1773) in: APO, Bestand 384 Familienarchiv
+                                                Dohna, Nr. 839.</p>
+                                        <p>Zur Dorfwillkür: <ref target="http://www.thorn-wpr.de/fqRHHoll.htm">Heuer, Reinhold, Die Holländerdörfer in der
+                                                  Weichselniederung um Thorn</ref>, in: Mitteilungen
+                                                des Copernicus-Vereins für Wissenschaft und Kunst 42
+                                                (1934), S. 122-155.</p>
+                                </note>
+                        </notesStmt><sourceDesc>
+                                <msDesc rend="officialCopy" subtype="copy">
+                                        <msIdentifier>
+                                                <institution>APO</institution>
+                                                <idno>Bestand 384 Familienarchiv Dohna, Nr. 672, Bl.
+                                                  1-44</idno>
+                                        </msIdentifier>
+                                </msDesc>
+                                <listWit>
+                                        <witness>
+                                                <bibl type="print">Flade, Dietrich, Quellen,
+                                                  Materialien und Sammlungen. Aus dem Archiv der
+                                                  Grafen zu Dohna-Reichertswalde. Familienkundliche
+                                                  Aktenauszüge aus einem ostpreußischen Gutsarchiv
+                                                  1596–1933, Hamburg 1996, S. 124-141 (Quellen,
+                                                  Materialien und Sammlungen zur altpreußischen
+                                                  Familienforschung, 7) </bibl>
+                                        </witness>
+                                </listWit>
+                        </sourceDesc></fileDesc>
+                <profileDesc>
+                        <creation>
+                                <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+                                <date from="1627-01-01" to="1627-11-20" cert="high"/>
+                        </creation>
+                </profileDesc>
+        </teiHeader>
+        <facsimile>
+                <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_lbw_zgj_5pb"/>
+        </facsimile>
+        <text type="document">
+                <body>
+                        <div>
+                                <p>Nachdem die Wohlgebornen Herren <seg type="comment"><orig><persName key="ed_f31_dgj_zpb">Friedrich</persName>
+                                                  <persName key="ed_ulk_fgj_zpb">Fabian</persName>
+                                                  <persName key="ed_irt_hgj_zpb">Achatius</persName>
+                                                  und <persName key="ed_rr1_kgj_zpb">Christoph</persName> Burggraf zu Dohna p
+                                                  Gebrüdere</orig><note xml:id="nhky_f4h_hxb">Söhne
+                                                  des Achatius Burggraf zu Dohna
+                                                (1533-1601).</note></seg> mancherlei Unordnung,
+                                        Widerwillen, Ungehorsam und Untugend p. wegen das bishero
+                                        bei Ihro Gnaden Dorfschaften teils gar alte, in jetzige Zeit
+                                        ungereimte und mancherlei ungleiche <seg type="comment"><orig>Willküren</orig><note xml:id="na2r_qlh_txb"><ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=dorfwillkuer&amp;firstterm=dorfwasserkufe">Dorfordnung</ref></note></seg> gewesen, teils
+                                        Dorfschaften auch <seg type="comment"><orig>niemalen</orig><note xml:id="nj43_tlh_txb">Flade: einmalen</note></seg> einige Willküren
+                                        gehabt haben, angemerkt, allem vorzukommen und abzuhelfen,
+                                        haben ermeldte Herren Burggrafen zu Dohna eine gleichförmige
+                                        Willküren verfassen und gleicheslauts andern Dörfern der
+                                        Dorfschaft <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName> und derselben Einwohnern
+                                        solche richtige Willküren, welche sie und ihre Nachkommen
+                                        unverbrüchlich zu halten schuldig sein sollen, zustellen
+                                        lassen, und lauten die Artikel derselben wie folgt:</p>
+                                <p><hi rendition="#u">Erstlichen</hi>. Von Verlesung der Willkür
+                                        <lb/>Es soll der Schulze jährlich die Gemeinde zwischen
+                                        Weihnachten und Fastnacht auf einen bestimmten Tag mit
+                                        Vorwissen der Herrschaft oder in Abwesenheit ihre Diener,
+                                        denen es die Herrschaft anbefohlen, zeitig zuvor verboten,
+                                        und in derselben Beisein diese Willkür der Gemeine deutlich
+                                        verlesen lassen. Wer dazu nicht kömmt, es sein Mann oder
+                                        Weib, und keine ehrhafte Entschuldigung seines Außenbleibens
+                                        einzuwenden hätte, soll der so Hubenbesitzer 1 Mark, ein
+                                        Gärtner 6 Gr., Instmann oder Hirt 3 Gr. in die Ratsbüchse
+                                        erlegen und nicht desto weniger anderen Strafen, so er
+                                        sonsten laut dieser Willkür verfallen, im wenigsten nicht
+                                        befreit sein. Wo aber der Schulze hierin säumig befunden
+                                        würde, soll er der Herrschaft p. darum verfallen sein drei
+                                        gute Mark.</p>
+                                <p><hi rendition="#u">2tens</hi>. Wegen Heiligung des Sonntags
+                                        <lb/>Es sollen die Einwohner sämtlich wie sie Namen haben
+                                        mögen, es sei Schulze, Krüger, Bauer, Müller, Handwerksmann,
+                                        Gärtner oder Hirte, nebst ihren Kindern und Gesinde sich
+                                        fleißig zu Gottes Wort der Kirchen und dem lieben Gebet
+                                        halten, und keinen Sonntag, so oft das Gebet gehalten,
+                                        zugleich Mann und Weib außer der Kirche bleiben bei Strafe 5
+                                        Gr., imgleichen alle Einwohner, Kinder und Gesinde so über
+                                        10 Jahre alt, welche nicht sonntäglich in die Kirche sein
+                                        können, soll keiner zwei Sonntage oder Feiertage
+                                        nacheinander bei 3 Gr. Buße sich der Kirche enthalten,
+                                        ausgenommen in Pestzeiten oder wenn andere anfallende
+                                        Krankheiten regieren (dafür Gott gnädiglich behüten wolle).
+                                        Alsdann soll ein Unterschied zwischen den Gesunden und
+                                        Kranken mit Vorwissen der Herrschaft gehalten werden, oder
+                                        da auch jemand hohen Alters halber nicht reiten noch gehen
+                                        könnte, auch Krankheit und andern <seg type="comment">
+                                                <orig>Ehehaften</orig>
+                                                <note xml:id="nhxz_wnf_1qb">Entschuldigungen</note>
+                                        </seg> einzuwenden hätte, soll derselbe unschuldig zu halten
+                                        sein, doch dass ein jeder, so aus der Kirche bleiben muss,
+                                        sein Ehehaft desselben Tages vor der Predigt den
+                                        Kirchenvätern oder Aufsehern anzeigen, und sollen die Eltern
+                                        ihre kleinen Kinder, so über 6 Jahre alt sind, auch
+                                        gleichergestalt fleißig zur Kirche zu halten vermahnt sein.
+                                        Die Strafe, so der Einwohner, Kinder und Gesinde hierin
+                                        verfallen, sollen ein jeder, Eltern oder Wirt, zu erlegen
+                                        schuldig sein und an ihren Unterhalt solches zu kürzen Macht
+                                        haben p. Damit aber dieses dergestalt gewiss gehalten werde,
+                                        als sollen die Schulzen und Kirchenväter nebst denjenigen,
+                                        so die Aufsicht haben (inmaßen solche Aufseher insonderheit
+                                        bei den General-Jahres-Visitations-Abschieden im Amte
+                                        Holland klärlich verordnet worden, dass sie auch sonderliche
+                                        Bänke in der Kirche zu besserer Verrichtung ihres Amtes
+                                        haben, und deren in jedem Dorf zweien aus der Gemeinde
+                                        bestellt werden sollen) fleißig Achtung geben und die
+                                        Ausbleibenden jedes Mal, ehe sie wiederum zu Hause gehen,
+                                        dem Pfarrer oder in dessen Abwesenheit dem Schulmeister
+                                        anmelden, welche darüber ein richtig Verzeichnis halten und
+                                        deswegen von solchen Strafen jährlich von der Mark 1 Gr. zu
+                                        Lohn haben sollen, und sollen diese Strafen jährlich bei
+                                        Einnehmung des <seg type="comment"><orig>Decems</orig><note xml:id="nuwq_xlh_txb"><ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=kirchendezem">Kirchendecem</ref></note></seg> erfordert und
+                                        absonderlich in der Kirchenrechnung eingebracht oder mit
+                                        Vorwissen und Verordnung der Herrschaft den notdürftigen
+                                        bekannten Hausarmen ausgeteilt werden. Wo aber derjenige, so
+                                        zur Aufsicht bestätigt, hierin säumig gefunden werde und
+                                        jemand, so außen bleibe, nicht anzeigte oder bisweilen ohne
+                                        Ehehafte Not selbst nicht zur Kirche käme, sollen vor sich
+                                        und anstatt der Ausgebliebenen vorgesetzte Strafe erlegen,
+                                        auch zur besseren Aufsicht des Dorfes Einwohner unter sich
+                                        in gleichen Teil verteilen, und wenn notwendig einer von
+                                        ihnen aus der Kirche bleiben muss, also soll der die
+                                        Aufsicht dem anderen dazu Verordneten (welcher selbe bei
+                                        gemeldter Buß auf sich nehmen und ohne Entschuldigung
+                                        verrichten soll) aufzutragen Macht haben. Es soll auch zu
+                                        mehrer Übung der Gottesfurcht ein jeder Einwohner nebst den
+                                        Seinigen jung und alt die fünf Hauptstücke Christlicher
+                                        Lehren zum wenigsten alle Sonntage, die Morgen-, Abend- und
+                                        Tischgebete aber täglichen andächtig und von Herzen zu
+                                        beten, oder in seiner und sämtlicher Hausgenossen
+                                        Anwesenheit durch jemand aus ihnen viel oder wenig, es sein
+                                        Kinder oder Gesinde, vorgedachte Hauptstücke und Gebet sich
+                                        und den anderen vorsagen und vorbeten lassen, mit
+                                        christlicher andächtiger Zuhörung der anderen allen, wie
+                                        denn die Prediger jedes Orts vermöge ihres Amts, damit
+                                        dieses gewiss geschehe, sie nicht allein wie eine jede
+                                        Person ihres Kirchspiels in seinem Christentum und in den
+                                        fünf Hauptstücken Christlicher Lehre und derselben rechten
+                                        Verstand geübt und erfahren sein wissen mögen, bei fleißiger
+                                        und öfter Verhörung des Gebets sich dessen erkundigen,
+                                        sondern auch deswegen aus jedem Hause jede Person, was
+                                        selbige hierin wissend und wie sie sich in ihrem Christentum
+                                        und in obgemeldter Ordnung verhalten, aufzeichnen, und
+                                        solches, wie auch was diesem zuwiderlaufen möchte, der
+                                        Herrschaft in einem ordentlichen Register p. jährlich bei
+                                        Abhörung der Kirchenrechnung oder wann es sonst die
+                                        Herrschaft begehren würde, zeigen können Fleiß anwenden
+                                        werden. Wer nun <seg type="comment"><orig>hierwider</orig><note xml:id="nz1x_jmh_txb">hiergegen</note></seg> mutwilliger Weise handelt,
+                                        den Pfarrern, Schulzen, Kirchenvätern oder Aufsehern sich
+                                        widersetzten würde, derselbe soll nach Erkenntnis des
+                                        Gerichts ernstlich gestraft werden.</p>
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                <p><?oxy_custom_end?>3. Es soll niemand bei Zauber[er]n, Segnern,
+                                        Büßern oder Wahrsagern, viel weniger bei anderem vermeinten
+                                        Heiligtum, in keinerlei Krankheit und Not, sondern allein
+                                        zuvor bei Gott dem Herrn Hülfe und Errettung und hernach bei
+                                        den Ärzten Rat suchen. Wer hierwider handelt, soll nach
+                                        Erkenntnis des Gerichts ernstlich gestraft, die Zauberer und
+                                        Zaubersche, Segner, Büßer und Büßersche, Wahrsager und
+                                        Wahrsagerinnen aber mit Feuer und Schwert vom Leben zum Tod
+                                        gerichtet werden, alles nach der Sache Beschaffenheit und
+                                        des Gerichts Erkenntnis wie Recht ist
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>4. Wer den Namen Gottes missbraucht und bei
+                                        unseres Herrn und Heilands Jesu Christi Wunden, Marter und
+                                        Heiden-Sacrament und dergleichen Fluchen und Schwören p.
+                                        würde, derselbe soll, so oft es geschieht, nicht allein vor
+                                        der Kirche öffentlich drei Sonntage ins Halseisen gestellt,
+                                        sondern auch an Geld, die freventlichen Gotteslästerer aber
+                                        an Leib und Leben oder mit Abnehmung etlicher Glieder nach
+                                        Erkenntnis des Gerichts vermöge dem <seg type="comment"><orig>Landrecht</orig><note xml:id="ntzh_3nh_txb">Siehe hierzu: Berg, Thomas, Landesordnungen in
+                                                  Preußen vom 16. bis zum 18. Jahrhundert, Lüneburg
+                                                  1998 (Einzelschriften der Historischen Kommission
+                                                  für Ost- und Westpreußische Landesforschung, 17
+                                                  ;Veröffentlichungen aus dem Projektbereich
+                                                  Ostdeutsche Landesgeschichte an der Universität
+                                                  Bonn, 17)</note></seg> gestraft werden; derowegen
+                                        vor solch Lästern ein jeder die Seinigen zu warnen hat. Wer
+                                        einen hört fluchen und solches nicht anzeigt, der soll, so
+                                        oft er es verschweigt, vor jedes Mal 1 Fl. Ungarisch der
+                                        Kirche
+                                        erlegen.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>5. Niemand soll am Sonn- oder Feiertage, weder
+                                        vor noch unter der Predigt (ausgenommen den Reisenden,
+                                        Kranken und sonsten allen Unvermögenden und solche Leute,
+                                        die etwa ihrer Gesundheit halber um einen Pfennig 6 und 9
+                                        dessen unvermeidlich benötigt), Branntwein oder Bier
+                                        verkaufen noch umsonst zu zechen geben bei 1 Mark Buße der
+                                        Kirchen.
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>6. Wenn ein Einwohner im Dorfe oder seinem
+                                        Gesinde einer vor oder unter der Predigt, oder weil man in
+                                        der Kirche beisammen ist, nach Nüssen, Äpfeln, Birnen,
+                                        Erdbeeren, <seg type="comment">
+                                                <orig>Hindtbeeren</orig>
+                                                <note xml:id="nkzg_lzg_bqb">
+                                                  <ref target="http://docplayer.org/49199166-Pietro-andrea-mattioli-kraeuterbuch-linguistische-analyse-der-deutschen-pflanzennamen.html">Himbeeren</ref>
+                                                </note>
+                                        </seg> und andern Beeren, Fischen, Vogelnestern oder
+                                        anderswo in Strauch gehen oder verweisen, hernach gleich in
+                                        die Kirchen gehen und doch darin schlafen würden, derselbe
+                                        soll dem Dorf 3 Gr. in die Ratbüchse geben und gleichwohl
+                                        vorgesetzte Buß der Kirche erlegen.
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>7. Weil Gottes erster Befehl ist, dass die
+                                        Kinder ihre Eltern in Ehren halten sollen, sich aber leider
+                                        oftmal das Widerspiel befindet, als wird ein jeder
+                                        (sonderlich diejenigen, welche ihre Eltern oder Erbgeber und
+                                        Vormünder, so ihnen ihre Erbe überlassen zu unterhalten) mit
+                                        Fleiß vermahnt sein, dass sie dieselbe nicht allein ehren
+                                        und lieben, sondern auch dasjenige, so sie ihnen vermöge
+                                        ihres Kaufbriefes jährlich zu reichen schuldig, im wenigsten
+                                        nicht entziehen sollen bei Vermeidung Göttlicher und der
+                                        Obrigkeit darüber gesetzten Strafe
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>8. Weil Diebstahl ein abscheulich Laster ist,
+                                        welches vermöge Göttlicher und Weltlicher Gesetze billig
+                                        ernstlich gestraft wird, als ist zu Verhütung dessen nötig,
+                                        dass die bekannten dürftigen Hausarmen und Elenden, so wegen
+                                        Leibes Schwachheit und Unvermögenheit ihr Brot nicht
+                                        erwerben können, laut Gottes Befehl mit allerlei Notdurft
+                                        versehen und erhalten werden, derowegen soll ein jeder
+                                        hiermit fleißig ermahnt sein, dass keiner, dem Gott was
+                                        beschert hat, derselbe jemand unbegabt von sich gehen lasse,
+                                        damit der also von Gott zeitliche und ewige Belohnung zu
+                                        gewarten und die Plage, so über die Unbarmherzigen, welche
+                                        ihre Ohren vor der dürftigen Bitte verstopfen, ergehen wird,
+                                        desto besser vermeiden möge
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>9. Damit aber jedermann wisse, wem er seine
+                                        Almosen zu geben hat, als soll hinführo keinem einheimischen
+                                        bekannten Dürftigen zu betteln noch umzugehen verstattet
+                                        [sein], viel weniger demselben mehr als einmal das Almosen
+                                        geben werden, und sonderlich, wenn er ein Gezeichnis unter
+                                        dem Hofsiegel und jemanden aus der Herrschaft eigner
+                                        Handunterschrift bei sich hätte, welches doch auch nur ein
+                                        Jahr und allein in Herren zu Dohna p. Dorfschaften gültig
+                                        sein soll, nach Ausgang des Jahres aber, im Fall er dessen
+                                        ferner bedürftig wäre, soll es wiederum verneuert werden
+                                        p.</p>
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                <p><?oxy_custom_end?>10. Mit den fremden unbekannten argwohnischen
+                                        Bettlern aber und auch mit den Einheimischen, welche in
+                                        teurer Zeit keine Arbeit bekommen können, ob sie gleich gern
+                                        arbeiten wollen, imgleichen auch mit Fremden, Abgebrannten,
+                                        gefangenen Soldaten und Zigeunern soll es vermöge der
+                                        Herrschaft hierüber verfassten sonderlichen Ordnung gehalten
+                                        und im geringsten nichts dawider getan werden
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>11. Nachdem aus Schmähwörtern, Gezänk und
+                                        Schlägerei auch oftmals Todschlag erfolgt, als soll
+                                        derjenige, so im Kruge, Gülden und anderen Ortern zu einem
+                                        Hader Ursache gibt, imgleichen wer auf einige Friedegebot
+                                        der Herrschaft wegen, es geschehe vom Schulzen,
+                                        Geschworenen, Krüger, <seg type="comment">
+                                                <orig>Güldenmeister</orig>
+                                                <note xml:id="na1g_hjj_zpb">Handwerksmeister</note></seg>, Hauswirt oder sonst
+                                        jemand, nicht Friede halten wollte, 3 Mark in die
+                                        Almosenbüchse, der Dorfschaft aber 1 Mark in die Ratbüchse
+                                        erlegen, und dann wogegen die Herrschaft seines Verbrechens
+                                        halber nach Erkenntnis des Gerichts gestraft werden, und es
+                                        soll in Gülden niemand kein Messer noch einig Gewehr bei
+                                        sich tragen bei 3 Mark Strafe der Herrschaft und das Messer
+                                        und Gewehr soll dem Güldenmeister oder Hauswirt verfallen
+                                        sein
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>12. Es soll niemand dem andern, weder im Kruge,
+                                        Hochzeiten, Kindesbieren oder anderen Zusammenkünften, halbe
+                                        oder ganze Kannen voll noch andere Gefäßer auszutrinken
+                                        nötigen, vielweniger anderer Gestalt zu einiger Vollsauferei
+                                        noch Überfluss, daraus allerlei Laster entspringen, Ursach
+                                        geben. Wer solches tut, soll einen halben Gulden Strafe der
+                                        Kirchen zu erlegen schuldig sein
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+                                <p>13. Vom Tanzen in den Krügen <lb/>Weil in den Krügen des Sonntags
+                                        des Tanzens kein Aufhören, welches ein schändlicher Gebrauch
+                                        und selten was Gutes bei dem Nachtanzen erfolgt, so soll der
+                                        Krüger im Sommer nach Glock Neun und des Winters nach Glock
+                                        Acht keinen Tanz mehr gestatten bei 12 Mark Strafe, auch
+                                        soll jeder Wirt und Wirtin ihre Töchter und Mägde, so sich
+                                        gern beim Tanz finden lassen, zu rechter und vorgemeldter
+                                        Zeit, des Sommers aber mit der Sonnen Untergang und also
+                                        noch bei Tage, in ihre Behausung erfordern. Sollte aber
+                                        jemandes Töchter oder Dienstmagd dieser oder anderer Gestalt
+                                        wegen Zulassung und Verstattung ihrer Eltern oder
+                                        Brotherrens eigenen Willens zu Unfall kommen, derselbe Wirt
+                                        oder Wirtin soll nach Erkenntnis des Gerichts gestraft
+                                        werden, wer sich aber nach gemeldter Zeit wider des Krügers
+                                        oder des Güldenmeisters und des Hauswirts Willen, in dessen
+                                        Hause der Tanz gehalten, zum Tanz aufspielen lässt, derselbe
+                                        soll 6 Mark Strafe der Herrschaft erlegen und demselben Wirt
+                                        1 Mark. Gleicher Gestalt soll es auch in den Gülden, oder da
+                                        die Knechte unter sich allein Bier hätten gehalten, nach
+                                        obgemeldter Zeit durch die Güldemeister ausgeklopfet, kein
+                                        Tanz mehr gestattet, jedoch zum Feierabend eine <seg type="comment"><orig>Pfeifkanne</orig><note xml:id="na4k_vmh_txb"><ref target="https://books.google.de/books?id=24wNAAAAQAAJ&amp;pg=PA170&amp;lpg=PA170&amp;dq=Pfeifkanne&amp;source=bl&amp;ots=sOqi_G5sGv&amp;sig=ACfU3U3CmnuD7T-P5b76I5gMB3TiAceraQ&amp;hl=de&amp;sa=X&amp;ved=2ahUKEwjJg8q--7j_AhWmRPEDHfkxBLo4HhDoAXoECAYQAw#v=onepage%26q=Pfeifkanne%26f=false">Bierkanne</ref> mit einer Röhre zum
+                                                  Eingießen</note></seg> voll Bier gezapft und damit
+                                        alles eingestellt werde bei 12 Mark Strafe
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p><?oxy_custom_end?>
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                <p><?oxy_custom_end?>14. Wer in den Krügen beim Schulzen, in
+                                        Hochzeiten, Kindelbieren, Gülden oder anderen Ortern
+                                        schandbare Worte und Werke, wodurch die Jugend geärgert
+                                        wird, redet, singt oder gebraucht, der oder dieselbe sollen
+                                        3 Mark der Herrschaft, 1 Mark der Kirchen und 10 Gr. in die
+                                        gemeine Büchse verfallen sein und nach Gelegenheit wohl
+                                        härter gestraft
+                                        werden.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>15. Es soll auch keiner dem andern seinen
+                                        Dienstboten entspannen oder abmieten, mit Verhöhnung des
+                                        Lohns oder sonst womit es sei, damit er ihn seinem ersten
+                                        Brotherren möchte abwendig machen. Würde einer, der solches
+                                        tut, befunden, so soll er der Herrschaft 1 gute Mark und dem
+                                        Nachbarn ein Viertel Bier geben, auch dem, welchem er den
+                                        Dienstboten entwendet, demselben wieder folgen lassen
+                                        p.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>16. Wo auch solche Dienstboten erfunden würden,
+                                        die sich zwei Herren zugleich vermieten, dieselbigen sollen,
+                                        es sei Knecht, Magd oder Jung, durch die Herrschaft, bei
+                                        welcher der Schulze solchen Mutwillen ungesäumt anzuzeigen
+                                        schuldig, mit Gefängnis oder sonst nach ihrem Gefallen
+                                        gestraft und nicht eher ausgelassen werden, sie bewilligen
+                                        sich denn ihrem Brotherren, dem sie vorerst zugesagt und von
+                                        dem sie den ersten <seg type="comment"><orig>Gottespfennig</orig><note xml:id="nvjd_xmh_txb"><ref target="https://fwb-online.de/lemma/gottespfennig.s.0m">Handgeld</ref></note></seg> genommen, vermöge der
+                                        Landordnung auszudienen
+                                        pp.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>17. Es soll keiner des Nächsten Gut im Schein
+                                        des Rechten mit Unrecht an sich bringen, vielweniger der
+                                        Unmündigen liegend oder fahrend Gut untaxiert und ohne der
+                                        Herrschaft Vorwissen an sich erkaufen, bei Verlust des
+                                        ausgezahlten Geldes, welches derselbe den Armen verfallen
+                                        haben
+                                        soll.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?>18. Der Bauern Vermögen <lb/>Es soll kein
+                                        Witwer oder Witwe noch dero Kinder, so ein Erbe annehmen,
+                                        ehe und wenn sie sich mit Vorwissen und Zulass der
+                                        Herrschaft mit den Erben vertragen haben Hochzeit machen,
+                                        und sollen die Übertreter deswegen vor Gericht vermöge dem
+                                        Landrecht gestraft werden. </p>
+                                <p>19. Verwaltung des Schulzen <lb/>Wer den Schulzen oder Ratleute
+                                        verachten wird oder schelten, soll nach Erkenntnis der
+                                        Herrschaft gestraft werden.</p>
+                                <p>20. Wenn der Schulze die Gemeine mit dem Horn oder anderer
+                                        Gestalt zusammenrufen oder fordern lässt, soll ein jeder
+                                        Wirt oder Wirtin oder im Fall ihres Abwesens und
+                                        Verhindernis Ehehafter Not jemand von seinem Gesindestande
+                                        sich zu ihnen verfügen und anhören, was der Schulze wegen
+                                        der Herrschaft oder mit Wissen und Willen der Ratleute zu
+                                        der Gemeine Besten oder sonst wird für gegeben. Wer über
+                                        eine viertel Stunde außen bleibt, soll jedes Mal 4 SGr.
+                                        ablegen, und gleichwohl des Schulzen Befehl gleich seinen
+                                        Nachbarn nachkommen.</p>
+                                <p>21. Wenn der Schulze den <seg type="comment">
+                                                <orig>Ding- oder Rechentag</orig>
+                                                <note xml:id="navl_hqf_1qb">Gerichtstag</note>
+                                        </seg> hält, soll sich jeglicher Nachbar zu ihm verfügen,
+                                        wer zu spät kommt, soll die vorige Buß geben, wer es aber
+                                        gänzlich versäumt, soll 30 SGr. ablegen, es wäre denn, dass
+                                        er in der Herrschaft Geschäfte verschickt oder mit Krankheit
+                                        oder sonst mit Ehehafter Not verhindert wäre.
+                                        Gleichergestalt soll es auch mit denen, so der Schulze
+                                        Amtswegen absonderlich fordert, gehalten werden.</p>
+                                <p>22. Von Verrichtung des Scharwerks <lb/>Wenn der Schulze
+                                        Scharwerk anzeigt, es sei vor die Herrschaft, die Kirche,
+                                        Landstraße oder vor das Dorf oder wie es sonst Namen haben
+                                        mag, so sollen alle Bauern zur Stunde, die er angesetzt,
+                                        nach seinem Befehl ihm, dem Schulzen, auf dem Fuße folgen.
+                                        Und wer alsdann bei Scharwerks-Anfang nicht zur Stelle sein
+                                        wird, soll der Herrschaft 15 Gr. und der Gemeine 10 Gr.
+                                        Strafe in die Ratbüchse geben und das versessene Scharwerk
+                                        gleichwohl verrichten, es sei denn, das einer nicht
+                                        Angespann hat oder das ihm das Vieh krank ist, so soll
+                                        derselbe sich mit der Gemeine deswegen vertragen.</p>
+                                <p>23. So jemand von dem Schulzen oder Ratleuten zu pfänden oder
+                                        anderen Verrichtungen ausgeschickt würde, und dieselben
+                                        durch Männer oder Weiber mit bösen Worten abgefertigt
+                                        werden, sollen die Weiber, so solches tun, der Herrschaft 15
+                                        Ellen klein <seg type="comment"><orig>heden</orig><note xml:id="ns32_dnh_txb"><ref target="https://de.wikipedia.org/wiki/Werg">Werg</ref></note></seg> Leinwand ablegen, der
+                                        Mann aber nach Erkenntnis der Sache vor Gericht gestraft
+                                        werden.</p>
+                                <p>24. Wer dem Schulzen Ungehorsam ist und seinem Befehl und Gebot
+                                        sich widersetzt, es sei in was Sache es wolle, der soll der
+                                        Herrschaft 1 Mark und in die Ratbüchse 6 Gr. zahlen. Würde
+                                        aber mit Worten oder Tat sich jemand gröber am Schulzen
+                                        vergreifen, soll fernere ernstere p. Strafe zu Erkenntnis
+                                        der Herrschaft stehn. Da aber der Schulze der Herrschaft
+                                        solchen Ungehorsam verschweigt und nicht jedesmal anmeldet,
+                                        soll er in gleicher Strafe sein.</p>
+                                <p>25. Im Fall der Schulze etwas Ungebührliches denen Untertanen
+                                        würde anmuten oder gebieten, so soll einem jeden von der
+                                        Gemeine freistehen, solches der Herrschaft anzuzeigen,
+                                        deswegen denn der Schulze ernster Strafe soll gewärtig
+                                        sei.</p>
+                                <p>26. Von den Schöppen und Ratleuten <lb/>Wenn einer zum Schöppen,
+                                        Ratmann oder Dorfgeschworenen erkoren wird und er sich ohne
+                                        genugsame erhebliche Ursache dawider setzt, soll er 5 Gr. in
+                                        die Ratbüchse geben und soll es dennoch sein.</p>
+                                <p>27. Verbotenes Eicheln lesen <lb/>Wenn die Zeit kommt, dass die
+                                        Eicheln reif sind und fallen werden, so soll kein Nachbar
+                                        noch jemand von seinem Gesinde auf eines andern Stück
+                                        Eicheln lesen lassen, sondern ein jeder auf dem seinigen,
+                                        und wo einer oder mehr besehen wird, soll er 5 Gr. in die
+                                        Büchse geben. Aber was die Freifelder anlangt, da man die
+                                        Schweine soll hüten und keinesweges soll frei laufen lassen,
+                                        soll man solches die Schweine auflesen lassen. Wo aber einer
+                                        im freien Felde zu lesen befunden wird, soll er 8 Sgr. Buße
+                                        in die Ratbüchse geben. </p>
+                                <p>28. Niemand soll lassen um die Hälfte, noch um die vierte Garbe
+                                        säen, vielweniger seinen Acker oder Wiesen vermieten, es sei
+                                        gleich um den Mist oder ander Gestalt, ohne Vorwissen der
+                                        Herrschaft, der aber solches tut, soll die Arbeit, Saat und
+                                        das Heu verloren haben, welches alles der Herrschaft
+                                        zukommen soll, der Gemeine aber (so oft einer eine Wiese
+                                        oder Acker ohne Erlaubnis vermietet) 1 Mark in die
+                                        Ratbüchse. Imgleichen soll keiner seinem Dienstknecht über 3
+                                        Scheffel Hafer aussäen bei 3 Mark Strafe und Verlust des
+                                        drüber gesäten Getreides.</p>
+                                <p>29. Wenn unser Herr die Früchte auf dem Felde also segnet, dass
+                                        ein Bauersmann von seinem Getreide übrig zu verkaufen, als
+                                        soll dazu die Herrschaft um gebührliche Bezahlung in alle
+                                        Wege den Vorkauf haben, insonderheit aber bei Verkaufung der
+                                        Gerste, und soll ohne Vorwissen der Herrschaft keiner seine
+                                        Gerste anderswo verkaufen bei Verlust derselben oder des
+                                        Werts dafür und von jedem Scheffel 1 Gr. der Kirchen.
+                                        Dagegen soll um Martini oder auf dem Zinstage der Kauf um
+                                        Gerste allezeit gemacht und also gezahlt werden wie in den
+                                        nächst angelegten Städten.</p>
+                                <p>30. Es soll weder der Schulze noch ein einziger Einwohner einen
+                                        Gärtner noch Handwerksmann, vielweniger fremdes unbekanntes
+                                        Gesinde, sonderlich diejenigen Dienstboten, so kein Zeugnis
+                                        ihres Verhaltens haben, ohne der Herrschaft Wissen [bei sich
+                                        beschäftigen] bei 3 Mark Strafe der Herrschaft und 10 Gr. in
+                                        die Ratbüchse.</p>
+                                <p>31. Weilen auch in der Landesordnung alle Instleute, <seg type="comment"><orig>Brechstüber</orig><note xml:id="nmgm_knh_txb">Arbeiter, die den Flachs
+                                                  brechen</note></seg> und dergleichen Losgesindelei
+                                        verboten und ausdrücklich verordnet, dass man dieselben soll
+                                        abschaffen, sonderlich aus denen Ursachen, dass sonsten und
+                                        wenn die Instleute und dergleichen lose Leute aufgenommen
+                                        werden, die Bauern schier keinen Knecht behalten können, als
+                                        sollen billig dergleichen unnütze schädliche Leute, durch
+                                        welche auch sonsten viel Böses gestiftet und allerhand
+                                        Beschwer und Unfug verursacht wird, hier auch nicht
+                                        geduldet, sondern ausgeschafft und abgewiesen werden. Darauf
+                                        die Schulzen mit allem Fleiß Aufsicht haben und Achtung
+                                        geben sollen. Im Fall aber der Schulze hierin säumig wäre
+                                        und Instleute zulassen oder dulden würde, soll er der
+                                        Herrschaft jederzeit vor einen jeden Instmann einen Gulden
+                                        ungleich zur Strafe, der Wirt aber, der solchen Instmann
+                                        beherbergt, 3 Mark in die Ratbüchse ablegen, und dem
+                                        Instmann soll sein Hab und Gerät genommen, der Kirchen oder
+                                        den Armen zugeeignet und er aus dem Dorfe und Gebiete
+                                        verjagt werden<seg type="comment"><orig>.</orig><note xml:id="nb2s_tnh_txb">Flade merkt hierzu an:
+                                                  „Diese Vorschrift ist äußerst bemerkenswert, da
+                                                  sich späterhin die Einstellung gegenüberden
+                                                  billigen Arbeitskräften grundsätzlich ändert. Die
+                                                  hinter dieser Verordnung stehende Absicht ist
+                                                  nicht ganz durchsichtig: hatte man die
+                                                  Befürchtung, dass die Knechte den jeweiligen
+                                                  Dienstherren verlassen wollten, um als (relativ
+                                                  freie) Instleute sich zu besseren Bedingungen eine
+                                                  neue Arbeit suchen zu können, oder aber sollte für
+                                                  die Knechte die Konkurrenz billigerer Instleute
+                                                  ausgeschaltet werden? Eine weitere Erklärung für
+                                                  diese Verordnung wäre, dass es schon damsls
+                                                  'wandernde' Landarbeiter gab, für deren Unterhalt
+                                                  man, sobald man sie aufgenommen hatte, aufzukommen
+                                                  hatte.‟</note></seg></p>
+                                <p>32. Da einer dem andern etwas an Vieh oder Hausgerät, wie es
+                                        Namen haben mag, zu Kauf bringen möchte, so soll der, dem
+                                        solches zu Kauf gebracht wird, nicht kaufen, er habe sich
+                                        denn eigentlich erkundigt, ob solches, was ihm der Verkäufer
+                                        gebracht, auch sein wohl gewonnen Gut sei und ob ers auch
+                                        mit Vorbewusst und Willen seiner Herrschaft verkaufen möge.
+                                        Wo er solches nicht macht oder einem vermutlich entfremdet
+                                        hätte, soll ihm dasselbe nicht abgekauft, sondern dem
+                                        Schulzen durch Käufern angezeigt werden. Der soll es samt
+                                        dem Verkäufern anhalten und ohne der Herrschaft Willen nicht
+                                        losgeben bei Strafe 3 Mark oder mehr nach Gelegenheit der
+                                        Umstände oder zufälliger der Sache Beschaffenheit.</p>
+                                <p>33. Wo aber jemand über dieses etwas kaufen und dem Schulzen
+                                        nicht zuvor anzeigen würde, soll er das Gekaufte, es sei
+                                        wenig oder viel, dem oder denselben, so es durch den
+                                        Verkäufer entwendet, ohne Wiedererstattung wiedergeben oder
+                                        folgen lassen, daneben der Herrschaft darum, dass er es
+                                        heimlich erkauft, eine gute Mark <seg type="comment">
+                                                <orig>auf dem Dorf ein</orig>
+                                                <note xml:id="nujg_fhp_zpb">Text bricht an dieser
+                                                  Stelle ab.</note>
+                                        </seg>
+                                </p>
+                                <p>34. Es soll niemand doppelt Spiel in seinem Haus leiden bei der
+                                        Buße nach laut der Landesordnung 3 guter Mark. Darauf sollen
+                                        die Schulzen, Gerichts- und Ratleute fleißig sehen und wo
+                                        Unfleiß des Aufsehens vom Schulzen und Ratleuten gespürt,
+                                        oder die, so solches verbieten sollen, selbst übertreten,
+                                        soll dasselbe von der Herrschaft an ihnen höher als am
+                                        gemeinen Mann gestraft werden, und soll keinem mehr als 6
+                                        SGr. auf einmal zu verspielen vergönnt sein.</p>
+                                <p>35. <seg type="comment">
+                                                <orig>Es soll die Dorfschaft jährlich einmal im
+                                                  Frühjahr nach ihren Grenzen sehen und selbe ganz
+                                                  raum und richtig halten. </orig><note xml:id="nrvm_crz_cqb">Siehe <ref target="lehndorff_k1g_l5c_m3b">GStA PK, XX. HA,
+                                                  Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr.
+                                                  122</ref>: Grenzziehung für das Dorf Serwillen,
+                                                  aufgenommen von dem Landmesser Christian Voigt
+                                                  (1588). </note>
+                                        </seg>Wer dazu nicht kommt, soll 1 Mark Buße in die
+                                        Ratbüchse geben.</p>
+                                <p>36. Ein jeder soll sein Aas nicht allein aussem Dorf, sondern an
+                                        den Ort, den der Schulze mit den Ratleuten verordnen und
+                                        benennen wird, schleppen lassen bei 15 Sgr. Buße und soll es
+                                        dennoch wegbringen. Auch soll niemand seines Nachbarn <seg type="comment"><orig>Rain</orig><note xml:id="nmbw_p4h_txb"><ref target="https://de.wikipedia.org/wiki/Feldrain">Feldrain</ref></note></seg> auspflügen,
+                                        vielweniger die Grenzen, noch darauf gesetzte Grenzsteine
+                                        verrücken. Wer es aber tut, soll nach Erkenntnis des
+                                        Gerichts gestraft werden. </p>
+                                <p>37. So die Gemeine zwiespältig oder irrig wird in Sachen, welche
+                                        die Dorfschaft betreffen, und sich derowegen unter sich
+                                        nicht vereinigen können, so sollen sie in zwo Haufen treten,
+                                        darauf hernach der kleinste Haufen dem großen folgen soll,
+                                        es sei denn, dass sich der kleinste Haufen auf die
+                                        Herrschaft berufe, so soll alsdann die Erkenntnis dahin
+                                        verwiesen werden. Würde derselbe aber im Beruf Unrecht
+                                        haben, soll er der Gemeine etwa ein Viertel Bier oder
+                                        dergleichen andere Strafe geben, jedoch nach Beschaffenheit
+                                        der Sache und der Herrschaft Befindung.</p>
+                                <p>38. Es soll niemand durch sich oder die Seinen noch sein Gesinde
+                                        mit bloßem Feuer, Licht, noch keiner des Nachts in seine
+                                        Scheune, Hof, Schuppen oder Stall gehen, sondern es soll ein
+                                        jeder solch ein Licht in den Laternen halten und das daraus
+                                        nicht nehmen, wenn man in die Scheune, Hof oder Stall geht,
+                                        damit davon keine Gefahr des Feuers zu gewarten sein, so
+                                        aber jemand darüber besichtigt und straffällig befunden
+                                        würde, soll er 3 gute Mark der Herrschaft und 1 Mark dem
+                                        Dorf Buße verfallen sein. Und wenn die Ratleute zu
+                                        gewöhnlicher Zeit nach den Feuer-Haken, Leitern am Hause,
+                                        ledernen Eimern und dergleichen umgehen zu besehen, sollen
+                                        sie zugleich fleißig Achtung geben, damit ein jeglicher Wirt
+                                        zwo eigene unzerbrochene ganze Leuchten in seinem Hause
+                                        habe. Wer hierin nachlässig befunden wird, soll obgedachte
+                                        Strafe ohnfehlbar erlegen.</p>
+                                <p>39. Die Schornsteine und Ruß 4 Mal im Jahr zu besehen <lb/>Es
+                                        soll der Schulze mit den Ratleuten, wenn es am bequemsten
+                                        ist, aufs wenigste vier Mal im Jahre als auf Weihnachten,
+                                        Mitfasten, Pfingsten und <seg type="comment"><orig>Michaelis</orig><note xml:id="ny45_t4h_txb">29. September</note></seg>, zu allen Nachbarn
+                                        gehen und zusehen, dass der Ruß und Spinnweben rein
+                                        abgekehrt, auch kein Bruch Feuer halben zu befinden sei. Wo
+                                        jemand hierin straffällig wäre, soll vor jeglichen Herd
+                                        ablegen 6 SGr. p.</p>
+                                <p>40. Von den Backofen <lb/>Es soll hinfüro niemand, wer da auch
+                                        sei, gestattet werden, einen Backofen unter sein Dach in
+                                        seinem Hause zu setzen, sondern wer einen neuen Backofen
+                                        bauen will, soll sich ernstlich bei dem Schulzen anmelden,
+                                        welcher im Beisein der Ratleute entweder auf dem Anger oder
+                                        im Garten einen sicheren Ort aussehen und daselbst zu bauen
+                                        erlauben soll, doch dass es näher nicht als 30 Schritt vom
+                                        Gehöft sei und also stehe, dass das Ofenloch vom Gebäude
+                                        abgewendet sei zur Verhütung des Unglücks.</p>
+                                <p>41. Es soll ein jeder an seinem Haus und Gehöft haben auf jedem
+                                        Dach eine lange Leiter, die bis an die Firste reiche, und
+                                        daneben zwei kurze Wurfleitern. Wenn nun der Schulze mit den
+                                        Ratleuten wie obgemeldet umgehen wird, soll derjenige,
+                                        welcher solche Leitern nicht haben wird, allemal für jede
+                                        ablegen 6 Gr. und von jeglicher bruchfälligen Sprosse 3 Pf.,
+                                        wenn auch in seinem Hof nicht Wasser haben würde, wenn es
+                                        vom Schulzen und Ratleuten geboten wird, soll dergleichen 6
+                                        Gr. zur Buße ablegen.</p>
+                                <p>42. Wenn man nach Ansagung des Schulzen und der Ratleute die
+                                        Wege, Stege, Rücken, Brücken und Hirtenhäuser machen soll
+                                        oder was sonst zu des Dorfes Besten und Nutzen belangt, soll
+                                        sich ein jeder dazu verfügen und helfen. Wo nicht, soll
+                                        derjenige, so aussen bleibt und in der Herrschaft Geschäfte
+                                        nicht verhindert ist, vor jedesmal ablegen 6 Sgr. in die
+                                        Ratbüchse und sein zugeordnetes Los dennoch zum Bestande
+                                        verfertigen. </p>
+                                <p>43. Wenn man der Gemeinde Bier trinkt, wo es von der Herrschaft
+                                        zulassen ist (welches doch über zweimal im Jahr nicht
+                                        geschehen, aber zur Zeit der Pestilenz gänzlich nachbleiben
+                                        soll), so soll dazu niemand Fremdes gebeten, gefordert noch
+                                        berufen werden ohne Zulass und Bewilligung des Schulzen und
+                                        der Ratleute, jedoch dass solches geschehe ohne Beschwerung
+                                        und Nachteil der Gemeine desselben Dorfs. Man soll auch
+                                        niemand das Bier zu Hause senden, es sei denn, das jemand
+                                        mit der Herrschaft Geschäften oder mit Krankheit behaftet
+                                        wäre.</p>
+                                <p>44. So jemand bestohlen wird, soll es der Beschädigte aufs erste
+                                        dem Schulzen ansagen, der soll alsbald darauf die Gemeine
+                                        verhören und nachdem das Dorf groß ist, den dritten Teil der
+                                        Bauern zu Pferd ausschicken, welche auf 4 Straßen ausreiten
+                                        sollen, und so der Dieb von einer Partei ertappt wird, soll
+                                        man ihn ins Gefängnis legen, danach soll einer von denen, so
+                                        ausgesandt, bei ihm bleiben, der andere soll kommen und es
+                                        ansagen, damit der Beschädigte die Sache weiter befordern
+                                        könne, und man soll nach Hubenzahl zusammenlegen im Fall in
+                                        der Gemeinebüchs kein Geld vorhanden wäre, damit man denen,
+                                        so nachgeritten, lohnen könne, nämlich zur Zehrung von
+                                        jeglichem Tage auf jeden Mann 8 Gr. und vor 1 Pferd 6 Gr.
+                                        Sie sollen aber aufs wenigste verpflichtet sein, dem Täter
+                                        10 Meilen zu folgen, und wo sie den Dieb auskundschaften,
+                                        sollen sie weiter folgen soweit sie können. Wer aber auf die
+                                        Spur käme und den Dieb nicht verfolge, sondern selbigen Dieb
+                                        übergeben würde, der soll 1 Mark in die Ratbüchse erlegen
+                                        und ferner nach Erkenntnis der Herrschaft gestraft werden
+                                        dafür, dass er nachlässig gewesen ist, den Übeltäter zu
+                                        verfolgen.</p>
+                                <p>Von Rücken, Zäunen und Graben</p>
+                                <p>45. Es sollen alle Rücken, Zäune, Dorfgründe und Hecken fertig
+                                        gemacht sein von <seg type="comment"><orig>S. Philippi
+                                                  Jacobi</orig><note xml:id="nidc_bph_txb">1.
+                                                  Mai</note></seg> und alle Gräben vor <seg type="comment"><orig>Johannis</orig><note xml:id="nwcl_cph_txb">24. Juni</note></seg>
+                                        geräumt sein. Es sollen auch alle Wiesen Feld von Philippi
+                                        Jacobi <seg type="comment">
+                                                <orig>an verboten</orig><note xml:id="nq2j_ctf_1qb">verboten zu betreten sein?</note>
+                                        </seg>sein nachfolgender Buße pp.</p>
+                                <p>46. Wenn der Schulze befielt, die Rücken zu besichtigen und die
+                                        Ratleute es nachlassen, soll jeglicher von ihnen ablegen 10
+                                        Gr. Man soll aber den Nachbarn ansagen, wenn die
+                                        Besichtigung geschehen soll, damit ein jeder, dem es
+                                        gefällt, möchte mitgehen und ansehen, dass ihm nicht Unrecht
+                                        geschieht.</p>
+                                <p>47. Wenn die Ratleute in der Besichtigung Gebrechen finden, soll
+                                        von jeglicher bruchfälligen Stange oder die man mit einem
+                                        Fuß zerbrechen kann, abgelegt werden 3 Gr.</p>
+                                <p>48. Wenn der Schulze mit den Ratleuten die Vorflut an den Graben
+                                        auf dem Felde oder im Dorf zu machen gebeut, und dasselbe
+                                        innerhalb 14 Tagen nach angesetzter Zeit nicht genugsam
+                                        verrichtet ist, soll derjenige, welcher säumig erfunden
+                                        wird, allemal von jeglicher Rute ablegen 18 Sgr, und so
+                                        mittlerzeit Schaden daraus entstünde, soll er nichts desto
+                                        weniger den Schaden entrichten. Im Fall ers aber auf den
+                                        anderen Befehl auch nachließe, soll er von jeglicher Rute
+                                        doppelt geben, wo aber jemand ferner ungehorsam würde, soll
+                                        man es der Herrschaft anzeigen, die ihn, anderen zum
+                                        Abscheu, mit mehrerem Ernst wird zu strafen wissen, so aber
+                                        der Schulze und Ratleute an ihrer Aufsicht und Befehlen
+                                        säumig wären, sollen sie selbsten gemeldte Strafe doppelt zu
+                                        erlegen schuldig sein.</p>
+                                <p>49. Welchem Wasser auf sein Stück oder Huben kommt, der mag es
+                                        mit einer Wasserfuhre eine Rute lang auf seines Nachbarn
+                                        Stück oder Huben-Wiesen [leiten], da es am wenigsten Schaden
+                                        tut, wo es die Not erfordert.</p>
+                                <p>50. Wo Schaden am Getreide oder Wiesen von wegen der Rücken oder
+                                        Zäune geschehen, soll derjenige den Schaden ausrichten,
+                                        desselben Zäune bruchfällig befunden worden.</p>
+                                <p>51. Niemand soll durch gehegte Felder, Getreide oder Wiesen
+                                        fahren, auch keine Rücken aufbrechen, sonst soll er, so oft
+                                        es geschieht, 5 Gr. und darüber von wegen der aufgezogenen
+                                        Rücken allen Schaden, so daraus folgt, gelten und zahlen.
+                                        Wer das Tor oder Heck hinter sich nicht zumacht, der soll
+                                        zur Buße 6 SGr. geben nebst Entrichtung des Schadens, der
+                                        daraus möchte gekommen sein. Und sollen die Tore also
+                                        gefertigt werden, dass man selbige reitend vom Pferd aus
+                                        auf- und zumachen kann. Die Zäune sollen auch alle fest
+                                        verbohrt und verkeilt werden, dass sie kein Fremder leicht
+                                        aufbrechen könne, zu welchem es denn sehr nötig wäre, dass
+                                        sonderlich auf den Grenzen gute Graben gemacht werden,
+                                        dadurch nicht allein allem Schaden vorgebaut, sondern auch
+                                        das Holz kann erspart werden. Wer nun wider dieses sündigt,
+                                        der soll 10 Gr. Strafe in die Büchse legen. </p>
+                                <p>52. Wofern ein Nachbar mit dem andern wegen Mangel der Zäune
+                                        Irrung hätte und einer den andern vor dem Schulzen beklagte,
+                                        dass der andre nicht bessern will, so soll solche Besserung
+                                        vom Schulzen und Ratleuten befohlen werden. Wo es aber nicht
+                                        geschieht, soll der Schuldige, so oft er darüber beklagt
+                                        wird, ablegen 5 Sgr. </p>
+                                <p>53. Wenn ein Mann im Dorf zäunt, es sei Pflanzgarten oder
+                                        Nachbarzäune, der soll den Pfahl oben <seg type="comment"><orig>abstämmen</orig><note xml:id="nqls_lph_txb">Zur Bedeutung <ref target="https://www.dwds.de/wb/dwb2/abst%C3%A4mmen#wb-3">hier</ref>.</note></seg>, wo aber Schaden daraus
+                                        erfolgt, soll er den Schaden gänzlich gelten oder
+                                        zahlen.</p>
+                                <p>Von Pferden und derselben Hüten</p>
+                                <p>54. Wo jemand seine Pferde ins gehegte Feld treiben oder <seg type="comment">
+                                                <orig>zeudern</orig><note xml:id="negn_bbh_bqb">Zur
+                                                  Bedeutung siehe <ref target="https://www.dwds.de/wb/dwb/zeudern#GZ05037">hier</ref>.</note>
+                                        </seg> wird, soll zur Buße ablegen von jedem Pferd 9 Sgr.,
+                                        wo denn jemand seine Pferde treibt in die Heegeweide soll
+                                        allemal vom Pferd ablegen 6 Sgr. vor den Ungehorsam, den
+                                        Schaden aber auf Erkenntnis der Dorfgeschworenen sonderlich
+                                        verwetten. </p>
+                                <p>55. Ein jeder soll seine Pferde, so durch die Rücken kriechen
+                                        oder brechen, spannen, und wo dennoch gespannene
+                                        durchkriechen oder überspringen, alsdann soll er sie daheim
+                                        behalten, sonst wo Schaden daraus folgt, soll er den Schaden
+                                        aufrichten und darüber 3 Gr. zur Buße geben.</p>
+                                <p>56. So jemand von seines Nachbarn Pferde durch Rücken oder Zäune
+                                        Schaden geschieht, wo davon Gebrech gewusst, soll derjenige
+                                        den Schaden gelten, dem die Rücken oder Zäune zukommen, wo
+                                        aber an den Rücken oder Zäunen nicht Gebrech gewesen, soll
+                                        der <seg type="comment"><orig>Zechner</orig><note xml:id="nadp_gnh_yxb">Knecht</note></seg>, der die
+                                        Hüte hat, die Hälfte des Schadens gelten und dem der Schaden
+                                        geschehen soll die andere Hälfte leiden. </p>
+                                <p><seg type="comment"><orig>57. </orig><note xml:id="nvnb_wmv_yxb">Die hier und im folgenden Absatz genannten
+                                                  Pferdekrankheiten sind unter diesen Namen heute
+                                                  nicht mehr geläufig. Siehe aber <ref target="https://www.vetmed.fu-berlin.de/bibliothek/ueber_uns/rara/systematische_liste.html">hier</ref>. </note></seg>Man soll auch alle
+                                        jungen Hengste so über 2 Jahre alt mit den alten gleich
+                                        hüten, wo aber jemand ein renisch Pferd hat, das ins zweite
+                                        Jahr geht, der soll es entweder klopfen oder leuchten lassen
+                                        oder gar daheim behalten, wenn ihm solches von den Ratleuten
+                                        angesagt wird. Wer hiewider handelt, der soll so oft es
+                                        geschieht zur Buße ablegen 6 SGr. Wo auch jemand seinen
+                                        Nachbarn zu nahe zeudert soll desgleichen 6 SGr. zahlen. Wo
+                                        auch ein Pferd nicht beständig geklopft oder geleuchtet
+                                        wäre, soll man ihnen das bei derselben Buße verbieten. Der
+                                        auch ein solch renisch Pferd nicht will lassen in die Hecke
+                                        gehen, mag es wohl im Roggen August mit zu Felde nehmen und
+                                        auf seine Huben zeudern, nach dem Roggen August aber soll er
+                                        es heim nehmen, sonst so oft man es außen findet soll sein
+                                        Herr davon ablegen 9 SGr.</p>
+                                <p>58. Niemand soll rotzige, schnupige oder räudige Pferde, noch
+                                        die, die Pürtzel oder auswerfenden Wurm haben, aufs Feld
+                                        bringen, sonst soll er der Herrschaft verfallen sein 3 Mark,
+                                        der Gemeine 10 Gr. und das Pferd, sofern er es nicht allein
+                                        hält oder heilen lässt, soll totgeschossen werden.</p>
+                                <p>59. So jemand Pferde im verbotenen Felde sieht und dem, auf
+                                        welches Stück es geschehen wird, nicht ansagt, der soll vom
+                                        Pferde ablegen 9 SGr., unangesehen, dass es andere mehr auch
+                                        gesehen hätten.</p>
+                                <p>60. So jemand durch geheegte Felder fährt und ließe sich ein <seg type="comment">
+                                                <orig>Jährling</orig>
+                                                <note xml:id="ns44_3qn_35b">Fohlen</note>
+                                        </seg> nachlaufen oder ein altes Pferd, soll ablegen von
+                                        jedem Pferd 2 SGr.</p>
+                                <p>61. Es soll niemand seine Pferde im Sommer ausspannen oder
+                                        freigehen lassen, wenn das Feld verboten ist, allein mag er
+                                        sie leiden über seinen Wegen, sonst wer dawider tut soll
+                                        ablegen von jedem Pferd 2 Sgr. Dies soll auch im August
+                                        gehalten werden.</p>
+                                <p>62. Wessen Pferde auf der Saat gehend befunden werden, der soll
+                                        von jedem Pferd 3 Gr. zahlen, halb dem, der sie gepfändet
+                                        und die andere Hälfte in die Ratbüchse, und wo der Schaden
+                                        merklich wäre, soll selbiger binnen 24 Stunden erwiesen,
+                                        geschätzt und erstattet werden.</p>
+                                <p>Von der Nacht-Hüte, und an welchen Orten solche dergestalt
+                                        gehalten werden</p>
+                                <p>63. Welche die Nacht-Hüte haben (die doch länger nicht währen
+                                        soll bis auf <seg type="comment"><orig>Petri
+                                                  Pauli</orig><note xml:id="nd1y_1qh_txb">29.
+                                                  Juni</note></seg>) und nicht alle Pferde wieder
+                                        ins Dorf bringen, sollen verpflichtet sein, wenn man es
+                                        ihnen angesagt, mit dem, so seine Pferde misst, dieselben zu
+                                        suchen, wo sie aber nicht gefunden werden, soll der die Hüte
+                                        gehabt den halben Schaden nach Erkenntnis der Gemeine
+                                        gelten, ausgenommen so es weiter vor die Herrschaft gedeiht
+                                        pp.</p>
+                                <p>64. Bei solcher Nacht-Hüte soll allezeit sein ein rechter Wirt
+                                        oder da derselbe alters und Ehehafthalber zu schwach dazu,
+                                        soll er seinen Sohn oder einen tüchtigen Knecht oder anderen
+                                        gewissen Mann, dem zu trauen ist, an seine Stelle schicken,
+                                        damit kein Schade geschieht. Sonst soll er die Hüte verloren
+                                        haben und die folgende Nacht nichts desto weniger hüten und
+                                        über Erstattung des Schadens, so dann geschehen möchte,
+                                        vermöge vorgemeldten Artikels auch zur Buße ablegen 4
+                                        SGr.</p>
+                                <p>65. Jeder Wirt soll seine Jährlinge oder jährige Füllen, weil sie
+                                        gemeiniglich des Frühjahrs schwach sein, die erste Umreise
+                                        von der Nacht-Hüte zu halten Macht haben; jedoch auf sein
+                                                <gap reason="lost"/> und das der Zechner Hüte vor
+                                        den Schaden nicht stehen dürfe.</p>
+                                <p>66. Welcher die Nacht-Hüte gehabt hat, soll seinem Nachbarn auf
+                                        den Vormittag ansagen, dass sich derselbe auf der Zeche zu
+                                        hüten gefasst hält, würde es aber der vorige Nachthüter
+                                        verschweigen, soll er die erste Hüte verloren haben und die
+                                        folgende Nacht wiederum hüten.</p>
+                                <p>Von den Tag-Hüten, bei welchen Dörfern solche dergestalt gehalten
+                                        wird</p>
+                                <p>67. Welcher die Tage-Hüte gehabt (die da währt bis auf <seg type="comment"><orig>Bartholomäi</orig><note xml:id="nabp_dqh_txb">24. August</note></seg>) und
+                                        alle Pferde nicht zu Hause bringt, soll verpflichtet sein,
+                                        wenn es ihm angesagt ist, der in die Zeche oder Hüte
+                                        getrieben, dasjenige, so verloren ist, wiederum zu suchen,
+                                        wo ers nicht findet, soll er es gänzlich zahlen.</p>
+                                <p>68. Es soll ein jeder verpflichtet sein, wie billig ist, mit
+                                        seinen Nachbarn zu hüten so bescheidentlich, dass einer von
+                                        8 Pferden hüten soll 2 Tage und von 4 Pferden 1 Tag und von
+                                        6 Pferden 1 1/2 Tag und so dergleichen, dass sich niemand zu
+                                        beschweren hat. Jedoch wo jemand 9 Pferde hat, sollen sie
+                                        allein vor 8, wo einer 7 allein vor 6, wo einer 5 allein vor
+                                        4 gerechnet werden.</p>
+                                <p>69. Es soll auch niemand, der die Zeche oder Hut hat, die Pferde
+                                        das Dorf entlang jagen, sonst so oft es geschieht soll der
+                                        die Zeche hat ablegen 4 SGr. und so darüber jemand zu
+                                        Schaden käme, soll er demselben entrichten <gap reason="empty"/>.</p>
+                                <p>70. Welcher den Abend zuvor die Tage-Hüte nicht von sich sagt,
+                                        soll noch einmal hüten. Würde auch Schaden geschehen, soll
+                                        er den Schaden entrichten und noch 2 SGr. Buße geben.</p>
+                                <p>71. Es soll der Hinterste, welcher die Hüte gehabt hat, stets die
+                                        Hut fordern, damit sie folgendes Tages der nächste Nachbar
+                                        wieder annehme, würde ers aber dem Nachbarn nicht ansagen,
+                                        soll er zur Strafe den folgenden Tag wiederum hüten.</p>
+                                <p>72. Welcher die Hut nicht ausgehütet, soll über die Buße und
+                                        Aufrichtung des Schadens 10 Sgr. in die Ratbüchse erlegen
+                                        und den andern Tag weiter hüten p.</p>
+                                <p>73. Niemand soll mit Ungestüm die Zeche treiben über Brücken.
+                                        Sonst, wo jemand Schaden daraus empfinge, soll der Hüter den
+                                        Schaden gelten und darüber zur Buße 5 Sgr. in die Gemein
+                                        Büchse zahlen p.</p>
+                                <p>Von Rind und anderem Vieh</p>
+                                <p>74. Es soll ein jeder sein Vieh vor den Hirten treiben, es sei
+                                        gleich Schwein, Schaf oder ander Vieh, so man es aber auf
+                                        den Straßen findet, wenn der Hirt aufm Felde ist, soll der,
+                                        dem es gehört, davon ablegen zur Buße vor jegliches Haupt 3
+                                        SGr., ausgenommen eine Sau mit jungen Ferkeln, die mag 4
+                                        Wochen auf der Straßen frei gehen, danach soll sie gleich
+                                        dem andern Vieh gehalten werden. Welcher auch seine
+                                        Schweine, wenn der Hirt zu Heim kommt, aufm Anger gehen
+                                        lässt, der soll von jedem Schwein 3 Gr. Buße ablegen, damit
+                                        der Anger nicht umgewühlt werde. Gleichergestalt soll ein
+                                        jeder [von seinem] Stück Rindvieh, Schaf oder Schweine,
+                                        welches in verbotenen Feldern, ehe solche freigegeben,
+                                        gefunden wird, 3 Gr. in die Büchse geben, wo aber Schaden
+                                        geschehen, soll derselbe in 24 Stunden besichtigt und
+                                        erstattet werden p.</p>
+                                <p>75. So jemand wollte Rinder in die Weide tun, soll er sie dem
+                                        Hirten erst nicht vortreiben, auch nicht zuletzt, sonst soll
+                                        er das erste Hirtlohn geben oder das letzte.</p>
+                                <p>76. So jemand würde sein Vieh, es sei Kühe oder Schafe oder sonst
+                                        anderes, bringen oder dieselben daheim behalten, soll nichts
+                                        desto weniger verpflichtet sein, davor zu hüten oder lohnen.
+                                        Wer den Gemein Boll oder Eber aus dem Hofe jagt, soll 6
+                                        Schilling Buße abzulegen schuldig sein.</p>
+                                <p>77. Wer seinem Vieh im Frühjahr, wenn man es zum ersten Mal
+                                        austreibt, die Hörner nicht hat abgeschnitten, soll von
+                                        jeglichem Haupt 3 Gr. ablegen und die Hörner gleich wohl
+                                        abschneiden p.</p>
+                                <p>78. Vor jegliches Kalb, welches vorm Jahr gehütet, soll man auf
+                                                <seg type="comment"><orig>Philippi
+                                                  Jacobi</orig><note xml:id="nxjw_3qh_txb">1.
+                                                  Mai</note></seg> lohnen, vor eine halbe Kuh bis
+                                        sie kalbt.</p>
+                                <p>79. Alles Jungvieh, was jung wird nach <seg type="comment"><orig>Michaelis</orig><note xml:id="nyqq_kqh_txb">29. September</note></seg> und welches man will
+                                        zulegen und das den Kerbstock betrifft, soll lohnen auf
+                                        Weihnachten, welches man aber für sich selbst will abtun,
+                                        darf das letzte Hirtlohn nicht ablegen.</p>
+                                <p>80. Wo jemand sein Vieh nicht ließe recht anschreiben und anders
+                                        befunden würde, soll ablegen 10 Gr. unschädlich der
+                                        Herrschaft Gerichte, welches der Schulze verpflichtet sein
+                                        soll im nächsten Gericht einzubringen. Wenn ein
+                                        Handwerksmann oder Gärtner mehr Vieh als zwei Kerben
+                                        betreffen halten wollte, sollen solche der Dorfschaft
+                                        gebührlich Weidegeld von dem Vieh, so über zwei Kerben bei
+                                        ihnen befunden, abzulegen schuldig sein, denn es soll keinem
+                                        Handwerker oder Gärtner zugelassen sein mehr Vieh zu halten
+                                        als ein jeder 2 Haupt Rindvieh, 3 Schweine und 3 Nähr-Gänse,
+                                        damit die Dorfschaft durch sie nicht zuviel beschwert werde.
+                                        Will denn jemand mehr halten, soll er sich mit der Gemeine
+                                        darum vergleichen.</p>
+                                <p>81. Es sollen keine Schweine frei zu laufen von nun an künftig
+                                        mehr gestattet werden, sondern der Schweinehirt je so lange
+                                        zu hüten, als der Kuhhirt angenommen und gemietet werde. Wer
+                                        hierwider handelt und mutwilliger Weise, wie bishero
+                                        geschehen, seine Schweine mehr frei laufen lassen wird, der
+                                        soll, so oft seine Schweine gepfändet werden, von jedes
+                                        Wirts Haus das beste Schwein 1 Gr. in die Ratbüchse
+                                        verfallen haben und seine Schweine dennoch beim Hirten
+                                        halten.</p>
+                                <p>82. Alles Geld, welches also laut dieser Willkür eingebracht
+                                        wird, soll nicht durch des Schulzen Nachbarn vertrunken,
+                                        sondern in die Gemein Büchse gelegt werden und daselbst
+                                        verwahrt werden, damit, wenn ein notwendiger Bau dem Dorfe
+                                        verstößt an Brücken, Stege, Wege oder etwa anderes, dadurch
+                                        dem Dorf zum frommen Nutz und Besten geschafft werden, und
+                                        was also durch das Jahr über in die Büchse eingebracht wird,
+                                        davon soll der Schulze mit den Ratleuten, der Herrschaft
+                                        oder derselben Diener alle Jahr klare Rechnung in
+                                        Gegenwärtigkeit aller Nachbarn im Dorfe tun p.</p>
+                                <p>83. Es soll auch der Schulze dieser Willkür halber niemand
+                                        strafen ohne Wissen und Willen der Ratleute, also hergegen
+                                        die Ratleute auch nicht ohne Vorwissen des Schulzen.</p>
+                                <p>Zum Beschluss</p>
+                                <p>Wo die Gemeine allesamt und insonheit jeder vorgemeldte Artikel
+                                        dieser Willkür nicht wie sichs gebührt halten oder dieselben
+                                        verachten würde und solches der Herrschaft zu wissen kommt,
+                                        will sich die Herrschaft ihre Strafe vorbehalten haben, der
+                                        Gemeinde aber soll der Verbrecher in die Büchse 3 Mark
+                                        ablegen und solches nicht mehr tun.</p>
+                                <milestone unit="section" rendition="#hr"/>
+                                <p><seg type="comment"><orig>Ordnung, wie es in der Herren zu Dohna
+                                                  p. Dörfern in Verlöbnissen, Hochzeiten und
+                                                  Kindtaufen unverbrüchlich zu halten</orig><note xml:id="npn5_qqh_txb">Anmerkung Flades: Es handelt
+                                                  sich wohl ebenfalls um eine Abschrift eines
+                                                  älteren Dokuments, dessen Schreiber derselbe ist,
+                                                  wie der des obigen Textes. Mit großer
+                                                  Wahrscheinlichkeit ist der Text nicht in
+                                                  Reichertwalde entsanden, man kann annehmen, dass
+                                                  solche Texte unter den jeweiligen Herrschaften
+                                                  weitergegeben wurden [...]. Dies ist hier daran zu
+                                                  erkennen, dass der Schreiber manchmal Satzteile
+                                                  auslässt oder auch mit der Währung durcheinander
+                                                  kommt. Die Strafen wechseln danach zwischen Mark
+                                                  und Gulden, jeweils noch Polnisch oder
+                                                  Ungarisch.‟</note></seg></p>
+                                <p>Von Verlöbnissen</p>
+                                <p>1. Ein Verlöbnis soll ein Bauersmann sich oder seinem Sohn oder
+                                        Tochter ausrichten mit einer Mahlzeit, darauf drei Essen
+                                        geben und mit Mann und Weib einen Tisch besetzen, eine <seg type="comment">
+                                                <orig>halbe Tonne Bier</orig>
+                                                <note xml:id="nlg2_cwf_1qb">1 Tonne Bier = 96 Stof;
+                                                  1 Stof = 1,15 Liter</note>
+                                        </seg> zum Getränk haben und es dabei bewenden lassen. Würde
+                                        jemand mehr Speis und Trank aufwenden oder auch mehr als ein
+                                        Tisch Gäste bitten und setzen, so soll er der Herrschaft 10
+                                        Fl. <unclear reason="illegible" cert="high">ung.</unclear>
+                                        zur Strafe geben, und wo der Schulze im Dorf nicht
+                                        nachfragt, wenn dieser Ordnung zuwider gelebt würde und er
+                                        es der Herrschaft verschweigt, soll er zur Strafe 5 Fl. Ung.
+                                        erlegen p.</p>
+                                <p>2. Ein freier Schulze soll gleichergestalt sich oder seinem Sohn
+                                        oder Tochter zum Verlöbnis nicht [mehr] als auf einen Tisch
+                                        von dreien Gerichten und nicht mehr als eine <seg type="comment"><orig>1/2 Tonne Bier</orig><note xml:id="nck3_hrh_txb">1 Tonne Bier = 96 Stof; 1
+                                                  Stof = 1,5 Liter.</note></seg> dazu geben bei
+                                        Strafe von 12 Fl. ung. p.</p>
+                                <p>3. Ein Gärtner wie auch ein Müller und Handwerker soll sich oder
+                                        seinem Sohn oder Tochter zum Verlöbnis nur 6 Personen
+                                        bitten, ihnen 2 Essen und 12 Stof Bier geben bei Strafe 4
+                                        Fl. ung. p.</p>
+                                <p>Von Hochzeiten</p>
+                                <p>4. Weil der Gebrauch vorlängst also gehalten, dass des Bräutigams
+                                        und der Braut Eltern oder Freundschaft sich zusammen
+                                        vergleichen und also von beiden Seiten die Hochzeit
+                                        ausrichten, soll es auch ferner sein Verbleiben haben und
+                                        sollen sie in einem Haus die Hochzeit halten, dahin ihre
+                                        Hochzeitgäste laden, sich zur Vesper bei hellem lichten Tage
+                                        in der Kirchen zusammen trauen lassen, hernach, wo die
+                                        Hochzeit zu halten bestimmt, allda eine Abendmahlzeit
+                                        halten, und den Fremden soll auf den Morgen ein Frühstück
+                                        zugerichtet werden und also die Hochzeit nicht länger wären
+                                        als bis auf den anderen Tag um Glock 12 zu Mittage. Wer
+                                        länger Hochzeit und die Gäste halten wird, der soll der
+                                        Herrschaft 10 Fl. ung. verfallen sein.</p>
+                                <p>5. Der böse Gebrauch und unnütze Unkosten, dessen bishero die
+                                        Bauern in den Dörfern in Hochzeiten sich angewöhnt und mit
+                                        ihnen großen Schaden getrieben, soll hinfüro gänzlich
+                                        abgeschafft sein, als nämlich, wenn in einem Dorf Hochzeit
+                                        gehalten wird, so wird von allen Bauern fast in allen
+                                        Häusern Bier und Essen, Speis die Fülle gegen solche Zeit
+                                        geschafft und allda gefressen, gesoffen und aus einem Haus
+                                        in das andere geschwärmt, aller Übermut, Mutwillen,
+                                        Ärgernis, Tag und Nacht die halbe Woche, ja auch wohl bis
+                                        auf den Donnerstag getrieben, wird also auf einmal
+                                        unnützlich zugebracht und verschwendet, wovon ein Bauersmann
+                                        sich und sein Hausgesinde ein Viertel Jahr und länger
+                                        aushalten könnte. Solches wie gemeldet soll hinfüro
+                                        aufgehoben, verboten und gänzlich abgeschafft sein und
+                                        derjenige, welcher außerhalb des Hauses, darin die Hochzeit
+                                        gehalten wird, sich solches bösen Gebrauchs hinfüro nicht
+                                        enthalten und die geringste Gasterei zu solchen Zeiten in
+                                        seinem oder anderm Hause anstellen wird, derselbe soll der
+                                        Herrschaft 10 Fl. ung. erlegen.</p>
+                                <p>6. Wenn ein freier Schulze sich oder seinem Sohn oder Tochter
+                                        Hochzeit ausrichtet, soll er nicht mehr als 4 Tische, 2 mit
+                                        Mannes- und 2 mit Weibes-Personen, setzen und auf jeden
+                                        Tisch 4 Gerichte als Fisch, Fleisch, Gebratenes und Zugemüs,
+                                        und nicht mehr verspeisen als 3 Tonnen Bier die ganze
+                                        Hochzeit bei Strafe 10 Fl. ung., und die Ratsleute in dem
+                                        Dorf, so nicht darauf Acht haben, dass demselben nachgelebt
+                                        oder solches auch nicht anzeigen würden, deren ein jeder
+                                        soll 5 Fl. ung. Strafe geben.</p>
+                                <p>7. Wenn ein Bauersmann sich oder seinem Sohn oder Tochter
+                                        Hochzeit ausrichtet, soll er nicht mehr als 4 Tische wie
+                                        oben gemeldet setzen, drei Essen als ein Essen Fisch oder
+                                        Fleisch, ein Gebratenes und Zugemüs Speisen und 2 Tonnen
+                                        Bier die ganze Hochzeit über vertun. Wird er aber ein mehr
+                                        darüber aufgehen lassen und auch mehr Gäste an Manns und
+                                        Frauen und Jungfrauen, als an 4 viereckichte Tische gesetzt
+                                        werden können, einladen, der soll 6 Fl., der Schulze aber,
+                                        so hierauf nicht Achtung gibt und die Verbrechung
+                                        verschweigt, soll 3 Fl. ung. geben.</p>
+                                <p>8. Wenn eines Schulzen oder Bauersmann Sohn oder ein Dienstknecht
+                                        zur Hochzeit geladen wird, soll keiner zu Tische sitzen,
+                                        sondern den Gästen vorm Tisch aufwarten und wenn abgegessen
+                                        ist, soll den Aufwärtern an einem Tisch was von den anderen
+                                        Tischen übrig geblieben und noch ein Essen dazu gegeben
+                                        werden und nicht länger, als wenn Braut und Bräutigam zu
+                                        Bette gebracht, in der Hochzeit verbleiben. Wer sich nun zu
+                                        Tische setzen und über die Zeit sich in der Hochzeit
+                                        aufhalten wird, soll unnachlässig der Herrschaft 2 Fl. ung.
+                                        Straf erlegen, und soll der Schulze die Strafen von
+                                        denselben, so hierin gebrochen, des Morgens abfordern oder
+                                        also dann dieselben in die Gefängnis setzen bis die Strafe
+                                        gefallen. Würde auch von dem Schulzen hierin was versäumt
+                                        werden, soll er 4 Fl. ung. zur Strafe ablegen.</p>
+                                <p>9. Ein Gärtner wie auch ein Müller und Handwerker, der sich,
+                                        seinem Sohn oder Tochter [die Hochzeit] ausrichtet, soll
+                                        einen Tisch setzen, 2 Gerichte, ein Zugemüs und
+                                        Fleischspeise, und eine halbe Tonne Bier zur Abendmahlzeit
+                                        vertun und seine Hochzeit damit beschließen bei Strafe 6 Fl.
+                                        Polnisch, und der Schulze, so hierauf nicht Achtung hat oder
+                                        solches verschweigt, soll geben 1/2 Fl. ung.</p>
+                                <p>10. Demnach auch die Erfahrung bezügl., dass den Abend vor der
+                                        Hochzeit ein Abend-<seg type="comment">
+                                                <orig>Collatsch</orig>
+                                                <note xml:id="nlwg_1dh_bqb">Zur Bedeutung siehe <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=kollatsch">hier</ref>.</note>
+                                        </seg> gehalten und also dann dabei fast die ganze Nacht
+                                        gefressen und gesoffen wird mit dem Vorgeben, es geschehe
+                                        solches nicht auf der Hochzeit, sondern nur auf der
+                                        Abend-Collatsch, als soll solches hiermit ganz und gar
+                                        abgeschafft und verboten sein. Wer nun hierwider handelt,
+                                        soll jeder nach seiner Würde solche Strafe erlegen, als wenn
+                                        er zu viel Tische gespeist hat, wie solches in vorgesetzten
+                                        Punkten zu finden.</p>
+                                <p>Von Kindtaufen</p>
+                                <p>11. Ein freier Schulze soll seine Kindtaufen nicht höher
+                                        anstellen als auf einen Tisch, auf welchen er mehr nicht als
+                                        3 Essen geben und eine halbe Tonne Bier vertun soll. Schlägt
+                                        er es höher an, soll er der Herrschaft 10 Fl. Ungarisch
+                                        verfallen sein.</p>
+                                <p>12. Ein Bauersmann soll seinen Gevattern nach verrichteter Taufe
+                                        eine Mahlzeit ausrichten und nur 1/4 Tonne Bier dabei
+                                        ausgeben lassen bei Strafe 6 Fl. Ungarisch der Herrschaft,
+                                        und der Schulze, so über diese Ordnung nicht halten oder die
+                                        Verbrecher verschweigt und nicht angeben wird, soll 6 Fl.
+                                        Ung. zu erlegen schuldig sein.</p>
+                                <p>13. Ein Gärtner soll nach geschehener Taufe seinen Gevattern ein
+                                        Essen oder zum höchsten zwei, und beim Tisch, weil das Essen
+                                        währt, zum höchsten ein Achtel Bier geben, länger soll das
+                                        Kindelbier nicht währen, auch nicht mehr Bier darauf
+                                        gewendet werden, bei 10 Mark Strafe. Auch der Schulze, der
+                                        es verschweigt, 6 Fl. Ungarisch.</p>
+                                <milestone unit="section" rendition="#hr"/>
+                                <p><seg type="comment"><orig>Von Brandschaden</orig><note xml:id="ni3z_fsh_txb">Abschrift eines älteren
+                                                  Dokuments</note></seg></p>
+                                <p>Es haben die Herren zu Dohna p. allesamt mit Schmerzen betrachtet
+                                        die Brandschäden, so bishero in Ihren Gütern entstanden
+                                        sind, und um so viel desto mehr, weil sie vernommen haben,
+                                        dass solche Schäden mehrenteils aus böser Aufsicht sich
+                                        angefangen haben, derowegen Sie nachgeschriebene Ordnung zu
+                                        verfassen verursacht worden, damit dem Unglück in Zeiten
+                                        begegnet und jeder das Seinige mit Ruhe behalten möge,
+                                        welches also lautet. p.</p>
+                                <p>1. Es soll ein jeder zu Verhütung solchen Unglücks für allen
+                                        Dingen Gott den Herrn fleißig anrufen und daneben auch
+                                        fleißig zu seinem Feuer sehen, damit davon keine Gefahr noch
+                                        Schaden durch einige Verwahrlosung und Unachtsamkeit
+                                        erfolgen möge, wodurch er selbsten um das Seinige und seine
+                                        Nachbarn um das ihrige gebracht werden können. Da aber
+                                        einiger Brandschaden (welchen Gott gnädiglich abwenden
+                                        wolle) von gemeldter Gestalt durch jemands üble Aufsicht,
+                                        Verwahrlosung oder Unachtsamkeit über Verhoffen künftig
+                                        entstehen sollte, derselbe soll ferner im Dorf nicht
+                                        gelitten, ob er schon sich selbst wieder aufbauen wollte,
+                                        sondern er soll in ein ander Dorf auf ein Gartenhaus gesetzt
+                                        werden und davon, anderen zum Abscheu, der Herrschaft Dienst
+                                        und Scharwerk leisten, wiewohl auch nach Befindung der
+                                        Sachen noch eine schärfere Strafe vorbehalten wird.</p>
+                                <p>2. Wann aber bei den Herren zu Dohna p. Bauern und Untertanen
+                                        etwa ein Brandschaden (davor Gott gnädiglich behüten wolle)
+                                        entstünde, so soll also bald ein jeder schleunig zu solchem
+                                        Feuer laufen, sein Bestes tun und helfen retten, doch soll
+                                        er sein Haus in der Zeit nicht ledig stehen lassen, damit
+                                        nicht jemand komme und in solcher Not ihm das Seinige
+                                        entwende, und soll aber mehr nicht als eine verständige
+                                        Person nebst den kleinen Kindern, als welche ohne das beim
+                                        Feuer nichts helfen können, in denjenigen Häusern gelassen
+                                        werden, welche weit vom Brand gelegen sind und sich keiner
+                                        Gefahr befürchten dürfen. Wer aber dieses Gebot übertreten
+                                        und entweder zu Haus oder im Felde bleiben und nicht zum
+                                        Feuer kommen oder ja beim Feuer müßig stehe und nicht
+                                        treulich helfen löschen wollte, derselbe soll wenn er ein
+                                        Bauersmann ist von der Hube 1 Fl. ung., ein Weib
+                                        desgleichen, ein Knecht einen Reichstaler, eine Magd und ein
+                                        Jung 1 Fl. Polnisch, ein Gärtner oder sein Weib auch 1 Fl.
+                                        Polnisch zur Strafe erlegen, jedoch sollen die Amtstragenden
+                                        Personen als Schulzen, Gerichtspersonen oder Ratleute hierin
+                                        nicht begriffen sein, also welche wegen ihrer Nachlässigkeit
+                                        oder Versäumnis mit mehrerem Ernst nicht allein gedoppelt,
+                                        sondern auch nach Befindung der Sache wohl gar am Leibe
+                                        sollen gestraft werden.</p>
+                                <p>3. Damit aber in solchem Fall denen Leute, welche Gott mit
+                                        Brandschaden dergestalt gestraft hat, zum Bau desto füglich
+                                        und aufs erste wieder geholfen, und ihnen in solcher Not
+                                        beigesprungen werde, als soll ein jeder deutscher Bauer
+                                        zwenen Fichtenhölzer, eines von 36 <seg type="comment"><orig>Schuh</orig><note xml:id="nd42_4rh_txb"><ref target="https://de.wikipedia.org/wiki/Fu%C3%9F_(Einheit)">Fuß</ref></note></seg> und das andere von 40
+                                        Schuh lang, und ein Polnischer Bauer oder derjenige, so 2
+                                        Huben besitzt, eine eichene Schwelle von 30 Schuh lang
+                                        verschaffen, dasselbe behauen und in seinem Gehöfte im <seg type="comment">
+                                                <orig>Treugen</orig>
+                                                <note xml:id="nezp_5yf_1qb">Trocknen</note>
+                                        </seg> oder die ganze Dorfschaft beisammen auf Trägern
+                                        behauen aufbehalten, damit auf den Fall, nach dem zuvor zwei
+                                        aus der Gemeine im Hofe gewesen und sich des Schadens
+                                        erkundigt haben, an welchen Ort solch Holz zu führen ist,
+                                        des andern Tages gewiss zur Brandstätte möge gebracht
+                                        werden. Es soll aber solch Holz, das zu Balken, Ständern
+                                        oder Bandholz dienlich ist, geschafft werden, und sollen
+                                        hinfüro die Gebäude nicht so groß noch weitläuftig, auch
+                                        nicht <seg type="comment"><orig>gegehrsasst</orig><note xml:id="nmlf_1sh_txb">Traditioneller Blockbau aus
+                                                  Holzbalken.</note></seg>, sondern in Bandwerk zu
+                                        kleben oder Mauern gebaut werden.</p>
+                                <p>4. Ein jeder deutscher Wirt, der 3 Huben besitzt, soll 3 lederne
+                                        Eimer und dann ihrer drei zusammen einen guten langen
+                                        Feuerhaken, diejenigen aber, so 2 Huben besitzen, zwei
+                                        lederne Eimer und ihrer drei einen guten Feuerhaken
+                                        verschaffen und stetig im Trocknen fertig halten, und wenn
+                                        die Ratleute zu gewöhnlicher Zeit nach den Leitern am Hause,
+                                        Schornstein und Rauch zu sehen umgehen, sollen sie zugleich
+                                        auch nach gedachtem Holz, ledern Eimern und Feuerhaken auch
+                                        sehen, und wo sie etwa darin ein Mangel befinden, sollen sie
+                                        solches dem Schulzen anzeigen, welcher den Nachlässigen bald
+                                        dazu halten und ihn einen Fl. Ungarisch in die Ratbüchse zur
+                                        Strafe erlegen lassen soll, wo aber der Schulze hierin
+                                        säumig wäre, soll er doppelte Strafe zu erlegen schuldig
+                                        sein.</p>
+                                <p>5. Wenn auf der Nähe in den Städten Jahrmarkt gehalten wird, soll
+                                        nicht zugleich Mann und Weib zum Jahrmarkt gehen oder
+                                        fahren, sondern alle Wege einer zu Hause bleiben bei Strafe
+                                        1 Fl. ung. der Herrschaft, worauf die Schulzen und Ratleute
+                                        gute Achtung geben sollen, in Verbleibung dessen sollen sie
+                                        doppelter Straf gewärtig sein, der Schulze aber, selbst wenn
+                                        er nicht vom Jahrmarkt bleiben kann, soll er die Ratleute im
+                                        Dorf lassen und hinwiederum wenn die Ratleute zum Jahrmarkt
+                                        reisen, soll er selbst zu Hause bleiben bei doppelter Buß
+                                        als vorgemeldet.</p>
+                                <p>6. Dieweil denn auch die Herrschaft nicht allein die Verbrechen
+                                        gestraft, sondern zugleich die Fleißigen, welche bald zum
+                                        Feuer kommen belohnt haben will, als soll derjenige, welcher
+                                        zur Glocke läuft und stürmt, wenn noch niemand bei dem Feuer
+                                        ist, 20 Gr., der im <unclear reason="illegible" cert="high">Küren</unclear> oder Tonne Wasser zugeführt 20 Gr.,
+                                        der den ersten Eimer Wasser zuträgt 10 Gr., der den andern 5
+                                        Gr. und der dritte 3 Gr., wer den ersten Feuerhaken zuträgt
+                                        15 Gr., wer den andern 10 Gr. und wer den dritten 5 Gr., wer
+                                        den ersten ledern Eimer bringt 3 Gr., den anderen 2 Gr., den
+                                        dritten 1 Gr., der eine Gemeine Leiter zuträgt, wenn sie
+                                        lang genug ist, das Dach zu besteigen oder auf die Luchten
+                                        zu klettern, 20 Gr., der erste, so das Dach besteigt den
+                                        Brand zu löschen 3 Mark, der andere, so ihm folgt und Wasser
+                                        zulangt 2 Mark und der dritte 1 Mark zu Lohn haben, welcher
+                                        ihnen nach genugsamem Beweis von der Herrschaft oder dero
+                                        Schreibern unfehlbar gezahlt werden soll.</p>
+                                <milestone unit="section" rendition="#hr"/>
+                                <p><seg type="comment"><orig>Holz- und Waldordnung</orig><note xml:id="nvz5_gsh_txb">Abschrift eines älteren
+                                                  Dokuments</note></seg></p>
+                                <p>Demnach gespürt wird, dass die Wälder wegen unordentlicher
+                                        Abhauung des Bauholzes, Brückholzes, Brennholzes und anderes
+                                        mehr ganz verderbt, und da solches länger in dieser
+                                        Unordnung bleibt, die Wälder endlich in ganzen Verderb und
+                                        Verwüstung kommen sollten, damit dieser Unrat hinfüro
+                                        abgeschafft, ist folgende Anordnung verfasst, auf welche
+                                        denn der Herrschaft Diener und Schulzen vermöge ihrer
+                                        Pflicht gute Achtung geben sollen, auf das solchem allem
+                                        würklichen nachgesetzt werden möge.</p>
+                                <p>1. Es sollen der Herren zu Dohna p. Untertanen, es sei Schulze,
+                                        Ratmann, Krüger, Bauer oder Gärtner, hiermit ernstlich bei
+                                        unnachlässiger Strafe verboten sein, es sei in der
+                                        Herrschaft oder sonst einiger Dorfschaft Wälder, kein frisch
+                                        Brennholz vom Stamm zu hauen, es sei was für Holz es immer
+                                        sein mag, bei Strafe 3 Mark nebst Erstattung des Holzes, er
+                                        möchte es denn so gröblich machen und mehr als einen Stamm
+                                        hauen, soll nach Erkenntnis des Gerichts und nach
+                                        Gelegenheit der Verbrechung alsdann mit ihnen verfahren
+                                        werden.</p>
+                                <p>2. Würde sich jemand unterstehen, ohne Erlaubnis eine grüne Buche
+                                        oder Hainbuche, auch ander gleichen Holz zu beschalen oder
+                                        niederzufällen, soll zur Strafe verfallen haben von jedem
+                                        Baum, der eine Elle dick 30 Gr., der zwo Ellen dick 3 Mark
+                                        und der 3 Ellen dick 6 Mark und von jedem Fuder, was er von
+                                        dem gefällten Holz weggeführt hat, 30 Gr.</p>
+                                <p>3. Es soll niemand frei sein, seines Gefallens in die Wälder zu
+                                        fahren, Brennholz und Viertel Holz vor sich oder in der
+                                        Herrschaft Hof zu hauen, es sei ihm denn von dem Schulzen
+                                        derart bezeichnet und freigegeben, doch nur bloß Lagerholz
+                                        oder treug abgestandenes Holz oder Windfälle, so lang dessen
+                                        vorhanden ist, bei Strafe von jedem Fuder 30 Gr. Wo aber der
+                                        Schulze an Abziehung des gewissen Orts nachlässig sein
+                                        würde, soll derselbe 3 Mark der Herrschaft und 1 Mark in die
+                                        Ratbüchse zu erlegen schuldig sein.</p>
+                                <p>4. Es soll kein Nachbar keine Eiche, Fichte, Tanne, Esche, Linde,
+                                                <seg type="comment">
+                                                <orig>Leinbäume</orig>
+                                                <note xml:id="nd1n_wzf_1qb">Ahorn</note>
+                                        </seg> noch <seg type="comment">
+                                                <orig>Ellern</orig>
+                                                <note xml:id="ng1w_wzf_1qb">Erlen</note>
+                                        </seg>, die zum Bau dienlich, ohne Vorwissen der Herrschaft
+                                        und ohne Anweisung des Schulzen und der Ratleute, weder im
+                                        Heegewalde noch auf Rod-Äckern abhauen bei Strafe 3 guter
+                                        Mark in die Ratbüchse und 10 guter Mark der Herrschaft samt
+                                        dem Baum. Imgleichen soll niemand Latten, Rück-, Schirr- und
+                                        ander Holz, so er vor sich benötigt, ohne Vorwissen der
+                                        Herrschaft und ohne angewiesen vom Schulzen, der sich wie
+                                        ein jeder anzuweisen sei bei der Herrschaft oder in
+                                        Abwesenheit bei ihren Dienern, wohl zu befragen hat, zu
+                                        hauen Macht haben, bei Strafe 3 Mark von jedem Stamm und 10
+                                        Gr. in die Ratbüchse. </p>
+                                <p>5. Wenn den Untertanen Bauholz in den Hof oder sonsten zu führen
+                                        befohlen wird, soll keiner nicht ein Stück Holz an einem
+                                        andern Ort, als da es der Schulze oder der Herrschaft Diener
+                                        zu hauen befohlen, fällen, bei Strafe 1 Fl. von jedem
+                                        Stamm.</p>
+                                <p>6. Was vom Sturmwinde nieder fällt, soll sich gleich dem grünen
+                                        Holze niemand mächtigen in seinen Nutzen zu wenden bei
+                                        obbenannter Strafe, und wenn solche Bäume gefunden dem
+                                        Schulzen ansagen, dass ers hernach der Herrschaft
+                                        unverhohlen anmelden soll und Bescheides gewärtig sein, wie
+                                        es mit demselben soll ferner gehalten werden.</p>
+                                <p>7. Wer einen Fremden in der Herrschaft oder der Dorfschaft
+                                        Wäldern betrifft und ein Pfand bringt, ist es eine Axt davon
+                                        soll er haben 15 Gr., bringt er ein Pfand in des Herrn Hof,
+                                        davon soll er haben 3 Mark, bringt er den Dieb selbsten,
+                                        davon soll er haben 6 Mark, welcher der Herrschaft Schreiber
+                                        oder Diener gegen <unclear reason="illegible" cert="high">Empfangung</unclear> des Pfandes zahlen sollen.</p>
+                                <p>8. In welchen Dörfern Radmacher wohnhaftig sind, soll ihm nicht
+                                        frei sein, seines Gefallens zum Handwerk Holz zu hauen,
+                                        sondern es soll der Schulze ihm jeden Baum dazu abzeichnen,
+                                        und soll nur dahin gemeint sein, bloß zu der Dorfschaft
+                                        Einwohner und nicht Fremden oder auf den Kauf zu arbeiten.
+                                        So oft er nun hiewider tut, soll er jeden Stamm, wie oben
+                                        gemeldt, ver<unclear reason="illegible" cert="low">lieren</unclear> und von jedem Rade, so er Fremden
+                                        von des Dorfes Holz machen würde, 10 Gr. geben und die Ware
+                                        dem Schulzen verfallen sein. Will er aber fremde Räder
+                                        machen, soll er sich anderweit dazu Holz schaffen oder sich
+                                        Holz von demjenigen, so die Räder benötigt, bringen
+                                        lassen.</p>
+                                <p>9. Kein Bauer soll weiter roden als ihm vom Schulzen und den
+                                        Ratleuten angewiesen wird, bei Strafe 3 Mark in die
+                                        Ratbüchse und Verlust all sein gerodetes Holz, dass der
+                                        Herrschaft verfallen sein soll. Es sollen aber die Schulzen
+                                        und Ratleute nicht mehr zu roden anzuweisen Macht haben, als
+                                        ihnen einem jeden insonderheit von der Herrschaft jährlich
+                                        nachgegeben und darüber ein richtig Verzeichnis auf ihr
+                                        Ansuchen zugestellt wird.</p>
+                                <p>10. Jeder Bauer soll von seinem Rodacker erstlich vor die
+                                        Herrschaft seine 2 Viertel, als von jeder Hube 1 Viertel,
+                                        dann auch die Notdurft für sein Haus führen. Das übrige mag
+                                        er auf der Stelle mit Vorwissen des Schulzen verkaufen, aber
+                                        nicht verführen.</p>
+                                <p>11. Wer von seines Nachbarn Stück oder aus der Dorfschaft oder
+                                        aus der Herrschaft Heegewälder ein Stücklein Holz zu seinem
+                                        Nutzen auf seinen Rodacker oder für seine Tür führt, der
+                                        soll dem, welchem er das Holz entwendet, 3 gute Mark vor
+                                        jedes Stück Holz zahlen und das Holz wieder auf die Stelle
+                                        führen, von da er es genommen hat.</p>
+                                <p>12. Wer ein einzig Stück <seg type="comment">
+                                                <orig>Schirrholz</orig>
+                                                <note xml:id="nd44_2bg_1qb">Nutzholz</note>
+                                        </seg> oder Buchen-Bretter aushaut oder verkauft, der soll
+                                        sein Hab und Gut verloren haben, aus dem Dorf weggeschafft
+                                        und auf ein Gartenhaus gesetzt werden, der Gemeine aber eine
+                                        Tonne Bier zum Waldtrunk verfallen sein.</p>
+                                <p>13. Ein Heegewald, darin jeder Bauer eine halbe, der Schulze aber
+                                        eine ganze Hube hat, soll bei jedem Dorf geheegt und mit
+                                        Fleiß geschont werden. Wer in denselben fährt, auch sein
+                                        Vieh weiter als am Rande des Heegewaldes hüten lässt, soll,
+                                        so oft er betroffen wird, 3 gute Mark halb der Herrschaft
+                                        und halb in die Gemeinen Ratbüchse geben, der Schulze und
+                                        die Ratleute gedoppelt.</p>
+                                <p>14. Welche auf ihren Stücken nicht mehr zu roden haben und das
+                                        Holz zu ihrer Notdurft aus dem Heegewalde holen müssen,
+                                        sollen ohne Anweisung des Schulzen und der Ratleute nichts
+                                        hauen, bei Strafe 3 gute Mark halb der Herrschaft, halb in
+                                        die Ratbüchse, das Holz soll er in des Herrn Hof
+                                        bringen.</p>
+                                <p>15. Wer mit einer Axt im Heegewalde betroffen wird, ob er schon
+                                        nicht haut, der soll die Axt dem Schulzen und der Gemeine
+                                        eine halbe Tonne Bier verfallen haben, aber selbst nicht
+                                        mittrinken.</p>
+                                <p>16. Es soll auch jeder Nachbar im Dorfe fleißig helfen auf die
+                                        Wälder sehen, sintemal ihnen selbst und ihren Nachkömmlingen
+                                        ein Stück ihrer zeitlichen Wohlfahrt daran gelegen. Wer nun
+                                        seiner Herrschaft oder der Gemeine Nachbarschaft Schaden
+                                        wissen und denselben verschweigen, oder was wider diese
+                                        Holz-Ordnung gehandelt vertuschen helfen wollte, der soll
+                                        ohne alle Gnade aus dem Dorf gejagt, all sein Hab und Gut
+                                        verlustig und auf ein Gartenhaus gesetzt, auch keiner
+                                        hiermit verschont werden, es sei Schulze, Krüger oder Bauer,
+                                        wonach sich ein jeder zu richten und hiermit vor Schaden
+                                        gewarnt sein soll.</p>
+                                <p>17. So oft auch das Gericht gehalten wird, soll jede Dorfschaft
+                                        hierum von der Herrschaft anwesenden Diener gefragt werden,
+                                        ob der Schulze oder Bauern sich demselben gemäß verhalten,
+                                        und dann demselben worin zuwider gangen wäre alsdann
+                                        anzeigen und so hierin was verschwiegen und vertuscht
+                                        worden, und es hernach offenbar würde, sollen die Gerichte
+                                        darüber erkennen und wegen solcher Untreue Schulze und
+                                        Bauern gestraft werden. </p>
+                                <p><lb/>Und obwohl der Herrschaft freisteht, solche Ordnung zu
+                                        ändern, zu schärfen, zu mehren oder zu mindern, so soll doch
+                                        ein jeder wissen, dass die Herrschaft über dieser itz
+                                        abgelesenen Ordnung fest, steif und unnachlässig halten
+                                        will, und damit sich ein jeder vor Schaden zu hüten, ist
+                                        diese Ordnung hiermit verlesen worden.</p>
+                                <milestone unit="section" rendition="#hr"/>
+                                <p>Vom Haus-Gewehr</p>
+                                <p>1. Es soll auch ein jeder Wirt sich befleißigen, ein paar gute
+                                        Hauswehren in seinem Hause zu haben, entweder ein paar gute
+                                                <gap reason="illegible"/> Spieß oder Hellbarden oder
+                                        einen Spieß und ein Hellbard, und soll ein jeder Spieß in
+                                        die Länge haben an Holz und Eisen 8 Werk Schuhe.</p>
+                                <p>2. Und dieweil auch an Unterhaltung der Musqueten, welche vor
+                                        etlichen Jahren unter die Junge Mannschaft verteilt worden,
+                                        Unfleiß gespürt wird, so sollen die Schulzen in allen
+                                        Dörfern Acht haben, dass diejenige Mannschaft, so Musqueten
+                                        haben, wohl in Acht nehmen und keine hinweg kommen lassen,
+                                        widrigenfalls er eine andere Musquet schaffen soll.</p>
+                                <milestone unit="section" rendition="#hr"/>
+                                <p>Beschluss</p>
+                                <p>Alle diese Punkte der alten, aufs neue verbesserten Willkür, denn
+                                        auch der dabei gehegten Ordnungen von Verlöbnissen,
+                                        Hochzeiten, Kindtaufen, Brandschaden, Holz-Ordnungen und
+                                        Haus-Gewehre, haben sämtliche Herren Burggrafen und Grafen
+                                        zu Dohna mit gutem Reifen einmütig und brüderlichem Rat
+                                        aufsetzen lassen und jedem Dorfe eine Abschrift davon
+                                        zustellen lassen, damit solche nicht allein jährlich
+                                        verlesen werde, als im ersten Punkt gemeldet, sondern dass
+                                        auch männiglich darüber halte und allen demjenigen ernst und
+                                        unverbrüchlich nachkomme, was allhier geschrieben steht,
+                                        darüber alle Einwohner mit Ernst halten sollen, dass sie
+                                        solches nicht allein hören, bedenken, sondern auch
+                                        beherzigen und tun sollen, und allem demjenigen vorkommen
+                                        und der Herrschaft oder dero Dienern nichts verschweigen,
+                                        was dieser Ordnung zuwider läuft, es sei über kurz oder
+                                        lang, ob sie etwas erfahren werden, was in einigen Punkten
+                                        wider diese Ordnung getan worden, auf den widrigen Fall soll
+                                        derjenige, so es nicht anzeigt, ernster Straf bei Gericht
+                                        oder von der Herrschaft gewärtig sein. Derhalben wird ein
+                                        jeder vor Schaden gewarnt sich davor zu hüten, sonst behält
+                                        sich die Herrschaft bevor jederzeit in einer und anderen
+                                        Änderung oder Verbesserung vorzunehmen, auch zu mehren und
+                                        zu mindern wie es die Zeiten und Gelegenheiten erfordern
+                                        möchten, inmaßen allbereit mit der Holz-Ordnung in den
+                                        Polnischen Dörfern nach Gelegenheit derselben etwas
+                                        geschehen ist.</p>
+                                <p>Gott der Allmächtige, der ein Richter und Erhalter ist aller
+                                        guten Ordnung, insonderheit der Obrigkeiten und Untertanen
+                                        eines jeden in seinem Beruf, der auch in seinem Heiligen
+                                        Wort geboten hat, der Obrigkeit untertan und gehorsam und zu
+                                        allen Werken bereit zu sein als geschrieben stehet: dass wer
+                                        sich der Obrigkeit widersetzt, der widerstrebt Gottes
+                                        Ordnung. Derselbe getreue Gott und Vater unseres Heilandes
+                                        und Erlösers Jesu Christi gebe auch zu diesem Werk seine
+                                        Väterliche Gnade, Segen und Gedeihen durch seinen Heiligen
+                                        Geist, damit Herrschaft und Untertanen in seiner Furcht ein
+                                        stilles und geruhiges, ihm wohlgefälliges Leben führen mögen
+                                        in aller Gottseligkeit und Ehrbarkeit. Amen.</p>
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        </div>
+                </body>
+        </text><?oxy_custom_end?>
+</TEI>

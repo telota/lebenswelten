@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_ncb_fsn_3qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Promemoria des Grafen von Lehndorff zum Neubau in Taberlack.</title><title> 1822</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bauten</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 251, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1822-01-01" to="1822-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ncb_fsn_3qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Promemoria zu dem Neubau in <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+            </p>
+            <p>Der Plan<seg type="comment">
+                  <orig> No. 1</orig>
+                  <note xml:id="ndlg_xvn_3qb">Bl.
+                            33v</note>
+               </seg> bezeichnet die gegenwärtigen Vorwerksgebäude in
+                    Taberlack, der <seg type="comment">
+                  <orig>No. 2</orig>
+                  <note xml:id="nrkj_vvn_3qb">Bl. 5-5v.</note>
+               </seg> diejenigen, welche sie künftig haben sollen,
+                    sowie der auf diesem letzten Plan mit Bleistift gefertigte <gap reason="illegible"/> die Einteilung des neuen projektierten Schuppens, und
+                    dient Folgendes zur Erläuterung.</p>
+            <p>Der neue Schuppen muss auf seiner Giebelfront so weit vorgezogen werden, dass er
+                    in egaler Richtung, jedoch in etwas abgestumpftem Winkel, mit dem schon fertigen
+                    Schuppen für die Pferde kommt. Die Punkte dieser Giebelfront habe ich dem pp
+                        <persName key="ed_thz_qyp_tcb">Steiner</persName> bezeichnet.</p>
+            <p>Die Giebelfront dieses Schuppens nach der Scheune muss unmaßgeblich so nach
+                    hinten rausgerückt werden, wie es die Zeichnung auf Plan 2 bezeichnet, und wenn
+                    es nötig ist, noch etwas mehr.</p>
+            <p>Die Richtung der neuen <gap reason="illegible"/> Scheune muss so sein, dass, wenn
+                    einst die Scheune von 3 Tennen fortgesetzt wird, sie so zu stehen kommt, dass
+                    eine möglichst regulierte Figur des Vorwerks daraus entstehe und die Distanz von
+                    der Ecke zur Scheune ungefär ebenso sei, wie die des neu zu erbauenden Schuppens
+                    zu der künftigen anderen Ecke der einstigen neuen Scheune.</p>
+            <p>Es ist bei dem Erbau dieses neuen Gebäudes nicht absolut notwendig, dass ihre
+               Fundamente in völlig horizontaler Richtung mit dem Fundament des Pferde-Schuppens
+               gelegt werden, wenn dadurch ein zu hohes Fundament entstehen sollte.</p>
+            <p>Sie können (und besonders das des neuen Schuppens) teils <seg type="comment"><orig>1
+                     1/2 Fuß</orig><note xml:id="nyhp_znh_yxb">1 Fuß (pr.) = 314 mm </note></seg>
+               niedriger kommen, als das Fundament des Pferde-Schuppens, und wird es mir selbst lieb
+               sein, wenn an dem neuen Schuppen ein kleiner Abzug entsteht und befördert wird.</p>
+            <p>Ich habe die neuen Schuppen nur mit 36 Fuß Breite bezeichnet in der Besorgnis,
+                    dass die Festigkeit der Gebäude bei mehrerer Breite leiden könnte. Wenn der
+                    Zimmermann aber glaubt, dass dieses nicht der Fall sein dürfte, so wird es mir
+                    recht angenehm, wenn auch dieser Schuppen gleich dem schon stehenden auf 38 oder
+                    40 Fuß Tiefe gebracht würde, dann muss er eben auch um so viel länger werden,
+                    damit jede Abteilung ein Quadrat bilde. </p>
+            <p>Die Scheune muss 38-40 Fuß Breite haben und 12 Fuß geständert sein.</p>
+            <p>
+               <persName key="ed_k4z_jgl_2y">Lehndorff</persName>
+            </p>
+            <p>
+               <note type="editorial">Es folgt ein PS. Lehndorff wünscht, dass die Fächer der
+                        Scheune so groß wie möglich werden. Auch ist zu beachten, dass die mittlere
+                        Tür nicht gerade auf die mittlere Tür des Schuppens treffe. Um das Vorwerk
+                        nicht zu sehr zu belasten, soll im Winter für die Dächer Stroh angekauft
+                        werden.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

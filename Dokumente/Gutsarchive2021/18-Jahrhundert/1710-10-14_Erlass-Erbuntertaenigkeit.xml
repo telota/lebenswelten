@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_q2t_rtt_ytb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Gräfin von Lehndorff entlässt Gertraud Neumann aus der Erbuntertänigkeit.
+                    Angerburg, 14. Oktober 1710</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe das Dokument vom <ref target="lehndorff_zs1_gjw_gqb">8. Februar
+                  1714</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy" subtype="copy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 685, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_hz1_4wl_2y">Angerburg</placeName>
+            <date when="1710-10-14" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_q2t_rtt_ytb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Im heutigen Dato verlautbart im hohen Namen Ihro Hochgräfl. Exzell. der Hochgeborenen
+               Frauen <persName key="ed_wwb_gcm_2y">Gräfin Maria Eleonora</persName> verwittibte
+               Gräfin und Oberburggräfin von Lehndorff, Frauen der Güter Steinort, Labab, Taberlack,
+               Surwillen ppp. Herr Friedrich <gap reason="illegible"/>, wie hochgemeldte Frau Gräfin
+               und Oberburggräfin endlich auf viele Anhalten der <persName key="ed_rmv_lqb_3qb">Gertraud Neumannin</persName>, einer Erbuntertänin aus Ihren <placeName key="ed_xzt_112_gy">Stawischkischen</placeName> Gütern, sich selbst resolviert,
+               derselben ihre Erbuntertänigkeit, da sie sich anitzo an einen invaliden Hauskrüger
+               verheiraten will, zu erlassen, wenn vorernannte Gertraud Neumannin zu Erkenntnis
+               dieser großen Gnade jährlich ein <seg type="comment"><orig>halb Stein</orig><note xml:id="nhw2_g41_j5b">In Königsberg war 1 großer Stein = 33 Pfund (berlin.) =
+                     15.428 Gramm, 1 kleiner Stein = 20 Pfund (berlin.) = 9.350 Gramm.</note>
+               </seg>
+               <seg type="comment"><orig>weiß Kraftmehl</orig><note xml:id="nijh_vll_gvb"><ref target="https://www.dwds.de/wb/dwb/kraftmehl">feines Weizenmehl</ref>
+                  </note></seg> geben, dann auch soviel Kraftmehl im Hochgräfl. Hof Steinort machen
+               wolle, als selbiger jährlich konsumiert. Weilen nun Gertraud Neumannin verlobte
+               Krügerin gerichtlich zugestanden, dass selbte von ihr die Erbuntertänigkeit würde
+               erlassen sein, dennoch dem Hochgräfl. Hofe Steinort sie also verbunden wolle sein,
+               dass sie jährlich ein halb Stein weiß Kraftmehl ohne Entgelt, auch auf Befehl des
+               Hochgräfl. Hofs Steinort jederzeit in Dero Hof kommen wolle, um soviel Kraftmehl zu
+               machen, als daselbsten gebraucht wird, als ist diese persönliche und mündliche
+               Aussage auf gerichtl. Verschreiben und in dieser glaubwürdigen Form extradiert.</p>
+            <p>Angerburg d. 14. Octobr. 1710</p>
+            <p>Richter und Schoppen </p>
+            <p>a. g. <gap reason="illegible"/> daselbst</p>
+            <p>
+               <note type="editorial">Es folgt ein gemaltes Siegel.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

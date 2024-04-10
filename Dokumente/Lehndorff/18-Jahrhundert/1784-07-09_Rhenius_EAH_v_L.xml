@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" type="adlige-welt" xml:id="lehndorff_wdk_bvq_w1b">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Wilhelm Rhenius an Ernst Ahasverus Heinrich Graf von Lehndorff. Steinort, 9. Juli 1784</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 380, Bl. 3-5v</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_bpl_fsj_gy">Rhenius, (-)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1784-07-09" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_csb_mdf_cy">Lehndorff-Steinort, Ernst Ahasverus Heinrich Graf
+                        von (Landkeim, 7.5.1727-Steinort, 19.5.1811)</persName>
+            </correspAction>
+            <note>Weitere Briefe von Rhenius aus dem Jahr 1784 ebd., Nr. 380. Mehrfach kommt er hier
+               auf den „Fall <persName key="ed_hm2_g3t_ncb">Strugull</persName>‟ zu sprechen, ebenso
+               auf das Entlaufen von Gutsuntertanen, z. B. von zwei Knechte aus den <placeName key="ed_enz_4vz_g1b">Landkeimschen</placeName> Gütern, die in den <placeName key="ed_ijp_zjc_gy">Schlobittenschen</placeName> Gütern aufgegriffen worden waren,
+               Bl. 45-46 (14. August 1784). Akten zu Untersuchungen gegen acht Untertanen
+                  <quote>wegen Komplott und attestierter Entweichung</quote> für 1772 in: APO,
+               Bestand 382 Familienarchiv Lehndorff, <ref target="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15940858">Nr.
+                  548</ref>.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Steinort, den 9. Juli 1784</dateline>
+               <salute>Hochwürdiger und Hochgeborener Reichsgraf <lb/>Gnädigster Graf!</salute>
+            </opener>
+            <p>Ew. Hochgeboren habe zwar nichts Wichtiges zu melden, auf meinen letzten Brief ist auch noch
+                    kein gnädiges Rückschreiben angekommen. Da aber Hochdieselben mir gnädigst
+                    aufzugeben geruht, alle 14 Tage zu schreiben, so habe dieses hiermit ganz
+                    gehorsamst befolgen wollen. </p>
+            <p>
+               <note type="editorial">Er berichtet über die Auswirkungen der Witterung auf die
+                  Landwirtschaft. Wie bereits im Brief vom 18. Juni schreibt er über den Brunnen und
+                  vermutet, der Graf werde <note type="editorial">
+                     <note type="editorial">
+                        <quote>den reichlichen Vorrat dieses schönen Wassers zur Brau- und Brennerei
+                           benutzen lassen <gap reason="insignificant"/>, welches mit einigen Kosten
+                           wohl einzurichten ist</quote>
+                     </note>
+                  </note>, jedoch müsse der Brunnen wegen Baufälligkeit im Herbst <quote>von Grund
+                     auf neu gemacht werden</quote>. - Er muss dem Grafen über entlaufene Knechte
+                  und Mägde aus <placeName key="ed_s3k_b12_gy">Taberlack</placeName> und <placeName key="ed_nkz_b12_gy">Stawken</placeName> berichten. Damit es nicht zu weiteren
+                  Fällen käme, habe er <quote>14 sichere Leute</quote> ausgeschickt, die sie auf den
+                  Landstraßen verfolgten und zurückzubringen hatten. Einen Knecht und eine Magd, die
+                  bereits mehrfach desertiert seien, habe er <quote>in Eisen gelegt</quote>, einen
+                  anderen Knecht habe er <quote>beim Maurer als Handlanger verdungen, um durch
+                     dessen Tagelohn die Kosten zu ersetzen, die durch das Nachsetzen dieses
+                     mutwilligen Deserteurs anstehend sind</quote>. Wenn alle, die sich mit
+                  ähnlichen Pläne tragen, sehen, <quote>dass ich alle Deserteure wieder
+                     zurückbekommen habe, werden sie von ihrem Vorhaben wohl abstehen</quote>. Es
+                  sei für ihn sehr kränkend, da die <quote>hiesigen Leute jetzt ganz väterlich
+                     behandelt werden und doch so sehr undankbar sind</quote>. Die
+                  Kreis-Justiz-Kommission habe ihn aufgefordert, die Leute nach <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> zum Verhör zu bringen. Er werde bei
+                  Ablieferung der Leinwand versuchen, die Angelegenheit mündlich zu klären, doch
+                  müsse man mit <quote>Herr <persName key="ed_r3s_ymw_mbb">Glave</persName>, der das
+                     ganze dirigiert, <gap reason="insignificant"/> sehr behutsam</quote> umgehen. -
+                  Nach einem Schreiben des Grafen, dass ihm während der Abfassung des Briefes
+                  zugeht, ist der <placeName key="ed_h35_jqh_my">Drengfurter</placeName> Richter
+                  bestellt und wird sich der Angelegenheit annehmen. - Bei der Kirchenvisitation sei
+                  mit dem Probst verabredet worden, dass der Rektor <seg type="comment">
+                     <orig>
+                        <persName key="ed_hm2_g3t_ncb">Strugull</persName>
+                     </orig>
+                     <note xml:id="nrlr_qg4_cbb">Strugull hatte in <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> ein Mädchen geschwängert, vgl. StA L,
+                        Bestand 21950 Familienarchiv Lehndorff, Nr. 380 (Ostpreußisches Konsistorium
+                        an Lehndorff, Königsberg, 21. September 1784; Rhenius an Lehndorff, 29.
+                        September 1784). An die Verfügung des Konsistoriums hielt sich Strugull
+                        nicht und war noch im November im Amt. Bei einer gerichtlichen Untersuchung
+                        des neuen Justitiars <persName key="ed_sgc_2wf_2y">Leitner</persName> in
+                           <placeName key="ed_jpk_w4f_cy">Rosengarten</placeName> stellten sich
+                        weitere Amtsverfehlungen heraus, auch hatte Strugull zahlreiche Schulden.
+                        Ihm wurde der Dienst untersagt und er wurde verpflichtet, bis zum 3.
+                        Dezember die Schulwohnung zu räumen. Den Unterricht übernahm der Pfarrer in
+                        Rosengarten, vgl. ebd., Nr. 380, Bl. 128-131v (Rhenius an Lehndorff, 26.
+                        November 1784). </note>
+                  </seg> entlassen werde und binnen drei Wochen aus dem Amt scheide.</note>
+               <lb/>Übrigens befindet sich alles wohl und empfiehlt sich zu Gnaden.  </p>
+            <closer>
+               <salute>Ich aber ersterbe in tiefster Treue <lb/>Ew. Hochgeboren untertänigster
+                  Diener</salute>
+               <signed>Rhenius</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

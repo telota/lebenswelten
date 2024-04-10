@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_eyl_lr4_nqb" type="adlige-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Verzeichnis der 1914/15 beschädigten Gegenstände im Schloss. Steinort, 28.
+                    August 1916</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Schloss Steinort</p>
+            </note>
+            <note type="editorial">
+               <p>Im Juli 1916 hatte die Lehndorffsche Gutsverwaltung bei Provinzialkonservator
+                            <persName key="ed_xjc_gy4_nqb">Dethlefsen</persName> angefragt, ob er
+                        die „im Winter 1914-15 beschädigten und entwendeten Möbel und Sachen“ gegen
+                        Honorar schätzen oder jemand dafür empfehlen würde. Dethlefsen wünschte
+                        vorab ein Verzeichnis, welches er im August 1916 erhielt mit dem Bemerken,
+                        nach Rücksprache mit Baronin von Dchroetter würde es genügen, wenn der
+                        Provinzialkonservator einen geeigneten Sachverständigen empfehlen würde.
+                        APO, Bestand 506, Bl. 20-21, 23-24, dasVerzeichnis ebd., S. 26-28.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 367, Nr. 506, Bl. 26-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date when="1916-08-28" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Verzeichnis der beschädigten Gegenstände im Schloss</p>
+            <p>
+               <hi rendition="#u">1. Fliesensaal</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1 Wandgemälde</item>
+                  <item>1 Spiegel</item>
+                  <item>1 Kamin</item>
+                  <item>1 kleiner Schrank</item>
+                  <item>1 Sofa</item>
+                  <item>1 Chaiselounge</item>
+                  <item>4 Tische</item>
+                  <item>1 Rohrchaiselounge</item>
+                  <item>5 kleine Tische</item>
+                  <item>4 Handtuchhalter</item>
+                  <item>11 Sessel</item>
+                  <item>23 Polsterstühle</item>
+                  <item>46 Rohrstühle</item>
+                  <item>6 kleine Tische</item>
+                  <item>6 Stühle</item>
+                  <item>1 gr. Tisch</item>
+                  <item>1 runder Tisch</item>
+                  <item>1 kleiner Sessel</item>
+                  <item>5 Holzstühle</item>
+                  <item>2 Eisenstühle</item>
+                  <item>1 Spiegel</item>
+                  <item>1 Nachttisch</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">2. Bohnerstube</hi>
+            </p>
+            <p>
+               <list>
+                  <item>2 Sofas</item>
+                  <item>1 Marmortisch</item>
+                  <item>2 Sessel</item>
+                  <item>1 Schrank</item>
+                  <item>1 Wappenschrank</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">3. Kabinett a. d. Bohnerstube</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1 Spiegel</item>
+                  <item>1 Matratze</item>
+                  <item>1 Sofa</item>
+                  <item>5 Polsterstühle</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">4. Alte Bibliothek</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1 Sessel</item>
+                  <item>1 Polsterstuhl</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">5. Plättstube</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1 Büffett</item>
+                  <item>1 Truhe</item>
+                  <item>1 Harmonium</item>
+                  <item>1 Kommode</item>
+                  <item>1 Schrank</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">6. Flur unten</hi>
+               <list>
+                  <item>2 Schränke</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">7. Lila Stube</hi>
+               <list>
+                  <item>1 Sofa</item>
+                  <item>1 Schreibtisch</item>
+                  <item>1 Bettschirm</item>
+                  <item>1 Sessel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">8. Gartenstube</hi>
+               <list>
+                  <item>1 Schrank</item>
+                  <item>1 Sofa</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">9. Graue Stube</hi>
+               <list>
+                  <item>19 Unterlagen-Matratzen</item>
+                  <item>1 Rohrstuhl</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">10. Aussicht</hi>
+               <list>
+                  <item>1 Antrazitofen</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">11. Esszimmer</hi>
+               <list>
+                  <item>1 Eckschrank</item>
+                  <item>2 Sessel</item>
+                  <item>2 Tische</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">12. Dachstuben</hi>
+               <list>
+                  <item>1 Bett</item>
+                  <item>1Nachttische</item>
+                  <item>2 Sessel</item>
+                  <item>1 Bettschirm</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">13. Kinderstube</hi>
+               <list>
+                  <item>1 Chaiselounge</item>
+                  <item>1 Bettschirm</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">14. Komtessenstube</hi>
+               <list>
+                  <item>1 Sofa</item>
+                  <item>1 Sessel</item>
+                  <item>1 Schrank</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">15. Schlafstube</hi>
+               <list>
+                  <item>1 Sessel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">16. Blumenstube</hi>
+               <list>
+                  <item>1 Sofa</item>
+                  <item>1 Chaiselounge</item>
+                  <item>1 Sessel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">17. Simsonstube</hi>
+               <list>
+                  <item>5 Sessel</item>
+                  <item>2 Chaiselounge</item>
+                  <item>1 Sofa</item>
+                  <item>1 kl. Tisch</item>
+                  <item>1 gr. Tisch</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">18. Japanische Stube</hi>
+               <list>
+                  <item>1 Fußbank</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">19. Zimmer des alten Herrn Grafen</hi>
+               <list>
+                  <item>1 Kamin</item>
+                  <item>1 Chaiselounge</item>
+                  <item>2 Puffs</item>
+                  <item>1 Sessel</item>
+                  <item>1 Sofa</item>
+                  <item>1 Sofakissen</item>
+                  <item>1 Spiegel</item>
+                  <item>1 Bücheretage</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">20. Billardstube</hi>
+               <list>
+                  <item>2 Sofa</item>
+                  <item>2 Sessel</item>
+                  <item>1 Ofen</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">21. Orgelstube</hi>
+               <list>
+                  <item>2 Sofa</item>
+                  <item>2 Sessel</item>
+                  <item>1 Marmoraufsatz</item>
+                  <item>1 Rohrstuhl</item>
+                  <item>1 Orgel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">22. Dönhoff-Stube</hi>
+               <list>
+                  <item>1 Sofa</item>
+                  <item>1 Chaiselounge</item>
+                  <item>2 Sessel</item>
+                  <item>1 Ofen</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">23. Blaue Stube</hi>
+               <list>
+                  <item>1 Chaiselounge</item>
+                  <item>1 Sessel</item>
+                  <item>1 Ofen</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">24. Badestube</hi>
+               <list>
+                  <item>1 Badeofen</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">25. Grüne Stube</hi>
+               <list>
+                  <item>1 Chaiselounge</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">26. Kardinal-Stube</hi>
+               <list>
+                  <item>1 Chaiselounge</item>
+                  <item>1 Sofa</item>
+                  <item>2 Sessel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">27. Turmstube</hi>
+               <list>
+                  <item>1 Sofa</item>
+                  <item>2 Sessel</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">28. Mädchenzimmer</hi>
+               <list>
+                  <item>1 Kommode</item>
+                  <item>1 Sofa</item>
+                  <item>1 Tisch</item>
+                  <item>1 Sofa</item>
+                  <item>1 Tisch</item>
+                  <item>1 Kommode</item>
+                  <item>1 Rohrstuhl</item>
+                  <item>1 Bettschirm</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">29. Vorratskammer</hi>
+               <list>
+                  <item>3 Holzstühle</item>
+                  <item>2 Polsterstühle</item>
+               </list>
+            </p>
+            <p>
+               <hi rendition="#u">30. Küche</hi>
+               <list>
+                  <item>1 Marmorplatte</item>
+                  <item>1 Messerputzmaschine</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

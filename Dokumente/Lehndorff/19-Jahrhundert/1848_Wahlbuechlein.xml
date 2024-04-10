@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_yds_yp2_5bb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Das wohlgemeinte Wahlbüchlein. Eine Ansprache an die Urwähler und Wahlmänner
+                    vom Lande, verfasst von [Heinrich] Köster, am Jahresende 1848</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Politische Kontakte</p>
+            </note>
+            <note type="editorial">Gedruckt bei R. Decker in Berlin. - Siehe auch den „Brief an
+                    Herrn F. Harkort, Herrn Köster und Konsorten, als Antwort auf ihre mir
+                    zugegangenen Briefe und Flugblätter‟, erschienen in der <ref target="http://www.deutschestextarchiv.de/nrhz/?d=nn_nrhz211b_1849.txt.xml">Neuen Rheinischen Zeitung</ref>. Nach Schultze, Lebensbild, hatten alle
+                    Gutsleute Lehndorff ihre Stimme gegeben. <quote>Damals, im 'tollen Jahr'
+                        beunruhigte man sich in Steinort nur um das eine, dass man etwa den Grafen
+                        gegen Angriffe, die von außen kommen sollten, schützen müsse.</quote>
+                    Lehndorff habe zu den <quote>volkstümlichen Persönlichkeiten des Landes</quote>
+                    gehört, ebd., S. 664. - Zu den ostpreußischen Abgeordneten in der Frankfurter
+                    Nationalversammlung:  Rosenberg, Bernhard-Maria, Die ostpreußischen Abgeordneten in Frankfurt 1848/49. Biographische Beiträge zur Geschichte des politischen Lebens in Ostpreussen, Berlin/Köln 1970.</note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="print">
+               <msIdentifier>
+                  <institution>StA L</institution>
+                  <idno>Bestand 21950 Familienarchiv Lehndorff, Nr. 455, Bl. 1 ff. (32 Blatt)</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_whb_1nm_wcb">Köster, Heinrich (-)</persName>
+            <date notBefore="1848-10-01" notAfter="1848-12-31" cert="low"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Es ist wohl schon zu Eurer Wissenschaft gekommen, liebe Freunde und
+                Landesgenossen, dass unser <persName key="ed_bg5_tsf_4y">König</persName> mit
+                derjenigen Seite der Berliner Nationalversammlung, welche sich selbst die linke
+                genannt hat, weil sie überall nirgend auf dem rechten Wege bleiben mochte, keine
+                vernünftige Verfassung vereinbaren konnte, und deswegen, gegen seine anfängliche
+                Meinung und nur durch seine väterliche Fürsorge um das Wohl des Ihm von Gott
+                anvertrauten Preußenlandes dazu gezwungen, uns eine vorläufige Verfassung gegeben
+                hat. Er hat in derselben aber nicht allein seine früher gewährten Verheißungen
+                erfüllt, sondern sie auch noch um eine Menge der größesten Volksrechte und edelsten
+                Freiheiten vermehrt, und uns nach dem Urteil der freisinnigsten Männer Gerechtsame
+                verliehen, wie solche kaum ein anderes Volk der Welt besitzt.</p>
+            <p>In Folge dieser Verfassung sollt Ihr nun am 22. Januar 1849 wieder zu Urwahlen
+                    zusammentreten, und zwar gerade in derselben Weise, wie solche im vergangenen
+                    Mai geschehen ist. Damit Ihr Euch aber bei dieser Gelegenheit nicht von neuem
+                    durch die sogenannten Volksfreunde betrügen und hinters Licht führen lasst,
+                    richte ich als ein mit den ländlichen Verhältnissen unseres Vaterlandes
+                    wohlbekannter Mann diese Ansprache an Euch und hoffe, ein gutes Wort werde auch
+                    heute noch eine gute Stätte bei Euch finden.</p>
+            <p>Da wende ich mich natürlich zuerst an Euch, Ihr Urwähler! - Die ganze Summa des
+                Rates, den ich Euch zu geben vermag, lässt sich in wenigen Worten
+                zusammenfassen:</p>
+            <p>Gebt keinen Einflüsterungen Gehör, sondern folgt beim Aussuchen der Wahlmänner
+                allein dem gesunden Menschenverstand und der Stimme des Gewissens.</p>
+            <p>
+               <gap reason="insignificant"/>
+            </p>
+            <p>Glaubt ja nicht, dass irgend eine Staatsverfassung in der Welt an und für sich
+                selbst schon im Stande sei, die Menschheit frei und glücklich zu machen; der beste
+                Ackergrund und die reinste Saat allein geben noch keine Gewähr für eine gute Ernte.
+                Der Boden will auch fleißig bestellt sein; dazu sind gewissenhafte und treue
+                Arbeiter von Nöten; und wie ihr keine Herde von Schweinen aufs Feld schickt, die
+                sich freilich auch gut aufs Wühlen verstehen um den Boden zu lockern und für die
+                Aufnahme der Saat empfänglich zu machen, ebenso wenig sendet jene Maulwürfe in die
+                neuen Kammern, welche nichts können und wollen, als aus Eurem Herzen die Wurzeln
+                herausfressen, mit denen ihr an Gott, an König und Vaterland hängt! Sucht Euch
+                Männer aus, von denen Ihr vor Gott und vor Eurem Gewissen die Überzeugung habt, dass
+                ihr Herz warm und hingebend für das Ziel unseres Vaterlandes schlägt, und dass sie
+                auch die Fähigkeit und die Kenntnisse besitzen, am Neubau unseres Staatenlebens
+                wirksam mitzuarbeiten. Habt Ihr solche Männer erwählt, so mögt Ihr auch getrost auf
+                Gottes Segen hoffen; er wird Euch am Tage der Ernte nicht fehlen, sondern nach der
+                Verheißung über König und Volk, über Kind und Kindeskind kommen!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

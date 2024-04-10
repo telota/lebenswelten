@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_zbz_b3w_wsb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Seelentabelle von den Steinortschen Gütern. Steinort, September 1828</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Inventare</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsherr und Untertan</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 382 Familienarchiv Lehndorff, Nr. 565, Bl. 2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+            <date from="1828-09-01" to="1828-09-30" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/15941709"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Seelentabelle von den Reichsgräflich Steinortschen Gütern im September 1828</p>
+            <p>
+               <table rows="17" cols="8">
+                  <row role="label">
+                     <cell>Namen der Ortschaften</cell>
+                     <cell cols="6">Anzahl der darinnen befindlichen Seelen</cell>
+                     <cell>Zahl aller Personen</cell>
+                  </row>
+                  <row role="label">
+                     <cell/>
+                     <cell cols="2">Kinder bis zum 14. Jahre</cell>
+                     <cell cols="2">Personen von 50 bis 60 Jahre</cell>
+                     <cell cols="2">Alter über 60 Jahre</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell>männlich</cell>
+                     <cell>weiblich</cell>
+                     <cell>männlich</cell>
+                     <cell>weiblich</cell>
+                     <cell>männlich</cell>
+                     <cell>weiblich</cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                     </cell>
+                     <cell>36</cell>
+                     <cell>42</cell>
+                     <cell>68</cell>
+                     <cell>74</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>235</cell>
+                  </row>
+                  <row>
+                     <cell>Mühle</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_x4d_jc2_gy">Amalienruh</placeName>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Werder <placeName key="ed_h1w_jc2_gy">Upalten</placeName>
+                     </cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Werder <placeName key="ed_mxw_c1k_gy">Sdorkowen</placeName>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Werder <placeName key="ed_hcn_kc2_gy">Wittfong</placeName>
+                     </cell>
+                     <cell/>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell/>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_hyn_yzd_gy">Klein Steinort</placeName>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>20</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xnn_d12_gy">Kittlitz</placeName>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                     <cell>13</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell/>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xpm_112_gy">Labab</placeName>
+                     </cell>
+                     <cell>26</cell>
+                     <cell>25</cell>
+                     <cell>32</cell>
+                     <cell>35</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>126</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xzt_112_gy">Stawisken</placeName>
+                     </cell>
+                     <cell>35</cell>
+                     <cell>36</cell>
+                     <cell>40</cell>
+                     <cell>43</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>159</cell>
+                  </row>
+                  <row>
+                     <cell>Ziegelei</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell/>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_s3k_b12_gy">Taberlack</placeName>
+                     </cell>
+                     <cell>64</cell>
+                     <cell>57</cell>
+                     <cell>67</cell>
+                     <cell>69</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>271</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_hrb_hc2_gy">Serwillen</placeName>
+                     </cell>
+                     <cell>28</cell>
+                     <cell>36</cell>
+                     <cell>36</cell>
+                     <cell>30</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>136</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName>
+                     </cell>
+                     <cell>29</cell>
+                     <cell>33</cell>
+                     <cell>56</cell>
+                     <cell>57</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>192</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_nkz_b12_gy">Stawken</placeName>
+                     </cell>
+                     <cell>35</cell>
+                     <cell>36</cell>
+                     <cell>40</cell>
+                     <cell>43</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>159</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>
+                     </cell>
+                     <cell>51</cell>
+                     <cell>57</cell>
+                     <cell>58</cell>
+                     <cell>65</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>237</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>337</cell>
+                     <cell>361</cell>
+                     <cell>444</cell>
+                     <cell>465</cell>
+                     <cell>36</cell>
+                     <cell>46</cell>
+                     <cell>1.689</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Auf Befehl des Gutsherrn pp aufgenommen. <persName key="ed_chd_kdq_1fb">Rosentreter</persName>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_ux4_xdc_nxb" type="adlige-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Gerhard Leopold Graf von Lehndorff an Ernst Ahasverus Heinrich Graf von
+                    Lehndorff</title><title>. Maxkeim, 27. Februar 1791</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword"><p>Kategorie: Kulturbeziehungen</p></note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 918, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_byt_ptq_h1b">Lehndorff, Gerhard Leopold Melchior Graf von
+                        (Statzen 8.11.1735-Riesenwalde 14.9.1807)</persName>
+                    <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName>
+                    <date when="1791-02-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Maxkeim, 27. Februar 1791</dateline>
+					<salute>Hochwürdiger, Hochgeborener Herr, <lb/>Höchstzuverehrender Herr Graf!</salute>
+                </opener>
+				<p>Ew. Hochwürden werden gütigst erlauben, dass ich Hochdenenselben gegenwärtig einen von mir
+                    entworfenen Plan „Die künftige Carriere meines Sohns betreffend‟ ganz ergebenst
+                    vorlegen und mir Dero einsichtsvolle Beurteilung darüber aufs gehorsamste
+                    erbitten dürfte. <lb/>Wenn ich Ew. Hochwürden aufrichtige Meinung, „meinen Sohn
+                    nach Généve schicken zu sollen‟, zu befolgen Abstand nehme, so war die sichere
+                    Überzeugung, „dass er im Staats- und juristischen Fache schon so viel Kenntnisse
+                    wirklich erworben habe, um Généve und eine jede andere Universitäte gänzlich
+                    entbehren zu können‟, die einzige Ursache, welche Ew. Hochwürden aber nicht
+                    wissen konnten, weil er zu wenig von Deroselben gekannt zu sein die Ehre hat.
+                    <lb/>Eine kurze Frist von wenigen Monaten wird alles außer Zweifel setzen, und
+                    hoffe ich alsdann, dass Hochdieselben meine Absicht mit Dero Beifall zu beehren
+                    geruhen werden. <lb/>In künftigem Michaeli hören alle seine Studien völlig auf,
+                    und wird er sich nur bis Ostern 1792 in der Französischen, Englischen und
+                    Italienischen Sprache zu perfektionieren suchen. Das aber, was ihm noch fehlt,
+                    ist <lb/>1. Welt- und Menschen-Kenntnis, welche er nicht anders als durch eine
+                    Reihe von Jahren und viele Erfahrung erlangen kann.<lb/>2. Das feine savoir
+                    vivre, welches zu erlernen er in <placeName key="ed_xrv_gwb_by">Berlin</placeName> die beste Gelegenheit haben wird. <lb/>Es behaupten zwar
+                    einige, er sei melancholisch, hinfolglich auch misantrope-hypochondrisch und
+                    timide pp. Ich aber, da ich ihn von Jugend auf am besten kenne, versichere bei
+                    Ehre ganz das Gegenteil von diesem allem. Er ist eigentlich
+                    sanguinisch-colerischen Temperaments und gab durch seine besondere Emsigkeit,
+                    Fleiß und außerordentliche Liebe zu den Studien, woraus die Ambition erwuchs,
+                    durch Kentnnisse gründlicher Wissenschaften dereinst einen hohen Posten zu
+                    bekleiden und der Familie vorzügliche Ehre zu machen, den Anlass zu dieser
+                    irigen Meinung <lb/>Ew. Hochwürden geruhten mir unterm 2. Januar c. zu
+                    versichern, dass durch Dero liebreiche Vermittlung er bald zum Legations-Rat
+                    avancieren werde. So sehr ich auch diesen neuen Beweis Dero hohen Wohlwollens
+                    aufs Höchste schätze und mit größtem Dank dafür verbunden bleibe, ebenso sehr
+                    würde ich wünschen, dass er mit dieser Charge nicht eher als zwischen dem 15.
+                    Juli und dem 1. Oktober dieses Jahres bekleidet, und ihm dadurch vergönnt werde,
+                    noch vor seinem Avancement nicht nur Sr. Exzellenz dem Minister Gr. <persName key="ed_xfm_jcy_m2b">v. Hertzberg</persName> allein, sondern auch alle
+                    klugen Leute und alle Universitäten in ganz Europa von seinen Fähigkeiten aufs
+                    unbezweifelte zu überzeugen, zugleich aber auch die Neider meiner Familie und
+                    jeden anderen zu detrompiren, dass sein künftiges Avancement nicht durch
+                    intercession von Gönnern und Freunden, nicht durch bloße Königliche Gnade oder
+                    irgend ein anderes Ohngefähr, sondern lediglich durch eigenen Fleiß und
+                    Anstrengung und durch wirkliche Verdienste (welche gnädige Monarchen gern zu
+                    belohnen pflegen) entstanden sei. - Hieraus aber ist nicht zu schließe, dass er
+                    als Autor von neuem auftreten werde! Nein! er wird gewiss keine Bücher mehr
+                    schreiben. <lb/>Ferner wünsche ich, dass ihm sodann erlaubt werde, bis zum
+                    Mai-Monat des künftigen Jahres in Preußen bleiben und im Junio darauf das
+                    Geschäft als Legations-Rat in <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+                    antreten zu dürfen. Denn aus erheblichen Ursachen liegt mir sehr daran, dass er
+                    in Preußen sein 21. Jahr und mit demselben seine Minorennität zurücklegt, und
+                    ich sodann in Absicht seines künftigen Vermögens en faveur seiner das
+                    erforderliche gerichtlich festsetzen und ihm die einträglichen Bandelschen Güter
+                    (woraus dann auch nach genauerer Beprüfung ein Familien-Majorat gestiftet werden
+                    kann) eigentümlich und schuldenfrei übergeben und auf meinen etwaigen Todesfall
+                    auch das Gut <placeName key="ed_bdw_bnm_cbb">Maxkeim</placeName> zu seinem
+                    alleinigen Eigentum verschreiben lassen kann. <lb/>Ermüden Sie nur nicht, mein
+                    verehrungswürdigster Herr Vetter, so ich ganz gehorsamst bitten darf, im Lesen
+                    dieses langen Briefes, welcher des wichtigen Inhalts wegen nicht kürzer
+                    abzufassen war, und erlauben mir gütigst, dass ich aus wohlgegründetem Vertrauen
+                    alle meine Wünsche und Entwürfe Ew. Hochwürden jetzo mit aller Offenheit
+                    entdecken dürfe. <lb/>Ehedem war meine Absicht, dass mein Sohn zunächst als
+                    Legations-Rat, in der Folge aber und nach dessen besonderen Fähigkeiten als
+                    Wirklicher Gesandter dem Staate dienen sollte. Bei reiferer Erwägung aber finde
+                    ich aus nachstehenden Ursachen, dass ein solcher Posten ihm nicht convenable,
+                    sondern vielmehr wohl gar schädlich werden könne. <lb/>1. Weil zu dieser
+                    ehrenvollen Dualität bei auswärtigen Höfen ein großer Aufwand, der mit 6000.
+                    Rtlr. jährlichem Gehalt nicht füglich bestritten werden kann, erfordert, und
+                    eine größere Summe dazu von unserem Hofe nicht accordiert wird. <lb/>2. Weil er,
+                    als ein junger Mensch, der mit dem Gelde vermutlich nicht gehörig umzugehen
+                    wissen mag, durch gewisse Triebfedern, z. B. durch unzeitige Ambition, durch
+                    Beispiele anderer Pracht und Verschwendung liebender Personen, bei seiner
+                    angebohrenen Gutherzigkeit zur Rechnung ohne Wirte und zu großen Depensen
+                    verleitet würde, in tiefe Schulden und zuletzt in großen Embarras geraten
+                    könnte, wie wir beide dergleichen Exempel schon erlebt haben. <lb/>3. Würde es
+                    ihm sehr nachteilig sein, wenn ich zu eben der Zeit, da er außerhalb denen
+                    Königlichen Preußischen Landen in der weiten Welt wäre, mit Tode abgehen sollte.
+                    <lb/>Um ihn nun für alle dergleichen traurige Begebenheiten und mögliche
+                    Desastres gänzlich sicher zu stellen, so bin ich von meinem ersten Projekte
+                    völlig abgegangen, und wünsche daher sehnlichst, dass er seine Laufbahn in
+                    folgender Art antrete und vollende, nämlich 1. Dass er vom Junio 1791 ab unter
+                    Aufsicht Sr. Exzellenz des Ministers Gr. v. Hertzberg als Legations-Rat so lange
+                    arbeite, bis seine Geschicklichkeit im Staats-Fache und dessen solides Betragen
+                    in ganz Berlin allgemein bekannt geworden, und er dadurch die Gnade des Königs ,
+                    den Beifall des ganzen Königlichen Hauses und die Zuneigung sämtlicher hoher
+                    Standespersonen sich völlig zugeeignet habe, als woran ich keinen Zweifel habe.
+                    2. Dass er innerhalb 5 Jahren mit einer tugendhaften und artigen Person seines
+                    Standes, welche durchaus in keiner öffentlichen Pension, sondern nur allein von
+                    einer klugen, würdigen und liebreichen Mutter erzogen worden, unter Hochdero
+                    gracieusen Vermittlung mit vollkommenster Übereinstimmung und lautem Beifall der
+                    ganzen Familie sich verheiratet. Endlich aber <lb/>3. durch vorgedachte Vorteile
+                    dereinst bei entstehender Vakanz in dem Königsbergschen Etats-Ministerio zum
+                    Wirklichen Etats- und Kriegs-Minister sich hinaufschwingen und zur Ehre einer so
+                    venerablen Familie das seinige auch beitrage. <lb/>Dieser Wunsch und Entwurf
+                    könnte umso weniger übetrieben und zu hoch gespannt scheinen, weil nach denen
+                    alten Preußischen Statuten, welchen bis jetzt immer greulich nachgelebt worden,
+                    eine solche hohe Ehren-Stelle a. nur immer geborene Preußen erhalten adelichen
+                    Geschlechts, b. einem fähigen und geschickten Subjekt von bekannt guter Conduite
+                    zuteil weren soll, c. kommt es nur darauf an, dass mein Sohn von Sr. Majestät
+                    dem Könige genau erkannt, von Lieblingen dessen, Gönnern oder Freunden, unter
+                    welchen Ew. Hochwürden à la tête stehen, Sr. Majestät bestens empfohlen und
+                    gleich dem Grafen v. Doenhoff aus Friedrichstein (welcher bekanntlich bei der
+                    Huldigung ad interim, nach Knoblochs Tode aber zum aktuellen Minister ernannt
+                    wurde, begnadigt werde,<lb/>Ob dieser Plan Dero Beifall verdiene? oder ob
+                    dawieder mit Gründen sehr vieles eingewendet werden könne? werden Ew. Hochwürden
+                    mit der Ihnen eigenen und angeborenen Aufrichtigkeit mir gnädigst anzuzeigen
+                    geruhen, als warum ich hiermit ganz gehorsamst bitte. <lb/>Mein Sohn
+                    benachrichtigte mich von Ew. Hochwürden gracieusem Anerbieten, „ein neues, nach
+                    Maßgabe der Bulle erforderliches Wappen für mich gütigst stechen lassen zu
+                    wollen‟. Ich nehme dieses Merkmal Dero besonderer Gewogenheit mit größtem Danke
+                    ganz gehorsamst an, und bitte inständigst, entweder ein ganz in Gold gestochenes
+                    oder in echtem Stein, z. B. in Cristal de roche oder Tobas oder in Ermangelung
+                    dieser beiden in Carniol sauber geschnittenes à la moderne in Gold dergestalt
+                    gefasstes Petschaft (dass der Stein nie verloren gehen könne), jedoch um etwas
+                    größer als mein jetzige ist, für meine Rechnung hochgeneigtest anfertigen zu
+                    lassen. <lb/>Warum ich ein dergleich schönes und goldenes Petschaft gerne hätte,
+                    ist die Ursache, weil ich selbiges jederzeit an der Uhrkette zu tragen pflege,
+                    und auch mein seitheriges ein wirklich schön in Tobas geschnittenes, in Gold
+                    gefasstes Wappen ist. <lb/>Zugleich ersuche Ew. Hochgeboren untertänigst, eine
+                    modern gearbeitete goldene Uhrkette für mich gefälligst zu choisiren, und mir
+                    den Preis sowohl von eben erwähnter Kette, als auch die Kosten für das Petschaft
+                    überhaupt gütigst anzuzeigen, damit ich das Geld für beide zusammen sogleich mit
+                    der Post einsenden könne. <lb/>Dero Frau Gemahlin Gnaden versichere ich meine
+                    größte Verehrung, Dero liebenswürdigen Familie die vollkommenste Hochschätzung
+                    und beharre mit vielem Respekt bis an mein Lebensende</p>
+				<closer>
+					<salute>Ew. Hochwürden und Hochgeboren ganz gehorsamster treu ergebenster Diener</salute>
+					<signed>Lehndorff</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

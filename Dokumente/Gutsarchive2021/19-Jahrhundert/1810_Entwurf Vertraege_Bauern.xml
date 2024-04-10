@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_kgf_tll_4qb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Entwurf des Grafen von Lehndorff für Verträge mit Bauern. Steinort, 1810</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Pacht- und Arbeitsverträge</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="editorial">
+               <p>Die Akte ist überschrieben: Verhältnisse der Bauern und Instleute in den
+                  Steinortschen Gütern und Ideen zu deren Verbesserung. Entwurf des Grafen Carl
+                  Ludwig Christian v. Lehndorff (1710-1854).</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="concept">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 327, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1810-01-01" notAfter="1810-12-31" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_kgf_tll_4qb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Dem Bauern N. N. wird das Bauern-Erbe, unter der Haus-Nummer pp. im Dorfe N. N.
+                    belegen, in vorstehender Art übergeben, als</p>
+            <p>1. An Land und Gebäuden</p>
+            <p>Zwei Huben Land incl. denen zum Erbe gehörigen Gärtchen und Wiesen, wie auch
+                    Hofstelle. <lb/>Ein Wohnhaus in möglichem Stande und eine Scheune fast neu. Im
+                    Wohnhause ist in einem Giebelfelde ein Pferdestall und über demselben ein
+                    Scheunenbehältnis. <lb/>In der Scheune ist an dem einen Ende ein Vieh- und
+                    Schweinestall. <lb/>Sowohl bei Neubauten als Reparaturen dieser Gebäude gibt die
+                    Grundherrschaft sämtl. Materialien und zahlt auch die Handwerker, der Bauer
+                    hingegen leistet hierzu in Gemeinschaft der übrigen Dorfbauern die Hand- und
+                    Spanndienste, außer diesen muss er jährlich auf diesen Gebäuden einen <seg type="comment">
+                  <orig>Baumgang</orig>
+                  <note xml:id="nkdk_qt2_yqb">
+                     <ref target="https://fwb-online.de/lemma/baumgang.s.0m">Abteilung des
+                                Stroh- oder Rohrdaches in der Breite von drei Sparren, Streifen vom
+                                First bis zur Traufe.</ref>
+                  </note>
+               </seg> neu decken, auch die sonst
+                    vorfallenden kleinen Reparaturen allein verrichten. </p>
+            <p>2. An Inventarienstücken</p>
+            <p>Erhält Bauer N. N. <lb/>4 Stück Pferde <lb/>2 Stück Ochsen <lb/>1 Kuh <lb/>und hat
+               die Herrschaft bis jetzt die Verpflichtung gehabt, oft durch Nachlässigkeit der
+               Bauern ruinierte oder vernichtete lebende Inventarien im Rahmen zu ersetzen <lb/>2
+                  große<seg type="comment">
+                  <orig> Puff-Wagen</orig>
+                  <note xml:id="ndwr_g52_yqb">Starker Wagen mit niedrigen Rädern, um schwere Lasten
+                     auf kurze Entfernungen fortzubringen.</note>
+               </seg> nebst Ernte- und Reisekutsche, auch allerhand sonstigem Zubehör<lb break="no"/>2 Stück Egden mit eisernen Zinken und Haken <lb/>1 komplette <seg type="comment">
+                  <orig>Zoche</orig>
+                  <note xml:id="nrst_452_yqb">
+                     <ref target="https://de.wikipedia.org/wiki/Zoche_(Pflug)">Holzpflug</ref>
+                  </note>
+               </seg> mit Podiem-Eisen und allem Zubehör<lb/>2 Stück ordinaire Holzschlitten<lb/>1
+                  <seg type="comment">
+                  <orig>Hexel</orig>
+                  <note xml:id="nzyp_552_yqb">Häcksel</note>
+               </seg>lade mit Messer und Wing<lb/>2 Holzaxten<lb/>2 Sensen <lb/>1 Mistforke <lb/>1
+                  Sch<gap reason="illegible"/>forke <lb/>1 Quirdel <lb/>1 Wirkstelle nebst
+               Spulnocken<lb/>1 Spinnocken<lb/>1 Sattel mit einem Steigbügel <lb/>1 Spaten<lb/>3
+               Zäume und Zugleine <lb/>2 <unclear reason="illegible" cert="low">Branden</unclear>
+               nebst Siehlen <lb/>Diese Inventarienstücke werden ihm bei seinem Anzuge nach der hier
+               üblichen Wirtschaftstaxe übergeben. <lb/>Ferner erhält er an Aussaat <lb/>16 Schfl.
+               Korn <lb/> 4 Schfl. Erbsen<lb/> 2 Schfl. Gerste<lb/>8 Schfl. Haber <lb/>6 Schfl.
+               Kartoffeln</p>
+            <p>3. Freie Weide</p>
+            <p>Erhält er in denen Wäldern, wo die Grundherrschaft zum Hüten des Viehs die Erlaubnis
+               erteilt und kein Gehege abstecken lässt, außer diesem hat er nur die Weide auf der
+               Brache des Dorfes und Feldes. <lb/>Sodann hält die Grundherrschaft für die ganze
+               Dorfschaft einen <seg type="comment"><orig>Bollen</orig><note xml:id="nqj3_dqj_wxb">Ochsen</note></seg> zu ihren Kühen, wofür ein jeder Wirt auf einen Tag einen
+               Mann zum Grashauen schicken muss.</p>
+            <p>4. An Holz</p>
+            <p>Erhält er jährlich 4 Fuder Brennholz im Winter, welches er nach einem vom Hofe zu
+               erteilenden Anschlag-Zettel jedesmal aus dem Revier, wo er angewiesen wird, holen
+               muss, außer diesem beim Schlagen des Achtels und Bauholzes für die Grundherrschaft
+               die davon abgehauenen Äste und Wippel, sodann Sprock und Stobben und Strauch ohne
+               Anschlag-Zettel aus den Stobbenschen und anderen Gesträuchen und Feldbrüchern
+               außerhalb den Waldungen. <lb/>An jährlichem Scharrholz erhält er <lb/>zu 24 Stück
+                  <unclear reason="illegible" cert="low">Fällern</unclear>
+               <lb/>zu 48 Stück Speichen<lb/>zu 4 Stück Naben-Holz <lb/>zur Mist- und Axt-<gap reason="illegible"/> 4 Stück Tannen<gap reason="illegible"/>
+               <lb/>zu 4 Stück Liss-Stöcke <lb/>zu 8 Stück <gap reason="illegible"/>
+               <lb/>zur Unterhaltung der zwei Besatz-Wagen <lb/>ferner Holz zu 2 Stück <gap reason="illegible"/>
+               <lb/>4 Stück Erdbalken <lb/>15 Stück Sch<gap reason="illegible"/> im August <gap reason="illegible"/>
+               <lb/>sodann alle zwei Jahre Holz zu einem Zochbaum <lb/>1 Paar Schlitt-Kappen<lb/>2
+               Stück Holstern, und dann noch das nötige Brücken-, Krippen- und <gap reason="illegible"/>-Holz<lb/>wie auch zu einer Tränke-Krippe, welches nach
+               vorheriger Untersuchung ihm verabfolgt wird.</p>
+            <p>Für dieses vorbenannte leistet Bauer N. N. nachstehende Abgaben und hat noch folgende
+               Verpflichtungen, als</p>
+            <p>1. An baren Gefällen</p>
+            <p>a. die königl. ordinäre Kontribution mit 5 Rtlr. 46 Gr. jährlich <lb/>b. die
+               Invaliden- und Fortifikations-Bau-Gelder, die nicht genau zu bestimmen sind, doch
+               aber ohngefähr bis 60 Gr. betragen <lb/>c. die Geistlichen- und Kirchen-Abgaben, die
+               sich nicht genau bestimmen lassen <lb/>d. die Kriegs-Steuer nach den Pensions-Sätzen
+               mit 1 Rtlr. 54 Gr. im Fall <lb/>e. den gewöhnlichen Zins an die Grundherrschaft an
+                  <seg type="comment"><orig>Martini</orig><note xml:id="nugp_gqj_wxb">11.
+                     November</note></seg> jeden Jahres mit 11 Rtlr. 23 Gr.</p>
+            <p>2. An Plan- und Scharwerk</p>
+            <p>a. Muss Bauer in jedem Felde einen Morgen von 6 Schfl. Aussaat zweifuhrig bestellen,
+               auch das darauf erbaute Getreide für die Grundherrschaft einernten. <lb/>b. Den beim
+               Vorwerk befindlichen Dünger nebst den übrigen Wirten gemeinschaftlich ausfahren.</p>
+            <p>3. An gewöhnlichen Hof-Diensten durch Knecht und Magd</p>
+            <p>a. Muss Bauer durchs ganze Jahr wöchentlich zwei Tage zu Scharwerk eine Magd zu
+                    jeder Arbeit und dahin, wo sie vom Hofe bestellt wird, schicken. <lb/>b. Muss er
+                    allen auf dem Vorwerk, wo er zu Scharwerk geht, erbauten Flachs mit den übrigen
+                    Wirten gemeinschaftlich ziehen, brechen, schwingen wie auch gemeinschaftlich mit
+                    den übrigen Wirten in sämtlichen Gütern jährlich allen erforderlichen Flachs
+                    hier in <placeName key="ed_pxt_cnh_1y">Steinort</placeName> hecheln und überdem
+                    noch alle Jahr 2 Tage eine Magd zum Flachswenden schicken.</p>
+            <p>4. An extraordinären Scharwerkstagen und Spanndiensten</p>
+            <p>a. Muss er gemeinschaftlich mit den übrigen Wirten in sämtlichen Gütern alles hier
+               auf Steinortschen Grenzen befindliche Rohr hauen, binden und an Ort und Stelle
+               fahren. <lb/>b. Muss er alle Jahre einen Mann oder Knecht 2 Tage zum Roden dahin
+               schicken, wo es verlangt wird. <lb/>c. Muss er jährlich entweder 1 Stück schmale
+               flachsene oder 2 Stück schmale hedene Leinwand machen und bleichen, wozu er von
+                  <placeName key="ed_pxt_cnh_1y">Steinort</placeName> zu der ersteren 7 Stück Flachs
+               und zu der letzteren 24 Stück Flachs erhält, auch überdem noch zum Bleichen einige
+               Stück Leinwand erhält. <lb/>d. Ist er verbunden, alle Jahre sowohl im Frühjahr wie im
+               Herbst eine Magd 2 Tage zum Schafwaschen und 2 Tage zum Schafscheren auf das Vorwerk,
+               wo die Schäferei steht, zu schicken. <lb/>f. Muss er alle Jahr im Herbst 2 Tage
+               roden. <lb/>g. Alle Jahre 1 oder 1/2 Achtel Feldsteine <gap reason="illegible"/> und
+               anfahren. <lb/>h. Muss er alle Jahr 5 Tage Gras oder Getreide hauen und dasselbe
+               harken und einfahren. NB. Der 5. Tag ist für den Bollen.</p>
+            <p>5. An Fuhren</p>
+            <p>a. Leistet er alle Jahr zwei Königsbergsche Reisen und ladet jedesmal 13 Schfl.
+               Getreide, muss aber, wenn es verlangt wird, jedesmal eine Rückholung von Königsberg
+               mitnehmen.<lb/>b. Leistet er alle vorkommende militärische und Kriegs-, auch die
+               sogenannte Krüppel-Fuhren.<lb/>c. Sämtliche Fuhren zur Abholung des
+               Kirchen-Inspektors, wie auch der Prediger und sonstigen geistlichen Mitgliedern wie
+               auch Scholzenfuhren.<lb/>d. Die zu Abholung der von fremden Orten neu anziehenden
+               Hirten, Instleuten, Bauern, Kämmerer und anderer Personen.<lb/>e. Die Fourage-Fuhren
+               auch bei Friedenszeiten an den Ort, wo es vom Landrat des Kreises befohlen wird.</p>
+            <p>6. An Achtelholz und Bruchholz und überhaupt <seg type="comment"><orig>Burgdienste</orig><note xml:id="nkqp_pqj_wxb">Dienste zur Unterhaltung
+                     des Schlosses</note></seg></p>
+            <p>a. Muss er alle Jahre in hiesigen Wäldern das Achtel-Holz nach Anweisung und unter
+               Aufsicht der Forstbedienten schlagen und auf Erfordern in den Hof nach Steinort
+               anfahren.<lb/>b. Bei allen vorkommenden Bauten und Reparaturen sowohl bei Vorwerken
+               als Bauerngebäuden nicht nur alle dazu erforderlichen Materialien an Holz, Ziegel,
+               Steine, Sand und Lehm ohnentgeldlich anfahren, sondern auch bei Zimmerern, Maurern
+               und sonstigen Handwerkern alle erforderliche Handlanger gemeinschaftlich mit den
+               übrigen Wirten verstatten.<lb/>c. Leistet er auf Erfordern unter dem Namen der
+               Burgdienste ohnentgeldlich in den Hof nach Gr. Steinort alle Hand- und Spanndienste,
+               sie mögen Namen haben wie sie wollen.</p>
+            <p>7. An Material-Lieferungen</p>
+            <p>a. Liefert er jährlich von jeder Person von 13 bis 60 Jahren 8 Metz Roggen als
+               Metzgetreide, wofür er freies Mahlwerk in der hiesigen Windmühle hat, außer diesem 8
+               Metz sogenanntes Fischerkorn nach alter Usance. Diese Roggen-Lieferung muss in einem
+               Saat-Roggen bestehen und zur Saatzeit prompt geschehen.<lb/>b. Liefert er 1/2 Schfl.
+               Eicheln und 1/2 Schfl. Hopfen; in Ermangelung dieser Stücke zahlt er 30 Gr. Geld,
+               sodann 1 Stof <seg type="comment"><orig>Schwadegrütz</orig><note xml:id="nksc_xqj_wxb">Schwadengrütze, zur Bedeutung siehe <ref target="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_7_3_3164">hier</ref>.</note></seg> und einen Teller voll <seg type="comment"><orig>Hindbeeren</orig><note xml:id="ni2s_yqj_wxb">Himbeeren</note></seg>.<lb/>c. Liefert er die gewöhnliche Fourage-Lieferung, die
+               sich nicht genau bestimmen lässt, jedoch seit etlichen Jahren circa 1 Schfl. Roggen,
+               2 Schfl. Haber und 2 Bunde Heu à 12 Tlr. betrug. Für diese Fourage erhält er von der
+               Herrschaft <gap reason="illegible"/> als bloß die Königl. Vergütung.<lb/>d. Die
+               gewöhnliche Calende an Getreide und Flachs an die Geistlichen und Schullehrer, welche
+               sehr verschieden ist und sich nicht genau bestimmen lässt.</p>
+            <p>8. An sonstigen Abgaben und Verpflichtungen</p>
+            <p>a. Muss er gemeinschaftlich mit den übrigen Wirten des Dorfes alle in den Grenzen
+               belegenen Brücken und Zäune in gutem Stande erhalten, wozu er das Holz aus
+               Herrschaft. Wäldern erhält, und sich auch allen Befehlen des Dorf-Schulzen und des
+               Kämmerers unterwerfen und alle Dorfpflichten entrichten.<lb/>b. Alle vorfallenden
+               Einquartierungen übernehmen, und überhaupt alle Landesherrlichen Onera, sie mögen
+               Namen haben wie sie wollen, tragen.<lb/>c. Sämtliche Zäune in den Gütern des
+               Geistlichen und Schulmeisters sowohl reparieren als neu setzen, wozu er das nötige
+               Holz von der Herrschaft erhält.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" type="adlige-welt" xml:id="lehndorff_grm_hmf_ndb">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Tagebucheinträge von Ernst Ahasverus Heinrich Graf von Lehndorff. Berlin,
+                    27./28. April 1757</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2017" to="2019">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2017" to="2019">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2017" to="2019">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0002-6923-0950"><forename>Stefan</forename><surname>Dumont</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2017" to="2018">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2018">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2017" to="2018">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2018" to="2019">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2018" to="2019">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2018" to="2019">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2018" to="2019">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName><forename>Philipp</forename><surname>Linß</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2017" to="2019">Qualitätsicherung/Datenbearbeitung</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt></titleStmt><editionStmt><edition><title>Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2017-2019. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2017 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Kommunikationskreise/Netzwerke</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Beziehungen zum preußischen Hof</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <listWit>
+               <witness>
+                  <bibl type="print">Schmidt-Lötzen, Karl Eduard, Dreißig Jahre am Hof Friedrichs
+                            des Großen ... Nachträge, Bd. 1, Gotha 1910, S. 101</bibl>
+               </witness>
+            </listWit>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <persName key="ed_csb_mdf_cy">Lehndorff, Ernst Ahasverus Heinrich Graf von
+                        (Landkeim 7.5.1727-Steinort 19.5.1811)</persName>
+            <placeName key="ed_xrv_gwb_by">Berlin</placeName>
+            <date from="1757-04-27" to="1757-04-28" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text type="document">
+      <body>
+         <div>
+            <p>Ich gehe mit dem Grafen <persName key="ed_ctk_fcg_vdb">Podewils</persName>, Herrn
+                    <persName key="ed_rvz_1gq_rdb">von Klinggräffen</persName> und Herrn von
+                    <persName key="ed_kq5_2m2_2z">Knyphausen</persName> aufs Land. Da ist mir am
+                wohlsten, abseits vom Lärm des Hofes in einer soliden Gesellschaft, wo eine
+                vernünftige Unterhaltung die Zeit angenehm verstreichen lässt. Graf Podewils ist
+                nach dem Urteil aller der angenehmste und würdigste Mann der ganzen Gesellschaft.
+                Herrn von Klinggräffens Ansehen ist gegen früher etwas gesunken. Als Gesandter an
+                fast allen Höfen verband er mit viel angeborenem Geschick eine große Routine. Sein
+                letzter Aufenthalt in <placeName key="ed_ztb_bm1_my">Wien</placeName>, die Störung
+                in seinen Geschäften und besonders die unfreundliche Aufnahme bei seinem Herrn haben
+                das ihrige beigetragen, ihn zu verstimmen, und bei seinem Alter passt er nicht mehr
+                in jede Gesellschaft, aber im kleinen Kreise und unter Leuten, wo er sich keinen
+                Zwang aufzuerlegen braucht, ist seine Unterhaltung immer noch sehr lehrreich. Was
+                Knyphausen betrifft, so würde er noch mehr gefallen, als es tatsächlich schon der
+                Fall ist, wenn man uns von ihm nicht ein Bild entworfen hätte, das die
+                Vollkommenheit selbst noch übertrifft; wie können daher am Original nicht alles das
+                finden, was sein Ruf uns versprach. Er besitzt indessen viel Geist, und die, welche
+                ihn kennen, behaupten, er habe ein ausgezeichnetes Herz. Ich selbst finde ihn
+                angenehmer in ernster Unterhaltung als unter Frauen, wo er noch allzu sehr den
+                jungen Mann spielt. Allerdings trägt das weibliche Geschlecht hier selbst viel zu
+                dem vertraulichen Ton bei, den wir und besonders Ankömmlinge sich herausnehmen, denn
+                unsere Frauen machen unseren Fremden alle möglichen Avancen. Was ich noch fürchte
+                ist der Umstand, dass Knyphausen, durch die Auszeichnungen von Seiten des Königs
+                geblendet, nicht all die Vorsicht beobachten wird, die bei einem so aufgeklärten
+                Fürsten, der allem, was Laster, Lächerlichkeit und Leichtfertigkeit heißt, so abhold
+                ist, angezeigt erscheint. Bei einem Fürsten, der wie unser Herrscher ein so großer
+                Geist ist, muss man sich, wie ich glaube, große Zurückhaltung auferlegen, um jede
+                Gelegenheit zu vermeiden, die eigenen schwachen Seiten und besonders Leidenschaften
+                aufzudecken. Allein im Grunde kommt doch alles so, wie es uns von Ewigkeit her
+                vorausbestimmt ist, und menschliche Vorsicht wird so oft zu Schanden gemacht, dass
+                man ein Narr wäre, wenn man sich allzu sehr auf sie verlassen wollte.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

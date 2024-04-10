@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_svl_bqd_nxb" type="baeuerliche-welt">
+    <teiHeader>
+        <fileDesc><titleStmt><title>Die Abweichungen in der für die verschiedenen Dörfer ausgemittelten Rente
+                    wird beanstandet. Steinort, 8. August 1818</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+                <note type="keyword">
+                    <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+                </note>
+                <note type="editorial">
+                    <p>Siehe hierzu den Bericht des Landesökonomierats Krüger an das Ministerium für
+                        Landwirtschaft, Domänen und Forsten über die Arbeit der Kommission vom 2<ref target="lehndorff_rly_vzz_xz">8. Dezember 1820</ref>.</p>
+                </note>
+            </notesStmt><sourceDesc>
+                <msDesc rend="officialCopy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 608, n. f.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+                <date when="1818-08-08" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_svl_bqd_nxb"/>
+    </facsimile>
+    <text type="document">
+        <body>
+            <div>
+                <p>Erklärung der Stellvertreter der Gutsherrschaft in Steinort zu den
+                    Abschätzungs-Verhandlungen von einem Bauernhofe in <placeName key="ed_s3k_b12_gy">Taberlack</placeName></p>
+                <p>Die Stellvertreter haben gegen die durch die Kommission ausgemittelte Rente bei
+                    den Bauern in den Dörfern <placeName key="ed_ohv_kf2_gy">Pristanien</placeName>,
+                        <placeName key="ed_xjg_d12_gy">Stobben</placeName> und <placeName key="ed_xzt_112_gy">Stawisken</placeName>, ohngeachtet solche den Gutsherrn
+                    bei weitem nicht für die bisher von den Bauern genossenen Leistungen
+                    entschädigt, deshalb nichts eingewendet, weil die Stellvertreter die Tendenz
+                    ihres Nachgebens, alle gesetzlich vorgeschriebene Verfahrensweise zu <gap reason="illegible"/> und durch Widersprüche nicht die Beendigung der
+                    Auseinandersetzung aufzuhalten, zu verfolgen für Pflicht hielten. <lb/>Die durch
+                    den gefertigten Anschlag von einem Bauernhofe in <placeName key="ed_s3k_b12_gy">Taberlack</placeName> ausgemittelte Rente fällt aber, da sie mit der Rente
+                    der benachbarten Dorfschaften Stobben, Stawisken und <placeName key="ed_hrb_hc2_gy">Serwillen</placeName> und des Dorfs Pristanien, in
+                    welchem letzteren ein Bauernhof den wenigsten und schlechtesten Acker hat, in
+                    keinem Verhältnis steht, so sehr auf, dass die Stellvertreter sich zu ihrer
+                    eigenen Deckung gegen ihren Machtgeber veranlasst sehen, gegen den Betrag der
+                    Rente zu protestieren und auf Revision des Anschlags zu provozieren. <lb/>Dem
+                    mitunterzeichneten Bevollmächtigten, der <gap reason="illegible"/> zwanzig Jahre
+                    die Güter bewirtschaftet, ist die Qualität des Landes in Taberlack bekannt und
+                    er weiß es bestimmt, dass der Bauer in Taberlack wenn nicht besseres, so doch
+                    aber solch gutes Land hat als sein Nachbar in Stawisken und Stobben, so dass das
+                    Land in Taberlack bei besserer Bewirtschaftung zu einer weit höheren Kultur
+                    gebracht werden kann als in den benachbarten Dörfern, und dem ohngeachtet ist
+                    die Rente von einem Bauernhofe in Stobben von 54 Morgen 157 R, magdeburgisch
+                    Säland auf 39 Rtlr. 30 Gr., und die in Taberlack von 58 M. 87 R. magd. Säland
+                    nur 29 Rtlr. 19 Gr., und im Dorfe Pristanien, welches schlechteren Boden wie
+                    alle übrigen Dörfer hat, von 48 M. 19 R. 25 Rtlr. 34 Gr. festgestellt.
+                    <lb/>Keins von allen Bauerndörfern hat so viel <seg type="comment"><orig>Wiesewachs</orig><note xml:id="nu5r_ct5_xxb"><ref target="https://www.dwds.de/wb/dwb/wiesewachs">Wiesenland</ref></note></seg> als das Dorf Taberlack, da hier ein
+                    Bauernhof nach dem Anschlage 96 Zentn. Heu gewinnt, und der Heugewinnst bei den
+                    Bauernhöfen in den übrigen Dörfern zwischen 60 und 80 Zentnern zu stehen kommt.
+                    Dem ohngeachtet ist der Betrag vor der Viehzucht in Taberlack geringer als in
+                    Pristanien und Stawisken und nur ebenso hoch als in Stobben. Bei den letzten
+                    Dörfern ist auch der Heubedarf auf 1 Stück Großvieh 8 Zentn., dagegen bei
+                    Taberlack auf dasselbe 10 Zentn. angenommen, und so wenig die dem ohnerachtet
+                    überschießenden 8 2/3 Zentn. Heu als der zuviel berechnete Futterbedarf durch
+                    Berechnung der Nutzung für 1 Kuh mehr als bei den übrigen Dörfern in Anschlag
+                    gebracht. <lb/>Die Theorie der Landwirtschaft lehrt es und die Erfahrung
+                    bestätigt es, dass da, wo viel Heuschlag ist, viel Vieh gehalten werden kann,
+                    weil Mist gewonnen wird, und vom Acker mehr Ertrag zu erwarten steht als da, wo
+                    diese Verhältnisse nicht stattfinden, und dennoch ist der Körnerertrag in
+                    Taberlack weniger als in allen benachbarten Dörfern angenommen. <lb/>Unbekannt
+                    mit den Instruktionen der resp. Kommission wird diese abweichende
+                    Verfahrungsweise unsere Provokation auf Revision des Anschlags in Taberlack
+                    rechtfertigen.</p>
+                <p>Groß Steinort den 8. August 1818</p>
+                <p><persName key="ed_arb_4sq_cqb">Werner</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

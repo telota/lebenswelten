@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_wxg_zjp_3tb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Inspektor Berent berichtet über die Lage in Steinort, u. a. über fallende
+               Getreidepreise und die Verweigerung des Scharwerks. Steinort, 24. April 1817</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Regulierung der gutsherrlichen und bäuerlichen Verhältnisse</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Gutsbesitz/Ländliche Lebenswelt</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Bäuerlicher Alltag</p>
+            </note>
+            <note type="keyword"/>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>GStA PK</institution>
+                  <idno>XX. HA, Rep. 54 Gutsarchiv Lehndorff-Steinort, Nr. 865, n. f.</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_yx5_cbg_nbb">Berent, Friedrich August (1773-nach
+                        1852)</persName>
+               <placeName key="ed_pxt_cnh_1y">Steinort</placeName>
+               <date when="1817-04-24" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_k4z_jgl_2y">Lehndorff, Carl Friedrich Ludwig Christian Graf
+                        von (Königsberg, Haus am Roßgärter Markt 17.9.1770-Königsberg
+                        7.2.1854)</persName>
+            </correspAction>
+            <note>Nach Berents Zählung ist es Brief Nr. 6.</note>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_wxg_zjp_3tb"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>No. 6. Steinort, den 24. April 1817</dateline>
+               <salute>Gnädigster Herr Graf</salute>
+            </opener>
+            <p>Seit dem unterm 15. Februar d. J. aus <placeName key="ed_mzz_jfr_gbb">Sedan</placeName> datierten Brief habe ich von Hochdenenselben keinen erhalten,
+               ohnerachtet ich recht sehnlich auf Verhaltungsbefehl gewartet habe auf die in <ref target="lehndorff_x34_kjp_3tb">No. 4</ref> und <ref target="lehndorff_b3d_vjp_3tb">5</ref> gemachten Anfragen. Da ich bis jetzt also keinen weiteren Befehl
+               erhalten, so halte ich es für meine Pflicht, von dem Zustande der Güter den
+               schuldigen Rapport abzustatten. Keine großen bedeutenden Ereignisse haben sich in den
+               Gütern zugetragen. Die Witterung ist nicht allein sehr miserabel, sondern auch sehr
+               nachteilig. Schon am Ende März bis Mitte April war immer kalter Wind mit starken
+               Nachtfrösten, allein jetzt haben wir gewiss 10 Tage eine Kälte von 3 bis 4 Grad Frost
+               mit häufigem Schnee und starken Nordwinden gehabt. Die Wintersaat und der Klee haben
+               sehr gelitten, und wir müssen noch alles im Stall futtern, und die Wege, die schon
+               recht fahrbar waren, sind wieder gar nicht zu passieren. Bei den Bauern und
+               Instleuten in den Dörfern ist schon so manches Pferd und Kuh zu Schaden gekommen. Der
+               Schäferei in <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> bin ich mit
+               einigen <seg type="comment"><orig>Fuder</orig><note xml:id="ny1f_1qs_xxb">Ladung
+                     eines Ackerwagens</note></seg> Stroh und ein paar Fuder Heu zu Hilfe gekommen.
+               Jetzt aber kann ich nicht mehr, sie ist im schlechten Zustande. Indessen große
+               Verluste sind noch nicht gewesen. <seg type="comment"><orig>Unsere hiesige ist die da
+                     sind recht gut</orig><note xml:id="njly_jmh_hwb">Unklar. Gemeint ist die
+                     Schäferei.</note></seg>, und wir haben sehr schöne Lämmer, im ganzen sind 118
+               Stück. Die Pferde sind alle gesund. Stuten haben gefohlt. <gap reason="insignificant"/>
+               <lb/>Da ich keine Antwort wegen der Bedeckung der Stuten erhielt, so hat <persName key="ed_dlv_cjv_mbb">Herr von Farenheid</persName> diese Arrangements getroffen.
+               Ich musste auf seinen Befehl nach <placeName key="ed_efn_v5l_wcb">Trakehnen</placeName> zum Decken schicken die junge Normannische, die englische
+               Normannische, die 4-jährige schwarze vom Trompeter und Rosa, die alte Rose und die
+               große englische Fuchsstute. Den <persName key="ed_qp2_qmh_hwb">Fritz
+                  Puschke</persName> habe ich zur Wartung mitgeschickt <gap reason="insignificant"/>, den Carl habe ich zur Wartung nach <placeName key="ed_jng_zqk_wcb">Angerapp</placeName> mitgeschickt. Was mit den übrigen zu tun ist, erwarte ich
+               täglich Dero Befehl. <lb/>Das auffallendste ist, dass so sehr Sinken im Preis des
+               Getreides, da hat wohl unsere Gegend viele Tausende verloren, denn im Anfang Januar,
+               wie noch Weg war, hat keiner gedroschen, und hernach war keine Möglichkeit
+               hinzukommen. Das Getreide ist alles um die Hälfte heruntergegangen und selbsten hier
+               in unserer Gegend wird mancher Spekulant mit Branntwein und Korn ein armer Mann. Ich
+               habe zum Glück nicht viel aufgekauft, die K. Brauereien schenken den Stof Branntwein
+               schon wieder zu 16 Groschen, weil in <placeName key="ed_hz1_4wl_2y">Angerburg</placeName> der Scheffel Korn nur 1 Rtlr. 6 Gr. gilt. Der Weizen soll
+               noch in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> 10 Fl. gelten. Ich habe
+               noch 300 Schfl., mit denen will ich nach der Saat hinschicken, jetzt kann ich nicht,
+               denn der Bauer kann mit dem Angespann gar nichts und ich muss alles allein
+               bearbeiten. <lb/><seg type="comment"><orig>Einige Dörfer wie <placeName key="ed_ohv_kf2_gy">Pristanien</placeName> und <placeName key="ed_xpm_112_gy">Labab</placeName> haben mir das Scharwerk zu tun sich
+                     geweigert,</orig><note xml:id="nz4q_2qs_xxb">Siehe das Dokument vom <ref target="lehndorff_afr_2vc_nxb">10. Januar 1817</ref>.</note></seg> ich habe
+               aber auf gerichtliche Exekution angehalten. Die ersten sind so wie die letzten, auch
+               die Serwiller in <placeName key="ed_ysw_qr1_dy">Königsberg</placeName> gewesen, die
+               Lababer haben mich sogar in <placeName key="ed_hrk_5qf_cy">Gumbinnen</placeName> bei
+               der Regierung verklagt. Sterbe ich dieses Frühjahr nicht am Schlagfluss oder
+               Gallenfieber, dann lebe ich noch lange, nur bitte ich, gnädigster Herr Graf, erlösen
+               Sie mich von diesem Übel doch bald, denn ich setze es bei diesen Umständen nicht zu
+               Ihrem Vorteil durch, weil mir die Jugendkraft dazu fehlt. <lb/>Was in Ansehung des
+               Lehmbaus und des anzukaufenden Bocks Herr <persName key="ed_b4v_4ld_b2b">Schmalz</persName> vorgenommen hat, davon können sich Hochdieselben von ihm
+               selbsten überzeugen, <seg type="comment"><orig>indem ich seinen eigenen Brief
+                     einlege</orig><note xml:id="nx5b_mqs_xxb">Siehe dessen Brief vom <ref target="lehndorff_qkc_2kp_3tb">18. März 1817</ref>.</note></seg>. Überhaupt
+               wird es mit den <seg type="comment"><orig>Bauten</orig><note xml:id="ny2r_gcv_xxb">Siehe <ref target="lehndorff_bhs_ck4_ftb">hier</ref>.</note></seg> dieses Jahr
+               schlimm aussehen. Holz ist da, aber keine Ziegel, keine Steine, kein Sand, kein Kalk.
+               Ich habe wegen Kalk schon zweimal geschickt, allein bei dem schlechten Wege und
+               schlechtem Futter können und wollen sie nicht kommen. Jetzt habe ich endlich 30
+               Tonnen gekauft, muss aber 87 Fl. pro Tonne bezahlen. <lb/>Endlich habe ich die
+               Taxations-Akten vom <persName key="ed_sgc_2wf_2y">Leitner</persName> vorige Woche
+               erhalten. Die Diäten betragen 92 Rtlr. und die General-Landschaft hat 2.000 Rtlr.
+               wegen Kernbau und veranschlagte Höhe gestrichen und die Taxe inkl. allem auf 29.092
+               Rtlr. festgesetzt und mir den Auftrag gemacht, als Bevollmächtigter den Konsens von
+               der Regierung beizubringen wegen Versetzung der 7. Stawkenschen und 2.
+               Pristanienschen Bauern, bis dahin hat die Taxe keine Gültigkeit. Ich habe darüber
+               nichts geantwortet, werde auch nicht, denn Verpachten wird wohl nichts werden.
+               Pächter melden sich genug, finden aber die Bedingungen zu hart. <seg type="comment"><orig>Künftige Woche wird sich <persName key="ed_jkl_wph_hwb">General
+                        Bülow</persName> in <placeName key="ed_asn_jyz_ncb">Blaustein</placeName>
+                     mit seinen Bauern auseinandersetzen, man ist ganz neugierig, wie alles ablaufen
+                     wird.</orig><note xml:id="ncfg_xqs_xxb">Siehe APO,Bestand 1941
+                     Spezialkommission Rastenburg.</note></seg>
+               <lb/>Das <persName key="ed_fl1_lgs_lcb">Graf Schlieben</persName> von Gerdauen tot
+               ist, werden Sie wohl schon wissen. <lb/>Wegen der Lieferungsscheine habe ich mich
+               schon mit dem Bauern speziell durch <persName key="ed_afr_tvf_2y">Werner</persName>
+               und Kreisdirektorium auseinandersetzen lassen, wir haben noch einige hundert Taler
+               nachzuzahlen. Den Bauern will ich es aber nichts eher bekannt machen, bis ich weiß,
+               wie es jetzt ablaufen wird. </p>
+            <closer>
+               <salute>Mit allem Respekt geruhe mich zu empfehlen untertänigster</salute>
+               <signed>Berent</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

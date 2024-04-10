@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_isw_ncf_trb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Die Finckensteinschen Erbuntertanen anerkennen ihre Erbuntertänigkeit. Schönberg,
+               20. Juli 1790</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 385 Familienarchiv Finckenstein, Nr. 636, Bl. 20-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName>
+            <date when="1790-07-20" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://olsztyn.ap.gov.pl/baza/skany.php?z=385&amp;s=636"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Actum Schönberg den 20. Juli 1790</p>
+            <p>Bei der heutigen gerichtlich geschehenen Tradition dieser <placeName key="ed_z2w_q2s_kfb">Schönberg</placeName> und <placeName key="ed_jvm_rc3_3rb">Herzogswaldeschen</placeName> Güter an des Herrn Wirklichen Geheimen Etats- und
+               Kriegs-Ministers Obermarschall <persName key="ed_egt_tfg_fwb">Reichsgrafen von
+                  Dönhoff</persName> Exzellenz als Vormund des Herrn <persName key="ed_bwv_dyx_m2b">Friedrich Reichsgrafen von Finckenstein</persName> leisteten die in der
+               beiliegenden Nachweisung vom heutigen Dato namhaft gemachten Erbuntertanen dieser
+               Güter den Handschlag als eine an Eides statt getane Versicherung fernerer Treue für
+               die hiesige Gutsherrschaft, wobei nachbenannte <seg type="comment"><orig>glebae
+                     adscripti</orig><note xml:id="nvqg_1lf_vxb"><ref target="http://www.zeno.org/Meyers-1905/A/Glebae+adscripti">an die Scholle
+                        gebunden</ref></note></seg> anerkannten, dass sie Erbuntertanen dieser
+               benannten Güter sind und verbleiben; zu dessen Versicherung <seg type="comment"><orig>praevia praelectione et ratihabitione</orig><note xml:id="np5k_tlf_vxb">Vorlesung und Diskussion</note></seg> eines jeden Erbuntertanen, welcher die
+               Erbuntertänigkeit bei der Vernehmung anerkannte, eigenhändige Unterschrift
+               nachstehendermaßen verzeichnet wurde.</p>
+            <p>
+               <note type="editorial">Es folgen 38 Namen, alle zeichneten mit xxx.</note>
+            </p>
+            <p>Diese vorbenannte 38 Personen haben ihre Erbuntertänigkeit anerkannt und sich
+               eigenhändig unterschrieben. <lb/>Da einige dieser obbenannten Personen dem Deputato
+               nicht von Person bekannt waren, so wurden, ohnerachtet die Anerkennung der
+               Erbuntertänigkeit im Beisein aller obbemeldten geschah, der Administrator <persName key="ed_qwb_kc3_3rb">Neumann</persName> und vereideter Schulze <persName key="ed_ufh_qtm_vsb">Woyczechowski</persName> zugezogen, welcher letzterer als
+               vereideter <gap reason="illegible"/> auch die Erklärung derer polnisch sprechenden
+               interpretierte; der polnischen Sprache ist auch der <seg type="comment"><orig>Actuarius subscriptu</orig><note xml:id="nxjp_ylf_vxb">wie der Actuar
+                     versicherte</note></seg> gewachsen, praes. rat. subscript.</p>
+            <p>
+               <persName key="ed_zyh_cbn_vsb">Peter</persName>
+               <lb/>Deputatus des Schönbergschen Erbhauptamtes</p>
+            <p>
+               <persName key="ed_ufh_qtm_vsb">Johann Woyzechowski</persName>
+            </p>
+            <p>C. G. <persName key="ed_o2s_m5x_5sb">Moler</persName>
+               <lb/>Actuarius</p>
+            <p>
+               <persName key="ed_qwb_kc3_3rb">Neumann</persName>
+            </p>
+            <p>Auch wurden noch folgende glebae adscripti vorgelassen, welche gleichfalls
+                    eingestanden, dass sie Erbuntertanen dieser Güter sind, als</p>
+            <p>
+               <note type="editorial">Es folgen weitere 32 Namen, alle zeichneten mit
+                        xxx.</note>
+            </p>
+            <p>Vorbenannte 32 Personen haben auf Befragen wohlbedächtig erklärt, dass sie
+                    Erbuntertanen dieser Güter sind, zu dessen Versicherung sie sich auch
+                    eigenhändig vorstehendermaßen unterzeichnet haben.</p>
+            <p>Peter <lb/>Neumann <lb/>Woyczechowski <lb/>C. G. Moler</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter" xml:id="lehndorff_ajz_4w5_k5b" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Wilhelm von Hippel an den Kanzler Friedrich von Zander wegen der
+               Eigenbewirtschaftung von Wildenhof durch den Grafen von Schwerin. Königsberg, 29.
+               Oktober 1859</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Bäuerliche Lebenswelten-Varia</p>
+            </note>
+            <note type="keyword"> </note>
+            <note type="keyword"> </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="manuscript">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 1739 Adwokat von Hippel- Królewiec, Nr. 26, Bl. 110, Anlage Bl.
+                     111-115</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="ed_slx_3yr_yhb">Hippel, Wilhelm von (1823-1860)</persName>
+               <placeName key="ed_ysw_qr1_dy">Königsberg</placeName>
+               <date when="1859-10-29" cert="high"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="ed_rrv_ddh_mwb">Zander, Friedrich von (1791-1868)</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_ajz_4w5_k5b"/>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="writingSession">
+            <opener>
+               <dateline>Königsberg, den 29. Oktbr. 59</dateline>
+               <salute>Hochwohlgeborener Herr! <lb/>Hochverehrter Herr Kanzler!</salute>
+            </opener>
+            <p>Seit langer Zeit ist es der sehnlichste Wunsch des Herrn <persName key="ed_kkr_s2w_yxb">Grafen von Schwerin</persName> auf Wildenhof die eigenen
+               Bewirtschaftung des gedachten, zur Zeit an Herrn <persName key="ed_hzk_2fw_yxb">Schepke</persName> verpachteten Gutes zu übernehmen. Dieser Wunsch kann nur
+               erreicht werden, wenn Ew. Exzellenz denselben billigen und seine Durchführung
+               geneigtest unterstützen. <lb/>Herr Graf von Schwerin hat sich erlaubt, Ew. Exzellenz
+               darüber mündlichen Vortrag zu halten, und haben Sie ihn damals angewiesen, durch mich
+               ein Promemoria fertigen zu lassen, in diesem seinen Wunsch zu motivieren und
+               Vorschläge über die Art der Ausführung zu machen. <lb/>Demzufolge beehre ich mich,
+               Ew. Exzellenz das bezeichnete <seg type="comment"><orig>Promemoria</orig><note xml:id="nbkj_w2h_mwb">Liegt dem Schreiben bei, Bl. 111-115.</note></seg> in der
+               Anlage gehorsamst zu überreichen. Haben Sie die Gewogenheit, dasselbe Ihrer hohen
+               Prüfung zu unterwerfen und mich geneigtest zu bescheiden, ob Herr Graf von Schwerin
+               auf Ew. Exzellenz Billigung und Unterstützung, die er mit aufrichtigem Danke
+               anerkennen würde, rechnen darf. <lb/>Billigen Ew. Exzellenz das Projekt nicht, so
+               versteht es sich von selbst, dass Herr Graf von Schwerin davon abstehen wird, anderen
+               Falls würde ich sogleich die weiteren Schritte zu seiner Realisation tun und Ew.
+               Exzellenz nähere Anweisung darüber gewärtigen.</p>
+            <closer>
+               <salute>Ehrerbietigst Ew. Exzellenz ganz ergebenster</salute>
+               <signed/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

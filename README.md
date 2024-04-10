@@ -14,7 +14,8 @@ NOTE: These files were previously published in 2020 in the GitHub repository [le
 The files pertaining to this edition can be found in the folder `//dokumente/Gutsarchive2021`. 
 
 ### Joint Files
-The indexes found in `//Register` are used for **both** digital editions. 
+* The indexes found in `//Register` are used for **both** digital editions.
+* The joint schema (documents and indexes) can be found in `//Schema`
 
 ## Citations
 *Cite this repository via Zenodo*:

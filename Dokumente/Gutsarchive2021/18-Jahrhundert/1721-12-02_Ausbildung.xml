@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="lehndorff_sqx_yq2_4rb" type="baeuerliche-welt">
+   <teiHeader>
+      <fileDesc><titleStmt><title>Der Vormund des Christoph Dziondowski will diesen zur Schule schicken und
+                    ausbilden lassen. Reichertswalde, 2. Dezember 1721</title><editor><persName ref="https://orcid.org/0000-0001-9384-2028"><surname>Huch</surname><forename>Gaby</forename></persName></editor><respStmt><persName><forename>Bärbel</forename><surname>Holtz</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/project-administration/" from="2021" to="2023">Projektleiterin</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-9384-2028"><forename>Gaby</forename><surname>Huch</surname></persName><orgName ref="https://www.bbaw.de/">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Datenaquise</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenaufbereitung</resp><resp ref="https://credit.niso.org/contributor-roles/investigation/" from="2021" to="2023">Forschungsarbeit</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-8279-9298"><forename>Frederike</forename><surname>Neuber</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2021" to="2023">DH Koordination</resp><resp ref="https://credit.niso.org/contributor-roles/conceptualization/" from="2021" to="2023">Projektentwicklung und Konzeption</resp></respStmt><respStmt><persName ref="https://orcid.org/0009-0008-3678-9070"><forename>Ruth</forename><surname>Sander</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/methodology/" from="2021" to="2023">Datenmodellierung</resp><resp ref="https://credit.niso.org/contributor-roles/data-curation/" from="2021" to="2023">Datenqualitätsicherung</resp><resp ref="https://credit.niso.org/contributor-roles/software/" from="2021" to="2023">Digitale Entwicklung (Webseite, Anpassung der Arbeitsumgebung ediarum)</resp></respStmt><respStmt><persName ref="https://orcid.org/0000-0001-6587-3353"><forename>Lou</forename><surname>Klappenbach</surname></persName><orgName ref="https://www.bbaw.de/bbaw-digital/telota">Berlin-Brandenburgische Akademie der Wissenschaften (TELOTA)</orgName><resp ref="https://credit.niso.org/contributor-roles/supervision/" from="2023" to="2023">DH Koordination</resp></respStmt></titleStmt><editionStmt><edition><title>Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive. Bearbeitet von Gaby Huch. Berlin-Brandenburgische Akademie der Wissenschaften 2021-2023. URL: https://lebenswelten-lehndorff.bbaw.de</title></edition></editionStmt><publicationStmt><publisher><email>telota@bbaw.de</email><orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften</orgName><address><addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine><country>Germany</country></address></publisher><pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace><date type="publication">2021 ff.</date><availability><licence target="https://creativecommons.org/licenses/by/4.0"><p>Distributed under the Creative Commons Attribution 4.0</p></licence></availability></publicationStmt><notesStmt>
+            <note type="keyword">
+               <p>Kategorie: Gutsherrliche Pflichten</p>
+            </note>
+            <note type="keyword">
+               <p>Kategorie: Erbuntertänigkeit</p>
+            </note>
+            <note type="editorial">
+               <p>Siehe hierzu das Dokument vom <ref target="lehndorff_epz_5x2_4rb">20. Februar
+                     1711</ref>.</p>
+            </note>
+         </notesStmt><sourceDesc>
+            <msDesc rend="officialCopy">
+               <msIdentifier>
+                  <institution>APO</institution>
+                  <idno>Bestand 384 Familienarchiv Dohna, Nr. 7, Bl. 599-601</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc></fileDesc>
+      <profileDesc>
+         <creation>
+            <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName>
+            <date when="1721-12-02" cert="high"/>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://digilib.bbaw.de/digilib/jquery/digicat.html?fn=projects/lebenswelten/lehndorff_sqx_yq2_4rb"/>
+   </facsimile>
+   <text type="document">
+      <body>
+         <div>
+            <p>Nachdem der <gap reason="illegible"/>
+               <persName key="ed_bcs_syy_ssb">Christian Negelcke</persName> im Königl. Dorfe
+                  <placeName key="ed_qkj_pyy_ssb">Güldenboden</placeName> seiner Ehegattin
+               verstorbenen Bruders Sohn namens <persName key="ed_b2y_wcy_ssb">Christoph
+                  Dziondowski</persName>, welcher 12 Jahre alt und ein Reichertswaldescher
+               Erbuntertan ist, gegen ein von da empfangenen gewissen jährlichen Unterhalt bishero
+               hat erzogen und jetzo inständige Ansuchung getan, dass der Knabe noch 1 Jahr, und
+               also bis er 19 Jahr alt, unter seiner Disposition möchte gelassen werden, als ist
+               solches von Seiten der Hochburggräfl. Reichertswaldeschen gnädigen Herrschaft
+               verwilligt, und verspricht im Gegenteil der obbesagte Christian Negelcke und seine
+               Ehegattin, weilen sie keine leiblichen Kinder haben, dass sie aus sonderlicher
+               Zuneigung und Liebe zu diesem Knaben</p>
+            <p>1. denselben vor der Hand auf ihre Kosten wollen zur Schulen halten bis er fertig
+               lesen und notdürftig schreiben könne, daneben zur Gottesfurcht und allem Guten
+               angeführt werde, <lb/>2. wollen sie denselben bei einem tüchtigen Meister das
+               Schneiderhandwerk lernen lassen, und sowohl das Lehrgeld als die Gewerksunkosten vor
+               ihn entrichten, auch so lange, bis der Bursche sich selbsten was kann verdienen, mit
+               Kleidung, Weißzeug und anderer Notdurft versorgen, im Fall auch der Höchste Gott den
+               Christian Negelcken samt seiner Ehegattin oder einen von beiden in währenden 7 Jahren
+               mit Tode sollte abfordern, ist der bemeldten beiden Eheleuten eigentlicher Wille,
+               dass dieses Versprechen aus ihrer hinterlassenen Habseligkeit soll bewerkstelligt und
+               erfüllt werden; dahingegen wird,<lb/>3. dem Christian Negelcken die Kuh, so er vor
+               den Unmündigen Christoph Dziondowski Anno 1710 empfangen und jetzo zu extradieren
+               oder 18 Fl. davor zu zahlen schuldig wäre, zu eigen gelassen, und soll deshalb nimmer
+               nichts von ihm gefordert werden. <lb/>4. Wenn dann der besagte Christoph Dziondowski
+               das 19. Jahr wird abgelegt haben, verspricht der Christian Negelcke solchen mit
+               notdürftiger Kleidung und Weißzeug der Hochgräfl. Herrschaft nach <placeName key="ed_wgk_lxb_ydb">Reichertswalde</placeName> heimzuliefern, und zwar verbindet
+               sich <lb/>5. der Christian Negelcke mit aller seiner Habseligkeit vor den mehr
+               bemeldten Christoph Dziondowski zu stehen, dass solcher während der Zeit, so ihm
+               Gott das Leben fristet, nicht soll abwendig werden. Es ist auch verabredet, um mehrer
+               Sicherheit willen diesen Kontrakt im Königl. Amte <placeName key="ed_axg_z4t_sdb">Mohrungen</placeName> ingrossieren zu lassen.</p>
+            <p>So geschehen Reichertswalde den 2. Decembr. 1771</p>
+            <p>[Siegel] <seg type="comment">
+                  <orig>
+                     <persName key="ed_u2b_c2m_4pb">Christoph
+                                Erbgraf zu Dohna</persName>
+                  </orig>
+                  <note xml:id="nnvy_yv2_4rb">eigenhändig</note>
+               </seg>
+            </p>
+            <p>Bevorstehender schriftlicher Kontrakt ist auf bittliches Ansuchen dem Liebstädtschen
+               Amtshausbuch sub Nro. 3 fol. 163v 164 einverleibt und dergestalt judiciae gemacht;
+               welches unter meines Namens eigenhändiger Unterschrift und dem gewöhnlichen Königl.
+               Amtssiegel attestiere.</p>
+            <p>[Siegel] Liebstadt d. 28. Jan. 1722 E. <gap reason="illegible"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

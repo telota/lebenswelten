@@ -1,0 +1,29 @@
+message: "If you use this dataset, please cite it using the metadata in the CFF file."
+authors:
+  - family-names: Huch
+    given-names: Gaby
+    orcid: "https://orcid.org/0000-0001-9384-2028"
+ - family-names: Neuber
+    given-names: Frederike
+    orcid: "https://orcid.org/0000-0001-8279-9298"
+  - family-names: Dumont
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-6923-0950"
+  - family-names: Sander
+    given-names: Ruth
+    orcid: "https://orcid.org/0009-0008-3678-9070"
+
+title: telota/lebenswelten: Publication of XML/TEI-data of 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive
+date-released: "2024-04-10"
+version: 1.0.0
+identifiers:
+  - description: "Version 1.0.0 of the dataset"
+    type: doi
+    value: 
+repository-code: "https://github.com/telota/lebenswelten"
+license: CC-BY-SA-4.0
+url: "https://lebenswelten-digital.bbaw.de"
+contact:
+  - email: telota@bbaw.de
+    name: "TELOTA team"
+cff-version: 1.0.0

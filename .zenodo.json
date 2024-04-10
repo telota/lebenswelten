@@ -20,6 +20,7 @@
     "version":"1.0.0",
     "language":"german",
     "license": "CC BY 4.0",
+    "doi":"10.5281/zenodo.10955299",
     "title": "telota/lebenswelten: Publication of XML/TEI-data of 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive'",
 	"publication_date":"2024-04-10",
 	"description":"This dataset contains the XML/TEI-files (documents, indexes, and schema) from two digital editions: 'Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert' and 'Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive'. The digital editions are published under the joint name 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive'.",

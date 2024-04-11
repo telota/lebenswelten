@@ -18,7 +18,7 @@ The files pertaining to this edition can be found in the folder `//dokumente/Gut
 * The joint schema (documents and indexes) can be found in `//Schema`
 
 ## Citations
-*Cite this repository via Zenodo*: telota/lebenswelten: Publication of XML/TEI-data of 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive'. Bearbeitet von Gaby Huch, digitale Modellierung durch Frederike Neuber, Stefan Dumont und Ruth Sander. Berlin-Brandenburgische Akademie der Wissenschaften 2024. URL: https://lebenswelten-digital.bbaw.de
+*Cite this repository via Zenodo*: Gaby, H., Neuber, F., Dumont, S., & Sander, R. (2024). telota/lebenswelten: Publication of XML/TEI-data of 'Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive' (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10955299
 
 *DOI*: 10.5281/zenodo.10955299
 

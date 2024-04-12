@@ -1,6 +1,6 @@
 # lebenswelten-digital
 
-This Repository contains the XML/TEI-files from two digital editions: *Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert* and *Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive*. They are published on the joint platform [Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive](https://lebenswelten-digital.bbaw.de/).
+This repository contains the XML/TEI-files of two digital editions: *Lebenswelten, Erfahrungsräume und politische Horizonte der ostpreußischen Adelsfamilie Lehndorff vom 18. bis in das 20. Jahrhundert* and *Die Spiegelung neuzeitlich-bäuerlicher Lebenswelten in den Akten ostpreußischer Gutsarchive*. They are published on the joint platform [Adlige und bäuerliche Lebenswelten in den Akten ostpreußischer Gutsarchive](https://lebenswelten-digital.bbaw.de/).
 
 ## Information on the individual digital editions
 ### Adlige Lebenswelten
